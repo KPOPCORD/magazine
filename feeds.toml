@@ -46,7 +46,6 @@ titleSelector = "p.marginTop5.subtitle3.font500.lineLimit.line1"
 linkSelector = "a"
 imageSelector = "img.top.left.positionCenter"
 contentSelector = "p.marginTop10.itemSubtitle.lineLimit.line3"
-waitUntil = "networkidle"
 
 [playdb]
 title = "플레이DB ─ 매거진"
@@ -56,4 +55,3 @@ titleSelector = "strong a"
 linkSelector = "span.thumb a"
 imageSelector = "span.thumb a img"
 contentSelector = "span.txt"
-waitUntil = "networkidle"
