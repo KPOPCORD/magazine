@@ -6,3 +6,12 @@ titleSelector = "p.marginTop5.subtitle3.font500.lineLimit.line1"
 linkSelector = "a"
 imageSelector = "img.top.left.positionCenter"
 contentSelector = "p.marginTop10.itemSubtitle.lineLimit.line3"
+
+[bugs_musicpost]
+title = "벅스 ─ 뮤직포스트"
+url = "https://music.bugs.co.kr/musicpost"
+entrySelector = "ul.list.tileView.specialList li"
+titleSelector = "a.title.hyrend"
+linkSelector = "a"
+imageSelector = "a.thumbnail.hyrend img"
+contentSelector = "p.date time"
