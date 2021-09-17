@@ -1,0 +1,8 @@
+[indieground]
+title = "D:인디그라운드"
+url = "https://www.dailian.co.kr/search?shwords=D%3A%EC%9D%B8%EB%94%94%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C"
+entrySelector = "div[id='contentsArea'] div div.itemContainer div.wide1Box"
+titleSelector = "p.marginTop5.subtitle3.font500.lineLimit.line1"
+linkSelector = "a"
+imageSelector = "img.top.left.positionCenter"
+contentSelector = "p.marginTop10.itemSubtitle.lineLimit.line3"
