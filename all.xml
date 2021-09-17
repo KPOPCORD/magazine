@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Sep 2021 14:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 14:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -361,27 +361,6 @@ Zion.T, 비비(BIBI), Seori (VIBE ─ 매거진)]]></title>
             <pubDate>Fri, 17 Sep 2021 14:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.03]]></content:encoded>
             <enclosure url="https://vibe.naver.com/20210917180348_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[undefined (VIBE ─ 매거진)]]></title>
-            <link>https://KPOPCORD.github.io/magazine/all.xml</link>
-            <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 17 Sep 2021 14:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-50ca4834="" class="inner"><a data-v-50ca4834="" href="http://naver.me/55IFnnoI" target="_blank" rel="noopener noreferrer" class="link">VIBE앱 3.0 업데이트</a></span><!---->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[undefined (VIBE ─ 매거진)]]></title>
-            <link>https://KPOPCORD.github.io/magazine/all.xml</link>
-            <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 17 Sep 2021 14:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-50ca4834="" class="inner"><a data-v-50ca4834="" href="https://m.post.naver.com/viewer/postView.naver?volumeNo=32205623&amp;memberNo=42980762" target="_blank" rel="noopener noreferrer" class="link">VIBE 연도별 차트 오픈</a></span><!---->]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[undefined (VIBE ─ 매거진)]]></title>
-            <link>https://KPOPCORD.github.io/magazine/all.xml</link>
-            <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 17 Sep 2021 14:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-50ca4834="" class="inner"><a data-v-50ca4834="" href="http://naver.me/xZDnMowX" target="_blank" rel="noopener noreferrer" class="link">VIBE 선곡 큐레이터와 함께 듣는 파티룸!</a></span><!---->]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[D:인디그라운드(71)] 밴드 문없는집, 신스팝에 상상력 한 스푼 (D:인디그라운드)]]></title>
