@@ -27,6 +27,17 @@ contentSelector = "div.sub span.item:nth-child(1)"
 waitForSelector = "li.list_item"
 onFail = "stale"
 
+[vibe_top]
+title = "VIBE ─ 매거진"
+url = "https://vibe.naver.com/magazines"
+entrySelector = "div.link_wrap"
+titleSelector = "strong.title"
+linkSelector = "div.link_wrap a.link"
+imageSelector = "div.thumb img"
+contentSelector = "div.info"
+waitForSelector = "div.link_wrap"
+onFail = "stale"
+
 [indieground]
 title = "D:인디그라운드"
 url = "https://www.dailian.co.kr/search?shwords=D%3A%EC%9D%B8%EB%94%94%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C"
