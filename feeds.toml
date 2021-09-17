@@ -19,7 +19,7 @@ contentSelector = "div.info strong.category"
 [vibe]
 title = "VIBE ─ 매거진"
 url = "https://vibe.naver.com/magazines"
-entrySelector = "ul li.list_item"
+entrySelector = "ul.mag_list li.list_item"
 titleSelector = "a.title"
 linkSelector = "div.info a"
 imageSelector = "div.thumb img"
