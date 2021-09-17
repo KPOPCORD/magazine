@@ -6,6 +6,7 @@ titleSelector = "p.marginTop5.subtitle3.font500.lineLimit.line1"
 linkSelector = "a"
 imageSelector = "img.top.left.positionCenter"
 contentSelector = "p.marginTop10.itemSubtitle.lineLimit.line3"
+waitUntil = "networkidle"
 
 [bugs_musicpost]
 title = "벅스 ─ 뮤직포스트"
