@@ -15,3 +15,12 @@ titleSelector = "a[class^='title']"
 linkSelector = "a"
 imageSelector = "a.thumbnail.hyrend img"
 contentSelector = "a.category"
+
+[genie]
+title = "지니 ─ 매거진"
+url = "https://genie.co.kr/magazine"
+entrySelector = "div.list-normal ul.clearfix li"
+titleSelector = "p.title"
+linkSelector = "a"
+imageSelector = "div.cover img"
+contentSelector = "div.info strong.category"
