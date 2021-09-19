@@ -5,6 +5,7 @@ entrySelector = "ul.clr.news li"
 titleSelector = "div.txt span"
 linkSelector = "a"
 imageSelector = "div.img-con img"
+waitUntil = "networkidle"
 
 [bugs_musicpost]
 title = "벅스 ─ 뮤직포스트"
