@@ -6,7 +6,6 @@ titleSelector = "strong a"
 linkSelector = "span.thumb a"
 imageSelector = "span.thumb a img"
 contentSelector = "span.txt"
-waitForSelector = "div.list"
 
 [billboard_news]
 title = "빌보드 코리아 ─ 뉴스"
