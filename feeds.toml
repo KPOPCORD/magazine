@@ -6,6 +6,15 @@ titleSelector = "strong a"
 linkSelector = "span.thumb a"
 imageSelector = "span.thumb a img"
 contentSelector = "span.txt"
+waitForSelector = "div.list"
+
+[billboard_news]
+title = "빌보드 코리아 ─ 뉴스"
+url = "http://billboard.co.kr/main/news/list"
+entrySelector = "ul.clr.news li"
+titleSelector = "div.txt"
+linkSelector = "a"
+imageSelector = "div.img-con img"
 
 [bugs_musicpost]
 title = "벅스 ─ 뮤직포스트"
