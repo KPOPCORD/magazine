@@ -1,12 +1,3 @@
-[playdb]
-title = "플레이DB ─ 매거진"
-url = "http://www.playdb.co.kr/magazine/magazine_temp.asp?kindno=ALL"
-entrySelector = "div.list ul li"
-titleSelector = "strong a"
-linkSelector = "span.thumb a"
-imageSelector = "span.thumb a img"
-contentSelector = "span.txt"
-
 [billboard_news]
 title = "빌보드 코리아 ─ 뉴스"
 url = "http://billboard.co.kr/main/news/list"
