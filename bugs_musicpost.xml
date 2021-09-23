@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 08:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 10:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노라조 - '고민은 배송만 늦출 뿐' MV 촬영 현장 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/69VE9D6YBQPQQ629HXDD?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/69VE9D6YBQPQQ629HXDD?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 23 Sep 2021 10:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/69VE9D6YBQPQQ629HXDD/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jose Gonzalez(호세 곤잘레즈) - 북유럽 포크 씬을 견인하는 믿음직한 목소리]]></title>
             <link>https://music.bugs.co.kr/musicpost/8QAGR8FQNG03NKTLVPMJ?&amp;wl_ref=list_sp_01_h</link>
@@ -181,14 +189,6 @@
             <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7JZYTU2BA264KDBY9LZS/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식을 만나다 - 35. 거장의 마지막, 연주 인생에 찍는 마침표]]></title>
-            <link>https://music.bugs.co.kr/musicpost/IW3V7W4JS0TZFR2MXBDY?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/IW3V7W4JS0TZFR2MXBDY?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직포커스]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/IW3V7W4JS0TZFR2MXBDY/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
