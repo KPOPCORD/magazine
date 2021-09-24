@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 10:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 11:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집콕하며 듣기 좋은 노래들 : 
+애드리안 렌커, 코난 그레이]]></title>
+            <link>https://vibe.naver.com/magazines/53421</link>
+            <guid>https://vibe.naver.com/magazines/53421</guid>
+            <pubDate>Fri, 24 Sep 2021 11:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.17]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20210917_203/1631850531604qizsu_JPEG/0.jpeg?type=w720" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[추석 열차는 
 달리고 싶다]]></title>
@@ -32,7 +41,7 @@ ATEEZ(에이티즈)]]></title>
             <guid>https://vibe.naver.com/magazines/53067</guid>
             <pubDate>Thu, 23 Sep 2021 04:25:11 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.16]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20210914_136/1631609180180nEguY_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+            <enclosure url="https://vibe.naver.com/20210924153630_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[백예린의 
@@ -102,15 +111,6 @@ Zion.T, 비비(BIBI), Seori]]></title>
  talk time]]></title>
             <link>https://vibe.naver.com/magazines/52538</link>
             <guid>https://vibe.naver.com/magazines/52538</guid>
-            <pubDate>Thu, 23 Sep 2021 04:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.03]]></content:encoded>
-            <enclosure url="https://vibe.naver.com/20210924153630_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Billboard HOT 100 : 
-18세 소년의 생애 첫 1위]]></title>
-            <link>https://vibe.naver.com/magazines/52661</link>
-            <guid>https://vibe.naver.com/magazines/52661</guid>
             <pubDate>Thu, 23 Sep 2021 04:25:11 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.03]]></content:encoded>
             <enclosure url="https://vibe.naver.com/20210924153630_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
