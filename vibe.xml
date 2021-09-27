@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 09:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 10:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리는 모두 드레이크의
+시대에 살고 있다]]></title>
+            <link>https://vibe.naver.com/magazines/53625</link>
+            <guid>https://vibe.naver.com/magazines/53625</guid>
+            <pubDate>Mon, 27 Sep 2021 10:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.24]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20210924_183/1632465141801SDujR_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[집콕하며 듣기 좋은 노래들 : 
 애드리안 렌커, 코난 그레이]]></title>
@@ -32,7 +41,7 @@ ATEEZ(에이티즈)]]></title>
             <guid>https://vibe.naver.com/magazines/53343</guid>
             <pubDate>Sun, 26 Sep 2021 16:27:23 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.17]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20210924_52/1632469203191uOxiJ_JPEG/%BF%A1%C0%CC%C6%BC%C1%EE.jpg?type=w720" length="0" type="image/jpg"/>
+            <enclosure url="https://vibe.naver.com/20210924153630_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[예, 이것은
@@ -104,15 +113,6 @@ Zion.T, 비비(BIBI), Seori]]></title>
             <guid>https://vibe.naver.com/magazines/52707</guid>
             <pubDate>Sun, 26 Sep 2021 16:27:23 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.06]]></content:encoded>
-            <enclosure url="https://vibe.naver.com/20210924153630_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[프로미스나인
- talk time]]></title>
-            <link>https://vibe.naver.com/magazines/52538</link>
-            <guid>https://vibe.naver.com/magazines/52538</guid>
-            <pubDate>Sun, 26 Sep 2021 16:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.03]]></content:encoded>
             <enclosure url="https://vibe.naver.com/20210924153630_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
     </channel>
