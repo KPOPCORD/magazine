@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 08:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 09:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 4주 연속 1위]]></title>
+            <link>http://billboard.co.kr/main/news/view/702</link>
+            <guid>http://billboard.co.kr/main/news/view/702</guid>
+            <pubDate>Tue, 28 Sep 2021 09:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/702">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20210928181224_11.png" alt="이무진 ‘신호등’, 빌보드 케이팝 100 차트 4주 연속 1위" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>이무진 ‘신호등’, 빌보드 케이팝 100 차트 4주 연속 1위</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210928181224_11.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 3주 연속 1위]]></title>
             <link>http://billboard.co.kr/main/news/view/700</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210824190737_7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[DIGGING SPOT] #1 텔레비전레코드바]]></title>
-            <link>http://billboard.co.kr/main/news/view/691</link>
-            <guid>http://billboard.co.kr/main/news/view/691</guid>
-            <pubDate>Sun, 19 Sep 2021 19:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/691">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/B_1_1_691.jpg" alt="[DIGGING SPOT] #1 텔레비전레코드바" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>[DIGGING SPOT] #1 텔레비전레코드바</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/B_1_1_691.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

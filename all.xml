@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 08:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 09:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 4주 연속 1위 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/702</link>
+            <guid>http://billboard.co.kr/main/news/view/702</guid>
+            <pubDate>Tue, 28 Sep 2021 09:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/702">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20210928181224_11.png" alt="이무진 ‘신호등’, 빌보드 케이팝 100 차트 4주 연속 1위" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>이무진 ‘신호등’, 빌보드 케이팝 100 차트 4주 연속 1위</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210928181224_11.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 3주 연속 1위 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/700</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210824190737_7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[DIGGING SPOT] #1 텔레비전레코드바 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/691</link>
-            <guid>http://billboard.co.kr/main/news/view/691</guid>
-            <pubDate>Sun, 19 Sep 2021 19:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/691">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/B_1_1_691.jpg" alt="[DIGGING SPOT] #1 텔레비전레코드바" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>[DIGGING SPOT] #1 텔레비전레코드바</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/B_1_1_691.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노라조 - '고민은 배송만 늦출 뿐' MV 촬영 현장 공개 (벅스 ─ 뮤직포스트)]]></title>
@@ -362,6 +362,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7JZYTU2BA264KDBY9LZS/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[THAMA 첫 번째 정규 앨범 [DON’T DIE COLORS] 발매 기념 인... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10848&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10848&amp;pg=1</guid>
+            <pubDate>Tue, 28 Sep 2021 09:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10848/Mgz_Main_List_20210928110155.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[안드레아 보첼리의 센트럴 파크 공연 10주년을 기념하며! (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=10847&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=10847&amp;pg=1</guid>
@@ -416,14 +424,6 @@
             <pubDate>Mon, 27 Sep 2021 09:19:09 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10839/Mgz_Main_List_20210927162115.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서 즐기는 비장의 레시피! 도서 〈히데코의 연희동 요리교실〉 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=37&amp;mgz_seq=10841&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=37&amp;mgz_seq=10841&amp;pg=1</guid>
-            <pubDate>Mon, 27 Sep 2021 03:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[책과 음악이 있는 공간]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10841/Mgz_Main_List_20210927113759.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #60 : 
@@ -538,7 +538,7 @@ Zion.T, 비비(BIBI), Seori (VIBE ─ 매거진)]]></title>
 더 키드 라로이 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 28 Sep 2021 08:22:38 GMT</pubDate>
+            <pubDate>Tue, 28 Sep 2021 09:18:20 GMT</pubDate>
             <content:encoded><![CDATA[대형 아티스트들의 컴백으로 숨 가쁘게 돌아가는 요즘의 차트. 그 속에서도 자리를 꾸준히 지키고 있는 음악가가 한 명 있으니. 바로 호주의 래퍼 더 키드 라로이다. 더 키드 라로이는 팝 펑크 음악으로 국내 음원 사이트 차트는 물론, 해외의 빌보드 HOT 차트 1위를 거머쥐며 요즘 세대의 아이콘으로 떠오르고 있다. 이 주의 디깅에서는 더 키드 라로이와 함께 요즘 유행인 팝 펑크 음악들을 쭉 훑어보도록 하자. – 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20210923_284/1632383682451M5X7W_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
