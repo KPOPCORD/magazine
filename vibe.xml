@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 10:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 11:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무엇이든 물어보세요 : 
+AB6IX(에이비식스)]]></title>
+            <link>https://vibe.naver.com/magazines/53792</link>
+            <guid>https://vibe.naver.com/magazines/53792</guid>
+            <pubDate>Wed, 29 Sep 2021 11:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.29]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20210929_61/1632885334503l3Rk6_JPEG/VIBE_%B9%E8%B3%CA_%C0%CC%B9%CC%C1%F6_%28AB6IX%29.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #118 
 더 키드 라로이]]></title>
@@ -32,7 +41,7 @@
             <guid>https://vibe.naver.com/magazines/53625</guid>
             <pubDate>Tue, 28 Sep 2021 03:27:26 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.24]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20210924_183/1632465141801SDujR_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+            <enclosure url="https://vibe.naver.com/20210929153447_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[집콕하며 듣기 좋은 노래들 : 
@@ -104,15 +113,6 @@ ATEEZ(에이티즈)]]></title>
             <guid>https://vibe.naver.com/magazines/52880</guid>
             <pubDate>Tue, 28 Sep 2021 03:27:26 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.09]]></content:encoded>
-            <enclosure url="https://vibe.naver.com/20210929153447_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<샹치> OST로 듣는 
-Zion.T, 비비(BIBI), Seori]]></title>
-            <link>https://vibe.naver.com/magazines/52800</link>
-            <guid>https://vibe.naver.com/magazines/52800</guid>
-            <pubDate>Tue, 28 Sep 2021 03:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.08]]></content:encoded>
             <enclosure url="https://vibe.naver.com/20210929153447_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
     </channel>
