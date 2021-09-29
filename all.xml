@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 08:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 09:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -362,6 +362,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7JZYTU2BA264KDBY9LZS/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[밴드 '다브다 (Dabda)'의 [정글짐] 발매 기념 인터뷰 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10855&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10855&amp;pg=1</guid>
+            <pubDate>Wed, 29 Sep 2021 09:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10855/Mgz_Main_List_20210929115835.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[E’LAST '악연(Dark Dream)' 재킷 촬영 현장 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10851&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10851&amp;pg=1</guid>
+            <pubDate>Wed, 29 Sep 2021 09:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10851/Mgz_Main_List_20210929152440.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[회색빛 도심 속의 휴식, '나루' [Grayed Out] MV 촬영기 & 인터... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10854&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10854&amp;pg=1</guid>
@@ -410,20 +426,13 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10846/Mgz_Main_List_20210927171803.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[천단비 & IN THE CITY [PLAYBACK 3 '한 걸음 더'] 발매 ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10852&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10852&amp;pg=1</guid>
-            <pubDate>Tue, 28 Sep 2021 03:27:20 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10852/Mgz_Main_List_20210928111705.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송라이터 류석원 싱글 [선영과 진우] 작업기 & MV 촬영기 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10846&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10846&amp;pg=1</guid>
-            <pubDate>Tue, 28 Sep 2021 03:27:20 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10846/Mgz_Main_List_20210928113449.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+            <title><![CDATA[이주의 디깅 #118 
+더 키드 라로이 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/53553</link>
+            <guid>https://vibe.naver.com/magazines/53553</guid>
+            <pubDate>Wed, 29 Sep 2021 09:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.28]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20210923_284/1632383682451M5X7W_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Release #60 : 
@@ -450,7 +459,7 @@
             <guid>https://vibe.naver.com/magazines/53421</guid>
             <pubDate>Tue, 28 Sep 2021 03:27:26 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.17]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20210917_203/1631850531604qizsu_JPEG/0.jpeg?type=w720" length="0" type="image/jpeg"/>
+            <enclosure url="https://vibe.naver.com/20210929153447_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[추석 열차는 
@@ -525,22 +534,13 @@ Zion.T, 비비(BIBI), Seori (VIBE ─ 매거진)]]></title>
             <enclosure url="https://vibe.naver.com/20210929153447_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[9월의 느낌, 
-당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/52761</link>
-            <guid>https://vibe.naver.com/magazines/52761</guid>
-            <pubDate>Tue, 28 Sep 2021 03:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.07]]></content:encoded>
-            <enclosure url="https://vibe.naver.com/20210929153447_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이주의 디깅 #118 
-더 키드 라로이 (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[무엇이든 물어보세요 : 
+AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 29 Sep 2021 08:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[대형 아티스트들의 컴백으로 숨 가쁘게 돌아가는 요즘의 차트. 그 속에서도 자리를 꾸준히 지키고 있는 음악가가 한 명 있으니. 바로 호주의 래퍼 더 키드 라로이다. 더 키드 라로이는 팝 펑크 음악으로 국내 음원 사이트 차트는 물론, 해외의 빌보드 HOT 차트 1위를 거머쥐며 요즘 세대의 아이콘으로 떠오르고 있다. 이 주의 디깅에서는 더 키드 라로이와 함께 요즘 유행인 팝 펑크 음악들을 쭉 훑어보도록 하자. – 인스]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20210923_284/1632383682451M5X7W_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+            <pubDate>Wed, 29 Sep 2021 09:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 제5탄! 비비드한 컬러 수트와 청순한 교복을 넘나들며 폭넓은 콘셉트 소화력을 보여준 AB6IX가 약 2년 만에 두 번째 정규 앨범을 선보였습니다. 정말 오랜만이기에 더욱 설레는 질문 타임! 그들의 재치 넘치는 답변을 함께 만나볼까요?]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20210929_48/1632885377684zy3wW_JPEG/VIBE_%B9%E8%B3%CA_%C0%CC%B9%CC%C1%F6_%28AB6IX%29_%BA%B9%BB%E7%BA%BB.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
