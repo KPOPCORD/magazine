@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 01:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 02:32:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -25,6 +25,25 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210928181224_11.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[솔로 데뷔한 리사의 빌보드 차트 기록 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/703</link>
+            <guid>http://billboard.co.kr/main/news/view/703</guid>
+            <pubDate>Thu, 30 Sep 2021 02:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/703">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20210929175502_0.jpg" alt="솔로 데뷔한 리사의 빌보드 차트 기록" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>솔로 데뷔한 리사의 빌보드 차트 기록</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210929175502_0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 3주 연속 1위 (빌보드 코리아 ─ 뉴스)]]></title>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210831181013_13.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[악뮤 ‘낙하’, 빌보드 케이팝 100 차트 3주 연속 1위 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/692</link>
-            <guid>http://billboard.co.kr/main/news/view/692</guid>
-            <pubDate>Sun, 19 Sep 2021 19:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/692">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20210824190737_7.png" alt="악뮤 ‘낙하’, 빌보드 케이팝 100 차트 3주 연속 1위" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>악뮤 ‘낙하’, 빌보드 케이팝 100 차트 3주 연속 1위</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210824190737_7.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[노라조 - '고민은 배송만 늦출 뿐' MV 촬영 현장 공개 (벅스 ─ 뮤직포스트)]]></title>
@@ -538,7 +538,7 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
 이하이 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 30 Sep 2021 01:06:13 GMT</pubDate>
+            <pubDate>Thu, 30 Sep 2021 02:32:30 GMT</pubDate>
             <content:encoded><![CDATA[마침내 이하이가 돌아왔다. 정규 앨범으로서는 무려 5년 만이다. 이하이는 이날 &lt;#outnow&gt;를 통해  새 앨범 전곡 라이브 공연을 최초로 선보인 건 물론 앨범 비하인드 스토리까지 공개하며 오래 기다린 팬들에게 값진 선물과도 같은 시간을 선사했다. 지난해 발매된 싱글 &lt;홀로&gt;가 혼자라도 괜찮다는 위로로 귀를 적셔주었다면, 세 번째 정규 앨범 &lt;4 ONLY&gt;는 아티스트 이하이 그 자체로 온갖 감정이 들게 만든다. 이하이는 &lt;4 ONLY&gt;를 품고 깊이가 더해져 돌아왔다. – 글 주현욱, 포토 이승훈]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20210929_54/1632894877395AxAsL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>

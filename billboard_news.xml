@@ -4,7 +4,7 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 01:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 02:32:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -25,6 +25,25 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210928181224_11.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[솔로 데뷔한 리사의 빌보드 차트 기록]]></title>
+            <link>http://billboard.co.kr/main/news/view/703</link>
+            <guid>http://billboard.co.kr/main/news/view/703</guid>
+            <pubDate>Thu, 30 Sep 2021 02:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/703">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20210929175502_0.jpg" alt="솔로 데뷔한 리사의 빌보드 차트 기록" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>솔로 데뷔한 리사의 빌보드 차트 기록</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210929175502_0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 3주 연속 1위]]></title>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210831181013_13.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[악뮤 ‘낙하’, 빌보드 케이팝 100 차트 3주 연속 1위]]></title>
-            <link>http://billboard.co.kr/main/news/view/692</link>
-            <guid>http://billboard.co.kr/main/news/view/692</guid>
-            <pubDate>Sun, 19 Sep 2021 19:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/692">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20210824190737_7.png" alt="악뮤 ‘낙하’, 빌보드 케이팝 100 차트 3주 연속 1위" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>악뮤 ‘낙하’, 빌보드 케이팝 100 차트 3주 연속 1위</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210824190737_7.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
