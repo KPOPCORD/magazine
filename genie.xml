@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 05:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 06:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시즌10으로 돌아온 ＜SHOW ME THE MONEY 10＞]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=10873&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=10873&amp;pg=1</guid>
+            <pubDate>Fri, 01 Oct 2021 06:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[방송]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10873/Mgz_Main_List_20211001105159.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[지니 컬러 동향 ＃25 – 2021.09.11 ~ 09.24 발매작]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=10872&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Sep 2021 06:22:48 GMT</pubDate>
             <content:encoded><![CDATA[김김박김]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10865/Mgz_Main_List_20210930142820.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[거친 음질이 주는 매력, 옛 거장들의 음악은 어떤 느낌일까?]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=10864&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=10864&amp;pg=1</guid>
-            <pubDate>Thu, 30 Sep 2021 03:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10863/Mgz_Main_List_20210930113755.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>

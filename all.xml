@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 05:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 06:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -362,6 +362,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7JZYTU2BA264KDBY9LZS/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[시즌10으로 돌아온 ＜SHOW ME THE MONEY 10＞ (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=10873&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=10873&amp;pg=1</guid>
+            <pubDate>Fri, 01 Oct 2021 06:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[방송]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10873/Mgz_Main_List_20211001105159.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[지니 컬러 동향 ＃25 – 2021.09.11 ~ 09.24 발매작 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=10872&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=10872&amp;pg=1</guid>
@@ -416,14 +424,6 @@
             <pubDate>Thu, 30 Sep 2021 06:22:48 GMT</pubDate>
             <content:encoded><![CDATA[김김박김]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10865/Mgz_Main_List_20210930142820.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[거친 음질이 주는 매력, 옛 거장들의 음악은 어떤 느낌일까? (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=10864&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=10864&amp;pg=1</guid>
-            <pubDate>Thu, 30 Sep 2021 03:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10863/Mgz_Main_List_20210930113755.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[무엇이든 물어보세요 : 
@@ -538,7 +538,7 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
 이하이 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 01 Oct 2021 05:17:49 GMT</pubDate>
+            <pubDate>Fri, 01 Oct 2021 06:23:09 GMT</pubDate>
             <content:encoded><![CDATA[마침내 이하이가 돌아왔다. 정규 앨범으로서는 무려 5년 만이다. 이하이는 이날 &lt;#outnow&gt;를 통해  새 앨범 전곡 라이브 공연을 최초로 선보인 건 물론 앨범 비하인드 스토리까지 공개하며 오래 기다린 팬들에게 값진 선물과도 같은 시간을 선사했다. 지난해 발매된 싱글 &lt;홀로&gt;가 혼자라도 괜찮다는 위로로 귀를 적셔주었다면, 세 번째 정규 앨범 &lt;4 ONLY&gt;는 아티스트 이하이 그 자체로 온갖 감정이 들게 만든다. 이하이는 &lt;4 ONLY&gt;를 품고 깊이가 더해져 돌아왔다. – 글 주현욱, 포토 이승훈]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20210929_54/1632894877395AxAsL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
