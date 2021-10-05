@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 08:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 09:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌보드 케이팝 100, 이무진 ‘신호등’ 5주 1위 & 멜로망스의 첫 톱 10 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/708</link>
+            <guid>http://billboard.co.kr/main/news/view/708</guid>
+            <pubDate>Tue, 05 Oct 2021 09:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/708">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211005175130_1.png" alt="빌보드 케이팝 100, 이무진 ‘신호등’ 5주 1위 &amp; 멜로망스의 첫 톱 10" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>빌보드 케이팝 100, 이무진 ‘신호등’ 5주 1위 &amp; 멜로망스의 첫 톱 10</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211005175130_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 4주 연속 1위 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/702</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210907120222_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보드 케이팝 100, 악뮤 ‘낙하’ 4주 연속 1위 & 레드벨벳, 전소미 톱 10 진입 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/693</link>
-            <guid>http://billboard.co.kr/main/news/view/693</guid>
-            <pubDate>Sun, 19 Sep 2021 19:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/693">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20210831181013_13.png" alt="빌보드 케이팝 100, 악뮤 ‘낙하’ 4주 연속 1위 &amp; 레드벨벳, 전소미 톱 10 진입" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>빌보드 케이팝 100, 악뮤 ‘낙하’ 4주 연속 1위 &amp; 레드벨벳, 전소미 톱 10 진입</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210831181013_13.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[노라조 - '고민은 배송만 늦출 뿐' MV 촬영 현장 공개 (벅스 ─ 뮤직포스트)]]></title>
@@ -362,6 +362,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7JZYTU2BA264KDBY9LZS/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“두고 봐 난 좀 Savage” 글로벌 대세 aespa의 첫 미니 앨범 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10871&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10871&amp;pg=1</guid>
+            <pubDate>Tue, 05 Oct 2021 09:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10871/Mgz_Main_List_20211001094114.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑이란 감정을 'WOODZ'만의 감성으로 노래한 [ONLY LOVERS LE... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10866&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10866&amp;pg=1</guid>
+            <pubDate>Tue, 05 Oct 2021 09:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10866/Mgz_Main_List_20211005093445.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[OST PICK! ＃47 - 같은 뮤지컬 영화, 다른 분위기 [디어 에반 핸슨... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=10879&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=10879&amp;pg=1</guid>
@@ -408,22 +424,6 @@
             <pubDate>Fri, 01 Oct 2021 09:18:55 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10868/Mgz_Main_List_20211001153417.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[시즌10으로 돌아온 ＜SHOW ME THE MONEY 10＞ (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=10873&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=10873&amp;pg=1</guid>
-            <pubDate>Fri, 01 Oct 2021 06:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[방송]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10873/Mgz_Main_List_20211001105159.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[지니 컬러 동향 ＃25 – 2021.09.11 ~ 09.24 발매작 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=10872&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=10872&amp;pg=1</guid>
-            <pubDate>Fri, 01 Oct 2021 03:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[지니 컬러 동향]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10871/Mgz_Main_List_20211001103405.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[여러 가지 색, 
@@ -538,7 +538,7 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
 AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 05 Oct 2021 08:23:42 GMT</pubDate>
+            <pubDate>Tue, 05 Oct 2021 09:19:06 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 제5탄! 비비드한 컬러 수트와 청순한 교복을 넘나들며 폭넓은 콘셉트 소화력을 보여준 AB6IX가 약 2년 만에 두 번째 정규 앨범을 선보였습니다. 정말 오랜만이기에 더욱 설레는 질문 타임! 그들의 재치 넘치는 답변을 함께 만나볼까요?]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20210929_48/1632885377684zy3wW_JPEG/VIBE_%B9%E8%B3%CA_%C0%CC%B9%CC%C1%F6_%28AB6IX%29_%BA%B9%BB%E7%BA%BB.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
