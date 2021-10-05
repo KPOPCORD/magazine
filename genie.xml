@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 05:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 06:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST PICK! ＃47 - 같은 뮤지컬 영화, 다른 분위기 [디어 에반 핸슨...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=10879&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=10879&amp;pg=1</guid>
+            <pubDate>Tue, 05 Oct 2021 06:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[OST PICK]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10879/Mgz_Main_List_20211005150135.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[피아노에 의한, 피아노를 위한: 이루마 데뷔 20주년 기념 앨범 [SOLO]]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=10878&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 03:20:15 GMT</pubDate>
             <content:encoded><![CDATA[지니 컬러 동향]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10871/Mgz_Main_List_20211001103405.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[알앤비 레전드 ＃8 - 멈추지 않는 디스코 사운드, 시크]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=10870&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=10870&amp;pg=1</guid>
-            <pubDate>Fri, 01 Oct 2021 03:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[힙알사전]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10870/Mgz_Main_List_20211001112301.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
