@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 03:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 04:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무엇이든 물어보세요 : 
+AB6IX(에이비식스)]]></title>
+            <link>https://vibe.naver.com/magazines/53792</link>
+            <guid>https://vibe.naver.com/magazines/53792</guid>
+            <pubDate>Wed, 06 Oct 2021 04:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.29]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20210929_61/1632885334503l3Rk6_JPEG/VIBE_%B9%E8%B3%CA_%C0%CC%B9%CC%C1%F6_%28AB6IX%29.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여러 가지 색, 
 이하이]]></title>
@@ -32,7 +41,7 @@
             <guid>https://vibe.naver.com/magazines/53670</guid>
             <pubDate>Tue, 05 Oct 2021 07:18:49 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.27]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20210927_159/1632728942097KFFQv_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+            <enclosure url="https://vibe.naver.com/20210930152307_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우리는 모두 드레이크의
@@ -104,15 +113,6 @@ ATEEZ(에이티즈)]]></title>
             <guid>https://vibe.naver.com/magazines/53005</guid>
             <pubDate>Tue, 05 Oct 2021 07:18:49 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.13]]></content:encoded>
-            <enclosure url="https://vibe.naver.com/20210930152307_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[눈 부신 밤 하늘 아래 
-<슬기.zip>]]></title>
-            <link>https://vibe.naver.com/magazines/52880</link>
-            <guid>https://vibe.naver.com/magazines/52880</guid>
-            <pubDate>Tue, 05 Oct 2021 07:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.09]]></content:encoded>
             <enclosure url="https://vibe.naver.com/20210930152307_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
     </channel>
