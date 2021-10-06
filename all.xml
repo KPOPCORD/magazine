@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 08:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 09:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210907120222_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[블리처스 (BLITZERS) - 실수 좀 하면 어때? 누구나 하는건데! [SEAT-BELT] (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/05FK8EGMPOZPMZMERE2L?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/05FK8EGMPOZPMZMERE2L?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 06 Oct 2021 09:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/05FK8EGMPOZPMZMERE2L/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노라조 - '고민은 배송만 늦출 뿐' MV 촬영 현장 공개 (벅스 ─ 뮤직포스트)]]></title>
@@ -354,12 +362,36 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ZUAH3OLB7QELURLK9P5S/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[GHOST9 - '밤샜다(Up All Night)' 자켓 촬영 현장 공개 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/7JZYTU2BA264KDBY9LZS?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/7JZYTU2BA264KDBY9LZS?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7JZYTU2BA264KDBY9LZS/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[“실수 좀 할게” 외치며, 블리처스 [SEAT-BELT] 장착! (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10888&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10888&amp;pg=1</guid>
+            <pubDate>Wed, 06 Oct 2021 09:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10887/Mgz_Main_List_20211006155513.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[옥상달빛의 Digital Single ‘푸른밤’ 작업기 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10886&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10886&amp;pg=1</guid>
+            <pubDate>Wed, 06 Oct 2021 09:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10886/Mgz_Main_List_20211006172702.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[Michael Carreon, 더 이상의 기다림은 [Goodbye] MV촬영 ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10882&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10882&amp;pg=1</guid>
+            <pubDate>Wed, 06 Oct 2021 09:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10882/Mgz_Main_List_20211006152303.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[힙합 따라잡기 ＃47 [DONDA]는 업데이트 중 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=10889&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=10889&amp;pg=1</guid>
+            <pubDate>Wed, 06 Oct 2021 09:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10889/Mgz_Main_List_20211006172736.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[코로나19 팬데믹의 한계를 넘어 굳건히! 〈펜타포트 락 페스티벌 2021〉 (지니 ─ 매거진)]]></title>
@@ -392,38 +424,6 @@
             <pubDate>Wed, 06 Oct 2021 03:20:01 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10880/Mgz_Main_List_20211006100655.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[솔직하고 유쾌한 건강과 인생 이야기, 〈내 이웃집 의사 친구, 닥터프렌즈〉 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=37&amp;mgz_seq=10874&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=37&amp;mgz_seq=10874&amp;pg=1</guid>
-            <pubDate>Wed, 06 Oct 2021 03:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[책과 음악이 있는 공간]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10874/Mgz_Main_List_20211006112723.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[“두고 봐 난 좀 Savage” 글로벌 대세 aespa의 첫 미니 앨범 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10871&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10871&amp;pg=1</guid>
-            <pubDate>Tue, 05 Oct 2021 09:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10871/Mgz_Main_List_20211001094114.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑이란 감정을 'WOODZ'만의 감성으로 노래한 [ONLY LOVERS LE... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10866&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10866&amp;pg=1</guid>
-            <pubDate>Tue, 05 Oct 2021 09:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10866/Mgz_Main_List_20211005093445.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[OST PICK! ＃47 - 같은 뮤지컬 영화, 다른 분위기 [디어 에반 핸슨... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=10879&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=10879&amp;pg=1</guid>
-            <pubDate>Tue, 05 Oct 2021 06:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[OST PICK]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10879/Mgz_Main_List_20211005150135.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[무엇이든 물어보세요 : 
@@ -538,7 +538,7 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
 이하이 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 06 Oct 2021 08:22:30 GMT</pubDate>
+            <pubDate>Wed, 06 Oct 2021 09:19:10 GMT</pubDate>
             <content:encoded><![CDATA[탁월한 가창력과 소울풀한 음색으로 10대의 나이에 이미 대중을 사로잡은 가수 이하이가 무려 5년의 공백을 깨고 정규 3집 &lt;4 ONLY&gt;와 함께 돌아왔다. 사랑의 여러 가지 모습을 담아낸 이번 앨범과 함께 그 어느 때보다도 활발하게 자신의 매력을 발산 중인 이하이의 발걸음은 상상 이상으로 묵직하다. 기다림이 길었던 만큼 더 반가운, 아니 더 놀라운 그 목소리에 주목해보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20210928_192/1632791799513lOVlS_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
