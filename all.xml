@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 01:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 02:32:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,13 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210907120222_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한글날 특집! 한 편의 시를 닮은 한글 가사 앨범 7 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/B8PEB2AZNZGC6DC9L83N?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/B8PEB2AZNZGC6DC9L83N?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 08 Oct 2021 02:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[블리처스 (BLITZERS) - 실수 좀 하면 어때? 누구나 하는건데! [SEAT-BELT] (벅스 ─ 뮤직포스트)]]></title>
@@ -352,14 +359,6 @@
             <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
             <content:encoded><![CDATA[이달의 추천]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BB5MGQZPMDBAM5P2I1SP/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 5월 국내 편 - 빅베트, 검정치마 외 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/ZUAH3OLB7QELURLK9P5S?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/ZUAH3OLB7QELURLK9P5S?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 추천]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ZUAH3OLB7QELURLK9P5S/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다크 요정돌 PIXY(픽시)의 [Fairyforest : Temptation] (지니 ─ 매거진)]]></title>
@@ -538,7 +537,7 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
 톱티어들의 차트 쟁탈전 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 08 Oct 2021 01:05:50 GMT</pubDate>
+            <pubDate>Fri, 08 Oct 2021 02:32:52 GMT</pubDate>
             <content:encoded><![CDATA[지난 한 달간 톱 10은 그야말로 ‘보는 재미’가 있었다. 칸예 웨스트, 드레이크, 콜드플레이 &amp; 방탄소년단 등 거물급 아티스트의 신곡이 쏟아진 덕분에 1위는 물론 톱 10 자리 쟁탈전은 치열했다. - 빌보드 코리아(이민형, 이도연)]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211007_7/1633585185102jnSGx_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>

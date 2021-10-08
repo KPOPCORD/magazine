@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 01:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 02:32:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한글날 특집! 한 편의 시를 닮은 한글 가사 앨범 7]]></title>
+            <link>https://music.bugs.co.kr/musicpost/B8PEB2AZNZGC6DC9L83N?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/B8PEB2AZNZGC6DC9L83N?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 08 Oct 2021 02:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[블리처스 (BLITZERS) - 실수 좀 하면 어때? 누구나 하는건데! [SEAT-BELT]]]></title>
             <link>https://music.bugs.co.kr/musicpost/05FK8EGMPOZPMZMERE2L?&amp;wl_ref=list_sp_01_h</link>
@@ -181,14 +188,6 @@
             <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
             <content:encoded><![CDATA[이달의 추천]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BB5MGQZPMDBAM5P2I1SP/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 5월 국내 편 - 빅베트, 검정치마 외]]></title>
-            <link>https://music.bugs.co.kr/musicpost/ZUAH3OLB7QELURLK9P5S?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/ZUAH3OLB7QELURLK9P5S?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 추천]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ZUAH3OLB7QELURLK9P5S/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
