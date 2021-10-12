@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 04:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 05:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이달의 빌보드 HOT 100 총정리(9/11~10/2) (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/709</link>
+            <guid>http://billboard.co.kr/main/news/view/709</guid>
+            <pubDate>Tue, 12 Oct 2021 05:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/709">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211012102909_7.png" alt="이달의 빌보드 HOT 100 총정리(9/11~10/2)" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>이달의 빌보드 HOT 100 총정리(9/11~10/2)</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211012102909_7.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[빌보드 케이팝 100, 이무진 ‘신호등’ 5주 1위 & 멜로망스의 첫 톱 10 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/708</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210907183520_5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 빌보드 HOT 100 총정리(8/14~9/4) (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/694</link>
-            <guid>http://billboard.co.kr/main/news/view/694</guid>
-            <pubDate>Sun, 19 Sep 2021 19:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/694">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20210907120222_1.png" alt="이달의 빌보드 HOT 100 총정리(8/14~9/4)" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>이달의 빌보드 HOT 100 총정리(8/14~9/4)</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210907120222_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한글날 특집! 한 편의 시를 닮은 한글 가사 앨범 7 (벅스 ─ 뮤직포스트)]]></title>
@@ -537,7 +537,7 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
 톱티어들의 차트 쟁탈전 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 12 Oct 2021 04:24:59 GMT</pubDate>
+            <pubDate>Tue, 12 Oct 2021 05:19:00 GMT</pubDate>
             <content:encoded><![CDATA[지난 한 달간 톱 10은 그야말로 ‘보는 재미’가 있었다. 칸예 웨스트, 드레이크, 콜드플레이 &amp; 방탄소년단 등 거물급 아티스트의 신곡이 쏟아진 덕분에 1위는 물론 톱 10 자리 쟁탈전은 치열했다. - 빌보드 코리아(이민형, 이도연)]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211007_7/1633585185102jnSGx_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
