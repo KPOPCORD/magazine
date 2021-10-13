@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 02:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 03:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JUNJO(준조) - 앰비언트부터 클래식까지, 15년간 피아노만 들은 작곡가의 플레이리스트]]></title>
+            <link>https://music.bugs.co.kr/musicpost/EUSTVS7WJJY6J45BV41F?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/EUSTVS7WJJY6J45BV41F?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 13 Oct 2021 03:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/EUSTVS7WJJY6J45BV41F/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한글날 특집! 한 편의 시를 닮은 한글 가사 앨범 7]]></title>
             <link>https://music.bugs.co.kr/musicpost/B8PEB2AZNZGC6DC9L83N?&amp;wl_ref=list_sp_01_h</link>
@@ -180,14 +188,6 @@
             <guid>https://music.bugs.co.kr/musicpost/ZV6YS6LU11UXNIIGG9XF?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021년 5월 해외 편 - Gojira, Squid 외]]></title>
-            <link>https://music.bugs.co.kr/musicpost/BB5MGQZPMDBAM5P2I1SP?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/BB5MGQZPMDBAM5P2I1SP?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 추천]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BB5MGQZPMDBAM5P2I1SP/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
