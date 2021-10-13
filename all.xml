@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 05:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 06:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,6 +369,14 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10911/Mgz_Main_List_20211013090316.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
+            <title><![CDATA[재즈의 새로운 고전 ＃20 - 90년대를 빛낸 젊은 재즈 스타의 등장! (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=10920&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=10920&amp;pg=1</guid>
+            <pubDate>Wed, 13 Oct 2021 06:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10920/Mgz_Main_List_20211013135907.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[소리꾼 '김용우' 특별 앨범 [파동] 발매 기념 인터뷰 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10917&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10917&amp;pg=1</guid>
@@ -415,14 +423,6 @@
             <pubDate>Tue, 12 Oct 2021 09:18:49 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10906/Mgz_Main_List_20211012134750.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[휴양지 바이브 가득한 뜨거운 송도의 신흥명소, 〈제이앤제이슨 송도〉 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=10914&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=10914&amp;pg=1</guid>
-            <pubDate>Tue, 12 Oct 2021 08:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10914/Mgz_Main_List_20211012162539.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[Billboard HOT 100 : 
@@ -537,7 +537,7 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
 에스파, 제임스 블레이크 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 13 Oct 2021 05:17:38 GMT</pubDate>
+            <pubDate>Wed, 13 Oct 2021 06:23:06 GMT</pubDate>
             <content:encoded><![CDATA[에스파가 내놓은 SM 엔터테인먼트의 야심작, 가장 대중적이란 평을 듣고 있는 제임스 블레이크의 신작까지. 지금 주목해야 할 트렌디하고 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211012_112/163401798996783SR8_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
