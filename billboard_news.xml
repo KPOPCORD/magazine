@@ -4,28 +4,9 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 04:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 05:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2020년 최고의 수입을 올린 챔피언은?]]></title>
-            <link>http://billboard.co.kr/main/news/view/712</link>
-            <guid>http://billboard.co.kr/main/news/view/712</guid>
-            <pubDate>Wed, 13 Oct 2021 08:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/712">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/B_1_1_712.jpg" alt="2020년 최고의 수입을 올린 챔피언은?" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>2020년 최고의 수입을 올린 챔피언은?</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/B_1_1_712.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 6주 연속 1위]]></title>
             <link>http://billboard.co.kr/main/news/view/710</link>
@@ -82,6 +63,25 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211005175130_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2020년 최고의 수입을 올린 챔피언은?]]></title>
+            <link>http://billboard.co.kr/main/news/view/712</link>
+            <guid>http://billboard.co.kr/main/news/view/712</guid>
+            <pubDate>Wed, 13 Oct 2021 08:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/712">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211013164119_23.jpg" alt="2020년 최고의 수입을 올린 챔피언은?" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>2020년 최고의 수입을 올린 챔피언은?</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211013164119_23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 4주 연속 1위]]></title>
