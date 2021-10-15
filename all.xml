@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 02:31:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 03:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -361,6 +361,46 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[지니 컬러 동향 ＃26 – 2021.09.25 ~ 10.08 발매작 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=10936&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=10936&amp;pg=1</guid>
+            <pubDate>Fri, 15 Oct 2021 03:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[지니 컬러 동향]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10935/Mgz_Main_List_20211015102001.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[실력파 래퍼 '만수 (MAANSOO)' 첫 정규 앨범 [불행 중 다행] 발매 ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10932&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10932&amp;pg=1</guid>
+            <pubDate>Fri, 15 Oct 2021 03:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10932/Mgz_Main_List_20211015111453.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[＜쇼미더머니10＞ 2차 예선 불구덩이 미션 시작! (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=10929&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=10929&amp;pg=1</guid>
+            <pubDate>Fri, 15 Oct 2021 03:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[방송]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10928/Mgz_Main_List_20211014150056.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송라이터 옥탑방예술가의 새 싱글 [하루의 끝] 발매 인터뷰! (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10928&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10928&amp;pg=1</guid>
+            <pubDate>Fri, 15 Oct 2021 03:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10928/Mgz_Main_List_20211014164846.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[칸영화제 개막작, 감독상 수상! 온몸을 전율시킬 시네마틱 뮤지컬 <아네트> (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=10927&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=10927&amp;pg=1</guid>
+            <pubDate>Fri, 15 Oct 2021 03:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[영화/전시]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10927/Mgz_Main_List_20211014144242.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[1년 2개월 만에 새 싱글 [COLD LOVE] 발표한 '로시'의 발매 인터뷰... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10925&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10925&amp;pg=1</guid>
@@ -383,46 +423,6 @@
             <pubDate>Thu, 14 Oct 2021 03:20:03 GMT</pubDate>
             <content:encoded><![CDATA[김김박김]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10919/Mgz_Main_List_20211013115005.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[영혼을 흔드는 뮤지션의 트래블 스토리 - 뉴올리언스 ＃11 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=34&amp;mgz_seq=10926&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=34&amp;mgz_seq=10926&amp;pg=1</guid>
-            <pubDate>Thu, 14 Oct 2021 03:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 트래블]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10926/Mgz_Main_List_20211014105942.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[라틴아메리카의 음악을 소개합니다 (2) – 아르헨티나와 파라과이 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=10924&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=10924&amp;pg=1</guid>
-            <pubDate>Thu, 14 Oct 2021 03:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10923/Mgz_Main_List_20211013165301.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[흔하게 볼 수 없었던 깊은 감정을 이야기하고 싶어요, 이히읗 [어쩌면 너도] ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10922&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10922&amp;pg=1</guid>
-            <pubDate>Thu, 14 Oct 2021 03:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10922/Mgz_Main_List_20211014114305.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[차우진의 최신 음악 트렌드 연구 vol.7 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=35&amp;mgz_seq=10921&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=35&amp;mgz_seq=10921&amp;pg=1</guid>
-            <pubDate>Thu, 14 Oct 2021 03:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[경기 뮤직]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10921/Mgz_Main_List_20211014102036.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[슬픔도 가슴도 묻어둘 그런 용기, 혜화동소년 [필요해] 프로필 촬영기 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10915&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10915&amp;pg=1</guid>
-            <pubDate>Thu, 14 Oct 2021 03:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10915/Mgz_Main_List_20211013164429.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[10월의 느낌, 
@@ -537,7 +537,7 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
 트라이비(TRI.BE) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 15 Oct 2021 02:31:47 GMT</pubDate>
+            <pubDate>Fri, 15 Oct 2021 03:20:23 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 제6탄! 신비로우면서도 몽환적인 매력을 한껏 풍기며 등장한 트라이비(TRI.BE) 가 데뷔 후 처음으로 선보이는 미니앨범을 발매했습니다. 과연 어떤 질문과 답변으로 우리를 행복하게 해줬을지 다 함께 만나보시죠.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211014_245/1634188885525cfsy7_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
