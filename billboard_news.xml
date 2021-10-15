@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 07:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 08:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2020년 최고의 수입을 올린 뮤지션은?]]></title>
+            <link>http://billboard.co.kr/main/news/view/712</link>
+            <guid>http://billboard.co.kr/main/news/view/712</guid>
+            <pubDate>Wed, 13 Oct 2021 08:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/712">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211014144202_1.png" alt="2020년 최고의 수입을 올린 뮤지션은?" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>2020년 최고의 수입을 올린 뮤지션은?</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211014144202_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 6주 연속 1위]]></title>
             <link>http://billboard.co.kr/main/news/view/710</link>
@@ -46,6 +65,25 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211012102909_7.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[팬데믹 시대의 K-바이닐 시장]]></title>
+            <link>http://billboard.co.kr/main/news/view/714</link>
+            <guid>http://billboard.co.kr/main/news/view/714</guid>
+            <pubDate>Fri, 15 Oct 2021 08:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/714">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211015154138_2.png" alt="팬데믹 시대의 K-바이닐 시장" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>팬데믹 시대의 K-바이닐 시장</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211015154138_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[빌보드 케이팝 100, 이무진 ‘신호등’ 5주 1위 & 멜로망스의 첫 톱 10]]></title>
             <link>http://billboard.co.kr/main/news/view/708</link>
             <guid>http://billboard.co.kr/main/news/view/708</guid>
@@ -65,23 +103,23 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211005175130_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[2020년 최고의 수입을 올린 뮤지션은?]]></title>
-            <link>http://billboard.co.kr/main/news/view/712</link>
-            <guid>http://billboard.co.kr/main/news/view/712</guid>
-            <pubDate>Wed, 13 Oct 2021 08:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/712">
+            <title><![CDATA[예거마이스터, 문화 공간 #SAVE THE NIGHT 오픈]]></title>
+            <link>http://billboard.co.kr/main/news/view/701</link>
+            <guid>http://billboard.co.kr/main/news/view/701</guid>
+            <pubDate>Fri, 15 Oct 2021 08:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/701">
 								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
                                 <div class="img-boxs">
                                     <div class="img-con">
-								        <img src="/upload_data/board/simg/20211014144202_1.png" alt="2020년 최고의 수입을 올린 뮤지션은?" style="width:100%;">
+								        <img src="/upload_data/board/simg/20211013154028_6.jpg" alt="예거마이스터, 문화 공간 #SAVE THE NIGHT 오픈" style="width:100%;">
                                     </div>
                                 </div>
 								<div class="txt">
-									<span>2020년 최고의 수입을 올린 뮤지션은?</span>
+									<span>예거마이스터, 문화 공간 #SAVE THE NIGHT 오픈</span>
 									<div class="sub_title"></div>
 								</div>
 							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211014144202_1.png" length="0" type="image/png"/>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211013154028_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 4주 연속 1위]]></title>
@@ -103,80 +141,42 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210928181224_11.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[솔로 데뷔한 리사의 빌보드 차트 기록]]></title>
-            <link>http://billboard.co.kr/main/news/view/703</link>
-            <guid>http://billboard.co.kr/main/news/view/703</guid>
-            <pubDate>Thu, 07 Oct 2021 08:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/703">
+            <title><![CDATA[세상을 움직인 음악Ⅱ. 한국 사회를 이야기한 노래들]]></title>
+            <link>http://billboard.co.kr/main/news/view/707</link>
+            <guid>http://billboard.co.kr/main/news/view/707</guid>
+            <pubDate>Fri, 15 Oct 2021 08:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/707">
 								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
                                 <div class="img-boxs">
                                     <div class="img-con">
-								        <img src="/upload_data/board/simg/20210929175502_0.jpg" alt="솔로 데뷔한 리사의 빌보드 차트 기록" style="width:100%;">
+								        <img src="/upload_data/board/simg/20211013175752_9.png" alt="세상을 움직인 음악Ⅱ. 한국 사회를 이야기한 노래들" style="width:100%;">
                                     </div>
                                 </div>
 								<div class="txt">
-									<span>솔로 데뷔한 리사의 빌보드 차트 기록</span>
+									<span>세상을 움직인 음악Ⅱ. 한국 사회를 이야기한 노래들</span>
 									<div class="sub_title"></div>
 								</div>
 							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210929175502_0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211013175752_9.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 3주 연속 1위]]></title>
-            <link>http://billboard.co.kr/main/news/view/700</link>
-            <guid>http://billboard.co.kr/main/news/view/700</guid>
-            <pubDate>Thu, 07 Oct 2021 08:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/700">
+            <title><![CDATA[세상을  움직인 음악Ⅰ. 미국 인종 차별 반대를 외친 노래들]]></title>
+            <link>http://billboard.co.kr/main/news/view/715</link>
+            <guid>http://billboard.co.kr/main/news/view/715</guid>
+            <pubDate>Fri, 15 Oct 2021 08:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/715">
 								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
                                 <div class="img-boxs">
                                     <div class="img-con">
-								        <img src="/upload_data/board/simg/20210921180200_4.png" alt="이무진 ‘신호등’, 빌보드 케이팝 100 차트 3주 연속 1위" style="width:100%;">
+								        <img src="/upload_data/board/simg/20211015155410_7.png" alt="세상을  움직인 음악Ⅰ. 미국 인종 차별 반대를 외친 노래들" style="width:100%;">
                                     </div>
                                 </div>
 								<div class="txt">
-									<span>이무진 ‘신호등’, 빌보드 케이팝 100 차트 3주 연속 1위</span>
+									<span>세상을  움직인 음악Ⅰ. 미국 인종 차별 반대를 외친 노래들</span>
 									<div class="sub_title"></div>
 								</div>
 							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210921180200_4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[역대 핫 100 톱 10을 지배한 10장의 앨범]]></title>
-            <link>http://billboard.co.kr/main/news/view/699</link>
-            <guid>http://billboard.co.kr/main/news/view/699</guid>
-            <pubDate>Thu, 07 Oct 2021 08:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/699">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20210917141120_28.png" alt="역대 핫 100 톱 10을 지배한 10장의 앨범" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>역대 핫 100 톱 10을 지배한 10장의 앨범</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210917141120_28.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 2주 연속 1위]]></title>
-            <link>http://billboard.co.kr/main/news/view/698</link>
-            <guid>http://billboard.co.kr/main/news/view/698</guid>
-            <pubDate>Thu, 07 Oct 2021 08:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/698">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20210914181101_13.png" alt="이무진 ‘신호등’, 빌보드 케이팝 100 차트 2주 연속 1위" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>이무진 ‘신호등’, 빌보드 케이팝 100 차트 2주 연속 1위</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210914181101_13.png" length="0" type="image/png"/>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211015155410_7.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
