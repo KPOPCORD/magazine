@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 07:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 08:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위기를 기회로 삼는 케이팝]]></title>
+            <link>http://billboard.co.kr/main/news/view/717</link>
+            <guid>http://billboard.co.kr/main/news/view/717</guid>
+            <pubDate>Mon, 18 Oct 2021 08:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/717">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211018154853_0.png" alt="위기를 기회로 삼는 케이팝" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>위기를 기회로 삼는 케이팝</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211018154853_0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘Easy On Me’로 새 챕터의 시작을 연 아델]]></title>
             <link>http://billboard.co.kr/main/news/view/713</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210928181224_11.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세상을 움직인 음악Ⅱ. 한국 사회를 이야기한 노래들]]></title>
-            <link>http://billboard.co.kr/main/news/view/707</link>
-            <guid>http://billboard.co.kr/main/news/view/707</guid>
-            <pubDate>Fri, 15 Oct 2021 08:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/707">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211013175752_9.png" alt="세상을 움직인 음악Ⅱ. 한국 사회를 이야기한 노래들" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>세상을 움직인 음악Ⅱ. 한국 사회를 이야기한 노래들</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211013175752_9.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
