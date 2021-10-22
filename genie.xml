@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 05:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 06:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뚜렷한 음악적 지향점을 잘 살려낸 멤버들의 응집력 '용리' 외]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=10974&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=10974&amp;pg=1</guid>
+            <pubDate>Fri, 22 Oct 2021 06:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10974/Mgz_Main_List_20211022140954.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[우리가 꼭 알아야 할 헤비메탈의 순간들 47화 – 테슬라(Tesla)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=10973&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 03:19:43 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10967/Mgz_Main_List_20211021114813.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[KIMKIMPARKKIM's 인생 음반 ＃5]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=10966&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=10966&amp;pg=1</guid>
-            <pubDate>Thu, 21 Oct 2021 03:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[김김박김]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10966/Mgz_Main_List_20211021103054.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
