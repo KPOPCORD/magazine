@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 10:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 11:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -361,6 +361,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/VLQOJ25U7RSBM94SAWXP/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가요 탐구생활 ＃35 - 협업으로 풍성해진 가을의 음악들 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=10992&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=10992&amp;pg=1</guid>
+            <pubDate>Mon, 25 Oct 2021 11:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[가요 탐구생활]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10992/Mgz_Main_List_20211025194016.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[지독하게 얽히고 싶은 NCT 127, 〈Favorite〉 공개! (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10981&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10981&amp;pg=1</guid>
@@ -415,14 +423,6 @@
             <pubDate>Mon, 25 Oct 2021 03:20:48 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10975/Mgz_Main_List_20211025110617.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[“누구나 다 주인공이에요”, 논나가 보내는 빛나는 응원 <햋빛은 찬란하고 인생... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=37&amp;mgz_seq=10971&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=37&amp;mgz_seq=10971&amp;pg=1</guid>
-            <pubDate>Mon, 25 Oct 2021 03:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[책과 음악이 있는 공간]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10971/Mgz_Main_List_20211025102114.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #120 
@@ -537,7 +537,7 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
 따마, 데드보이즈 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 25 Oct 2021 10:21:58 GMT</pubDate>
+            <pubDate>Mon, 25 Oct 2021 11:16:39 GMT</pubDate>
             <content:encoded><![CDATA[가을은 천고마비의 계절이지만, 사실 음악 업계만 놓고 본다면 쏟아지는 앨범 소식 때문에 정신이 없는 달이다. 이는 국내의 힙합/알앤비 시장도 마찬가지. 그리하여 9월부터 지금까지 여러 국내 아티스트들이 작품 단위의 결과물을 발표하면서 장르 음악팬들의 귀를 즐겁게 만들고 있다. 그중에서도 힙합 커뮤니티에서 회자된 작품을 골라 소개하려고 한다. 순서는 무순. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211022_173/1634888781110A8NpA_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
