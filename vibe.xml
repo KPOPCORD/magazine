@@ -4,9 +4,18 @@
         <title>VIBE ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 11:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 12:30:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꼭 들어야 할 여섯 장의 앨범 : 
+따마, 데드보이즈]]></title>
+            <link>https://vibe.naver.com/magazines/54459</link>
+            <guid>https://vibe.naver.com/magazines/54459</guid>
+            <pubDate>Mon, 25 Oct 2021 12:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.22]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20211022_173/1634888781110A8NpA_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주의 디깅 #120 
 스트릿 우먼 파이터]]></title>
@@ -32,7 +41,7 @@
             <guid>https://vibe.naver.com/magazines/54153</guid>
             <pubDate>Sun, 24 Oct 2021 14:17:25 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.14]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20211014_33/1634188877342uIuBg_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+            <enclosure url="https://vibe.naver.com/20211021142826_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[10월의 느낌, 
@@ -104,15 +113,6 @@ AB6IX(에이비식스)]]></title>
             <guid>https://vibe.naver.com/magazines/53670</guid>
             <pubDate>Sun, 24 Oct 2021 14:17:25 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.27]]></content:encoded>
-            <enclosure url="https://vibe.naver.com/20211021142826_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 모두 드레이크의
-시대에 살고 있다]]></title>
-            <link>https://vibe.naver.com/magazines/53625</link>
-            <guid>https://vibe.naver.com/magazines/53625</guid>
-            <pubDate>Sun, 24 Oct 2021 14:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.24]]></content:encoded>
             <enclosure url="https://vibe.naver.com/20211021142826_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
     </channel>
