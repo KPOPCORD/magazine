@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 09:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 10:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케이팝 100, 이무진 ‘신호등’ 8주 1위 & 아이유 ‘strawberry moon’ 톱 5 데뷔 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/719</link>
+            <guid>http://billboard.co.kr/main/news/view/719</guid>
+            <pubDate>Tue, 26 Oct 2021 10:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/719">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211026190650_7.png" alt="케이팝 100, 이무진 ‘신호등’ 8주 1위 &amp; 아이유 ‘strawberry moon’ 톱 5 데뷔" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>케이팝 100, 이무진 ‘신호등’ 8주 1위 &amp; 아이유 ‘strawberry moon’ 톱 5 데뷔</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211026190650_7.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[케이팝 100, 이무진 ‘신호등’ 7주 1위 & 에스파 ‘Savage’ 톱 5 진입 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/718</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211005175130_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예거마이스터, 문화 공간 #SAVE THE NIGHT 오픈 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/701</link>
-            <guid>http://billboard.co.kr/main/news/view/701</guid>
-            <pubDate>Fri, 15 Oct 2021 08:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/701">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211013154028_6.jpg" alt="예거마이스터, 문화 공간 #SAVE THE NIGHT 오픈" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>예거마이스터, 문화 공간 #SAVE THE NIGHT 오픈</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211013154028_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[음악으로 전하는 따뜻한 위로, 카페25 위드 콘서트 (벅스 ─ 뮤직포스트)]]></title>
@@ -537,7 +537,7 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
 디제이 스네이크, 홍광호 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 26 Oct 2021 09:19:46 GMT</pubDate>
+            <pubDate>Tue, 26 Oct 2021 10:22:10 GMT</pubDate>
             <content:encoded><![CDATA[리사가 참여해 화제를 모으는 디제이 스네이크의 신곡과 음원으로 만날 수 있게 된 홍광호의 ‘지금 이 순간’. 지금 주목해야 할 트렌디하고 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211025_195/163514758080438qbM_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>

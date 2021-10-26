@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 09:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 10:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케이팝 100, 이무진 ‘신호등’ 8주 1위 & 아이유 ‘strawberry moon’ 톱 5 데뷔]]></title>
+            <link>http://billboard.co.kr/main/news/view/719</link>
+            <guid>http://billboard.co.kr/main/news/view/719</guid>
+            <pubDate>Tue, 26 Oct 2021 10:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/719">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211026190650_7.png" alt="케이팝 100, 이무진 ‘신호등’ 8주 1위 &amp; 아이유 ‘strawberry moon’ 톱 5 데뷔" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>케이팝 100, 이무진 ‘신호등’ 8주 1위 &amp; 아이유 ‘strawberry moon’ 톱 5 데뷔</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211026190650_7.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[케이팝 100, 이무진 ‘신호등’ 7주 1위 & 에스파 ‘Savage’ 톱 5 진입]]></title>
             <link>http://billboard.co.kr/main/news/view/718</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211005175130_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예거마이스터, 문화 공간 #SAVE THE NIGHT 오픈]]></title>
-            <link>http://billboard.co.kr/main/news/view/701</link>
-            <guid>http://billboard.co.kr/main/news/view/701</guid>
-            <pubDate>Fri, 15 Oct 2021 08:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/701">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211013154028_6.jpg" alt="예거마이스터, 문화 공간 #SAVE THE NIGHT 오픈" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>예거마이스터, 문화 공간 #SAVE THE NIGHT 오픈</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211013154028_6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
