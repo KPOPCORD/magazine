@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 06:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 07:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악으로 전하는 따뜻한 위로, 카페25 위드 콘서트]]></title>
+            <link>https://music.bugs.co.kr/musicpost/KT0JT5A84FYONCMMK2UF?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/KT0JT5A84FYONCMMK2UF?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 26 Oct 2021 07:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/KT0JT5A84FYONCMMK2UF/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2021년 10월 노래 모음!]]></title>
             <link>https://music.bugs.co.kr/musicpost/KW6FMWHTKCPJW3WGDULG?&amp;wl_ref=list_sp_01_h</link>
@@ -180,14 +188,6 @@
             <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
             <content:encoded><![CDATA[공연/페스티벌]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XOQB5RTFXA5TPI7HB7JE/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[종코 - 싱글 '우리' 노래가 나오기까지 스토리]]></title>
-            <link>https://music.bugs.co.kr/musicpost/VLQOJ25U7RSBM94SAWXP?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/VLQOJ25U7RSBM94SAWXP?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/VLQOJ25U7RSBM94SAWXP/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
