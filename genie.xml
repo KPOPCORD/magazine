@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 08:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 09:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칠리(chilly) 새 EP [duvet]의 비하인드 작업기]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10994&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10994&amp;pg=1</guid>
+            <pubDate>Wed, 27 Oct 2021 09:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10994/Mgz_Main_List_20211027112103.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[불타는 토요일 밤! 시크릿넘버 ‘불토(Fire Saturday)’ MV 촬영 ...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10993&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10993&amp;pg=1</guid>
+            <pubDate>Wed, 27 Oct 2021 09:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10993/Mgz_Main_List_20211027164234.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[상처뿐일지라도 두려움을 딛고 너에게 닿기를, 나히 [City Drive]]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10999&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 26 Oct 2021 09:19:31 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10984/Mgz_Main_List_20211026110421.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[대세 싱어송라이터 SOLE (쏠), 윤미래 원곡 리메이크 음원 [선물] 발매]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10983&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10983&amp;pg=1</guid>
-            <pubDate>Tue, 26 Oct 2021 09:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10983/Mgz_Main_List_20211026110446.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[KIMKIMPARKKIM's 플레이리스트 가이드 ＃10 - 김김박김과 함께하는...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=10988&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=10988&amp;pg=1</guid>
-            <pubDate>Tue, 26 Oct 2021 03:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[김김박김]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10988/Mgz_Main_List_20211026102639.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
