@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 03:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 04:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전자 쌀롱 ＃44 - 10월에 주목할 만한 국내 일렉트로닉 음악]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=21&amp;mgz_seq=11007&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=21&amp;mgz_seq=11007&amp;pg=1</guid>
+            <pubDate>Thu, 28 Oct 2021 04:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[전자 쌀롱]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11007/Mgz_Main_List_20211028125625.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[KIMKIMPARKKIM's 한국 멜로우 팝 100선 ＃5]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11006&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 03:20:45 GMT</pubDate>
             <content:encoded><![CDATA[책과 음악이 있는 공간]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10995/Mgz_Main_List_20211028101800.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[칠리(chilly) 새 EP [duvet]의 비하인드 작업기]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10994&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10994&amp;pg=1</guid>
-            <pubDate>Wed, 27 Oct 2021 09:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10994/Mgz_Main_List_20211027112103.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
