@@ -1,8 +1,119 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vibe.naver.com/magazines</id>
-    <title>VIBE ─ 매거진</title>
-    <updated>2021-10-29T22:19:44.835Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vibe.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>VIBE ─ 매거진</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 29 Oct 2021 23:20:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주의 디깅 #121 
+아델]]></title>
+            <link>https://vibe.naver.com/magazines/54554</link>
+            <guid>https://vibe.naver.com/magazines/54554</guid>
+            <pubDate>Fri, 29 Oct 2021 23:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.26]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20211028_79/1635391214685dCLaq_JPEG/1.jpeg?type=w720" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Release #64 : 
+디제이 스네이크, 홍광호]]></title>
+            <link>https://vibe.naver.com/magazines/54504</link>
+            <guid>https://vibe.naver.com/magazines/54504</guid>
+            <pubDate>Fri, 29 Oct 2021 23:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.25]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20211025_195/163514758080438qbM_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꼭 들어야 할 여섯 장의 앨범 : 
+따마, 데드보이즈]]></title>
+            <link>https://vibe.naver.com/magazines/54459</link>
+            <guid>https://vibe.naver.com/magazines/54459</guid>
+            <pubDate>Fri, 29 Oct 2021 23:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.22]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20211022_173/1634888781110A8NpA_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주의 디깅 #120 
+스트릿 우먼 파이터]]></title>
+            <link>https://vibe.naver.com/magazines/54303</link>
+            <guid>https://vibe.naver.com/magazines/54303</guid>
+            <pubDate>Fri, 29 Oct 2021 23:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.19]]></content:encoded>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Release #63 : 
+아델, 스텔라 장]]></title>
+            <link>https://vibe.naver.com/magazines/54253</link>
+            <guid>https://vibe.naver.com/magazines/54253</guid>
+            <pubDate>Fri, 29 Oct 2021 23:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.18]]></content:encoded>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[무엇이든 물어보세요 : 
+트라이비(TRI.BE)]]></title>
+            <link>https://vibe.naver.com/magazines/54153</link>
+            <guid>https://vibe.naver.com/magazines/54153</guid>
+            <pubDate>Fri, 29 Oct 2021 23:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.14]]></content:encoded>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[10월의 느낌, 
+당신의 느낌은 어땠나요?]]></title>
+            <link>https://vibe.naver.com/magazines/54103</link>
+            <guid>https://vibe.naver.com/magazines/54103</guid>
+            <pubDate>Fri, 29 Oct 2021 23:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.12]]></content:encoded>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Release #62 : 
+에스파, 제임스 블레이크]]></title>
+            <link>https://vibe.naver.com/magazines/54053</link>
+            <guid>https://vibe.naver.com/magazines/54053</guid>
+            <pubDate>Fri, 29 Oct 2021 23:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.12]]></content:encoded>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Billboard HOT 100 : 
+톱티어들의 차트 쟁탈전]]></title>
+            <link>https://vibe.naver.com/magazines/54007</link>
+            <guid>https://vibe.naver.com/magazines/54007</guid>
+            <pubDate>Fri, 29 Oct 2021 23:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.07]]></content:encoded>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[New Release #61 : 
+토니 베넷, 키]]></title>
+            <link>https://vibe.naver.com/magazines/53957</link>
+            <guid>https://vibe.naver.com/magazines/53957</guid>
+            <pubDate>Fri, 29 Oct 2021 23:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.06]]></content:encoded>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이주의 디깅 #119 
+이하이]]></title>
+            <link>https://vibe.naver.com/magazines/53720</link>
+            <guid>https://vibe.naver.com/magazines/53720</guid>
+            <pubDate>Fri, 29 Oct 2021 23:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.06]]></content:encoded>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[무엇이든 물어보세요 : 
+AB6IX(에이비식스)]]></title>
+            <link>https://vibe.naver.com/magazines/53792</link>
+            <guid>https://vibe.naver.com/magazines/53792</guid>
+            <pubDate>Fri, 29 Oct 2021 23:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.29]]></content:encoded>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
