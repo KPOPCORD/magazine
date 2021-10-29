@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 08:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 09:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -361,6 +361,30 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[리하 (LIHA), 블루문의 두 번째 이야기 [ManiCure] 제작기 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11014&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11014&amp;pg=1</guid>
+            <pubDate>Fri, 29 Oct 2021 09:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11014/Mgz_Main_List_20211029135137.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[프로듀서 'Jflow'의 솔로 EP [노랑] 발매 기념 인터뷰 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11013&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11013&amp;pg=1</guid>
+            <pubDate>Fri, 29 Oct 2021 09:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11013/Mgz_Main_List_20211029135059.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[“내 반쪽 이제 내꺼야!” 강력해진 컨셉으로 돌아온 전소미의 첫 정규 [XOX... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11008&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11008&amp;pg=1</guid>
+            <pubDate>Fri, 29 Oct 2021 09:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11008/Mgz_Main_List_20211029112800.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[지니 컬러 동향 ＃27 – 2021.10.09 ~ 10.22 발매작 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=11017&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=11017&amp;pg=1</guid>
@@ -401,30 +425,6 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11003/Mgz_Main_List_20211028100737.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[박지훈의 다섯 번째 미니앨범 [HOT&COLD] 자켓 촬영 현장 공개 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10996&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=10996&amp;pg=1</guid>
-            <pubDate>Thu, 28 Oct 2021 09:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10996/Mgz_Main_List_20211028133041.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[전자 쌀롱 ＃44 - 10월에 주목할 만한 국내 일렉트로닉 음악 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=21&amp;mgz_seq=11007&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=21&amp;mgz_seq=11007&amp;pg=1</guid>
-            <pubDate>Thu, 28 Oct 2021 04:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[전자 쌀롱]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11007/Mgz_Main_List_20211028125625.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[KIMKIMPARKKIM's 한국 멜로우 팝 100선 ＃5 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11006&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11006&amp;pg=1</guid>
-            <pubDate>Thu, 28 Oct 2021 03:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[김김박김]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11006/Mgz_Main_List_20211028113628.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[이주의 디깅 #121 
 아델 (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/54554</link>
@@ -458,7 +458,7 @@
             <guid>https://vibe.naver.com/magazines/54303</guid>
             <pubDate>Thu, 28 Oct 2021 01:00:30 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.19]]></content:encoded>
-            <enclosure url="https://vibe.naver.com/20211029160208_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[New Release #63 : 
@@ -467,7 +467,7 @@
             <guid>https://vibe.naver.com/magazines/54253</guid>
             <pubDate>Thu, 28 Oct 2021 01:00:30 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.18]]></content:encoded>
-            <enclosure url="https://vibe.naver.com/20211029160208_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[무엇이든 물어보세요 : 
@@ -476,7 +476,7 @@
             <guid>https://vibe.naver.com/magazines/54153</guid>
             <pubDate>Thu, 28 Oct 2021 01:00:30 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.14]]></content:encoded>
-            <enclosure url="https://vibe.naver.com/20211029160208_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[10월의 느낌, 
@@ -485,7 +485,7 @@
             <guid>https://vibe.naver.com/magazines/54103</guid>
             <pubDate>Thu, 28 Oct 2021 01:00:30 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.12]]></content:encoded>
-            <enclosure url="https://vibe.naver.com/20211029160208_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[New Release #62 : 
@@ -494,7 +494,7 @@
             <guid>https://vibe.naver.com/magazines/54053</guid>
             <pubDate>Thu, 28 Oct 2021 01:00:30 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.12]]></content:encoded>
-            <enclosure url="https://vibe.naver.com/20211029160208_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Billboard HOT 100 : 
@@ -503,7 +503,7 @@
             <guid>https://vibe.naver.com/magazines/54007</guid>
             <pubDate>Thu, 28 Oct 2021 01:00:30 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.07]]></content:encoded>
-            <enclosure url="https://vibe.naver.com/20211029160208_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[New Release #61 : 
@@ -512,7 +512,7 @@
             <guid>https://vibe.naver.com/magazines/53957</guid>
             <pubDate>Thu, 28 Oct 2021 01:00:30 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.06]]></content:encoded>
-            <enclosure url="https://vibe.naver.com/20211029160208_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #119 
@@ -521,7 +521,7 @@
             <guid>https://vibe.naver.com/magazines/53720</guid>
             <pubDate>Thu, 28 Oct 2021 01:00:30 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.10.06]]></content:encoded>
-            <enclosure url="https://vibe.naver.com/20211029160208_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[무엇이든 물어보세요 : 
@@ -530,14 +530,14 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
             <guid>https://vibe.naver.com/magazines/53792</guid>
             <pubDate>Thu, 28 Oct 2021 01:00:30 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6d98b3aa="" class="blind">작성일</span> 2021.09.29]]></content:encoded>
-            <enclosure url="https://vibe.naver.com/20211029160208_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
+            <enclosure url="https://vibe.naver.com/20211029173624_resources/img/default_vibemag.a9584434.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[NEXTREND #7 : 
 LUCY (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 29 Oct 2021 08:23:03 GMT</pubDate>
+            <pubDate>Fri, 29 Oct 2021 09:19:02 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 씬에서 주목받고 있는 새로운 얼굴, NEXTREND가 소개합니다. VIBE 사용자들의 청취 이력을 바탕으로 주목할 만한 아티스트를 선정합니다. 그 일곱 번째 주인공은 밴드의 경계를 허무는 진짜 슈퍼밴드, LUCY입니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211028_84/1635392354322bbgbT_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
