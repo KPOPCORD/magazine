@@ -4,7 +4,7 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 03:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 04:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,14 @@
             <guid>https://music.bugs.co.kr/musicpost/YHLWL0115K15Z6R12R3E?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Mon, 01 Nov 2021 02:33:00 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우재 (WOOJAE) - 스페셜 인터뷰, 우재가 들려주는 ‘감정의 사치’ 작업 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/M8NR08NLTE50O88UBA5A?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/M8NR08NLTE50O88UBA5A?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 01 Nov 2021 04:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/M8NR08NLTE50O88UBA5A/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박지훈 - 음악적인 도약, 'Serious' 녹음 현장 공개]]></title>
@@ -180,14 +188,6 @@
             <guid>https://music.bugs.co.kr/musicpost/WD3R7YEKFMDD52K8GBXS?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[경다솜 - '내 맘대로 할래' 자켓 촬영 비하인드 공개]]></title>
-            <link>https://music.bugs.co.kr/musicpost/79SDP63PVIGIALROBL4S?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/79SDP63PVIGIALROBL4S?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/79SDP63PVIGIALROBL4S/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

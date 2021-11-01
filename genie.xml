@@ -4,7 +4,7 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 03:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 04:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 01 Nov 2021 03:20:40 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11024/Mgz_Main_List_20211101111816.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[발 빼려다 푹 빠졌다! 영화 <연애 빠진 로맨스>]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=11020&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=11020&amp;pg=1</guid>
+            <pubDate>Mon, 01 Nov 2021 04:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[영화/전시]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11020/Mgz_Main_List_20211101121758.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[소란(SORAN)의 갤러리 속 사진으로 엿보는 그들의 소중한 일상]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Oct 2021 09:18:49 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11014/Mgz_Main_List_20211029135137.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[프로듀서 'Jflow'의 솔로 EP [노랑] 발매 기념 인터뷰]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11013&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11013&amp;pg=1</guid>
-            <pubDate>Fri, 29 Oct 2021 09:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11013/Mgz_Main_List_20211029135059.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
