@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 08:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 09:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -361,6 +361,22 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[공기남 감성 에세이 [오선지 정규2집] 발매 인터뷰 & 자켓 촬영기 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11033&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11033&amp;pg=1</guid>
+            <pubDate>Tue, 02 Nov 2021 09:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11032/Mgz_Main_List_20211101190107.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[쭉 가보자고, 슈퍼주니어-D&E 10주년 맞이 컴백! (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11023&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11023&amp;pg=1</guid>
+            <pubDate>Tue, 02 Nov 2021 09:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11023/Mgz_Main_List_20211102174027.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[알앤비 레전드 ＃9 - 보라색 기타를 든 왕자, 프린스 (Prince) (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11031&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11031&amp;pg=1</guid>
@@ -407,22 +423,6 @@
             <pubDate>Tue, 02 Nov 2021 03:20:49 GMT</pubDate>
             <content:encoded><![CDATA[책과 음악이 있는 공간]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11022/Mgz_Main_List_20211102115955.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 감성 재즈힙합과 누자베스 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11021&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11021&amp;pg=1</guid>
-            <pubDate>Tue, 02 Nov 2021 03:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11021/Mgz_Main_List_20211102113345.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[임창정 정규 17집 [별거 없던 그 하루로] 자켓 촬영 현장 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11027&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11027&amp;pg=1</guid>
-            <pubDate>Mon, 01 Nov 2021 09:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11027/Mgz_Main_List_20211101162807.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[NEXTREND #7 : 
@@ -537,7 +537,7 @@ LUCY (VIBE ─ 매거진)]]></title>
 에드 시런, 전소미 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 02 Nov 2021 08:23:21 GMT</pubDate>
+            <pubDate>Tue, 02 Nov 2021 09:19:42 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 슈퍼스타 에드 시런의 새 정규 앨범과 앞으로의 행보가 궁금해지는 전소미의 첫 정규 앨범까지. 지금 주목해야 할 트렌디하고 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211101_250/16357558229867erki_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>

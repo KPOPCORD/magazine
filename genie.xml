@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 08:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 09:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공기남 감성 에세이 [오선지 정규2집] 발매 인터뷰 & 자켓 촬영기]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11033&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11033&amp;pg=1</guid>
+            <pubDate>Tue, 02 Nov 2021 09:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11032/Mgz_Main_List_20211101190107.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[쭉 가보자고, 슈퍼주니어-D&E 10주년 맞이 컴백!]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11023&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11023&amp;pg=1</guid>
+            <pubDate>Tue, 02 Nov 2021 09:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11023/Mgz_Main_List_20211102174027.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[알앤비 레전드 ＃9 - 보라색 기타를 든 왕자, 프린스 (Prince)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11031&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 03:20:49 GMT</pubDate>
             <content:encoded><![CDATA[책과 음악이 있는 공간]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11022/Mgz_Main_List_20211102115955.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 감성 재즈힙합과 누자베스]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11021&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11021&amp;pg=1</guid>
-            <pubDate>Tue, 02 Nov 2021 03:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11021/Mgz_Main_List_20211102113345.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[임창정 정규 17집 [별거 없던 그 하루로] 자켓 촬영 현장 비하인드]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11027&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11027&amp;pg=1</guid>
-            <pubDate>Mon, 01 Nov 2021 09:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11027/Mgz_Main_List_20211101162807.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
