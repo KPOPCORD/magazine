@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 04:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 05:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온 세상에 전하는 위로와 희망의 메시지, 영화 <디어 에반 핸슨>]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=11035&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=11035&amp;pg=1</guid>
+            <pubDate>Wed, 03 Nov 2021 05:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[영화/전시]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11034/Mgz_Main_List_20211102165317.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA['이별장인' 송하예의 '사우친' 뮤비 스틸컷 & 라이브 현장 포토]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11037&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 03:20:49 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11029/Mgz_Main_List_20211102101134.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[디에이드 [누군가의 플레이리스트] 앨범 발매 기념 인터뷰]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11032&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11032&amp;pg=1</guid>
-            <pubDate>Tue, 02 Nov 2021 03:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11032/Mgz_Main_List_20211102111838.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>

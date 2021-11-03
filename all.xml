@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 04:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 05:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -361,6 +361,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[온 세상에 전하는 위로와 희망의 메시지, 영화 <디어 에반 핸슨> (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=11035&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=11035&amp;pg=1</guid>
+            <pubDate>Wed, 03 Nov 2021 05:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[영화/전시]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11034/Mgz_Main_List_20211102165317.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA['이별장인' 송하예의 '사우친' 뮤비 스틸컷 & 라이브 현장 포토 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11037&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11037&amp;pg=1</guid>
@@ -415,14 +423,6 @@
             <pubDate>Tue, 02 Nov 2021 03:20:49 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11029/Mgz_Main_List_20211102101134.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[디에이드 [누군가의 플레이리스트] 앨범 발매 기념 인터뷰 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11032&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11032&amp;pg=1</guid>
-            <pubDate>Tue, 02 Nov 2021 03:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11032/Mgz_Main_List_20211102111838.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #65 : 
@@ -537,7 +537,7 @@ LUCY (VIBE ─ 매거진)]]></title>
 그리고 CL (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 03 Nov 2021 04:25:41 GMT</pubDate>
+            <pubDate>Wed, 03 Nov 2021 05:17:47 GMT</pubDate>
             <content:encoded><![CDATA[음악을 중심으로 오랜 시간 동안 느끼고 생각하고 채운 CL의 세계가 담긴 첫 번째 정규앨범이 나왔다. 전 세계의 팬들이 그 속에 담긴 메시지를 듣고 교감하고 자극받고 있는 이 앨범엔, 별명이 체리였던 여자애가 우주를 만들기까지의 과정이 담겼다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211101_277/1635736702320Rmp7x_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
