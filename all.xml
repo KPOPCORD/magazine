@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 05:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 06:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -363,6 +363,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XGSM3PG842TV0SOQSLYN/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나들, 김일진, 김영민의 UNTACT CONCERT <2021 민사운드쇼> (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=11046&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=11046&amp;pg=1</guid>
+            <pubDate>Mon, 08 Nov 2021 06:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[공연]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11046/Mgz_Main_List_20211105155653.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[PAIIEK의 옴니버스 연작 [:) :) :) (Feat. 나상현)] 작업기 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11063&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11063&amp;pg=1</guid>
@@ -419,19 +427,11 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11056/Mgz_Main_List_20211105142317.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[캐스팅을 위한 프로듀서들의 적극적인 구애! 쇼미더머니10 ＜팀래퍼 캐스팅＞ (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=11055&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=11055&amp;pg=1</guid>
-            <pubDate>Fri, 05 Nov 2021 03:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[방송]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11054/Mgz_Main_List_20211105092032.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[무엇이든 물어보세요 : 
 라붐(LABOUM) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 05:18:14 GMT</pubDate>
+            <pubDate>Mon, 08 Nov 2021 06:24:12 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 7탄! 동화 속 여왕 같은 신비로운 분위기를 자아내며 컴백한 라붐이 ‘상상더하기’ 역주행 이후 또 한 번 우리 곁으로 찾아왔습니다. 멤버들이 직접 답하는 가식없는 솔직한 답변들!  다 함께 만나보시죠 :)]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211105_201/16360758274504EzLd_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
