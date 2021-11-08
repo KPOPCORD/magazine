@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 08:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 09:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -363,6 +363,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XGSM3PG842TV0SOQSLYN/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[튠 (TUNE), 싱글 [문래동] 작업기와 아티스트 인터뷰 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11069&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11069&amp;pg=1</guid>
+            <pubDate>Mon, 08 Nov 2021 09:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11069/Mgz_Main_List_20211108155852.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[나들, 김일진, 김영민의 UNTACT CONCERT <2021 민사운드쇼> (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=11046&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=11046&amp;pg=1</guid>
@@ -419,21 +427,13 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11054/Mgz_Main_List_20211108101220.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[B차트 동향 ＃34 - 스트리밍 신기록을 세운 〈Easy On Me〉 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=11056&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=11056&amp;pg=1</guid>
-            <pubDate>Fri, 05 Nov 2021 06:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[POP 컬렉션]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11056/Mgz_Main_List_20211105142317.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[무엇이든 물어보세요 : 
-라붐(LABOUM) (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[New Release #66 : 
+머라이어 캐리, 2AM (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 08 Nov 2021 08:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 7탄! 동화 속 여왕 같은 신비로운 분위기를 자아내며 컴백한 라붐이 ‘상상더하기’ 역주행 이후 또 한 번 우리 곁으로 찾아왔습니다. 멤버들이 직접 답하는 가식없는 솔직한 답변들!  다 함께 만나보시죠 :)]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20211105_201/16360758274504EzLd_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <pubDate>Mon, 08 Nov 2021 09:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[크리스마스 신곡으로 돌아온 캐롤 퀸 머라이어 캐리와 7년 만에 완전체로 돌아온 2AM. 지금 주목해야 할 트렌디하고 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20211108_202/1636347987624Kt8it_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
