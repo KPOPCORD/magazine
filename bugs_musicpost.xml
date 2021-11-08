@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 02:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 03:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경다솜 - '위로가 필요해' 자켓 촬영 비하인드 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/5UZ58QSX9GWW53619RYS?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/5UZ58QSX9GWW53619RYS?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 08 Nov 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/5UZ58QSX9GWW53619RYS/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[짙은(Zitten) - 4년 만에 EP ‘수면에서’로 돌아온 ‘짙은’이 소개해주는 앨범 감상 포인트!]]></title>
             <link>https://music.bugs.co.kr/musicpost/Q7JHWWR19NNYSI6TCENP?&amp;wl_ref=list_sp_01_h</link>
@@ -39,7 +47,7 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우재 (WOOJAE) - 스페셜 인터뷰, 우재가 들려주는 ‘감정의 사치’ 작업 비하인드]]></title>
+            <title><![CDATA[우재 (WOOJAE) - 스페셜 인터뷰, 우재가 들려주는 '감정의 사치' 작업 비하인드]]></title>
             <link>https://music.bugs.co.kr/musicpost/M8NR08NLTE50O88UBA5A?&amp;wl_ref=list_sp_01_h</link>
             <guid>https://music.bugs.co.kr/musicpost/M8NR08NLTE50O88UBA5A?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Mon, 01 Nov 2021 04:25:34 GMT</pubDate>
@@ -182,14 +190,6 @@
             <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XGSM3PG842TV0SOQSLYN/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우재 (WOOJAE) - 싱어송라이터 우재(WOOJAE), '철수의 고백' 발매 인터뷰]]></title>
-            <link>https://music.bugs.co.kr/musicpost/FCLS2PIYZ7UEVZ3OE8AH?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/FCLS2PIYZ7UEVZ3OE8AH?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/FCLS2PIYZ7UEVZ3OE8AH/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
