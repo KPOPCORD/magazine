@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 09:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 10:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이유 ‘strawberry moon’, 빌보드 케이팝 100 차트 2주 연속 1위 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/722</link>
+            <guid>http://billboard.co.kr/main/news/view/722</guid>
+            <pubDate>Tue, 09 Nov 2021 10:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/722">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211109190750_9.png" alt="아이유 ‘strawberry moon’, 빌보드 케이팝 100 차트 2주 연속 1위" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>아이유 ‘strawberry moon’, 빌보드 케이팝 100 차트 2주 연속 1위</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211109190750_9.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이달의 빌보드 HOT 100 총정리(10/9~11/6) (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/721</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211012185411_14.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 빌보드 HOT 100 총정리(9/11~10/2) (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/709</link>
-            <guid>http://billboard.co.kr/main/news/view/709</guid>
-            <pubDate>Tue, 12 Oct 2021 05:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/709">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211012102909_7.png" alt="이달의 빌보드 HOT 100 총정리(9/11~10/2)" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>이달의 빌보드 HOT 100 총정리(9/11~10/2)</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211012102909_7.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[경다솜 - '위로가 필요해' 자켓 촬영 비하인드 공개 (벅스 ─ 뮤직포스트)]]></title>
@@ -431,7 +431,7 @@
 포스트 말론 X 위켄드 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 09 Nov 2021 09:19:52 GMT</pubDate>
+            <pubDate>Tue, 09 Nov 2021 10:21:52 GMT</pubDate>
             <content:encoded><![CDATA[지난주 트래비스 스캇, 실크 소닉 등 쟁쟁한 아티스트들이 같은 시각에 싱글을 발표해 많은 이들의 눈길을 끌었다. 하지만, 이 중에서도 가장 눈에 띄는 차트 성적을 거두는 이들이 있으니. 바로 포스트 말론과 위켄드다. 현시대 대중음악을 대표하는 두 명의 팝스타들이 함께 뭉친 만큼, 이들의 콜라보는 소식만으로도 화제가 되었다. 그렇다면 이 주의 디깅에서는 당 시대의 스타들이 함께해 차트에서 높은 순위를 기록한 노래를 알아보도록 하자. – 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211109_217/1636422999209LYz9Q_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
