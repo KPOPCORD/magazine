@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 06:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 07:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재즈의 새로운 고전 ＃21 - 예술성과 깊이를 한 차원 더 격상시킨 걸작 'G...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11073&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11073&amp;pg=1</guid>
+            <pubDate>Tue, 09 Nov 2021 07:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11073/Mgz_Main_List_20211109153815.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[웨스트엔드로의 화려한 복귀, 앤드루 로이드 웨버의 ‘교향적 모음곡’]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11072&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 08 Nov 2021 09:19:53 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11069/Mgz_Main_List_20211108155852.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[나들, 김일진, 김영민의 UNTACT CONCERT <2021 민사운드쇼>]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=11046&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=11046&amp;pg=1</guid>
-            <pubDate>Mon, 08 Nov 2021 06:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[공연]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11046/Mgz_Main_List_20211105155653.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
