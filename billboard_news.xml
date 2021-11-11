@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 09:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 10:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HITC 페스티벌을 뜨겁게 달군 한국 아티스트]]></title>
+            <link>http://billboard.co.kr/main/news/view/725</link>
+            <guid>http://billboard.co.kr/main/news/view/725</guid>
+            <pubDate>Thu, 11 Nov 2021 10:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/725">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211111181714_5.JPG" alt="HITC 페스티벌을 뜨겁게 달군 한국 아티스트" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>HITC 페스티벌을 뜨겁게 달군 한국 아티스트</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211111181714_5.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[미스틱스토리의 첫 걸그룹 빌리 데뷔]]></title>
             <link>http://billboard.co.kr/main/news/view/724</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211018154853_0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Easy On Me’로 새 챕터의 시작을 연 아델]]></title>
-            <link>http://billboard.co.kr/main/news/view/713</link>
-            <guid>http://billboard.co.kr/main/news/view/713</guid>
-            <pubDate>Fri, 15 Oct 2021 14:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/713">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211015221107_6.jpg" alt="‘Easy On Me’로 새 챕터의 시작을 연 아델" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>‘Easy On Me’로 새 챕터의 시작을 연 아델</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211015221107_6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
