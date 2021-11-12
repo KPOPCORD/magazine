@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 06:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 07:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -363,6 +363,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XGSM3PG842TV0SOQSLYN/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[진솔한 교감으로 서로에게 다가선 두 연주자 '준킴 & 이한얼' 외 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11138&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11138&amp;pg=1</guid>
+            <pubDate>Fri, 12 Nov 2021 07:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11138/Mgz_Main_List_20211112160643.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[사랑은 단순해! 각과 틀을 깨는 ‘SCIENTIST’ 트와이스! (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11076&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11076&amp;pg=1</guid>
@@ -419,19 +427,11 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11090/Mgz_Main_List_20211111113407.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[영원한 사랑에 대하여! B.I 하프앨범 [COSMOS] 뮤직비디오 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11074&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11074&amp;pg=1</guid>
-            <pubDate>Thu, 11 Nov 2021 09:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11074/Mgz_Main_List_20211110140149.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[지구를 지키는 
 케이팝 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 12 Nov 2021 06:24:07 GMT</pubDate>
+            <pubDate>Fri, 12 Nov 2021 07:19:26 GMT</pubDate>
             <content:encoded><![CDATA[지난 9월 UN 총회에서 연설을 한 방탄소년단은 “기후변화가 중요한 문제라는 건 다들 공감하시지만 어떤 게 최선의 해결 방법이라고 이야기하는 건 정말 쉽지 않다”라고 말했다. 최선의 방법을 찾기 위해 11월 스코틀랜드에 전 세계의 리더들이 모여 기후 위기 대응을 논의한다. 블랙핑크가 홍보대사로 있는 UN COP26(기후변화협약 당사국총회)을 기념하며 국내 다양한 아티스트들의 친환경 행보를 살펴보자. – KPOP4PLANET]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211111_260/16366267825435wSUn_JPEG/0.jpeg?type=w720" length="0" type="image/jpeg"/>
         </item>
