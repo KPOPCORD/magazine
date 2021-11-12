@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 09:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 10:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이색 콘셉트로 돌아온 트와이스 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/726</link>
+            <guid>http://billboard.co.kr/main/news/view/726</guid>
+            <pubDate>Fri, 12 Nov 2021 10:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/726">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211112182822_9.jpg" alt="이색 콘셉트로 돌아온 트와이스" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>이색 콘셉트로 돌아온 트와이스</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211112182822_9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HITC 페스티벌을 뜨겁게 달군 한국 아티스트 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/725</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211019193202_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위기를 기회로 삼는 케이팝 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/717</link>
-            <guid>http://billboard.co.kr/main/news/view/717</guid>
-            <pubDate>Mon, 18 Oct 2021 08:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/717">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211018154853_0.png" alt="위기를 기회로 삼는 케이팝" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>위기를 기회로 삼는 케이팝</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211018154853_0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[경다솜 - '위로가 필요해' 자켓 촬영 비하인드 공개 (벅스 ─ 뮤직포스트)]]></title>
@@ -431,7 +431,7 @@
 케이팝 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 12 Nov 2021 09:19:46 GMT</pubDate>
+            <pubDate>Fri, 12 Nov 2021 10:22:13 GMT</pubDate>
             <content:encoded><![CDATA[지난 9월 UN 총회에서 연설을 한 방탄소년단은 “기후변화가 중요한 문제라는 건 다들 공감하시지만 어떤 게 최선의 해결 방법이라고 이야기하는 건 정말 쉽지 않다”라고 말했다. 최선의 방법을 찾기 위해 11월 스코틀랜드에 전 세계의 리더들이 모여 기후 위기 대응을 논의한다. 블랙핑크가 홍보대사로 있는 UN COP26(기후변화협약 당사국총회)을 기념하며 국내 다양한 아티스트들의 친환경 행보를 살펴보자. – KPOP4PLANET]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211111_260/16366267825435wSUn_JPEG/0.jpeg?type=w720" length="0" type="image/jpeg"/>
         </item>
