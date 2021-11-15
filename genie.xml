@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 06:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 07:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다정함과 귀여움에 행복해지는 곳 <프레젠트모먼트>]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11146&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11146&amp;pg=1</guid>
+            <pubDate>Mon, 15 Nov 2021 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11146/Mgz_Main_List_20211115152632.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[POP 스튜디오 ＃48 조금씩, 천천히, 너에게]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=11145&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 12 Nov 2021 09:19:30 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11137/Mgz_Main_List_20211112174515.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[UK 브리스톨 포스트 펑크 씬의 첨병 'IDLES' [CRAWLER]]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11136&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11136&amp;pg=1</guid>
-            <pubDate>Fri, 12 Nov 2021 09:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11136/Mgz_Main_List_20211112140643.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>

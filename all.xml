@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 06:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 07:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -363,6 +363,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XGSM3PG842TV0SOQSLYN/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다정함과 귀여움에 행복해지는 곳 <프레젠트모먼트> (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11146&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11146&amp;pg=1</guid>
+            <pubDate>Mon, 15 Nov 2021 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11146/Mgz_Main_List_20211115152632.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[POP 스튜디오 ＃48 조금씩, 천천히, 너에게 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=11145&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=11145&amp;pg=1</guid>
@@ -419,21 +427,13 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11137/Mgz_Main_List_20211112174515.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[UK 브리스톨 포스트 펑크 씬의 첨병 'IDLES' [CRAWLER] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11136&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11136&amp;pg=1</guid>
-            <pubDate>Fri, 12 Nov 2021 09:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11136/Mgz_Main_List_20211112140643.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[쇼미더머니 화제의 참가자들 : 
 산이, 자메즈 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 15 Nov 2021 06:24:26 GMT</pubDate>
+            <pubDate>Mon, 15 Nov 2021 07:20:23 GMT</pubDate>
             <content:encoded><![CDATA[엠넷의 예능 프로그램 &lt;쇼미더머니 10&gt;이 어느덧 음원 미션을 앞두고 있다. 아직 방송이 끝난 건 아니지만, 이번 시즌은 힙합 씬 내외적으로 여러 이슈를 낳고 있다. 특히 최근에는 여러 래퍼가 본격적인 무대 경연의 시작인 1차 경연을 앞두고 탈락하며 많은 이의 아쉬움을 자아내고 있다. 이번 기사에서는 &lt;쇼미더머니 10&gt;에서 더 볼 수 없어 아쉬운 래퍼들과 각자의 매력이 담긴 노래를 준비했다. - 힙합엘이]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20211105_30/1636088637246oYIcQ_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+            <enclosure url="https://music-phinf.pstatic.net/20211115_187/16369592056527LncM_JPEG/1.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
