@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 08:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 09:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해리 스타일스의 네일 폴리시 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/727</link>
+            <guid>http://billboard.co.kr/main/news/view/727</guid>
+            <pubDate>Tue, 16 Nov 2021 09:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/727">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211116180515_3.jpg" alt="해리 스타일스의 네일 폴리시" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>해리 스타일스의 네일 폴리시</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211116180515_3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이색 콘셉트로 돌아온 트와이스 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/726</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211026190650_7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[케이팝 100, 이무진 ‘신호등’ 7주 1위 & 에스파 ‘Savage’ 톱 5 진입 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/718</link>
-            <guid>http://billboard.co.kr/main/news/view/718</guid>
-            <pubDate>Tue, 19 Oct 2021 11:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/718">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211019193202_1.png" alt="케이팝 100, 이무진 ‘신호등’ 7주 1위 &amp; 에스파 ‘Savage’ 톱 5 진입" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>케이팝 100, 이무진 ‘신호등’ 7주 1위 &amp; 에스파 ‘Savage’ 톱 5 진입</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211019193202_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[경다솜 - '위로가 필요해' 자켓 촬영 비하인드 공개 (벅스 ─ 뮤직포스트)]]></title>
@@ -363,6 +363,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XGSM3PG842TV0SOQSLYN/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김미정 신곡 [9호선 소녀 (ft. D-HACK)] 발매 기념 인터뷰 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11141&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11141&amp;pg=1</guid>
+            <pubDate>Tue, 16 Nov 2021 09:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11141/Mgz_Main_List_20211116163911.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[노래와 함께 해온 30년 - KBS ‘노래의 날개 위에’ 30주년 기념 앨범 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11150&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11150&amp;pg=1</guid>
@@ -419,19 +427,11 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11142/Mgz_Main_List_20211115151156.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[다정함과 귀여움에 행복해지는 곳 <프레젠트모먼트> (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11146&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11146&amp;pg=1</guid>
-            <pubDate>Mon, 15 Nov 2021 07:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11146/Mgz_Main_List_20211115152632.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[New Release #67 : 
 테일러 스위프트, 트와이스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 16 Nov 2021 08:23:56 GMT</pubDate>
+            <pubDate>Tue, 16 Nov 2021 09:20:11 GMT</pubDate>
             <content:encoded><![CDATA[재녹음 앨범을 발표한 테일러 스위프트, 세 번째 정규 앨범을 발매하며 앤 마리와 협업한 트와이스까지. 지금 주목해야 할 트렌디하고 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211115_252/1636961890308iffDA_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>

@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 08:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 09:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해리 스타일스의 네일 폴리시]]></title>
+            <link>http://billboard.co.kr/main/news/view/727</link>
+            <guid>http://billboard.co.kr/main/news/view/727</guid>
+            <pubDate>Tue, 16 Nov 2021 09:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/727">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211116180515_3.jpg" alt="해리 스타일스의 네일 폴리시" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>해리 스타일스의 네일 폴리시</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211116180515_3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이색 콘셉트로 돌아온 트와이스]]></title>
             <link>http://billboard.co.kr/main/news/view/726</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211026190650_7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[케이팝 100, 이무진 ‘신호등’ 7주 1위 & 에스파 ‘Savage’ 톱 5 진입]]></title>
-            <link>http://billboard.co.kr/main/news/view/718</link>
-            <guid>http://billboard.co.kr/main/news/view/718</guid>
-            <pubDate>Tue, 19 Oct 2021 11:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/718">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211019193202_1.png" alt="케이팝 100, 이무진 ‘신호등’ 7주 1위 &amp; 에스파 ‘Savage’ 톱 5 진입" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>케이팝 100, 이무진 ‘신호등’ 7주 1위 &amp; 에스파 ‘Savage’ 톱 5 진입</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211019193202_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

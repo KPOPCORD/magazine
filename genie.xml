@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 08:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 09:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김미정 신곡 [9호선 소녀 (ft. D-HACK)] 발매 기념 인터뷰]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11141&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11141&amp;pg=1</guid>
+            <pubDate>Tue, 16 Nov 2021 09:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11141/Mgz_Main_List_20211116163911.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[노래와 함께 해온 30년 - KBS ‘노래의 날개 위에’ 30주년 기념 앨범]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11150&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 15 Nov 2021 09:20:05 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11142/Mgz_Main_List_20211115151156.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[다정함과 귀여움에 행복해지는 곳 <프레젠트모먼트>]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11146&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11146&amp;pg=1</guid>
-            <pubDate>Mon, 15 Nov 2021 07:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11146/Mgz_Main_List_20211115152632.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
