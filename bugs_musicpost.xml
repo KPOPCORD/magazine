@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 04:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 05:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2021년 11월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/9OFUDBOY2LX7ZMMBORJD?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/9OFUDBOY2LX7ZMMBORJD?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 17 Nov 2021 05:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[경다솜 - '위로가 필요해' 자켓 촬영 비하인드 공개]]></title>
             <link>https://music.bugs.co.kr/musicpost/5UZ58QSX9GWW53619RYS?&amp;wl_ref=list_sp_01_h</link>
@@ -182,14 +189,6 @@
             <guid>https://music.bugs.co.kr/musicpost/5ZGAUAZX9WXD8PNXJ5ZP?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박지훈 - 네 번째 미니앨범 [My Collection] 자켓 촬영 현장 공개]]></title>
-            <link>https://music.bugs.co.kr/musicpost/XGSM3PG842TV0SOQSLYN?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/XGSM3PG842TV0SOQSLYN?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XGSM3PG842TV0SOQSLYN/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
