@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 02:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 03:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -363,6 +363,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XGSM3PG842TV0SOQSLYN/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오드캣 (ODD-CAT) 새 싱글 [별빛을 따라] M/V 촬영 & 녹음 현장 ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11154&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11154&amp;pg=1</guid>
+            <pubDate>Wed, 17 Nov 2021 03:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11154/Mgz_Main_List_20211117105059.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[김미정 신곡 [9호선 소녀 (ft. D-HACK)] 발매 기념 인터뷰 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11141&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11141&amp;pg=1</guid>
@@ -419,19 +427,11 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11144/Mgz_Main_List_20211115112707.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[손태진 The Present [At The Time] 인터뷰 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11142&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11142&amp;pg=1</guid>
-            <pubDate>Mon, 15 Nov 2021 09:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11142/Mgz_Main_List_20211115151156.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[New Release #67 : 
 테일러 스위프트, 트와이스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 17 Nov 2021 02:04:32 GMT</pubDate>
+            <pubDate>Wed, 17 Nov 2021 03:21:05 GMT</pubDate>
             <content:encoded><![CDATA[재녹음 앨범을 발표한 테일러 스위프트, 세 번째 정규 앨범을 발매하며 앤 마리와 협업한 트와이스까지. 지금 주목해야 할 트렌디하고 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211115_252/1636961890308iffDA_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
