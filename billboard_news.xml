@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 08:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 09:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS, 아시아 가수 최초로 AMA '올해의 아티스트' 수상]]></title>
+            <link>http://billboard.co.kr/main/news/view/731</link>
+            <guid>http://billboard.co.kr/main/news/view/731</guid>
+            <pubDate>Mon, 22 Nov 2021 09:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/731">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211122172425_0.jpg" alt="BTS, 아시아 가수 최초로 AMA '올해의 아티스트' 수상" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>BTS, 아시아 가수 최초로 AMA '올해의 아티스트' 수상</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211122172425_0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케이팝 100, 아이유 ‘strawberry moon’ 3주 1위 & 쇼미더머니 미션곡 톱 10 데뷔]]></title>
             <link>http://billboard.co.kr/main/news/view/729</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211109191048_19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 빌보드 HOT 100 총정리(10/9~11/6)]]></title>
-            <link>http://billboard.co.kr/main/news/view/721</link>
-            <guid>http://billboard.co.kr/main/news/view/721</guid>
-            <pubDate>Tue, 09 Nov 2021 04:25:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/721">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211109124005_15.png" alt="이달의 빌보드 HOT 100 총정리(10/9~11/6)" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>이달의 빌보드 HOT 100 총정리(10/9~11/6)</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211109124005_15.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
