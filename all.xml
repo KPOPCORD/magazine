@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 02:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 03:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211111181714_5.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[레터 플로우 - 홀로서기 이후 첫 번째 정규 앨범 [기억의 조각들]이 나오기까지의 이야기! (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/UXYWHA8ZH8778FZIVMRR?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/UXYWHA8ZH8778FZIVMRR?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Nov 2021 03:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/UXYWHA8ZH8778FZIVMRR/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카페25 위드 콘서트 - 음악으로 전하는 따뜻한 위로 with 벤, 2F (벅스 ─ 뮤직포스트)]]></title>
@@ -355,12 +363,28 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Chris James - 방탄소년단 'Life Goes On' 공동작곡가, 싱어송라이터 Chris James 앨범 발매 기념 인터뷰! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/IKD7XYVL5L82IY3HH2IS?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/IKD7XYVL5L82IY3HH2IS?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/IKD7XYVL5L82IY3HH2IS/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[성공해서 가족 곁으로 다시 돌아갈게, heroincity '집으로' MV 제작... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11276&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11276&amp;pg=1</guid>
+            <pubDate>Wed, 24 Nov 2021 03:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11275/Mgz_Main_List_20211123184927.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track.2 참솜 ‘넌 무슨 생각해’ 메이킹 인터뷰 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11267&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11267&amp;pg=1</guid>
+            <pubDate>Wed, 24 Nov 2021 03:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11267/Mgz_Main_List_20211123163209.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[PL(피엘)의 첫 리메이크 앨범 [거리마다 계절마다] 발매 인터뷰&라이브 클립... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11266&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11266&amp;pg=1</guid>
+            <pubDate>Wed, 24 Nov 2021 03:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11266/Mgz_Main_List_20211123163123.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA['비아이지(B.I.G)' [MR. BIG : FLASHBACK] M/V 촬영 ... (지니 ─ 매거진)]]></title>
@@ -401,30 +425,6 @@
             <pubDate>Tue, 23 Nov 2021 03:20:39 GMT</pubDate>
             <content:encoded><![CDATA[가요 탐구생활]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11268/Mgz_Main_List_20211123114706.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 스물을 응원합니다, from20 첫 번째 정규 앨범 [20] 발매 기념... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11265&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11265&amp;pg=1</guid>
-            <pubDate>Tue, 23 Nov 2021 03:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11264/Mgz_Main_List_20211122142841.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[‘사랑’이 전부인 세계로의 초대, 〈미워하는 미워하는 미워하는 마음 없이〉 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=37&amp;mgz_seq=11261&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=37&amp;mgz_seq=11261&amp;pg=1</guid>
-            <pubDate>Tue, 23 Nov 2021 03:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[책과 음악이 있는 공간]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11261/Mgz_Main_List_20211123110300.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[밴드 '몽니 (MONNI)'의 정규 5집 [Firmament] 녹음 현장 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11264&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11264&amp;pg=1</guid>
-            <pubDate>Mon, 22 Nov 2021 09:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11264/Mgz_Main_List_20211122163809.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #68 : 
@@ -1321,7 +1321,7 @@ aespa (VIBE ─ 매거진)]]></title>
 에이브릴 라빈 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 24 Nov 2021 02:05:09 GMT</pubDate>
+            <pubDate>Wed, 24 Nov 2021 03:21:13 GMT</pubDate>
             <content:encoded><![CDATA[팝 감성의 캐치한 멜로디와 시원한 록 사운드로 2000년대 초중반 최전성기를 맞았던 장르 ‘팝 펑크’의 재유행과 함께, 당대 최고 인기를 누렸던 에이브릴 라빈이 다시금 주목받고 있다. 20년 전 세상을 휩쓸던 록 사운드와 짙은 아이라인은 이제 새로운 세대의 손을 거쳐 다시 태어나고 있다. 에이브릴 라빈, 그리고 록 음악은 제2의 전성기를 맞이할 수 있을까? - 파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211123_136/1637632652243kyBJ3_JPEG/%C4%BF%B9%F61.jpg?type=w840" length="0" type="image/jpg"/>
         </item>

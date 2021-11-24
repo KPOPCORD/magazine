@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 02:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 03:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레터 플로우 - 홀로서기 이후 첫 번째 정규 앨범 [기억의 조각들]이 나오기까지의 이야기!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/UXYWHA8ZH8778FZIVMRR?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/UXYWHA8ZH8778FZIVMRR?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Nov 2021 03:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/UXYWHA8ZH8778FZIVMRR/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카페25 위드 콘서트 - 음악으로 전하는 따뜻한 위로 with 벤, 2F]]></title>
             <link>https://music.bugs.co.kr/musicpost/56MVJ427WKF5PGI04W3G?&amp;wl_ref=list_sp_01_h</link>
@@ -182,14 +190,6 @@
             <guid>https://music.bugs.co.kr/musicpost/Y6D4CCEGZB73Z7WKZYCL?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Chris James - 방탄소년단 'Life Goes On' 공동작곡가, 싱어송라이터 Chris James 앨범 발매 기념 인터뷰!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/IKD7XYVL5L82IY3HH2IS?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/IKD7XYVL5L82IY3HH2IS?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/IKD7XYVL5L82IY3HH2IS/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
