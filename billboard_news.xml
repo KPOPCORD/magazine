@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 12:31:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 13:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제64회 그래미 어워즈, 어떻게 달라졌나?]]></title>
+            <link>http://billboard.co.kr/main/news/view/735</link>
+            <guid>http://billboard.co.kr/main/news/view/735</guid>
+            <pubDate>Wed, 24 Nov 2021 13:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/735">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211124191520_6.jpg" alt="제64회 그래미 어워즈, 어떻게 달라졌나?" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>제64회 그래미 어워즈, 어떻게 달라졌나?</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211124191520_6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케이팝 100, 아이유 ‘strawberry moon’ 4주 1위 & 쇼미더머니 경연곡의 톱 10 장악]]></title>
             <link>http://billboard.co.kr/main/news/view/733</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211112182822_9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HITC 페스티벌을 뜨겁게 달군 한국 아티스트]]></title>
-            <link>http://billboard.co.kr/main/news/view/725</link>
-            <guid>http://billboard.co.kr/main/news/view/725</guid>
-            <pubDate>Thu, 11 Nov 2021 10:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/725">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211111181714_5.JPG" alt="HITC 페스티벌을 뜨겁게 달군 한국 아티스트" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>HITC 페스티벌을 뜨겁게 달군 한국 아티스트</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211111181714_5.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
