@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 08:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 09:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,6 +364,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/VF5S6SVJMYG54XUPR4VP/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2F(신용재, 김원주) 1st EP ALBUM [ if ] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11298&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11298&amp;pg=1</guid>
+            <pubDate>Mon, 29 Nov 2021 09:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11297/Mgz_Main_List_20211129140616.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[청하 THE SPECIAL SINGLE [Killing Me] 뮤직비디오 비하... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11290&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11290&amp;pg=1</guid>
+            <pubDate>Mon, 29 Nov 2021 09:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11290/Mgz_Main_List_20211129150347.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[대전의 음악 아지트, 레코드 카페 <도넛> (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11299&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11299&amp;pg=1</guid>
@@ -410,22 +426,6 @@
             <pubDate>Mon, 29 Nov 2021 03:20:48 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11287/Mgz_Main_List_20211129101835.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[오직 안예은만이 그릴 수 있는 세계관과 음악, EP 앨범 [섬에서] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11285&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11285&amp;pg=1</guid>
-            <pubDate>Mon, 29 Nov 2021 03:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11284/Mgz_Main_List_20211126104019.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[지니 컬러 동향 ＃29 – 2021.11.06 ~ 11.19 발매작 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=11288&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=11288&amp;pg=1</guid>
-            <pubDate>Fri, 26 Nov 2021 03:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[지니 컬러 동향]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11287/Mgz_Main_List_20211126115308.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[마법 그 자체인 영화! 
@@ -1322,7 +1322,7 @@ aespa (VIBE ─ 매거진)]]></title>
 전소미 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 29 Nov 2021 08:24:13 GMT</pubDate>
+            <pubDate>Mon, 29 Nov 2021 09:21:10 GMT</pubDate>
             <content:encoded><![CDATA[전소미는 머무르지 않고 나아간다. 첫 정규 앨범 &lt;XOXO&gt;를 통해 이룩해낸 놀랍고도 극적인 변신은 전소미라는 매력에 빠져들게 만든다. 아주 작은 목소리, 호흡마저도 악기처럼 섬세하고, 조율한 듯 폭넓은 음악적 스펙트럼으로 눈과 귀를 단번에 사로잡는다. 하이틴 장르를 이토록 독보적으로 풀어내는 아티스트가 전소미 말고 또 있을까. 전소미의 컴백을 반가워해야 할 이유가 늘었다. – 글 주현욱, 포토 이승훈]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211124_44/1637728374131JyES1_JPEG/%C4%BF%B9%F61.jpeg?type=w840" length="0" type="image/jpeg"/>
         </item>
