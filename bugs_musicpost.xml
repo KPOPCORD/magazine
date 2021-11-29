@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 06:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 07:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차가워지는 날씨, 방안을 따뜻하게 만들어줄 앨범 8]]></title>
+            <link>https://music.bugs.co.kr/musicpost/1T05XXQN2H2SBCGDH5WI?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/1T05XXQN2H2SBCGDH5WI?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 29 Nov 2021 07:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[GHOST9(고스트나인) - 'NOW' 시리즈 마무리! 열정으로 가득 찬 'Control' 녹음 현장]]></title>
             <link>https://music.bugs.co.kr/musicpost/EVJUYOI9S3GSHF5HPKGY?&amp;wl_ref=list_sp_01_h</link>
@@ -184,13 +191,6 @@
             <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/VF5S6SVJMYG54XUPR4VP/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선선한 바람 맞으며 즐기는 감각적인 R&B 앨범 7]]></title>
-            <link>https://music.bugs.co.kr/musicpost/VWOT7V7NRLHQ009KNAFE?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/VWOT7V7NRLHQ009KNAFE?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
