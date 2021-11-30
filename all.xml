@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 05:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 06:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,6 +372,14 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11302/Mgz_Main_List_20211130110117.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
+            <title><![CDATA[알앤비 레전드 ＃10 ‘크리스마스의 그녀’ 머라이어 캐리 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11301&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11301&amp;pg=1</guid>
+            <pubDate>Tue, 30 Nov 2021 06:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11301/Mgz_Main_List_20211130122458.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[싱어송라이터 송예린 EP앨범 [바다] 녹음 현장 비하인드 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11321&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11321&amp;pg=1</guid>
@@ -418,14 +426,6 @@
             <pubDate>Mon, 29 Nov 2021 09:20:37 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11290/Mgz_Main_List_20211129150347.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[대전의 음악 아지트, 레코드 카페 <도넛> (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11299&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11299&amp;pg=1</guid>
-            <pubDate>Mon, 29 Nov 2021 07:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11299/Mgz_Main_List_20211129154401.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #69 : 
@@ -1322,7 +1322,7 @@ aespa (VIBE ─ 매거진)]]></title>
 <풍류 대장> (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 05:16:11 GMT</pubDate>
+            <pubDate>Tue, 30 Nov 2021 06:20:06 GMT</pubDate>
             <content:encoded><![CDATA[이제 곧, 우리가 만나게 될 최고들이 가려진다! 국악의 대중화와 세계화를 선도하는데 앞장서고 있는 &lt;풍류 대장&gt;은 매회 파격적인 편곡과 압도적인 퍼포먼스를 선보이며 시청자들에게 ‘희한하게 익숙하지만, 아름답게 낯선’ 매력을 가진 국악의 멋을 알렸다. 치열한 경쟁을 통해서 4Round 진출에 성공한 것은 총 23팀. 이들이 이뤄낸 그동안의 활약상을 되짚어보자.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211126_138/1637908995851t101j_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
