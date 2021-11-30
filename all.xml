@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 09:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 10:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 정상 등극 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/739</link>
+            <guid>http://billboard.co.kr/main/news/view/739</guid>
+            <pubDate>Tue, 30 Nov 2021 10:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/739">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211130185646_2.png" alt="소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 정상 등극" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 정상 등극</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211130185646_2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[컴백을 앞둔 송민호가 준비한 선물 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/738</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211122172425_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케이팝 100, 아이유 ‘strawberry moon’ 3주 1위 & 쇼미더머니 미션곡 톱 10 데뷔 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/729</link>
-            <guid>http://billboard.co.kr/main/news/view/729</guid>
-            <pubDate>Tue, 16 Nov 2021 10:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/729">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211116185001_16.png" alt="케이팝 100, 아이유 ‘strawberry moon’ 3주 1위 &amp; 쇼미더머니 미션곡 톱 10 데뷔" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>케이팝 100, 아이유 ‘strawberry moon’ 3주 1위 &amp; 쇼미더머니 미션곡 톱 10 데뷔</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211116185001_16.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[차가워지는 날씨, 방안을 따뜻하게 만들어줄 앨범 8 (벅스 ─ 뮤직포스트)]]></title>
@@ -1322,7 +1322,7 @@ aespa (VIBE ─ 매거진)]]></title>
 <풍류 대장> (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 30 Nov 2021 09:17:54 GMT</pubDate>
+            <pubDate>Tue, 30 Nov 2021 10:19:32 GMT</pubDate>
             <content:encoded><![CDATA[이제 곧, 우리가 만나게 될 최고들이 가려진다! 국악의 대중화와 세계화를 선도하는데 앞장서고 있는 &lt;풍류 대장&gt;은 매회 파격적인 편곡과 압도적인 퍼포먼스를 선보이며 시청자들에게 ‘희한하게 익숙하지만, 아름답게 낯선’ 매력을 가진 국악의 멋을 알렸다. 치열한 경쟁을 통해서 4Round 진출에 성공한 것은 총 23팀. 이들이 이뤄낸 그동안의 활약상을 되짚어보자.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211126_138/1637908995851t101j_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
