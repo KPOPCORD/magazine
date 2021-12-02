@@ -6,6 +6,7 @@ titleSelector = "div.txt span"
 linkSelector = "a"
 imageSelector = "div.img-con img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [bugs_musicpost]
 title = "벅스 ─ 뮤직포스트"
@@ -15,6 +16,8 @@ titleSelector = "a[class^='title']"
 linkSelector = "a"
 imageSelector = "a.thumbnail.hyrend img"
 contentSelector = "a.category"
+waitUntil = "networkidle"
+onFail = "stale"
 
 [genie]
 title = "지니 ─ 매거진"
@@ -24,6 +27,8 @@ titleSelector = "p.title"
 linkSelector = "a"
 imageSelector = "div.cover img"
 contentSelector = "div.info strong.category"
+waitUntil = "networkidle"
+onFail = "stale"
 
 [vibe]
 title = "VIBE ─ 매거진"
