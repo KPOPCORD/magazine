@@ -51,3 +51,13 @@ imageSelector = "div.thumb img"
 contentSelector = "div.info"
 waitForSelector = "div.link_wrap"
 onFail = "stale"
+
+[hyundaicard_dive_post]
+title = "현대카드 DIVE ─ POST"
+url = "https://dive.hyundaicard.com/web/post/post.hdc"
+entrySelector = "ul.list-card li.box-card"
+titleSelector = "p.tit"
+linkSelector = "a"
+contentSelector = "p.summary"
+imageSelector = "span.thum img"
+waitUntil = "networkidle"
