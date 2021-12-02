@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 07:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 08:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211123105632_3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카페25 위드 콘서트 - 음악으로 전하는 따뜻한 위로 with 알리, 2F(신용재, 김원주) (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/F4S4FNVPNRD2R70GDQNU?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/F4S4FNVPNRD2R70GDQNU?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 02 Dec 2021 08:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/F4S4FNVPNRD2R70GDQNU/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차가워지는 날씨, 방안을 따뜻하게 만들어줄 앨범 8 (벅스 ─ 뮤직포스트)]]></title>
@@ -354,14 +362,6 @@
             <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9MGW6ORPANF8M7DBLSKC/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍혜란, 최원휘 - 세계 정상의 성악가 부부가 들려주는 위로와 공감, 치유의 멜로디 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/VF5S6SVJMYG54XUPR4VP?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/VF5S6SVJMYG54XUPR4VP?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/VF5S6SVJMYG54XUPR4VP/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[힙합 따라잡기 ＃49 - 08 베이식이 뭐길래? 베이식 커리어 훑어보기 (지니 ─ 매거진)]]></title>
@@ -1322,7 +1322,7 @@ aespa (VIBE ─ 매거진)]]></title>
 변화와 불변 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 02 Dec 2021 07:19:49 GMT</pubDate>
+            <pubDate>Thu, 02 Dec 2021 08:24:01 GMT</pubDate>
             <content:encoded><![CDATA[지금까지 장우혁이 해 온 강렬한 퍼포먼스를 기대하지 말 것. 하지만 한결같이 노력하고 연습하고 도전하는 장우혁의 새롭고 유연한 시도를 즐길 것.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211201_69/1638328884826cRaPA_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
