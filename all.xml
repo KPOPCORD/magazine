@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 04:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 05:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,6 +364,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/VF5S6SVJMYG54XUPR4VP/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[힙합 따라잡기 ＃49 - 08 베이식이 뭐길래? 베이식 커리어 훑어보기 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11339&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11339&amp;pg=1</guid>
+            <pubDate>Thu, 02 Dec 2021 05:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11339/Mgz_Main_List_20211202140708.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[KIMKIMPARKKIM's 플레이리스트 가이드 ＃13 - 우리가 사랑했던 레... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11338&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11338&amp;pg=1</guid>
@@ -418,14 +426,6 @@
             <pubDate>Thu, 02 Dec 2021 04:25:57 GMT</pubDate>
             <content:encoded><![CDATA[공연]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11323/Mgz_Main_List_20211130143621.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[EVERGLOW (에버글로우) [Return of The Girl] 자켓 촬영... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11335&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11335&amp;pg=1</guid>
-            <pubDate>Wed, 01 Dec 2021 10:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11334/Mgz_Main_List_20211201164415.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[힙한 소리꾼들의 전쟁, 
@@ -1322,7 +1322,7 @@ aespa (VIBE ─ 매거진)]]></title>
 변화와 불변 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 02 Dec 2021 04:26:25 GMT</pubDate>
+            <pubDate>Thu, 02 Dec 2021 05:18:40 GMT</pubDate>
             <content:encoded><![CDATA[지금까지 장우혁이 해 온 강렬한 퍼포먼스를 기대하지 말 것. 하지만 한결같이 노력하고 연습하고 도전하는 장우혁의 새롭고 유연한 시도를 즐길 것.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211201_69/1638328884826cRaPA_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
