@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 08:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 09:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국의 진짜 멋을 담다, Feel The Rhythm of Korea : Season2]]></title>
+            <link>http://billboard.co.kr/main/news/view/742</link>
+            <guid>http://billboard.co.kr/main/news/view/742</guid>
+            <pubDate>Fri, 03 Dec 2021 09:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/742">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211203163029_0.jpg" alt="한국의 진짜 멋을 담다, Feel The Rhythm of Korea : Season2" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>한국의 진짜 멋을 담다, Feel The Rhythm of Korea : Season2</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211203163029_0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT, 정규 3집 타이틀곡 선공개]]></title>
             <link>http://billboard.co.kr/main/news/view/741</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211123183758_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스의 빌보드 기록 총정리]]></title>
-            <link>http://billboard.co.kr/main/news/view/732</link>
-            <guid>http://billboard.co.kr/main/news/view/732</guid>
-            <pubDate>Tue, 23 Nov 2021 03:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/732">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211123121356_12.jpg" alt="트와이스의 빌보드 기록 총정리" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>트와이스의 빌보드 기록 총정리</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211123121356_12.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

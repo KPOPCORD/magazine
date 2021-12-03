@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 08:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 09:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국의 진짜 멋을 담다, Feel The Rhythm of Korea : Season2 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/742</link>
+            <guid>http://billboard.co.kr/main/news/view/742</guid>
+            <pubDate>Fri, 03 Dec 2021 09:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/742">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211203163029_0.jpg" alt="한국의 진짜 멋을 담다, Feel The Rhythm of Korea : Season2" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>한국의 진짜 멋을 담다, Feel The Rhythm of Korea : Season2</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211203163029_0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT, 정규 3집 타이틀곡 선공개 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/741</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211123183758_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스의 빌보드 기록 총정리 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/732</link>
-            <guid>http://billboard.co.kr/main/news/view/732</guid>
-            <pubDate>Tue, 23 Nov 2021 03:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/732">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211123121356_12.jpg" alt="트와이스의 빌보드 기록 총정리" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>트와이스의 빌보드 기록 총정리</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211123121356_12.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카페25 위드 콘서트 - 음악으로 전하는 따뜻한 위로 with 알리, 2F(신용재, 김원주) (벅스 ─ 뮤직포스트)]]></title>
@@ -364,6 +364,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9MGW6ORPANF8M7DBLSKC/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국내 최고의 여성 디바 '알리 (ALi)' 리메이크 앨범 [청춘기] 제작기 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11331&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11331&amp;pg=1</guid>
+            <pubDate>Fri, 03 Dec 2021 09:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11331/Mgz_Main_List_20211203101335.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[예수전도단 화요모임, Merry Christmas! 12월의 캐롤을 좋아하세요... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11341&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11341&amp;pg=1</guid>
@@ -418,14 +426,6 @@
             <pubDate>Thu, 02 Dec 2021 04:25:57 GMT</pubDate>
             <content:encoded><![CDATA[김김박김]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11338/Mgz_Main_List_20211202113301.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 귀를 사로잡을 'LeSon(르손)'의 새 EP [Who's Got Yo... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11337&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11337&amp;pg=1</guid>
-            <pubDate>Thu, 02 Dec 2021 04:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11337/Mgz_Main_List_20211202113420.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[장우혁, 
@@ -1322,7 +1322,7 @@ aespa (VIBE ─ 매거진)]]></title>
 요정과 디바의 차트 고지전 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 03 Dec 2021 08:24:56 GMT</pubDate>
+            <pubDate>Fri, 03 Dec 2021 09:21:42 GMT</pubDate>
             <content:encoded><![CDATA[다채로운 곡들로 가득했던 지난 한 달간의 핫 100 이었다. 아델과 테일러 스위프트는 정상을 두고 쟁탈전을 벌였으며, 섬머 워커 또한 테일러 스위프트의 동시 최다 차트인 기록을 맹추격하는 등 여성 아티스트의 활약이 돋보였다. 한편 핼러윈으로 마이클 잭슨의 오랜 명곡이 차트에 소환됐고 위켄드와 포스트 말론, 트래비스 스캇 등 화제의 신곡이 데뷔했다. 여기에 반가운 캐럴들이 하나 둘 모습을 드러내 다가올 크리스마스를 알렸다. - 빌보드코리아(이민형)]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211202_193/1638434414099cCGwl_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
