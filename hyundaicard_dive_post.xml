@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 07:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 08:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈밭에서  굴렀어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[눈부신 설경을 만날 수 있는 곳 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a02fcbbeb0c34e92b278140ab4386464.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아메리카노  말고  롱 블랙]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 12월 먼슬리 스페셜]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/71f6f566e1d14d6d9733209f114ed649.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시선강탈 팝한 컬러감]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[ZERO Edition2 한정판 디자인]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8f552c98942c42b8905d9ba4879bce86.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
