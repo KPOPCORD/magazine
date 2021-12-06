@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 05:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 06:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아메리카노  말고  롱 블랙]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[서울에서 만나는 호주식 카페]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ff57f9cc1caa46c585fb10a80bb7db97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자동차의  DNA]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[ZERO Edition2 한정판 디자인]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8f552c98942c42b8905d9ba4879bce86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프렌치 감성의  정수]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 12월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d20988475f2d48d7a1899a4eefda06bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
