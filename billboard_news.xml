@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 09:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 10:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 2주 연속 1위]]></title>
+            <link>http://billboard.co.kr/main/news/view/745</link>
+            <guid>http://billboard.co.kr/main/news/view/745</guid>
+            <pubDate>Tue, 07 Dec 2021 10:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/745">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211207163534_18.png" alt="소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 2주 연속 1위" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 2주 연속 1위</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211207163534_18.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[English Column by Jeff Benjamin] How to enjoy your “K-Vibe Festa” this Winter]]></title>
             <link>http://billboard.co.kr/main/news/view/744</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211129164146_6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제64회 그래미 어워즈 후보 명단 공개]]></title>
-            <link>http://billboard.co.kr/main/news/view/734</link>
-            <guid>http://billboard.co.kr/main/news/view/734</guid>
-            <pubDate>Mon, 29 Nov 2021 08:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/734">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211124231734_25.png" alt="제64회 그래미 어워즈 후보 명단 공개" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>제64회 그래미 어워즈 후보 명단 공개</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211124231734_25.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
