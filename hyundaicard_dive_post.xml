@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 21:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 07:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 겨울의 미술관]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[겨울을 장식하는 황홀한 비주얼의 전시 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3f600db029294cc9bdf727826a1546cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈밭에서  굴렀어]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[전은경의 ‘디자인 스팟’]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c492c219dea947ae83e755c157febc95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홀리데이 클래식]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 12월 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/71f6f566e1d14d6d9733209f114ed649.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

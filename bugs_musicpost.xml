@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 21:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 07:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이민규 - 단독 콘서트 'NOW and HERE' 초대 이벤트]]></title>
+            <link>https://music.bugs.co.kr/musicpost/YEC7DH0K7JSK7NN20FAX?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/YEC7DH0K7JSK7NN20FAX?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 07 Dec 2021 07:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[공연/페스티벌]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/YEC7DH0K7JSK7NN20FAX/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카페25 위드 콘서트 - 음악으로 전하는 따뜻한 위로 with 알리, 2F(신용재, 김원주)]]></title>
             <link>https://music.bugs.co.kr/musicpost/F4S4FNVPNRD2R70GDQNU?&amp;wl_ref=list_sp_01_h</link>
@@ -183,14 +191,6 @@
             <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9AI4QA69EG0O9QIP9IOD/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰티풀 뷰(VEAUTIFUL BIEW) - 첫 싱글 [이상해,불공평해,너가책임져야해] MV 스토리]]></title>
-            <link>https://music.bugs.co.kr/musicpost/9MGW6ORPANF8M7DBLSKC?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/9MGW6ORPANF8M7DBLSKC?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9MGW6ORPANF8M7DBLSKC/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
