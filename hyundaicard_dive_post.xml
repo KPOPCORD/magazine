@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 05:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 06:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악으로 기억되는 장면]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 12월의 새 음반]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cd8d3997e7154cf59a7f73d16ffe5612.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이미 삶의  현장에 놓인 정답 WAHL]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[주간 DIVE 93호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d58458cb9a7848e796b63ea3620df769.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산타는  있거든]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[12월을 위한 어드벤트 캘린더 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/53a71d7d6ab5446295ac2fba5911a8f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
