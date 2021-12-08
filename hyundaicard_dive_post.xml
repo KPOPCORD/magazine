@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 03:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 04:29:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이미 삶의  현장에 놓인 정답 WAHL]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[최태혁의 '브랜드 이야기, WAHL']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9ed4775f3266465d8b07e3bee4379a9a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 겨울의 미술관]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[12월을 위한 어드벤트 캘린더 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/53a71d7d6ab5446295ac2fba5911a8f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여유를 만끽하는 순간]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[전은경의 ‘디자인 스팟’]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c492c219dea947ae83e755c157febc95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
