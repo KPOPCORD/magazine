@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 01:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 02:36:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이스라엘을 듣다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 이스라엘 바이닐 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e960e11f028f4cd8926632c95b11af8b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스마트하개  키울고양]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[&lt;구경이&gt; OST에서 발견한 뮤지션 3]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a671389ac95946f6b2ecba8ba0f5e67e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주는  도슨트가 필요해]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[예술가의 영혼이 깃든 제주의 공간 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/69d25801723c4efa8bdbcce8a2d5538d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
