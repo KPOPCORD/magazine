@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 03:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 04:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먹고 마시고 사랑하라]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[지구를 생각하는 음식 배송 서비스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f54c2dbcc0b84563a3fb70656d959d31.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전혀 새로운 음악 경험]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[최태혁의 '브랜드 이야기, WAHL']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9ed4775f3266465d8b07e3bee4379a9a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 겨울의 미술관]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[겨울을 장식하는 황홀한 비주얼의 전시 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3f600db029294cc9bdf727826a1546cd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
