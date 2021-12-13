@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 05:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 06:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연말에 음식이 빠질 수 없지]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리 12월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cb44a247e1084bc39ab4055b59349294.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이아보다  빛나는 너]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[펫시터 못지않은 펫 가전 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b81d611c5dfb47b6a9594c16d43419d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악으로 기억되는 장면]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 12월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cd8d3997e7154cf59a7f73d16ffe5612.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
