@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 07:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 08:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울 캠핑은  달라]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[따뜻한 겨울 캠핑을 위한 아이템 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3fa04c7ed5fe4e9884b2793897c32e93.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연말에 음식이 빠질 수 없지]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 이스라엘 바이닐 전시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e960e11f028f4cd8926632c95b11af8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마트하개  키울고양]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[펫시터 못지않은 펫 가전 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b81d611c5dfb47b6a9594c16d43419d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
