@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 03:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 04:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1322,9 +1322,17 @@ EXO (VIBE ─ 매거진)]]></title>
 당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 13 Dec 2021 03:21:20 GMT</pubDate>
+            <pubDate>Mon, 13 Dec 2021 04:26:56 GMT</pubDate>
             <content:encoded><![CDATA[최근 발매된 수많은 노래 중 VIBE에서 사랑받은 ‘이달의 노래’를 소개합니다. 힙터질때, 신났을때, 우울할때, 사랑할때, 사랑했을때, 파티할때, 멍때릴때, 운동할때, 휴식할때… 느낌별 스테이션이 선정한 ‘12월의 노래’를 여러분도 들어보세요.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211203_269/1638496452150FyiIA_JPEG/%C0%CC%B4%DE%C0%C7%B3%EB%B7%A1_%C1%A4%B9%E6%C7%FC%28%C4%BF%B9%F62%29.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다이아보다  빛나는 너 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[경쾌함 가득한 체커보드 패션 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f596cc558061455f8a40d860826491a3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먹고 마시고 사랑하라 (현대카드 DIVE ─ POST)]]></title>
@@ -1389,14 +1397,6 @@ EXO (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 12월의 새 음반]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cd8d3997e7154cf59a7f73d16ffe5612.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이미 삶의  현장에 놓인 정답 WAHL (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[최태혁의 '브랜드 이야기, WAHL']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9ed4775f3266465d8b07e3bee4379a9a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
