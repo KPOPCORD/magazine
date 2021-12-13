@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 01:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 02:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '웨스트 사이드 스토리' - 스티븐 스필버그 첫 뮤지컬 영화, 사랑에 빠질 사운드 트랙 공개!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/8E46XC1DN26FDNGO55JZ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/8E46XC1DN26FDNGO55JZ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 13 Dec 2021 02:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/8E46XC1DN26FDNGO55JZ/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이민규 - 단독 콘서트 'NOW and HERE' 초대 이벤트]]></title>
             <link>https://music.bugs.co.kr/musicpost/YEC7DH0K7JSK7NN20FAX?&amp;wl_ref=list_sp_01_h</link>
@@ -183,14 +191,6 @@
             <guid>https://music.bugs.co.kr/musicpost/G646LPPDI0R5DXM4GCGK?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[푸딩(Pudding) - If I Could Meet Again [Remastered Deluxe Edition] 앨범 발매 기념 인터뷰!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/9AI4QA69EG0O9QIP9IOD?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/9AI4QA69EG0O9QIP9IOD?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9AI4QA69EG0O9QIP9IOD/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

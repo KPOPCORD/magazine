@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 01:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 02:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211129190609_4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 '웨스트 사이드 스토리' - 스티븐 스필버그 첫 뮤지컬 영화, 사랑에 빠질 사운드 트랙 공개! (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/8E46XC1DN26FDNGO55JZ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/8E46XC1DN26FDNGO55JZ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 13 Dec 2021 02:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/8E46XC1DN26FDNGO55JZ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이민규 - 단독 콘서트 'NOW and HERE' 초대 이벤트 (벅스 ─ 뮤직포스트)]]></title>
@@ -356,12 +364,12 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[푸딩(Pudding) - If I Could Meet Again [Remastered Deluxe Edition] 앨범 발매 기념 인터뷰! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/9AI4QA69EG0O9QIP9IOD?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/9AI4QA69EG0O9QIP9IOD?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9AI4QA69EG0O9QIP9IOD/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[〈12월엔, 캐럴이 위로가 되었으면 해!〉 3차 스페셜 이벤트 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11295&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11295&amp;pg=1</guid>
+            <pubDate>Mon, 13 Dec 2021 02:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11295/Mgz_Main_List_20211129152337.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[새벽공방의 겨울 감성을 가득 담은 캐롤 앨범, [Winter Land] (지니 ─ 매거진)]]></title>
@@ -418,14 +426,6 @@
             <pubDate>Fri, 10 Dec 2021 03:20:37 GMT</pubDate>
             <content:encoded><![CDATA[지니 컬러 동향]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11427/Mgz_Main_List_20211210101547.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스를 장식할 '로칼하이레코즈'의 [Christmas Ornament] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11427&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11427&amp;pg=1</guid>
-            <pubDate>Fri, 10 Dec 2021 03:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11426/Mgz_Main_List_20211210093629.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[1415의 
@@ -1322,7 +1322,7 @@ EXO (VIBE ─ 매거진)]]></title>
 당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 13 Dec 2021 01:04:31 GMT</pubDate>
+            <pubDate>Mon, 13 Dec 2021 02:35:51 GMT</pubDate>
             <content:encoded><![CDATA[최근 발매된 수많은 노래 중 VIBE에서 사랑받은 ‘이달의 노래’를 소개합니다. 힙터질때, 신났을때, 우울할때, 사랑할때, 사랑했을때, 파티할때, 멍때릴때, 운동할때, 휴식할때… 느낌별 스테이션이 선정한 ‘12월의 노래’를 여러분도 들어보세요.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211203_269/1638496452150FyiIA_JPEG/%C0%CC%B4%DE%C0%C7%B3%EB%B7%A1_%C1%A4%B9%E6%C7%FC%28%C4%BF%B9%F62%29.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
