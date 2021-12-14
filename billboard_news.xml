@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 09:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 10:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 3주 연속 1위]]></title>
+            <link>http://billboard.co.kr/main/news/view/747</link>
+            <guid>http://billboard.co.kr/main/news/view/747</guid>
+            <pubDate>Tue, 14 Dec 2021 10:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/747">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211214190642_15.png" alt="소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 3주 연속 1위" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 3주 연속 1위</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211214190642_15.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이달의 빌보드 HOT 100 총정리(11/13~12/4)]]></title>
             <link>http://billboard.co.kr/main/news/view/746</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211130185646_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[컴백을 앞둔 송민호가 준비한 선물]]></title>
-            <link>http://billboard.co.kr/main/news/view/738</link>
-            <guid>http://billboard.co.kr/main/news/view/738</guid>
-            <pubDate>Mon, 29 Nov 2021 10:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/738">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211129190609_4.jpg" alt="컴백을 앞둔 송민호가 준비한 선물" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>컴백을 앞둔 송민호가 준비한 선물</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211129190609_4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
