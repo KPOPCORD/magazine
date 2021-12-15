@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 09:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 10:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,6 +364,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[알앤비 따라잡기 ＃47 2021년 필청해야 할 올해의 앨범은? (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11455&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11455&amp;pg=1</guid>
+            <pubDate>Wed, 15 Dec 2021 10:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11455/Mgz_Main_List_20211215171259.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[DOF2D 첫번째 EP [We Don't Have To Cry] MV 제작기 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11450&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11450&amp;pg=1</guid>
@@ -418,14 +426,6 @@
             <pubDate>Tue, 14 Dec 2021 03:20:27 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11439/Mgz_Main_List_20211214102240.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[직장이라는 우주를 비행 중인 이들에게 보내는 가장 적당한 위로, 〈재능의 불시... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=37&amp;mgz_seq=11437&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=37&amp;mgz_seq=11437&amp;pg=1</guid>
-            <pubDate>Tue, 14 Dec 2021 03:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[책과 음악이 있는 공간]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11437/Mgz_Main_List_20211214100457.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[ONSTAGE의 
@@ -1322,7 +1322,7 @@ is BACK (VIBE ─ 매거진)]]></title>
 시작하는 모든 이들을 위해 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 15 Dec 2021 09:20:51 GMT</pubDate>
+            <pubDate>Wed, 15 Dec 2021 10:22:55 GMT</pubDate>
             <content:encoded><![CDATA[새로운 시작을 앞둔 모든 사람은 청춘이고 그들이 가진 모든 열망을 응원한다. ‘10대들의 모든 것’이던 에이티즈가 10대뿐 아닌 모든 리스너들에게 파워풀한 에너지를 불어넣은 새로운 앨범을 선보인다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211215_273/16395508787143dqlV_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
