@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 07:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 08:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜보다  더 진짜 같은]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[스타일을 풍성하게 만들 에코 퍼 코트 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0566fe943f274b208cf4036301f2dcbc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[듣는 음악에서  만지고 노는  음악으로]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[지구를 생각하는 음식 배송 서비스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f54c2dbcc0b84563a3fb70656d959d31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전혀 새로운 음악 경험]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[하이브의 음악 뮤지엄, 하이브 인사이트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1b9778f66eec448699c4d03ef6f6441e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
