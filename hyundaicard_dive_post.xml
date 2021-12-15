@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 03:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 04:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브리티시 인베이전]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[지금 주목해야 할 영국 뮤지션 3]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5fa17fb9dbed49c49a0e09af33b5578a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특별한 날  특별한 디저트]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[주간 DIVE 94호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/386e6f324aec4e7aba688764f5779349.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거장의 뿌리와 날개]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[피터 슈라이어 북토크]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/20d976b7cca0494989a0ef793f6e97dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
