@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 05:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 06:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예술가의  수도원]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[가파도 아티스트 인 레지던스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/42d2c789390d43d78683a6e05c862a6e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세상의  모든 이야기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 12월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cb44a247e1084bc39ab4055b59349294.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이아보다  빛나는 너]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[경쾌함 가득한 체커보드 패션 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f596cc558061455f8a40d860826491a3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

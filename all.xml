@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 05:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 06:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,6 +364,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[KIMKIMPARKKIM's 인생 음반 ＃7 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11457&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11457&amp;pg=1</guid>
+            <pubDate>Thu, 16 Dec 2021 06:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[김김박김]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11457/Mgz_Main_List_20211216142729.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[연말을 보내는 당신에게 추천하는 ‘따뜻한’ 겨울 음악 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11452&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11452&amp;pg=1</guid>
@@ -418,14 +426,6 @@
             <pubDate>Tue, 14 Dec 2021 03:20:27 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11444/Mgz_Main_List_20211214113358.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 Track.3 훈스(HOONS) 'I got you' 메... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11443&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11443&amp;pg=1</guid>
-            <pubDate>Tue, 14 Dec 2021 03:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11443/Mgz_Main_List_20211214102941.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[ATEEZ, 
@@ -1323,9 +1323,17 @@ is BACK (VIBE ─ 매거진)]]></title>
 마인드 컴바인드, 따마 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 16 Dec 2021 05:19:12 GMT</pubDate>
+            <pubDate>Thu, 16 Dec 2021 06:24:11 GMT</pubDate>
             <content:encoded><![CDATA[눈을 떠 보니 어느덧 찾아온 12월. 이맘때쯤이면 음악 업계는 잠시 숨을 돌리며 바빴던 한 해를 정리하곤 하지만, 음악 평론가와 기자들은 올해의 앨범을 선정하기 위해 분주한 시간을 보낸다. 그리하여 많은 음악 매체가 저마다의 취향을 듬뿍 반영한 올해의 앨범 리스트를 발표했다. 이에 힙합엘이도 마찬가지로 많은 이들이 꼭 들었으면 국내의 알앤비/소울 앨범을 몇 장 소개하려 한다. 순서는 무순. - 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211213_108/1639379157308QcHCS_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예술가의  수도원 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[가파도 아티스트 인 레지던스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/42d2c789390d43d78683a6e05c862a6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세상의  모든 이야기 (현대카드 DIVE ─ POST)]]></title>
@@ -1390,14 +1398,6 @@ is BACK (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 12월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cb44a247e1084bc39ab4055b59349294.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이아보다  빛나는 너 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[경쾌함 가득한 체커보드 패션 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f596cc558061455f8a40d860826491a3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
