@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 06:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 07:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 53. Jimmy Fallon, Ariana Grande - It Was A ... (Masked Christmas)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/IYJ10701UL3LRKQN556Y?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/IYJ10701UL3LRKQN556Y?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 16 Dec 2021 07:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2021년 12월 노래 모음!]]></title>
             <link>https://music.bugs.co.kr/musicpost/QYGUGABCWC41L5YYMUYE?&amp;wl_ref=list_sp_01_h</link>
@@ -184,13 +191,6 @@
             <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/8QAGR8FQNG03NKTLVPMJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝송으로 배우는 영어! 51. Imagine Dragons - 'Lonely']]></title>
-            <link>https://music.bugs.co.kr/musicpost/PTVQXM3QRAVD810HRKFT?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/PTVQXM3QRAVD810HRKFT?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
