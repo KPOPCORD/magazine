@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 07:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 08:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MoMA  x 애덤 펜들턴 Art Talk]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 단독 후원 전시 아트 토크]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a027f22f3aa04ccb98bae8e34e8ed02c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예술가의  수도원]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[따뜻한 겨울 캠핑을 위한 아이템 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3fa04c7ed5fe4e9884b2793897c32e93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말에 음식이 빠질 수 없지]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 12월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cb44a247e1084bc39ab4055b59349294.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
