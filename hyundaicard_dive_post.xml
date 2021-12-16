@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 03:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 04:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상의  모든 이야기]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[시간 순삭, 디즈니 플러스 오리지널 콘텐츠 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/836a7187a7c74bf995e59505d90dc6d9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진짜보다  더 진짜 같은]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[경쾌함 가득한 체커보드 패션 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f596cc558061455f8a40d860826491a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹고 마시고 사랑하라]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[지구를 생각하는 음식 배송 서비스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f54c2dbcc0b84563a3fb70656d959d31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
