@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 04:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 05:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1분이면  청소 끝]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[반짝반짝 홈 클리닝 서비스 앱 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9704b04c29ac44fbb4b0ce044ee28116.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MoMA  x 애덤 펜들턴 Art Talk]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[취향껏 고르는 유니크한 캘린더 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7079c7971696412aa012d8da12bcdf10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 캠핑은  달라]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[따뜻한 겨울 캠핑을 위한 아이템 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3fa04c7ed5fe4e9884b2793897c32e93.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
