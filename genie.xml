@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 08:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 09:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장들레의 가능성, 싱글 [사랑받고 싶어서] 비하인드]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11461&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11461&amp;pg=1</guid>
+            <pubDate>Fri, 17 Dec 2021 09:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11460/Mgz_Main_List_20211216193621.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[트라이비 [바바송 (위 베이비 베어스 테마곡)] M/V 촬영 현장 비하인드]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11449&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11449&amp;pg=1</guid>
+            <pubDate>Fri, 17 Dec 2021 09:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11449/Mgz_Main_List_20211217150928.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[여유와 우아함으로 채색된 스트링과의 협연 '마리아 킴' 외]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11464&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 17 Dec 2021 03:20:27 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11453/Mgz_Main_List_20211215154858.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[샤갈 특별전을 즐기는 특별한 방법! 〈지니뮤직 X 샤갈 특별전〉]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=11448&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=11448&amp;pg=1</guid>
-            <pubDate>Fri, 17 Dec 2021 03:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[영화/전시]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11447/Mgz_Main_List_20211214152413.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 어른 아이를 위한 러블리 판타지가 온다! 도서 〈벼랑 위의 집〉]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=37&amp;mgz_seq=11447&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=37&amp;mgz_seq=11447&amp;pg=1</guid>
-            <pubDate>Fri, 17 Dec 2021 03:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[책과 음악이 있는 공간]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11447/Mgz_Main_List_20211217105102.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
