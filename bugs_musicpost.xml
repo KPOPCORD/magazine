@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 02:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 03:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푸디토리움 - 영화 [나이트크루징 OST]로 돌아온 영화 음악의 거장을 만나다]]></title>
+            <link>https://music.bugs.co.kr/musicpost/DI9PM7NM7W5267W6JUVV?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/DI9PM7NM7W5267W6JUVV?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 17 Dec 2021 03:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/DI9PM7NM7W5267W6JUVV/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 53. Jimmy Fallon, Ariana Grande - It Was A ... (Masked Christmas)]]></title>
             <link>https://music.bugs.co.kr/musicpost/IYJ10701UL3LRKQN556Y?&amp;wl_ref=list_sp_01_h</link>
@@ -183,14 +191,6 @@
             <pubDate>Thu, 23 Sep 2021 10:21:51 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/69VE9D6YBQPQQ629HXDD/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jose Gonzalez(호세 곤잘레즈) - 북유럽 포크 씬을 견인하는 믿음직한 목소리]]></title>
-            <link>https://music.bugs.co.kr/musicpost/8QAGR8FQNG03NKTLVPMJ?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/8QAGR8FQNG03NKTLVPMJ?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 17 Sep 2021 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/8QAGR8FQNG03NKTLVPMJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
