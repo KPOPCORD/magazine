@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 03:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 04:27:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘 봐,  전농동 힙플이야]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[나만 아는 동네 #18 전농동]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/75bedbac970b4e1cbd91dfd583ef0712.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[완전하지 않아서 완전한]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[전은경의 ‘히치하이커의 메타버스 음악']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c837a91871094fcf926ce00264b66f1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브리티시 인베이전]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[지금 주목해야 할 영국 뮤지션 3]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5fa17fb9dbed49c49a0e09af33b5578a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
