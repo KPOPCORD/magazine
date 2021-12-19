@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 03:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 04:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화룡점정의 한 방울]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[풍미 끝판왕의 향신 기름 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1570a0a337ba473e8cff8b8388910f39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잘 봐,  전농동 힙플이야]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[스타일을 풍성하게 만들 에코 퍼 코트 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0566fe943f274b208cf4036301f2dcbc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듣는 음악에서  만지고 노는  음악으로]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[전은경의 ‘히치하이커의 메타버스 음악']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c837a91871094fcf926ce00264b66f1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 03:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 04:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1323,9 +1323,17 @@ is BACK (VIBE ─ 매거진)]]></title>
 크리스마스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 19 Dec 2021 03:21:47 GMT</pubDate>
+            <pubDate>Sun, 19 Dec 2021 04:27:11 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 찾아온 2021년의 마지막 달. 올해도 역시 크리스마스 장식들이 거리 곳곳에 채워지고, 캐롤은 거리에 울려 퍼져 사람들의 마음을 들뜨게 만들고 있다. 여기에 많은 음악가가 연말 분위기를 즐기고자 하는 많은 이를 위해 크리스마스 앨범을 발표했다. 이주의 디깅에서는 좋아하는 연인과 함께, 혹은 집에서 “나 홀로 집에”와 함께 크리스마스를 보내는 모든 이들을 위해 여러 나라의 크리스마스 노래를 소개하고자 한다. – 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211207_66/1638843614836JLzUC_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화룡점정의 한 방울 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[풍미 끝판왕의 향신 기름 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1570a0a337ba473e8cff8b8388910f39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잘 봐,  전농동 힙플이야 (현대카드 DIVE ─ POST)]]></title>
@@ -1390,14 +1398,6 @@ is BACK (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[스타일을 풍성하게 만들 에코 퍼 코트 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0566fe943f274b208cf4036301f2dcbc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듣는 음악에서  만지고 노는  음악으로 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[전은경의 ‘히치하이커의 메타버스 음악']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c837a91871094fcf926ce00264b66f1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
