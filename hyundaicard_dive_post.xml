@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 06:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 07:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울, 로맨틱]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[왓챠 추천, 겨울 멜로 영화 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bdf23b8425f343439e6d3b45015f366a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차 한잔하실래요?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[가파도 아티스트 인 레지던스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/42d2c789390d43d78683a6e05c862a6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진짜보다  더 진짜 같은]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[스타일을 풍성하게 만들 에코 퍼 코트 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0566fe943f274b208cf4036301f2dcbc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
