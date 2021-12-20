@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 23:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 01:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/42d2c789390d43d78683a6e05c862a6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세상의  모든 이야기]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[시간 순삭, 디즈니 플러스 오리지널 콘텐츠 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/836a7187a7c74bf995e59505d90dc6d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[진짜보다  더 진짜 같은]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[스타일을 풍성하게 만들 에코 퍼 코트 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0566fe943f274b208cf4036301f2dcbc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[듣는 음악에서  만지고 노는  음악으로]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 ‘히치하이커의 메타버스 음악']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c837a91871094fcf926ce00264b66f1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
