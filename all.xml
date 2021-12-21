@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 05:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 06:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211130185646_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[카페25 위드 콘서트 - 음악으로 전하는 따뜻한 위로 with 알리, 지젤(Jiselle) (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/B9RZD11USPUUJF8E8H1Z?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/B9RZD11USPUUJF8E8H1Z?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 21 Dec 2021 06:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/B9RZD11USPUUJF8E8H1Z/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[푸디토리움 - 영화 [나이트크루징 OST]로 돌아온 영화 음악의 거장을 만나다 (벅스 ─ 뮤직포스트)]]></title>
@@ -354,14 +362,6 @@
             <pubDate>Wed, 06 Oct 2021 09:18:48 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/05FK8EGMPOZPMZMERE2L/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노라조 - '고민은 배송만 늦출 뿐' MV 촬영 현장 공개 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/69VE9D6YBQPQQ629HXDD?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/69VE9D6YBQPQQ629HXDD?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 23 Sep 2021 10:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/69VE9D6YBQPQQ629HXDD/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프랑스의 힙합 음악을 담은 '스텔라장'의 플레이리스트는? (지니 ─ 매거진)]]></title>
@@ -1323,9 +1323,17 @@ is BACK (VIBE ─ 매거진)]]></title>
 정승환, FKA 트윅스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 21 Dec 2021 05:20:50 GMT</pubDate>
+            <pubDate>Tue, 21 Dec 2021 06:25:33 GMT</pubDate>
             <content:encoded><![CDATA[겨울의 발라더 정승환의 신곡부터 또 한 번 파격을 들고 온 FKA 트윅스까지. 지금 주목해야 할 트렌디하고 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211220_166/1639986235379nqyCM_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메리 힙합 크리스마스! (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 핫플 더팔러서울의 크리스마스 플리]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eb2a51a2ef3d4e38bbdc2a93645c1f73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프렌치 감성의  정수 (현대카드 DIVE ─ POST)]]></title>
@@ -1390,14 +1398,6 @@ is BACK (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[주간 DIVE 95호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a148801721414431a20d917f407fb06a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1분이면  청소 끝 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[반짝반짝 홈 클리닝 서비스 앱 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9704b04c29ac44fbb4b0ce044ee28116.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

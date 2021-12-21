@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 05:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 06:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카페25 위드 콘서트 - 음악으로 전하는 따뜻한 위로 with 알리, 지젤(Jiselle)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/B9RZD11USPUUJF8E8H1Z?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/B9RZD11USPUUJF8E8H1Z?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 21 Dec 2021 06:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/B9RZD11USPUUJF8E8H1Z/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[푸디토리움 - 영화 [나이트크루징 OST]로 돌아온 영화 음악의 거장을 만나다]]></title>
             <link>https://music.bugs.co.kr/musicpost/DI9PM7NM7W5267W6JUVV?&amp;wl_ref=list_sp_01_h</link>
@@ -183,14 +191,6 @@
             <pubDate>Wed, 06 Oct 2021 09:18:48 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/05FK8EGMPOZPMZMERE2L/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노라조 - '고민은 배송만 늦출 뿐' MV 촬영 현장 공개]]></title>
-            <link>https://music.bugs.co.kr/musicpost/69VE9D6YBQPQQ629HXDD?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/69VE9D6YBQPQQ629HXDD?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 23 Sep 2021 10:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/69VE9D6YBQPQQ629HXDD/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
