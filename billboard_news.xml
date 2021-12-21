@@ -4,7 +4,7 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 09:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 10:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -25,6 +25,25 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211221165819_5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[B-RADAR] 뮤직비디오부터 앨범 아트웍까지, K-팝을 점령한 아티스트가 총출동하는 ‘빈칸 아트페어’]]></title>
+            <link>http://billboard.co.kr/main/news/view/748</link>
+            <guid>http://billboard.co.kr/main/news/view/748</guid>
+            <pubDate>Tue, 21 Dec 2021 10:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/748">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211219210901_13.jpg" alt="[B-RADAR] 뮤직비디오부터 앨범 아트웍까지, K-팝을 점령한 아티스트가 총출동하는 ‘빈칸 아트페어’" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>[B-RADAR] 뮤직비디오부터 앨범 아트웍까지, K-팝을 점령한 아티스트가 총출동하는 ‘빈칸 아트페어’</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211219210901_13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 3주 연속 1위]]></title>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211202180031_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 여행과 K-POP 아티스트가 총출동한 콘서트를 동시에, K-VIBE CONCERT]]></title>
-            <link>http://billboard.co.kr/main/news/view/740</link>
-            <guid>http://billboard.co.kr/main/news/view/740</guid>
-            <pubDate>Tue, 14 Dec 2021 17:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/740">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211201183908_26.png" alt="한국 여행과 K-POP 아티스트가 총출동한 콘서트를 동시에, K-VIBE CONCERT" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>한국 여행과 K-POP 아티스트가 총출동한 콘서트를 동시에, K-VIBE CONCERT</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211201183908_26.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
