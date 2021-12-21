@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 07:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 08:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이터야 내 골프를 지켜줘]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[IRON &amp; WOOD의 첨단 분석 장비 3]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/249f2d7438cb4f1c90ebc80cf76df195.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메리 힙합 크리스마스!]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[DIVE와 10CM의 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dd686def60984ca9b863e4dd47ad582a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 집에 놀러 와]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[주간 DIVE 95호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a148801721414431a20d917f407fb06a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

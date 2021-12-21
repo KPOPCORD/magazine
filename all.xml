@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 07:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 08:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 4주 연속 1위 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/749</link>
+            <guid>http://billboard.co.kr/main/news/view/749</guid>
+            <pubDate>Tue, 21 Dec 2021 08:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/749">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211221165819_5.png" alt="소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 4주 연속 1위" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 4주 연속 1위</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211221165819_5.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 3주 연속 1위 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/747</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211201183908_26.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 정상 등극 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/739</link>
-            <guid>http://billboard.co.kr/main/news/view/739</guid>
-            <pubDate>Tue, 30 Nov 2021 10:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/739">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211130185646_2.png" alt="소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 정상 등극" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 정상 등극</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211130185646_2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[카페25 위드 콘서트 - 음악으로 전하는 따뜻한 위로 with 알리, 지젤(Jiselle) (벅스 ─ 뮤직포스트)]]></title>
@@ -1323,9 +1323,17 @@ is BACK (VIBE ─ 매거진)]]></title>
 정승환, FKA 트윅스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 21 Dec 2021 07:20:18 GMT</pubDate>
+            <pubDate>Tue, 21 Dec 2021 08:25:31 GMT</pubDate>
             <content:encoded><![CDATA[겨울의 발라더 정승환의 신곡부터 또 한 번 파격을 들고 온 FKA 트윅스까지. 지금 주목해야 할 트렌디하고 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211220_166/1639986235379nqyCM_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터야 내 골프를 지켜줘 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[IRON &amp; WOOD의 첨단 분석 장비 3]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/249f2d7438cb4f1c90ebc80cf76df195.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메리 힙합 크리스마스! (현대카드 DIVE ─ POST)]]></title>
@@ -1390,14 +1398,6 @@ is BACK (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[DIVE와 10CM의 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dd686def60984ca9b863e4dd47ad582a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 집에 놀러 와 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[주간 DIVE 95호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a148801721414431a20d917f407fb06a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
