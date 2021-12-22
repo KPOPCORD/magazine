@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 04:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 05:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1323,9 +1323,17 @@ is BACK (VIBE ─ 매거진)]]></title>
 <웨스트 사이드 스토리> (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 22 Dec 2021 04:28:08 GMT</pubDate>
+            <pubDate>Wed, 22 Dec 2021 05:21:09 GMT</pubDate>
             <content:encoded><![CDATA[또 하나의 명작을 탄생시킬 스티븐 스필버그. 동명의 브로드웨이 뮤지컬을 원작으로 한 &lt;웨스트 사이드 스토리&gt;는 스크린에서 재탄생할 명품 OST를 발매하며 우리의 눈과 귀를 사로잡을 준비를 마쳤다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211221_106/1640088324045dNeqJ_JPEG/08%281%29_%BC%F6%C1%A4_%BA%B9%BB%E7%BA%BB.jpeg?type=w840" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[우아한 집주인 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[집콕 라이프를 위한 라운지웨어]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/207ea5ea2c9649c1955068ad01afca21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이터야 내 골프를 지켜줘 (현대카드 DIVE ─ POST)]]></title>
@@ -1390,14 +1398,6 @@ is BACK (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #18 전농동]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/75bedbac970b4e1cbd91dfd583ef0712.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[완전하지 않아서 완전한 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[DIVE와 10CM의 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dd686def60984ca9b863e4dd47ad582a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

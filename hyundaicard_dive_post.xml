@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 04:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 05:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우아한 집주인]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[집콕 라이프를 위한 라운지웨어]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/207ea5ea2c9649c1955068ad01afca21.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데이터야 내 골프를 지켜줘]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #18 전농동]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/75bedbac970b4e1cbd91dfd583ef0712.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[완전하지 않아서 완전한]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[DIVE와 10CM의 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dd686def60984ca9b863e4dd47ad582a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
