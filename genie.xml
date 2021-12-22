@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 08:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 09:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 지니뮤직 연말결산, 올해 음악계 이슈는!?]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11491&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11491&amp;pg=1</guid>
+            <pubDate>Wed, 22 Dec 2021 09:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11491/Mgz_Main_List_20211222160017.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[릴보이 (lIlBOI), 라치카 리안 & 댄서 JayB와 콜라보레이션]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11483&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11483&amp;pg=1</guid>
+            <pubDate>Wed, 22 Dec 2021 09:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11483/Mgz_Main_List_20211222163618.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[Summer Soul의 12월 [December]]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11490&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 21 Dec 2021 03:21:29 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11478/Mgz_Main_List_20211221104922.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[‘생각만 해도 좋은 한 가지’를 담은 아무튼 시리즈의 신작 에세이, <아무튼,...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=37&amp;mgz_seq=11476&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=37&amp;mgz_seq=11476&amp;pg=1</guid>
-            <pubDate>Tue, 21 Dec 2021 03:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[책과 음악이 있는 공간]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11476/Mgz_Main_List_20211221103059.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[민주희가 들려주는 젊은 날을 살아가는 우리들의 이야기, [잔상]]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11475&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11475&amp;pg=1</guid>
-            <pubDate>Tue, 21 Dec 2021 03:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11475/Mgz_Main_List_20211221102726.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
