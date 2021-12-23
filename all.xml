@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 08:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 09:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,6 +364,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/05FK8EGMPOZPMZMERE2L/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Merry Christmas with A special Gift!, Zion.... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11484&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11484&amp;pg=1</guid>
+            <pubDate>Thu, 23 Dec 2021 09:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11484/Mgz_Main_List_20211223113828.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[미8군 최고의 꿈의무대 애스컴(ASCOM) 대중음악의 중심으로 다시 돌아오다! (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11494&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11494&amp;pg=1</guid>
@@ -420,19 +428,11 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11491/Mgz_Main_List_20211222160017.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[릴보이 (lIlBOI), 라치카 리안 & 댄서 JayB와 콜라보레이션 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11483&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11483&amp;pg=1</guid>
-            <pubDate>Wed, 22 Dec 2021 09:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11483/Mgz_Main_List_20211222163618.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[거리는 두어도 
 크리스마스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 23 Dec 2021 08:25:30 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 09:21:13 GMT</pubDate>
             <content:encoded><![CDATA[팬데믹은 끝나지 않았고 단계적 일상 회복은 회복되지 못한 채 다시 사회적 거리 두기로 돌아왔다. 어지간히 분위기 안 사는 크리스마스 시즌이지만 12월 발매작 중 상당수가 크리스마스 캐럴로 채워지는 건 거리를 두어도 크리스마스 시즌을 즐기고 싶은 이들의 마음 아닐까. 올해 12월에 발매된 따끈하고 따뜻한 캐럴을 모아 봤다. - 하박국]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211222_43/1640153709193gmUU5_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
