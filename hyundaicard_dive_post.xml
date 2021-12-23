@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 07:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 08:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마지막에 마지막까지 맛있게]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[신상 맛집 #16]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1f2565f7ae6b4f948e805ef6d988e914.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리움미술관, 새로운 모습으로 등장]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[집콕 불멍의 필수품, 에탄올 난로]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/94b4b1ce5afa45ae9b6e8ef83bd344c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울, 로맨틱]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[왓챠 추천, 겨울 멜로 영화 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bdf23b8425f343439e6d3b45015f366a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
