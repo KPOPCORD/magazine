@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 05:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 06:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리움미술관, 새로운 모습으로 등장]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 ‘디자인 스팟']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/831e5205f1254320b4eaabe1b1a032d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포토제닉 모먼트]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[왓챠 추천, 겨울 멜로 영화 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bdf23b8425f343439e6d3b45015f366a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차 한잔하실래요?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[차분한 찻잎의 감성을 만끽하는 공간]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a20f9fc453ca441393877608c255c209.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
