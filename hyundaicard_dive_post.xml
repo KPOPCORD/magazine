@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 03:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 04:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포토제닉 모먼트]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 12월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b883e4a3576547ad8c55fc493af7f125.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기차가  지나가는 풍경]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[차분한 찻잎의 감성을 만끽하는 공간]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a20f9fc453ca441393877608c255c209.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화룡점정의 한 방울]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[풍미 끝판왕의 향신 기름 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1570a0a337ba473e8cff8b8388910f39.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
