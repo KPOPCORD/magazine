@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 08:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 09:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 DIVE 어워즈]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[주간 DIVE 96호]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0c75919f66374d8996f18ff9a13abecf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비누라는  용기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[이태원 핫플 더팔러서울의 크리스마스 플리]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eb2a51a2ef3d4e38bbdc2a93645c1f73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프렌치 감성의  정수]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 12월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d20988475f2d48d7a1899a4eefda06bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
