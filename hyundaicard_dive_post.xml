@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 04:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 05:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비누라는  용기]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[샴푸, 보디 샤워를 품은 비누들]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a7b7b9b146ca48a0a484047f8dbda6fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마지막에 마지막까지 맛있게]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 12월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d20988475f2d48d7a1899a4eefda06bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서 하는  불멍]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[집콕 불멍의 필수품, 에탄올 난로]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/94b4b1ce5afa45ae9b6e8ef83bd344c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
