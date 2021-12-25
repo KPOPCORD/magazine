@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 03:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 04:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -432,9 +432,17 @@
 썸머 소울, 쏠 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 25 Dec 2021 03:21:25 GMT</pubDate>
+            <pubDate>Sat, 25 Dec 2021 04:27:12 GMT</pubDate>
             <content:encoded><![CDATA[예전만큼 크리스마스 분위기가 나지 않는 요즘이지만, 그래도 11월부터 국내외의 다양한 음악가들이 크리스마스와 겨울을 주제로 앨범들을 발표하며 다소 가라앉은 연말을 즐겁게 만들고 있다. 이번 시간에는 국내 힙합/알앤비 음악가들이 발표한 겨울 음악들을 살펴보며 크리스마스를 준비해 보자. - 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211223_237/1640237710363QCi4V_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아바 리턴즈 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[40년 만에 새 정규 앨범 발표한 아바]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/64dd4d9cf38f42aeb878d68a8189aa0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 DIVE 어워즈 (현대카드 DIVE ─ POST)]]></title>
@@ -499,14 +507,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[IRON &amp; WOOD의 첨단 분석 장비 3]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/249f2d7438cb4f1c90ebc80cf76df195.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메리 힙합 크리스마스! (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[이태원 핫플 더팔러서울의 크리스마스 플리]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eb2a51a2ef3d4e38bbdc2a93645c1f73.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

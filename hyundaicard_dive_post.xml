@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 03:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 04:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아바 리턴즈]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[40년 만에 새 정규 앨범 발표한 아바]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/64dd4d9cf38f42aeb878d68a8189aa0e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 DIVE 어워즈]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[IRON &amp; WOOD의 첨단 분석 장비 3]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/249f2d7438cb4f1c90ebc80cf76df195.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메리 힙합 크리스마스!]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[이태원 핫플 더팔러서울의 크리스마스 플리]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eb2a51a2ef3d4e38bbdc2a93645c1f73.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
