@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 07:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 08:30:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,6 +364,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/05FK8EGMPOZPMZMERE2L/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가요 탐구생활 ＃37 - 음악과 미술이 만나 탄생한 가장 예술적인 앨범 커버 ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=11488&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=11488&amp;pg=1</guid>
+            <pubDate>Mon, 27 Dec 2021 08:29:24 GMT</pubDate>
+            <content:encoded><![CDATA[가요 탐구생활]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11488/Mgz_Main_List_20211227153234.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[힙한 감성으로 물들이고 있는 공간 <극락> (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11485&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11485&amp;pg=1</guid>
+            <pubDate>Mon, 27 Dec 2021 08:29:24 GMT</pubDate>
+            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11485/Mgz_Main_List_20211227163643.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[신온유와 김강의 겨울 캐롤 [For you], 사계절 캐롤을 마무리하며 전하는... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11502&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11502&amp;pg=1</guid>
@@ -412,27 +428,11 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11496/Mgz_Main_List_20211223195826.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[seshin [Back in time] 뮤직비디오 촬영 현장 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11499&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11499&amp;pg=1</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11498/Mgz_Main_List_20211224114339.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[지니 컬러 동향 ＃31 – 2021.12.04 ~ 12.17 발매작 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=11498&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=11498&amp;pg=1</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[지니 컬러 동향]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11497/Mgz_Main_List_20211224101448.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[어느덧 크리스마스 : 
 썸머 소울, 쏠 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:37 GMT</pubDate>
+            <pubDate>Mon, 27 Dec 2021 08:29:46 GMT</pubDate>
             <content:encoded><![CDATA[예전만큼 크리스마스 분위기가 나지 않는 요즘이지만, 그래도 11월부터 국내외의 다양한 음악가들이 크리스마스와 겨울을 주제로 앨범들을 발표하며 다소 가라앉은 연말을 즐겁게 만들고 있다. 이번 시간에는 국내 힙합/알앤비 음악가들이 발표한 겨울 음악들을 살펴보며 크리스마스를 준비해 보자. - 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211223_237/1640237710363QCi4V_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>

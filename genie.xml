@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 07:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 08:30:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가요 탐구생활 ＃37 - 음악과 미술이 만나 탄생한 가장 예술적인 앨범 커버 ...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=11488&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=11488&amp;pg=1</guid>
+            <pubDate>Mon, 27 Dec 2021 08:29:24 GMT</pubDate>
+            <content:encoded><![CDATA[가요 탐구생활]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11488/Mgz_Main_List_20211227153234.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[힙한 감성으로 물들이고 있는 공간 <극락>]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11485&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11485&amp;pg=1</guid>
+            <pubDate>Mon, 27 Dec 2021 08:29:24 GMT</pubDate>
+            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11485/Mgz_Main_List_20211227163643.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[신온유와 김강의 겨울 캐롤 [For you], 사계절 캐롤을 마무리하며 전하는...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11502&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 24 Dec 2021 09:20:56 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11496/Mgz_Main_List_20211223195826.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[seshin [Back in time] 뮤직비디오 촬영 현장]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11499&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11499&amp;pg=1</guid>
-            <pubDate>Fri, 24 Dec 2021 03:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11498/Mgz_Main_List_20211224114339.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[지니 컬러 동향 ＃31 – 2021.12.04 ~ 12.17 발매작]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=11498&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=11498&amp;pg=1</guid>
-            <pubDate>Fri, 24 Dec 2021 03:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[지니 컬러 동향]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11497/Mgz_Main_List_20211224101448.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
