@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 05:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 06:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -432,9 +432,17 @@
 썸머 소울, 쏠 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 27 Dec 2021 05:20:29 GMT</pubDate>
+            <pubDate>Mon, 27 Dec 2021 06:26:00 GMT</pubDate>
             <content:encoded><![CDATA[예전만큼 크리스마스 분위기가 나지 않는 요즘이지만, 그래도 11월부터 국내외의 다양한 음악가들이 크리스마스와 겨울을 주제로 앨범들을 발표하며 다소 가라앉은 연말을 즐겁게 만들고 있다. 이번 시간에는 국내 힙합/알앤비 음악가들이 발표한 겨울 음악들을 살펴보며 크리스마스를 준비해 보자. - 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211223_237/1640237710363QCi4V_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[게임도,  협업도 잘해요 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[콘솔 게임이 패션을 만났을 때]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8c5518d2b68544259f8f8d88a3329624.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 도전 (현대카드 DIVE ─ POST)]]></title>
@@ -499,14 +507,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 12월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b883e4a3576547ad8c55fc493af7f125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기차가  지나가는 풍경 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[기차 소리 들리는 서울의 맛집 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5661b74489a047b5bb6ae19e4bc039a2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

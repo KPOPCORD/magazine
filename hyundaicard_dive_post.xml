@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 05:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 06:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[게임도,  협업도 잘해요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[콘솔 게임이 패션을 만났을 때]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8c5518d2b68544259f8f8d88a3329624.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 도전]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 12월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b883e4a3576547ad8c55fc493af7f125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기차가  지나가는 풍경]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 02 Dec 2021 18:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[기차 소리 들리는 서울의 맛집 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5661b74489a047b5bb6ae19e4bc039a2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
