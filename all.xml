@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 10:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 11:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[B-Picks] 놓치지 말아야 할 5장의 국내 앨범 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/751</link>
+            <guid>http://billboard.co.kr/main/news/view/751</guid>
+            <pubDate>Mon, 27 Dec 2021 11:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/751">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211227194652_8.png" alt="[B-Picks] 놓치지 말아야 할 5장의 국내 앨범" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>[B-Picks] 놓치지 말아야 할 5장의 국내 앨범</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211227194652_8.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 4주 연속 1위 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/749</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211203163029_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT, 정규 3집 타이틀곡 선공개 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/741</link>
-            <guid>http://billboard.co.kr/main/news/view/741</guid>
-            <pubDate>Mon, 27 Dec 2021 07:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/741">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211202180031_0.jpg" alt="NCT, 정규 3집 타이틀곡 선공개" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>NCT, 정규 3집 타이틀곡 선공개</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211202180031_0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카페25 위드 콘서트 - 음악으로 전하는 따뜻한 위로 with 알리, 지젤(Jiselle) (벅스 ─ 뮤직포스트)]]></title>
@@ -432,7 +432,7 @@
 에스파, 루시드폴 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 27 Dec 2021 10:23:42 GMT</pubDate>
+            <pubDate>Mon, 27 Dec 2021 11:17:39 GMT</pubDate>
             <content:encoded><![CDATA[S.E.S.의 히트곡 ‘Dreams Come True’를 재해석한 에스파, 자연에 존재하는 반복 없는 반복을 담아낸 루시드폴. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211227_119/1640587374060KYQGG_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
