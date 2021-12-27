@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 08:30:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 10:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,6 +364,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/05FK8EGMPOZPMZMERE2L/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[심장이 먼저 반응하는 SMTOWN 겨울 앨범 [2021 Winter SMTOW... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11504&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11504&amp;pg=1</guid>
+            <pubDate>Mon, 27 Dec 2021 10:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11504/Mgz_Main_List_20211227163215.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[김재환 [THE LETTER] 자켓 촬영 현장 비하인드 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11503&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11503&amp;pg=1</guid>
+            <pubDate>Mon, 27 Dec 2021 10:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11503/Mgz_Main_List_20211227160128.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[가요 탐구생활 ＃37 - 음악과 미술이 만나 탄생한 가장 예술적인 앨범 커버 ... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=11488&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=11488&amp;pg=1</guid>
@@ -372,7 +388,7 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11488/Mgz_Main_List_20211227153234.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[힙한 감성으로 물들이고 있는 공간 <극락> (지니 ─ 매거진)]]></title>
+            <title><![CDATA[도심 속에 작은 섬 <극락> (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11485&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11485&amp;pg=1</guid>
             <pubDate>Mon, 27 Dec 2021 08:29:24 GMT</pubDate>
@@ -412,29 +428,13 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11496/Mgz_Main_List_20211223155452.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[신세계와 지니가 준비한 크리스마스 매직 〈Magical Holidays Liv... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11495&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11495&amp;pg=1</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11495/Mgz_Main_List_20211227105628.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA['찬란한 도시를 수놓는 BGM' [2021 INCHEON CITY POP] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11497&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11497&amp;pg=1</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11496/Mgz_Main_List_20211223195826.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[어느덧 크리스마스 : 
-썸머 소울, 쏠 (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[New Release #73 : 
+에스파, 루시드폴 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 27 Dec 2021 08:29:46 GMT</pubDate>
-            <content:encoded><![CDATA[예전만큼 크리스마스 분위기가 나지 않는 요즘이지만, 그래도 11월부터 국내외의 다양한 음악가들이 크리스마스와 겨울을 주제로 앨범들을 발표하며 다소 가라앉은 연말을 즐겁게 만들고 있다. 이번 시간에는 국내 힙합/알앤비 음악가들이 발표한 겨울 음악들을 살펴보며 크리스마스를 준비해 보자. - 힙합엘이]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20211223_237/1640237710363QCi4V_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <pubDate>Mon, 27 Dec 2021 10:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[S.E.S.의 히트곡 ‘Dreams Come True’를 재해석한 에스파, 자연에 존재하는 반복 없는 반복을 담아낸 루시드폴. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20211227_119/1640587374060KYQGG_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[게임도,  협업도 잘해요 (현대카드 DIVE ─ POST)]]></title>

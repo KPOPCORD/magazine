@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 08:30:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 10:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심장이 먼저 반응하는 SMTOWN 겨울 앨범 [2021 Winter SMTOW...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11504&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11504&amp;pg=1</guid>
+            <pubDate>Mon, 27 Dec 2021 10:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11504/Mgz_Main_List_20211227163215.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[김재환 [THE LETTER] 자켓 촬영 현장 비하인드]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11503&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11503&amp;pg=1</guid>
+            <pubDate>Mon, 27 Dec 2021 10:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11503/Mgz_Main_List_20211227160128.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[가요 탐구생활 ＃37 - 음악과 미술이 만나 탄생한 가장 예술적인 앨범 커버 ...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=11488&amp;pg=1</link>
@@ -16,7 +32,7 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11488/Mgz_Main_List_20211227153234.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[힙한 감성으로 물들이고 있는 공간 <극락>]]></title>
+            <title><![CDATA[도심 속에 작은 섬 <극락>]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11485&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11485&amp;pg=1</guid>
             <pubDate>Mon, 27 Dec 2021 08:29:24 GMT</pubDate>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 27 Dec 2021 03:20:56 GMT</pubDate>
             <content:encoded><![CDATA[영화/전시]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11496/Mgz_Main_List_20211223155452.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[신세계와 지니가 준비한 크리스마스 매직 〈Magical Holidays Liv...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11495&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11495&amp;pg=1</guid>
-            <pubDate>Mon, 27 Dec 2021 03:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11495/Mgz_Main_List_20211227105628.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA['찬란한 도시를 수놓는 BGM' [2021 INCHEON CITY POP]]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11497&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11497&amp;pg=1</guid>
-            <pubDate>Fri, 24 Dec 2021 09:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11496/Mgz_Main_List_20211223195826.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
