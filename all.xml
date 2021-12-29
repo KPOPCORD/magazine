@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 02:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 03:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,6 +364,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/05FK8EGMPOZPMZMERE2L/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['기류가 바뀌었다' KATCHY와 컬리넌의 첫번째 합작 [이상기후] 비하인드 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11512&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11512&amp;pg=1</guid>
+            <pubDate>Wed, 29 Dec 2021 03:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11511/Mgz_Main_List_20211228194752.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[싱어송라이터 다린의 겨울 선물, 러브홀릭 원곡 리메이크 싱글 [화분] (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11509&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11509&amp;pg=1</guid>
@@ -420,19 +428,11 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11504/Mgz_Main_List_20211227163215.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[김재환 [THE LETTER] 자켓 촬영 현장 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11503&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11503&amp;pg=1</guid>
-            <pubDate>Mon, 27 Dec 2021 10:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11503/Mgz_Main_List_20211227160128.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[이주의 디깅 #125 
 연말결산 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 29 Dec 2021 02:37:35 GMT</pubDate>
+            <pubDate>Wed, 29 Dec 2021 03:20:51 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 올 한 해가 저물어간다. 2021년엔 코로나가 끝나 공연이나 페스티벌을 보러 갈 수 있을 거로 생각했지만 슬프게도, 그럴 수 없었다. 하지만 이런 상황에서도 수많은 뮤지션은 온 힘을 다해 만든 새로운 음악을 선보였고, 그 덕에 귀가 즐거운 한 해였다. 이번 주에는 1년 동안 가장 인상 깊었던 순간들을 되돌아보며 올해의 마지막 디깅을 마무리하려고 한다. 그럼, 새해에 만나요! - 파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211217_236/1639718523482YtdKH_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
