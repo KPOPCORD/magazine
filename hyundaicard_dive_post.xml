@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 05:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 06:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌아온 홀리데이]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[연말 무드를 배가해줄 홀리데이 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c4a3168ac7d74e6b93473919f39af8b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고요한 겨울의 하루]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[샴푸, 보디 샤워를 품은 비누들]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a7b7b9b146ca48a0a484047f8dbda6fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마지막에 마지막까지 맛있게]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[신상 맛집 #16]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1f2565f7ae6b4f948e805ef6d988e914.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

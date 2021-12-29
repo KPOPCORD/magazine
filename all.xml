@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 05:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 06:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -432,9 +432,17 @@
 연말결산 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 29 Dec 2021 05:20:25 GMT</pubDate>
+            <pubDate>Wed, 29 Dec 2021 06:25:03 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 올 한 해가 저물어간다. 2021년엔 코로나가 끝나 공연이나 페스티벌을 보러 갈 수 있을 거로 생각했지만 슬프게도, 그럴 수 없었다. 하지만 이런 상황에서도 수많은 뮤지션은 온 힘을 다해 만든 새로운 음악을 선보였고, 그 덕에 귀가 즐거운 한 해였다. 이번 주에는 1년 동안 가장 인상 깊었던 순간들을 되돌아보며 올해의 마지막 디깅을 마무리하려고 한다. 그럼, 새해에 만나요! - 파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211217_236/1639718523482YtdKH_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돌아온 홀리데이 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[연말 무드를 배가해줄 홀리데이 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c4a3168ac7d74e6b93473919f39af8b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고요한 겨울의 하루 (현대카드 DIVE ─ POST)]]></title>
@@ -499,14 +507,6 @@
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[샴푸, 보디 샤워를 품은 비누들]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a7b7b9b146ca48a0a484047f8dbda6fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마지막에 마지막까지 맛있게 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[신상 맛집 #16]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1f2565f7ae6b4f948e805ef6d988e914.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
