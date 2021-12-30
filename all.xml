@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 02:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 03:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -363,6 +363,46 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[DONGKIZ가 전하는 따뜻한 겨울 앨범 [It’s All Right Part... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11515&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11515&amp;pg=1</guid>
+            <pubDate>Thu, 30 Dec 2021 03:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11514/Mgz_Main_List_20211229195340.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA['HNGIN 행인'이 만든 세계 [REVERSE TOUR]로의 초대 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11514&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11514&amp;pg=1</guid>
+            <pubDate>Thu, 30 Dec 2021 03:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11513/Mgz_Main_List_20211229191522.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년의 음반들 (1) - 올해의 피아노 앨범 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11513&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11513&amp;pg=1</guid>
+            <pubDate>Thu, 30 Dec 2021 03:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11512/Mgz_Main_List_20211229160637.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[알코올이 피처링한 유쾌한 인생찬가 <어나더 라운드> (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=11511&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=11511&amp;pg=1</guid>
+            <pubDate>Thu, 30 Dec 2021 03:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[영화/전시]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11511/Mgz_Main_List_20211229145115.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[오소영 데뷔 20주년 단독 콘서트 라이브 '웃고 살 거야, 아이처럼' 1부 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11510&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11510&amp;pg=1</guid>
+            <pubDate>Thu, 30 Dec 2021 03:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11510/Mgz_Main_List_20211229154630.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA['기류가 바뀌었다' KATCHY와 컬리넌의 첫번째 합작 [이상기후] 비하인드 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11512&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11512&amp;pg=1</guid>
@@ -387,51 +427,11 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11489/Mgz_Main_List_20211228115320.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[Ra.D의 컴백 싱글 “열두달” 작업 스토리 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11508&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11508&amp;pg=1</guid>
-            <pubDate>Tue, 28 Dec 2021 03:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11508/Mgz_Main_List_20211228112557.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[미스터리와 호러, 그리고 충격적 반전! 김초엽의 새로운 시도, 〈므레모사〉 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=37&amp;mgz_seq=11507&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=37&amp;mgz_seq=11507&amp;pg=1</guid>
-            <pubDate>Tue, 28 Dec 2021 03:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[책과 음악이 있는 공간]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11506/Mgz_Main_List_20211227171440.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[우리에게는 음악이 있다 - 소프라노 조수미와 이 무지치의 [LUX3570] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11506&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11506&amp;pg=1</guid>
-            <pubDate>Tue, 28 Dec 2021 03:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11506/Mgz_Main_List_20211228103659.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[한 해의 끝자락에서 들여다 본 잠비노 (Jambino) [24 Close-up... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11505&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11505&amp;pg=1</guid>
-            <pubDate>Tue, 28 Dec 2021 03:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11505/Mgz_Main_List_20211227170259.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[심장이 먼저 반응하는 SMTOWN 겨울 앨범 [2021 Winter SMTOW... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11504&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11504&amp;pg=1</guid>
-            <pubDate>Mon, 27 Dec 2021 10:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11504/Mgz_Main_List_20211227163215.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[해외 매거진들이 뽑은 
 올해의 노래들 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 02:37:05 GMT</pubDate>
+            <pubDate>Thu, 30 Dec 2021 03:20:43 GMT</pubDate>
             <content:encoded><![CDATA[새해가 다가오며 문화계 각 분야의 연말 결산이 한창이다. 음악 쪽에도 여러 매체와 평론가들이 앞다퉈 ‘올해의’ 리스트를 내놓고 있다. 올해의 팝을 정리하는 의미에서 해외 유력 매거진들이 꼽은 올해의 노래를 정리했다. 본문에는 1위만 소개하고 플레이리스트에는 5위까지의 선곡을 담았다. 모두들 즐거운 연말 되시길. - 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211229_258/1640763143190wOG2Q_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
