@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 01:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 02:37:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해에는 갓생 살자! 신년의 소망을 응원하는 앨범 7]]></title>
+            <link>https://music.bugs.co.kr/musicpost/3QQUBIKQXPOPWE2NKK0Z?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/3QQUBIKQXPOPWE2NKK0Z?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 30 Dec 2021 02:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[카페25 위드 콘서트 - 음악으로 전하는 따뜻한 위로 with 알리, 지젤(Jiselle)]]></title>
             <link>https://music.bugs.co.kr/musicpost/B9RZD11USPUUJF8E8H1Z?&amp;wl_ref=list_sp_01_h</link>
@@ -183,14 +190,6 @@
             <guid>https://music.bugs.co.kr/musicpost/B8PEB2AZNZGC6DC9L83N?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Fri, 08 Oct 2021 02:32:30 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[블리처스 (BLITZERS) - 실수 좀 하면 어때? 누구나 하는건데! [SEAT-BELT]]]></title>
-            <link>https://music.bugs.co.kr/musicpost/05FK8EGMPOZPMZMERE2L?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/05FK8EGMPOZPMZMERE2L?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 06 Oct 2021 09:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/05FK8EGMPOZPMZMERE2L/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
