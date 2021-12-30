@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 06:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 07:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -63,6 +63,25 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211227194652_8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[요아소비가 새롭게 들려주는 한 권의 앨범 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/750</link>
+            <guid>http://billboard.co.kr/main/news/view/750</guid>
+            <pubDate>Thu, 30 Dec 2021 07:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/750">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211222185815_6.jpg" alt="요아소비가 새롭게 들려주는 한 권의 앨범" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>요아소비가 새롭게 들려주는 한 권의 앨범</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211222185815_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 4주 연속 1위 (빌보드 코리아 ─ 뉴스)]]></title>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211207163534_18.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[English Column by Jeff Benjamin] How to enjoy your “K-Vibe Festa” this Winter (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/744</link>
-            <guid>http://billboard.co.kr/main/news/view/744</guid>
-            <pubDate>Mon, 27 Dec 2021 07:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/744">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211206180230_11.jpg" alt="[English Column by Jeff Benjamin] How to enjoy your “K-Vibe Festa” this Winter" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>[English Column by Jeff Benjamin] How to enjoy your “K-Vibe Festa” this Winter</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211206180230_11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새해에는 갓생 살자! 신년의 소망을 응원하는 앨범 7 (벅스 ─ 뮤직포스트)]]></title>
@@ -432,7 +432,7 @@
 올해의 노래들 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 30 Dec 2021 06:24:27 GMT</pubDate>
+            <pubDate>Thu, 30 Dec 2021 07:20:15 GMT</pubDate>
             <content:encoded><![CDATA[새해가 다가오며 문화계 각 분야의 연말 결산이 한창이다. 음악 쪽에도 여러 매체와 평론가들이 앞다퉈 ‘올해의’ 리스트를 내놓고 있다. 올해의 팝을 정리하는 의미에서 해외 유력 매거진들이 꼽은 올해의 노래를 정리했다. 본문에는 1위만 소개하고 플레이리스트에는 5위까지의 선곡을 담았다. 모두들 즐거운 연말 되시길. - 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211229_258/1640763143190wOG2Q_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
