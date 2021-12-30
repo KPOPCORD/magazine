@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 08:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 09:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 빌보드 케이팝 100 연말 결산]]></title>
+            <link>http://billboard.co.kr/main/news/view/752</link>
+            <guid>http://billboard.co.kr/main/news/view/752</guid>
+            <pubDate>Thu, 30 Dec 2021 09:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/752">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20211228172847_14.png" alt="2021 빌보드 케이팝 100 연말 결산" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>2021 빌보드 케이팝 100 연말 결산</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211228172847_14.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 5주 연속 1위]]></title>
             <link>http://billboard.co.kr/main/news/view/755</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211208181327_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 2주 연속 1위]]></title>
-            <link>http://billboard.co.kr/main/news/view/745</link>
-            <guid>http://billboard.co.kr/main/news/view/745</guid>
-            <pubDate>Tue, 14 Dec 2021 17:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/745">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211207163534_18.png" alt="소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 2주 연속 1위" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 2주 연속 1위</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211207163534_18.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

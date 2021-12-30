@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 08:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 09:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[60초의  휴식]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[모두의 휴식을 위한 균형 잡힌 인테리어]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/117bd2f2e97f444292be11af7381e350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌아온 홀리데이]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[주간 DIVE 96호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0c75919f66374d8996f18ff9a13abecf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비누라는  용기]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[샴푸, 보디 샤워를 품은 비누들]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a7b7b9b146ca48a0a484047f8dbda6fd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
