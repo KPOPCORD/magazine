@@ -4,7 +4,7 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 05:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 06:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,14 @@
             <guid>https://music.bugs.co.kr/musicpost/3QQUBIKQXPOPWE2NKK0Z?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Thu, 30 Dec 2021 02:36:39 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카페25 위드 콘서트 - 음악으로 전하는 따뜻한 위로 with DK(디셈버), 진민호]]></title>
+            <link>https://music.bugs.co.kr/musicpost/B7B9DD11IQG62CWOJPFJ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/B7B9DD11IQG62CWOJPFJ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 30 Dec 2021 06:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/B7B9DD11IQG62CWOJPFJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카페25 위드 콘서트 - 음악으로 전하는 따뜻한 위로 with 알리, 지젤(Jiselle)]]></title>
@@ -183,13 +191,6 @@
             <pubDate>Wed, 13 Oct 2021 03:20:23 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/EUSTVS7WJJY6J45BV41F/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한글날 특집! 한 편의 시를 닮은 한글 가사 앨범 7]]></title>
-            <link>https://music.bugs.co.kr/musicpost/B8PEB2AZNZGC6DC9L83N?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/B8PEB2AZNZGC6DC9L83N?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 08 Oct 2021 02:32:30 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
