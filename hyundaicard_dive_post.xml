@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 03:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 04:27:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[따듯한게 최고야 방콕 백서]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[주간 DIVE 97호]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f438696f2f7a4edc905f9be0eb91510f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[60초의  휴식]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[40년 만에 새 정규 앨범 발표한 아바]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/64dd4d9cf38f42aeb878d68a8189aa0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 DIVE 어워즈]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[주간 DIVE 96호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0c75919f66374d8996f18ff9a13abecf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
