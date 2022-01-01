@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 03:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 04:27:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밤하늘의  펄]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[새해를 위한 다채로운 진주 주얼리]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1eeb41cfa20b409fb6dd3daa1574e2ac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백 투 베이식]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[주간 DIVE 97호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f438696f2f7a4edc905f9be0eb91510f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[60초의  휴식]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[모두의 휴식을 위한 균형 잡힌 인테리어]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/117bd2f2e97f444292be11af7381e350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
