@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 06:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 07:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주  블루보틀, 그 비하인드]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[문승지의 '디자인 스토리']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bfe28b6256e3495abc1897df78fa73ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모던 내추럴 라이프]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 1월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6b78dde0b7a14af29ca0dc2e18b7962c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따듯한게 최고야 방콕 백서]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[주간 DIVE 97호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f438696f2f7a4edc905f9be0eb91510f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

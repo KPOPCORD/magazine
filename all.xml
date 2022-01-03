@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 06:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 07:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1323,9 +1323,17 @@ MSG워너비 (VIBE ─ 매거진)]]></title>
 연말 결산 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 03 Jan 2022 06:25:58 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 07:20:34 GMT</pubDate>
             <content:encoded><![CDATA[2021년 빌보드 케이팝 100 차트는 작년과 동일한 11개의 1위 곡이 탄생했다. 역주행과 리메이크 열풍으로 과거 노래가 그대로 또는 새롭게 차트에 올랐으며, TV 프로그램의 영향으로 꼭 가수가 아니더라도 배우, 개그맨 등 다양한 이들이 차트에 이름을 남길 수 있었다. 시대와 장르, 분야를 뛰어넘는 많은 곡들로 채워졌던 올 한 해 빌보드 케이팝 100 차트. 그중에서 유난히 빛났던 아티스트와 노래들을 소개한다. - 빌보드코리아(이민형)]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211230_207/1640850984632vB7eX_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제주  블루보틀, 그 비하인드 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[문승지의 '디자인 스토리']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bfe28b6256e3495abc1897df78fa73ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모던 내추럴 라이프 (현대카드 DIVE ─ POST)]]></title>
@@ -1390,14 +1398,6 @@ MSG워너비 (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 1월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6b78dde0b7a14af29ca0dc2e18b7962c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따듯한게 최고야 방콕 백서 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[주간 DIVE 97호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f438696f2f7a4edc905f9be0eb91510f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
