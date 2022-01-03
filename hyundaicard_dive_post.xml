@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 22:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 01:07:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 1월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ac569684776048f9b44585b67bb9d05d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모던 내추럴 라이프]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 레어 북 들여다보기 #8]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/662a216d96684072b1686fca97966909.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금 가장 핫한 바이닐]]></title>
@@ -78,6 +70,14 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[주간 DIVE 97호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f438696f2f7a4edc905f9be0eb91510f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[60초의  휴식]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[모두의 휴식을 위한 균형 잡힌 인테리어]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/117bd2f2e97f444292be11af7381e350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
