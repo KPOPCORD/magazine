@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 10:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 11:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 <돈 룩 업> 속 화제의 음악]]></title>
+            <link>http://billboard.co.kr/main/news/view/756</link>
+            <guid>http://billboard.co.kr/main/news/view/756</guid>
+            <pubDate>Mon, 03 Jan 2022 11:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/756">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220103185820_2.jpg" alt="넷플릭스 <돈 룩 업> 속 화제의 음악" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>넷플릭스 &lt;돈 룩 업&gt; 속 화제의 음악</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220103185820_2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위켄드와 그의 협업 아티스트가 전하는 ‘Blinding Lights’ 제작 스토리]]></title>
             <link>http://billboard.co.kr/main/news/view/754</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211219210901_13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 3주 연속 1위]]></title>
-            <link>http://billboard.co.kr/main/news/view/747</link>
-            <guid>http://billboard.co.kr/main/news/view/747</guid>
-            <pubDate>Tue, 14 Dec 2021 17:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/747">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211214190642_15.png" alt="소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 3주 연속 1위" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 3주 연속 1위</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211214190642_15.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
