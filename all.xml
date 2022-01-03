@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 03:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 04:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -380,6 +380,14 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11522/Mgz_Main_List_20220103110647.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
+            <title><![CDATA[OST PICK! ＃50 연말 연초에는 집에서 OTT와 음악을 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=11519&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=11519&amp;pg=1</guid>
+            <pubDate>Mon, 03 Jan 2022 04:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[OST PICK]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11519/Mgz_Main_List_20220103110610.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[‘콜라보 여신’ 안예은의 또 다른 세계로의 초대 ＜메롱해치＞ (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11516&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11516&amp;pg=1</guid>
@@ -418,14 +426,6 @@
             <pubDate>Thu, 30 Dec 2021 03:20:22 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11513/Mgz_Main_List_20211229191522.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년의 음반들 (1) - 올해의 피아노 앨범 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11513&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11513&amp;pg=1</guid>
-            <pubDate>Thu, 30 Dec 2021 03:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11512/Mgz_Main_List_20211229160637.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[힙합, 인디, 아이돌 음악으로 
@@ -1323,7 +1323,7 @@ MSG워너비 (VIBE ─ 매거진)]]></title>
 연말 결산 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 03 Jan 2022 03:21:37 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 04:27:38 GMT</pubDate>
             <content:encoded><![CDATA[2021년 빌보드 케이팝 100 차트는 작년과 동일한 11개의 1위 곡이 탄생했다. 역주행과 리메이크 열풍으로 과거 노래가 그대로 또는 새롭게 차트에 올랐으며, TV 프로그램의 영향으로 꼭 가수가 아니더라도 배우, 개그맨 등 다양한 이들이 차트에 이름을 남길 수 있었다. 시대와 장르, 분야를 뛰어넘는 많은 곡들로 채워졌던 올 한 해 빌보드 케이팝 100 차트. 그중에서 유난히 빛났던 아티스트와 노래들을 소개한다. - 빌보드코리아(이민형)]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211230_207/1640850984632vB7eX_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
