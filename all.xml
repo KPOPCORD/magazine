@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 12:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 13:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 6주 연속 1위 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/758</link>
+            <guid>http://billboard.co.kr/main/news/view/758</guid>
+            <pubDate>Tue, 04 Jan 2022 13:26:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/758">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220104215050_13.png" alt="소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 6주 연속 1위" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 6주 연속 1위</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220104215050_13.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[위켄드의 정규 5집: 타일러 더 크리에이터, 퀸시 존스, 릴 웨인 참여 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/757</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211222185815_6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 4주 연속 1위 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/749</link>
-            <guid>http://billboard.co.kr/main/news/view/749</guid>
-            <pubDate>Mon, 27 Dec 2021 07:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/749">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211221165819_5.png" alt="소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 4주 연속 1위" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 4주 연속 1위</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211221165819_5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[블리처스 (BLITZERS) - 성숙해진 소년들의 이유 있는 외침, '끄덕끄덕끄덕' 자켓 현장 공개 (벅스 ─ 뮤직포스트)]]></title>
@@ -1323,7 +1323,7 @@ Zior Park (VIBE ─ 매거진)]]></title>
 알레소&케이티 페리 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 04 Jan 2022 12:33:20 GMT</pubDate>
+            <pubDate>Tue, 04 Jan 2022 13:27:45 GMT</pubDate>
             <content:encoded><![CDATA[팝 음악계 화제로 떠오른 알레소와 케이티 페리의 콜라보와 나오자마자 차트를 뒤흔든 음원 강자 아이유의 새 EP까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220103_14/1641194147766kYSA0_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
