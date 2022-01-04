@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 05:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 06:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해 새 호캉스]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[이맘때 딱 좋은 호텔 패키지 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c79126a8b2634a129eed4e4133913f61.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 노래 알면 핵인싸]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[UX 디자인의 창시자, 도널드 노먼]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aa2c495ffb26491fb169694c4f085aed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해에는 새 마음으로]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 1월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0cf2fc8ab40b43faa268d1b501e1609e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
