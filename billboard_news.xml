@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 03:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 04:27:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위켄드의 정규 5집: 타일러 더 크리에이터, 퀸시 존스, 릴 웨인 참여]]></title>
+            <link>http://billboard.co.kr/main/news/view/757</link>
+            <guid>http://billboard.co.kr/main/news/view/757</guid>
+            <pubDate>Tue, 04 Jan 2022 04:26:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/757">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220104122733_16.jpg" alt="위켄드의 정규 5집: 타일러 더 크리에이터, 퀸시 존스, 릴 웨인 참여" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>위켄드의 정규 5집: 타일러 더 크리에이터, 퀸시 존스, 릴 웨인 참여</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220104122733_16.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 <돈 룩 업> 속 화제의 음악]]></title>
             <link>http://billboard.co.kr/main/news/view/756</link>
@@ -35,7 +54,7 @@
 								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
                                 <div class="img-boxs">
                                     <div class="img-con">
-								        <img src="/upload_data/board/simg/20211229142111_9.jpg" alt="위켄드와 그의 협업 아티스트가 전하는 ‘Blinding Lights’ 제작 스토리" style="width:100%;">
+								        <img src="/upload_data/board/simg/20220104122759_4.jpg" alt="위켄드와 그의 협업 아티스트가 전하는 ‘Blinding Lights’ 제작 스토리" style="width:100%;">
                                     </div>
                                 </div>
 								<div class="txt">
@@ -43,7 +62,7 @@
 									<div class="sub_title"></div>
 								</div>
 							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211229142111_9.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220104122759_4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 빌보드 케이팝 100 연말 결산]]></title>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211221165819_5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[B-RADAR] 뮤직비디오부터 앨범 아트웍까지, K-팝을 점령한 아티스트가 총출동하는 ‘빈칸 아트페어’]]></title>
-            <link>http://billboard.co.kr/main/news/view/748</link>
-            <guid>http://billboard.co.kr/main/news/view/748</guid>
-            <pubDate>Tue, 21 Dec 2021 10:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/748">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211219210901_13.jpg" alt="[B-RADAR] 뮤직비디오부터 앨범 아트웍까지, K-팝을 점령한 아티스트가 총출동하는 ‘빈칸 아트페어’" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>[B-RADAR] 뮤직비디오부터 앨범 아트웍까지, K-팝을 점령한 아티스트가 총출동하는 ‘빈칸 아트페어’</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211219210901_13.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
