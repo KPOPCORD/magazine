@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 08:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 09:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,6 +44,25 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220106123142_16.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT SHOT DEBUT] 방탄소년단 뷔의 핫 샷 데뷔 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/759</link>
+            <guid>http://billboard.co.kr/main/news/view/759</guid>
+            <pubDate>Thu, 06 Jan 2022 09:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/759">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220106162204_4.png" alt="[HOT SHOT DEBUT] 방탄소년단 뷔의 핫 샷 데뷔" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>[HOT SHOT DEBUT] 방탄소년단 뷔의 핫 샷 데뷔</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220106162204_4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 6주 연속 1위 (빌보드 코리아 ─ 뉴스)]]></title>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211229174739_11.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[외로운 심연에서 피어난 데이먼스 이어의 음악 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/753</link>
-            <guid>http://billboard.co.kr/main/news/view/753</guid>
-            <pubDate>Wed, 29 Dec 2021 10:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/753">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211228171414_8.jpg" alt="외로운 심연에서 피어난 데이먼스 이어의 음악" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>외로운 심연에서 피어난 데이먼스 이어의 음악</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211228171414_8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그리즐리 (Grizzly) - 설렘 가득 장착한 화보장인의 'Beige coat' 자켓 촬영 현장 (벅스 ─ 뮤직포스트)]]></title>
@@ -365,6 +365,30 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/KT0JT5A84FYONCMMK2UF/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[11명의 도발적인 남성스러움과 섹시한 비주얼 OMEGA X [LOVE ME L... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11537&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11537&amp;pg=1</guid>
+            <pubDate>Thu, 06 Jan 2022 09:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11537/Mgz_Main_List_20220106110209.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[당신의 웃음은 매진되셨나요? 팔칠댄스 [Soldout smile] 앨범 작업기 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11529&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11529&amp;pg=1</guid>
+            <pubDate>Thu, 06 Jan 2022 09:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11529/Mgz_Main_List_20220106100512.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[완성형 아티스 그리즐리(Grizzly) 'Beige coat' 인터뷰 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11528&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11528&amp;pg=1</guid>
+            <pubDate>Thu, 06 Jan 2022 09:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11528/Mgz_Main_List_20220106141017.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[KIMKIMPARKKIM's 한국 멜로우 팝 100선 ＃7 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11536&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11536&amp;pg=1</guid>
@@ -403,30 +427,6 @@
             <pubDate>Wed, 05 Jan 2022 09:21:21 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11527/Mgz_Main_List_20220104153743.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[TRENDZ (트렌드지) - [BLUE SET Chapter1. TRACKS]... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11526&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11526&amp;pg=1</guid>
-            <pubDate>Wed, 05 Jan 2022 09:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11526/Mgz_Main_List_20220105095315.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[힙합 따라잡기 ＃50 - 2022년이 기대되는 호랑이띠 래퍼 5 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11535&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11535&amp;pg=1</guid>
-            <pubDate>Wed, 05 Jan 2022 07:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[힙알사전]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11535/Mgz_Main_List_20220105154657.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[압도적인 폭력에 몸을 맡겨라! FFRD [폭력의 역사] 작업기 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11531&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11531&amp;pg=1</guid>
-            <pubDate>Wed, 05 Jan 2022 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11531/Mgz_Main_List_20220105105809.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[2021 빌보드 K-POP 100 
@@ -1324,9 +1324,17 @@ Zior Park (VIBE ─ 매거진)]]></title>
 알레소&케이티 페리 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 06 Jan 2022 08:25:48 GMT</pubDate>
+            <pubDate>Thu, 06 Jan 2022 09:21:39 GMT</pubDate>
             <content:encoded><![CDATA[팝 음악계 화제로 떠오른 알레소와 케이티 페리의 콜라보와 나오자마자 차트를 뒤흔든 음원 강자 아이유의 새 EP까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220103_14/1641194147766kYSA0_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토일렛페이퍼 파라다이스 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[전시장을 넘어 도심 속 토일렛페이퍼 아트워크]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a6a83f25f1794ca6b3dd97668e965f77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운  마음으로  시작 (현대카드 DIVE ─ POST)]]></title>
@@ -1391,14 +1399,6 @@ Zior Park (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 1월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f51809037239485694c763011b06a47a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 순간의 기억 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 1월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ac569684776048f9b44585b67bb9d05d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

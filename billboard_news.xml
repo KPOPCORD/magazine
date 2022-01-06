@@ -4,7 +4,7 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 08:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 09:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,6 +44,25 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220106123142_16.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT SHOT DEBUT] 방탄소년단 뷔의 핫 샷 데뷔]]></title>
+            <link>http://billboard.co.kr/main/news/view/759</link>
+            <guid>http://billboard.co.kr/main/news/view/759</guid>
+            <pubDate>Thu, 06 Jan 2022 09:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/759">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220106162204_4.png" alt="[HOT SHOT DEBUT] 방탄소년단 뷔의 핫 샷 데뷔" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>[HOT SHOT DEBUT] 방탄소년단 뷔의 핫 샷 데뷔</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220106162204_4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 6주 연속 1위]]></title>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211229174739_11.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[외로운 심연에서 피어난 데이먼스 이어의 음악]]></title>
-            <link>http://billboard.co.kr/main/news/view/753</link>
-            <guid>http://billboard.co.kr/main/news/view/753</guid>
-            <pubDate>Wed, 29 Dec 2021 10:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/753">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211228171414_8.jpg" alt="외로운 심연에서 피어난 데이먼스 이어의 음악" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>외로운 심연에서 피어난 데이먼스 이어의 음악</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211228171414_8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
