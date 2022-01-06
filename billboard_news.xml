@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 04:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 05:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최예나, 미니앨범 발매와 함께 솔로 데뷔]]></title>
+            <link>http://billboard.co.kr/main/news/view/761</link>
+            <guid>http://billboard.co.kr/main/news/view/761</guid>
+            <pubDate>Thu, 06 Jan 2022 05:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/761">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220106134419_2.jpg" alt="최예나, 미니앨범 발매와 함께 솔로 데뷔" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>최예나, 미니앨범 발매와 함께 솔로 데뷔</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220106134419_2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제64회 그래미 어워즈 일정 연기]]></title>
             <link>http://billboard.co.kr/main/news/view/760</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211228171414_8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[B-Picks] 놓치지 말아야 할 5장의 국내 앨범]]></title>
-            <link>http://billboard.co.kr/main/news/view/751</link>
-            <guid>http://billboard.co.kr/main/news/view/751</guid>
-            <pubDate>Mon, 27 Dec 2021 11:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/751">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211227194652_8.png" alt="[B-Picks] 놓치지 말아야 할 5장의 국내 앨범" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>[B-Picks] 놓치지 말아야 할 5장의 국내 앨범</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211227194652_8.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
