@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 02:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 03:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그리즐리 (Grizzly) - 설렘美 장착한 화보장인의 'Beige coat' 자켓 촬영 현장]]></title>
+            <link>https://music.bugs.co.kr/musicpost/T4U8KQ6JLPSLJXS6ATEV?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/T4U8KQ6JLPSLJXS6ATEV?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 06 Jan 2022 03:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/T4U8KQ6JLPSLJXS6ATEV/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블리처스 (BLITZERS) - 성숙해진 소년들의 이유 있는 외침, '끄덕끄덕끄덕' 자켓 현장 공개]]></title>
             <link>https://music.bugs.co.kr/musicpost/U5Y3EH5VRVQWVZDIJOWD?&amp;wl_ref=list_sp_01_h</link>
@@ -184,13 +192,6 @@
             <pubDate>Tue, 26 Oct 2021 07:19:01 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/KT0JT5A84FYONCMMK2UF/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭘 들을까? - 2021년 10월 노래 모음!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/KW6FMWHTKCPJW3WGDULG?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/KW6FMWHTKCPJW3WGDULG?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 15 Oct 2021 05:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
