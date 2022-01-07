@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 07:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 08:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위켄드의 정규 5집 [Dawn FM] 발매]]></title>
+            <link>http://billboard.co.kr/main/news/view/762</link>
+            <guid>http://billboard.co.kr/main/news/view/762</guid>
+            <pubDate>Fri, 07 Jan 2022 08:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/762">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220107155202_1.jpg" alt="위켄드의 정규 5집 [Dawn FM] 발매" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>위켄드의 정규 5집 [Dawn FM] 발매</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220107155202_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최예나, 미니앨범 발매와 함께 솔로 데뷔]]></title>
             <link>http://billboard.co.kr/main/news/view/761</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211228172847_14.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 5주 연속 1위]]></title>
-            <link>http://billboard.co.kr/main/news/view/755</link>
-            <guid>http://billboard.co.kr/main/news/view/755</guid>
-            <pubDate>Wed, 29 Dec 2021 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/755">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211229174739_11.png" alt="소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 5주 연속 1위" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 5주 연속 1위</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211229174739_11.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

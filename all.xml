@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 07:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 08:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위켄드의 정규 5집 [Dawn FM] 발매 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/762</link>
+            <guid>http://billboard.co.kr/main/news/view/762</guid>
+            <pubDate>Fri, 07 Jan 2022 08:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/762">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220107155202_1.jpg" alt="위켄드의 정규 5집 [Dawn FM] 발매" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>위켄드의 정규 5집 [Dawn FM] 발매</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220107155202_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최예나, 미니앨범 발매와 함께 솔로 데뷔 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/761</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211228172847_14.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 5주 연속 1위 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/755</link>
-            <guid>http://billboard.co.kr/main/news/view/755</guid>
-            <pubDate>Wed, 29 Dec 2021 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/755">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20211229174739_11.png" alt="소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 5주 연속 1위" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 5주 연속 1위</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211229174739_11.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[벅스X제페토 - 메타버스가 사랑한 K-POP 아티스트, 지금 투표하세요! (벅스 ─ 뮤직포스트)]]></title>
@@ -365,6 +365,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/M8NR08NLTE50O88UBA5A/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[재즈의 새로운 고전 ＃23 - 바다의 광대함 그려낸 깊고도 명상적인 사운드 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11545&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11545&amp;pg=1</guid>
+            <pubDate>Fri, 07 Jan 2022 08:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11545/Mgz_Main_List_20220107172132.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[B차트 동향 ＃35 - 또 하나의 역주행 곡 탄생! GAYLE 'abcdefu... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=11541&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=11541&amp;pg=1</guid>
@@ -419,14 +427,6 @@
             <pubDate>Thu, 06 Jan 2022 09:21:11 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11528/Mgz_Main_List_20220106141017.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[KIMKIMPARKKIM's 한국 멜로우 팝 100선 ＃7 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11536&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11536&amp;pg=1</guid>
-            <pubDate>Thu, 06 Jan 2022 03:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[김김박김]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11536/Mgz_Main_List_20220106094903.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #74 : 
@@ -1324,9 +1324,17 @@ Zior Park (VIBE ─ 매거진)]]></title>
 익숙한 듯 특별했던 핫 100 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 07 Jan 2022 07:20:36 GMT</pubDate>
+            <pubDate>Fri, 07 Jan 2022 08:25:22 GMT</pubDate>
             <content:encoded><![CDATA[연말, 연초 핫 100에 큰 이변은 없었다. 늘 그렇듯 머라이어 캐리를 필두로 클래식 캐럴들이 줄지어 최상단을 장식했다. 1위 행진을 이어오던 아델도 잠시 자리를 내어주었다. 이 와중에 발매를 감행한 흑인 뮤지션들의 활약이 돋보였으며, 방탄소년단의 두 멤버가 의미 있는 솔로 커리어를 남겼다. - 빌보드코리아(이민형)]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220106_153/1641459340198d5Ev3_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나도 지구도 소중해 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[주간 DIVE 98호]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/77529618f51442c3a4e845ca5eae7a3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새해에도 스포츠 정신 (현대카드 DIVE ─ POST)]]></title>
@@ -1391,14 +1399,6 @@ Zior Park (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 레어 북 들여다보기 #8]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/662a216d96684072b1686fca97966909.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤하늘의  펄 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[새해를 위한 다채로운 진주 주얼리]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1eeb41cfa20b409fb6dd3daa1574e2ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
