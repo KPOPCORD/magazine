@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 03:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 04:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1324,9 +1324,17 @@ Zior Park (VIBE ─ 매거진)]]></title>
 익숙한 듯 특별했던 핫 100 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 08 Jan 2022 03:22:52 GMT</pubDate>
+            <pubDate>Sat, 08 Jan 2022 04:28:17 GMT</pubDate>
             <content:encoded><![CDATA[연말, 연초 핫 100에 큰 이변은 없었다. 늘 그렇듯 머라이어 캐리를 필두로 클래식 캐럴들이 줄지어 최상단을 장식했다. 1위 행진을 이어오던 아델도 잠시 자리를 내어주었다. 이 와중에 발매를 감행한 흑인 뮤지션들의 활약이 돋보였으며, 방탄소년단의 두 멤버가 의미 있는 솔로 커리어를 남겼다. - 빌보드코리아(이민형)]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220106_153/1641459340198d5Ev3_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흑돼지구이,  딱새우회 말고 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[제주의 맛을 새롭게 해석한 식당 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4d2eded933f6407e95e6b357d76de103.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나도 지구도 소중해 (현대카드 DIVE ─ POST)]]></title>
@@ -1391,14 +1399,6 @@ Zior Park (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[문승지의 '디자인 스토리']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bfe28b6256e3495abc1897df78fa73ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모던 내추럴 라이프 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 레어 북 들여다보기 #8]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/662a216d96684072b1686fca97966909.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
