@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 03:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 04:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[취향을  기르는  중입니다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[미식가를 위한 정기 구독 서비스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/db1169d3caa5479a8694122859833544.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흑돼지구이,  딱새우회 말고]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[2021 틱톡 글로벌 톱 트랙 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6f17c3b48d944dffa8d4ae19109b1b5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주  블루보틀, 그 비하인드]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[문승지의 '디자인 스토리']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bfe28b6256e3495abc1897df78fa73ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
