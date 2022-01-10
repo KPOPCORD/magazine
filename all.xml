@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 07:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 08:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,6 +365,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/M8NR08NLTE50O88UBA5A/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서로 다른 것들이 자연스럽게 모이는 서촌의 <뮤추얼사운드클럽> (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11546&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11546&amp;pg=1</guid>
+            <pubDate>Mon, 10 Jan 2022 08:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11545/Mgz_Main_List_20220110163157.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[2022년, 새로운 세상을 꿈꾸는 모두를 위한 영화 〈웨스트 사이드 스토리〉 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=11543&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=11543&amp;pg=1</guid>
@@ -419,14 +427,6 @@
             <pubDate>Thu, 06 Jan 2022 09:21:11 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11537/Mgz_Main_List_20220106110209.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 웃음은 매진되셨나요? 팔칠댄스 [Soldout smile] 앨범 작업기 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11529&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11529&amp;pg=1</guid>
-            <pubDate>Thu, 06 Jan 2022 09:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11529/Mgz_Main_List_20220106100512.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #74 : 
@@ -1324,9 +1324,17 @@ Zior Park (VIBE ─ 매거진)]]></title>
 익숙한 듯 특별했던 핫 100 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 10 Jan 2022 07:20:45 GMT</pubDate>
+            <pubDate>Mon, 10 Jan 2022 08:26:56 GMT</pubDate>
             <content:encoded><![CDATA[연말, 연초 핫 100에 큰 이변은 없었다. 늘 그렇듯 머라이어 캐리를 필두로 클래식 캐럴들이 줄지어 최상단을 장식했다. 1위 행진을 이어오던 아델도 잠시 자리를 내어주었다. 이 와중에 발매를 감행한 흑인 뮤지션들의 활약이 돋보였으며, 방탄소년단의 두 멤버가 의미 있는 솔로 커리어를 남겼다. - 빌보드코리아(이민형)]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220106_153/1641459340198d5Ev3_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[릴러말즈와 그의 바이올린 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[DIVE와 릴러말즈의 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b496c8c3529043ac96c0764a32876959.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백 투 베이식 (현대카드 DIVE ─ POST)]]></title>
@@ -1391,14 +1399,6 @@ Zior Park (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[히어로 무비 역대급 OST 플리]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2ec91607d0024b45bda4bf02ed1ceefd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해 새 호캉스 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[이맘때 딱 좋은 호텔 패키지 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c79126a8b2634a129eed4e4133913f61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

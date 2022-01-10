@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 07:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 08:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[릴러말즈와 그의 바이올린]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[DIVE와 릴러말즈의 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b496c8c3529043ac96c0764a32876959.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백 투 베이식]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[히어로 무비 역대급 OST 플리]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2ec91607d0024b45bda4bf02ed1ceefd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해 새 호캉스]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[이맘때 딱 좋은 호텔 패키지 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c79126a8b2634a129eed4e4133913f61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
