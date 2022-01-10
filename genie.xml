@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 02:41:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 03:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년, 새로운 세상을 꿈꾸는 모두를 위한 영화 〈웨스트 사이드 스토리〉]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=11543&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=11543&amp;pg=1</guid>
+            <pubDate>Mon, 10 Jan 2022 03:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[영화/전시]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11542/Mgz_Main_List_20220107150927.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[재즈의 새로운 고전 ＃23 - 바다의 광대함 그려낸 깊고도 명상적인 사운드]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11545&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 06 Jan 2022 10:22:45 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11529/Mgz_Main_List_20220106100512.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[완성형 아티스 그리즐리(Grizzly) 'Beige coat' 인터뷰]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11528&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11528&amp;pg=1</guid>
-            <pubDate>Thu, 06 Jan 2022 10:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11528/Mgz_Main_List_20220106141017.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
