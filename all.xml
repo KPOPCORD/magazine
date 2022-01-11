@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 04:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 05:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1324,9 +1324,17 @@ Zior Park (VIBE ─ 매거진)]]></title>
 위켄드, GOT the beat (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 11 Jan 2022 04:27:13 GMT</pubDate>
+            <pubDate>Tue, 11 Jan 2022 05:20:41 GMT</pubDate>
             <content:encoded><![CDATA[드디어 새 앨범을 발표한 위켄드와 SM엔터테인먼트의 프로젝트 유닛 GOT the beat까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220110_277/16418034005385B3ow_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빈티지  발굴단 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[보물같은 빈티지 제품을 만날 수 있는 곳]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/63f10a4ba5f34a969df4e01ebdcacd2d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[릴러말즈와 그의 바이올린 (현대카드 DIVE ─ POST)]]></title>
@@ -1391,14 +1399,6 @@ Zior Park (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[1월의 현대카드 컬처 캘린더]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/197b1be7232f4db0aa1f39905f40a1a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년엔 내가 히어로! (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[히어로 무비 역대급 OST 플리]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2ec91607d0024b45bda4bf02ed1ceefd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
