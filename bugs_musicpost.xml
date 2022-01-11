@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 02:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 03:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한지나 - 앨범 TMI : 정규 앨범 [불안의 옴니버스] 수록곡에 담긴 이야기]]></title>
+            <link>https://music.bugs.co.kr/musicpost/N1RE5CECQBK33WV2T7VY?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/N1RE5CECQBK33WV2T7VY?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 11 Jan 2022 03:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/N1RE5CECQBK33WV2T7VY/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벅스X제페토 - 메타버스가 사랑한 K-POP 아티스트, 지금 투표하세요!]]></title>
             <link>https://music.bugs.co.kr/musicpost/J29JWWKCUHZ6L8R9ZUWF?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <guid>https://music.bugs.co.kr/musicpost/YHLWL0115K15Z6R12R3E?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Mon, 01 Nov 2021 02:33:00 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우재 (WOOJAE) - 스페셜 인터뷰, 우재가 들려주는 '감정의 사치' 작업 비하인드]]></title>
-            <link>https://music.bugs.co.kr/musicpost/M8NR08NLTE50O88UBA5A?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/M8NR08NLTE50O88UBA5A?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 01 Nov 2021 04:25:34 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/M8NR08NLTE50O88UBA5A/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
