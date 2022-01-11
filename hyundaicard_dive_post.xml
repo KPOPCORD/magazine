@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 06:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 07:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해 시작은  디즈니랑]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니플러스 1월 신작]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c9f50cc3cfb047ff8a05fda3a098b01a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빈티지  발굴단]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[전시장을 넘어 도심 속 토일렛페이퍼 아트워크]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a6a83f25f1794ca6b3dd97668e965f77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운  마음으로  시작]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[1월의 현대카드 컬처 캘린더]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/197b1be7232f4db0aa1f39905f40a1a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
