@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 02:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 03:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시월십사일 (1014) [언젠가 너를 잃게 된다면] 자켓 촬영 현장]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11550&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11550&amp;pg=1</guid>
+            <pubDate>Wed, 12 Jan 2022 03:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11549/Mgz_Main_List_20220112092748.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[피아노 듀엣의 여러 모습]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11547&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 07 Jan 2022 06:25:22 GMT</pubDate>
             <content:encoded><![CDATA[POP 컬렉션]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11540/Mgz_Main_List_20220107140418.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[지니 컬러 동향 ＃32 – 2021.12.18 ~ 2022.01.01 발매작]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=11540&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=11540&amp;pg=1</guid>
-            <pubDate>Fri, 07 Jan 2022 03:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[지니 컬러 동향]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11539/Mgz_Main_List_20220106173709.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
