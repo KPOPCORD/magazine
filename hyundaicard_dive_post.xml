@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 05:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 06:26:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고수들의  바비큐]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[바비큐 고수가 운영하는 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fc068b8747af454cbd6fcddd7211f39d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새해 시작은  디즈니랑]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[에너지를 더해줄 뉴 스포츠 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/70a33acb112e4b39b35c4e4c209c6d19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토일렛페이퍼  파라다이스]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[전시장을 넘어 도심 속 토일렛페이퍼 아트워크]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a6a83f25f1794ca6b3dd97668e965f77.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
