@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 08:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 09:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미래소년(MIRAE) ['Marvelous - MIRAE 3rd Mini Al...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11551&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11551&amp;pg=1</guid>
+            <pubDate>Wed, 12 Jan 2022 09:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11550/Mgz_Main_List_20220112104119.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[한겨울에 찾아온 로맨틱함, 강타 ‘Slow Dance’]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11548&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11548&amp;pg=1</guid>
+            <pubDate>Wed, 12 Jan 2022 09:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11548/Mgz_Main_List_20220111152457.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[시월십사일 (1014) [언젠가 너를 잃게 된다면] 자켓 촬영 현장]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11550&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 10 Jan 2022 03:22:16 GMT</pubDate>
             <content:encoded><![CDATA[영화/전시]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11542/Mgz_Main_List_20220107150927.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[재즈의 새로운 고전 ＃23 - 바다의 광대함 그려낸 깊고도 명상적인 사운드]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11545&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11545&amp;pg=1</guid>
-            <pubDate>Fri, 07 Jan 2022 08:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11545/Mgz_Main_List_20220107172132.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[B차트 동향 ＃35 - 또 하나의 역주행 곡 탄생! GAYLE 'abcdefu...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=11541&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=11541&amp;pg=1</guid>
-            <pubDate>Fri, 07 Jan 2022 06:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[POP 컬렉션]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11540/Mgz_Main_List_20220107140418.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
