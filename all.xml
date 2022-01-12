@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 04:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 05:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[HOT SHOT DEBUT] 1월 15일 자 차트에 등장한 신곡 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/765</link>
+            <guid>http://billboard.co.kr/main/news/view/765</guid>
+            <pubDate>Wed, 12 Jan 2022 05:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/765">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220112135549_28.png" alt="[HOT SHOT DEBUT] 1월 15일 자 차트에 등장한 신곡" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>[HOT SHOT DEBUT] 1월 15일 자 차트에 등장한 신곡</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220112135549_28.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이유 ‘겨울잠’, 빌보드 케이팝 100 차트 정상 등극 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/764</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220103185820_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위켄드와 그의 협업 아티스트가 전하는 ‘Blinding Lights’ 제작 스토리 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/754</link>
-            <guid>http://billboard.co.kr/main/news/view/754</guid>
-            <pubDate>Mon, 03 Jan 2022 06:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/754">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220104122759_4.jpg" alt="위켄드와 그의 협업 아티스트가 전하는 ‘Blinding Lights’ 제작 스토리" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>위켄드와 그의 협업 아티스트가 전하는 ‘Blinding Lights’ 제작 스토리</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220104122759_4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한지나 - 앨범 TMI : 정규 앨범 [불안의 옴니버스] 수록곡에 담긴 이야기 (벅스 ─ 뮤직포스트)]]></title>
@@ -1324,7 +1324,7 @@ Zior Park (VIBE ─ 매거진)]]></title>
 위켄드, GOT the beat (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 12 Jan 2022 04:28:16 GMT</pubDate>
+            <pubDate>Wed, 12 Jan 2022 05:21:10 GMT</pubDate>
             <content:encoded><![CDATA[드디어 새 앨범을 발표한 위켄드와 SM엔터테인먼트의 프로젝트 유닛 GOT the beat까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220110_277/16418034005385B3ow_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
@@ -1353,7 +1353,7 @@ Zior Park (VIBE ─ 매거진)]]></title>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b496c8c3529043ac96c0764a32876959.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[백 투 베이식 (현대카드 DIVE ─ POST)]]></title>
+            <title><![CDATA[백 투  베이식 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
