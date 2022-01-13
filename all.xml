@@ -4,9 +4,47 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 09:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 10:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강렬한 분위기로 컴백한 최강창민 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/769</link>
+            <guid>http://billboard.co.kr/main/news/view/769</guid>
+            <pubDate>Thu, 13 Jan 2022 10:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/769">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220113184357_15.jpg" alt="강렬한 분위기로 컴백한 최강창민" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>강렬한 분위기로 컴백한 최강창민</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220113184357_15.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아델의 새 뮤직비디오 'Oh My God'을 둘러싼 해석들 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/768</link>
+            <guid>http://billboard.co.kr/main/news/view/768</guid>
+            <pubDate>Thu, 13 Jan 2022 10:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/768">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220113181913_1.jpg" alt="아델의 새 뮤직비디오 'Oh My God'을 둘러싼 해석들" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>아델의 새 뮤직비디오 'Oh My God'을 둘러싼 해석들</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220113181913_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 코첼라 라인업 공개: 해리 스타일스, 빌리 아일리시, 칸예 웨스트 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/767</link>
@@ -139,44 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220106134419_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제64회 그래미 어워즈 일정 연기 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/760</link>
-            <guid>http://billboard.co.kr/main/news/view/760</guid>
-            <pubDate>Thu, 06 Jan 2022 04:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/760">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220106123142_16.png" alt="제64회 그래미 어워즈 일정 연기" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>제64회 그래미 어워즈 일정 연기</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220106123142_16.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[HOT SHOT DEBUT] 방탄소년단 뷔의 핫 샷 데뷔 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/759</link>
-            <guid>http://billboard.co.kr/main/news/view/759</guid>
-            <pubDate>Thu, 06 Jan 2022 09:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/759">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220106162204_4.png" alt="[HOT SHOT DEBUT] 방탄소년단 뷔의 핫 샷 데뷔" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>[HOT SHOT DEBUT] 방탄소년단 뷔의 핫 샷 데뷔</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220106162204_4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한지나 - 앨범 TMI : 정규 앨범 [불안의 옴니버스] 수록곡에 담긴 이야기 (벅스 ─ 뮤직포스트)]]></title>
@@ -1324,7 +1324,7 @@ Zior Park (VIBE ─ 매거진)]]></title>
 TRENDZ(트렌드지) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 13 Jan 2022 09:22:46 GMT</pubDate>
+            <pubDate>Thu, 13 Jan 2022 10:23:15 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 매거진! 신예 아이돌그룹 TRENDZ(트렌드지)가 2022년 호랑이 해를 여는 포효로 전 세계 팬들을 사로잡을 예정입니다. 과연 어떤 질문과 답변으로 트렌드지의 솔직함을 보여줬을지 다 함께 만나보시죠.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220111_252/1641885989124NX1cR_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
