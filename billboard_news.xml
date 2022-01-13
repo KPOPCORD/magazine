@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 03:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 04:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 코첼라 라인업 공개: 해리 스타일스, 빌리 아일리시, 칸예 웨스트]]></title>
+            <link>http://billboard.co.kr/main/news/view/767</link>
+            <guid>http://billboard.co.kr/main/news/view/767</guid>
+            <pubDate>Thu, 13 Jan 2022 04:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/767">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220113132446_8.jpg" alt="2022 코첼라 라인업 공개: 해리 스타일스, 빌리 아일리시, 칸예 웨스트" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>2022 코첼라 라인업 공개: 해리 스타일스, 빌리 아일리시, 칸예 웨스트</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220113132446_8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 빌보드 HOT 100 총정리(12/11~1/8)]]></title>
             <link>http://billboard.co.kr/main/news/view/766</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220104215050_13.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위켄드의 정규 5집: 타일러 더 크리에이터, 퀸시 존스, 릴 웨인 참여]]></title>
-            <link>http://billboard.co.kr/main/news/view/757</link>
-            <guid>http://billboard.co.kr/main/news/view/757</guid>
-            <pubDate>Tue, 04 Jan 2022 04:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/757">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220104122733_16.jpg" alt="위켄드의 정규 5집: 타일러 더 크리에이터, 퀸시 존스, 릴 웨인 참여" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>위켄드의 정규 5집: 타일러 더 크리에이터, 퀸시 존스, 릴 웨인 참여</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220104122733_16.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

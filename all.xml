@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 03:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 04:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 코첼라 라인업 공개: 해리 스타일스, 빌리 아일리시, 칸예 웨스트 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/767</link>
+            <guid>http://billboard.co.kr/main/news/view/767</guid>
+            <pubDate>Thu, 13 Jan 2022 04:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/767">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220113132446_8.jpg" alt="2022 코첼라 라인업 공개: 해리 스타일스, 빌리 아일리시, 칸예 웨스트" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>2022 코첼라 라인업 공개: 해리 스타일스, 빌리 아일리시, 칸예 웨스트</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220113132446_8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 빌보드 HOT 100 총정리(12/11~1/8) (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/766</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220104215050_13.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위켄드의 정규 5집: 타일러 더 크리에이터, 퀸시 존스, 릴 웨인 참여 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/757</link>
-            <guid>http://billboard.co.kr/main/news/view/757</guid>
-            <pubDate>Tue, 04 Jan 2022 04:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/757">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220104122733_16.jpg" alt="위켄드의 정규 5집: 타일러 더 크리에이터, 퀸시 존스, 릴 웨인 참여" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>위켄드의 정규 5집: 타일러 더 크리에이터, 퀸시 존스, 릴 웨인 참여</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220104122733_16.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한지나 - 앨범 TMI : 정규 앨범 [불안의 옴니버스] 수록곡에 담긴 이야기 (벅스 ─ 뮤직포스트)]]></title>
@@ -435,7 +435,7 @@
             <guid>https://vibe.naver.com/magazines/57455</guid>
             <pubDate>Wed, 12 Jan 2022 09:20:55 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.01.10]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220110_31/1641803392667tvzuf_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+            <enclosure url="https://music-phinf.pstatic.net/20220113_126/1642047367619ajBjm_PNG/%C0%A7%C4%CB%B5%E5_%C1%A4%BB%E7%B0%A2_%B6%F3%C0%CE%C1%A6%BF%DC.png?type=w720" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Billboard HOT 100 : 
@@ -1324,9 +1324,17 @@ Zior Park (VIBE ─ 매거진)]]></title>
 TRENDZ(트렌드지) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 13 Jan 2022 03:23:10 GMT</pubDate>
+            <pubDate>Thu, 13 Jan 2022 04:27:44 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 매거진! 신예 아이돌그룹 TRENDZ(트렌드지)가 2022년 호랑이 해를 여는 포효로 전 세계 팬들을 사로잡을 예정입니다. 과연 어떤 질문과 답변으로 트렌드지의 솔직함을 보여줬을지 다 함께 만나보시죠.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220111_252/1641885989124NX1cR_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일잘러는  앱부터 달라 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[업무 효율 만렙 앱 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5a18605e9a1a427ea6093cf787d3fc8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고수들의  바비큐 (현대카드 DIVE ─ POST)]]></title>
@@ -1391,14 +1399,6 @@ TRENDZ(트렌드지) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[주간 DIVE 98호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/77529618f51442c3a4e845ca5eae7a3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해에도 스포츠 정신 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[에너지를 더해줄 뉴 스포츠 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/70a33acb112e4b39b35c4e4c209c6d19.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
