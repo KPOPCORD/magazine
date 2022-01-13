@@ -4,7 +4,7 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 06:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 07:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,6 +84,25 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220112023039_15.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[에릭남, 홀로서기 후 첫 앨범 공개]]></title>
+            <link>http://billboard.co.kr/main/news/view/763</link>
+            <guid>http://billboard.co.kr/main/news/view/763</guid>
+            <pubDate>Thu, 13 Jan 2022 07:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/763">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220107164020_2.jpg" alt="에릭남, 홀로서기 후 첫 앨범 공개" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>에릭남, 홀로서기 후 첫 앨범 공개</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220107164020_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위켄드의 정규 5집 [Dawn FM] 발매]]></title>
             <link>http://billboard.co.kr/main/news/view/762</link>
             <guid>http://billboard.co.kr/main/news/view/762</guid>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220106162204_4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 6주 연속 1위]]></title>
-            <link>http://billboard.co.kr/main/news/view/758</link>
-            <guid>http://billboard.co.kr/main/news/view/758</guid>
-            <pubDate>Tue, 04 Jan 2022 13:26:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/758">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220104215050_13.png" alt="소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 6주 연속 1위" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 6주 연속 1위</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220104215050_13.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
