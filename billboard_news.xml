@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 10:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 11:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤즈의 귀환: 싱글 Won't Stand Down 발표]]></title>
+            <link>http://billboard.co.kr/main/news/view/770</link>
+            <guid>http://billboard.co.kr/main/news/view/770</guid>
+            <pubDate>Fri, 14 Jan 2022 11:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/770">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220114175051_1.jpg" alt="뮤즈의 귀환: 싱글 Won't Stand Down 발표" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>뮤즈의 귀환: 싱글 Won't Stand Down 발표</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220114175051_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강렬한 분위기로 컴백한 최강창민]]></title>
             <link>http://billboard.co.kr/main/news/view/769</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220107155202_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최예나, 미니앨범 발매와 함께 솔로 데뷔]]></title>
-            <link>http://billboard.co.kr/main/news/view/761</link>
-            <guid>http://billboard.co.kr/main/news/view/761</guid>
-            <pubDate>Thu, 06 Jan 2022 05:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/761">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220106134419_2.jpg" alt="최예나, 미니앨범 발매와 함께 솔로 데뷔" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>최예나, 미니앨범 발매와 함께 솔로 데뷔</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220106134419_2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

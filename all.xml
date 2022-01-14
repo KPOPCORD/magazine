@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 10:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 11:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤즈의 귀환: 싱글 Won't Stand Down 발표 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/770</link>
+            <guid>http://billboard.co.kr/main/news/view/770</guid>
+            <pubDate>Fri, 14 Jan 2022 11:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/770">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220114175051_1.jpg" alt="뮤즈의 귀환: 싱글 Won't Stand Down 발표" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>뮤즈의 귀환: 싱글 Won't Stand Down 발표</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220114175051_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강렬한 분위기로 컴백한 최강창민 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/769</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220107155202_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최예나, 미니앨범 발매와 함께 솔로 데뷔 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/761</link>
-            <guid>http://billboard.co.kr/main/news/view/761</guid>
-            <pubDate>Thu, 06 Jan 2022 05:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/761">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220106134419_2.jpg" alt="최예나, 미니앨범 발매와 함께 솔로 데뷔" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>최예나, 미니앨범 발매와 함께 솔로 데뷔</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220106134419_2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2022년 1월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
@@ -1324,7 +1324,7 @@ Zior Park (VIBE ─ 매거진)]]></title>
 짐 캐리, OPN (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 14 Jan 2022 10:23:19 GMT</pubDate>
+            <pubDate>Fri, 14 Jan 2022 11:18:41 GMT</pubDate>
             <content:encoded><![CDATA[연초부터 평단의 극찬을 받는 올해의 앨범이 등장했다. 바로 위켄드(The Weeknd)의 &lt;Dawn FM&gt;이다. 유기성과 작품성, 대중성을 모두 지닌 앨범은 위켄드의 커리어에 또 한 번 방점을 찍었다는 평을 얻고 있다. 특히 위켄드는 팬데믹 시대를 겪고 있는 사람들을 위해 1980년대의 팝 음악을 한데 아울러 환상적이고 현실 도피적인 사운드를 앨범에 담아냈다고 한다. 그렇다면 위켄드의 이번 앨범에는 어떤 이들이 참여했을까? - 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220113_148/1642054672290XsvRx_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
