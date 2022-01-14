@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 04:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 05:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2022년 1월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/1I5BIVM55U55NOURFSYZ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/1I5BIVM55U55NOURFSYZ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 14 Jan 2022 05:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[한지나 - 앨범 TMI : 정규 앨범 [불안의 옴니버스] 수록곡에 담긴 이야기]]></title>
             <link>https://music.bugs.co.kr/musicpost/N1RE5CECQBK33WV2T7VY?&amp;wl_ref=list_sp_01_h</link>
@@ -32,12 +39,12 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OGP1CEINV9GV6SSJRHPR/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그리즐리 (Grizzly) - 설렘 가득 장착한 화보장인의 'Beige coat' 자켓 촬영 현장]]></title>
-            <link>https://music.bugs.co.kr/musicpost/T4U8KQ6JLPSLJXS6ATEV?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/T4U8KQ6JLPSLJXS6ATEV?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 06 Jan 2022 03:22:53 GMT</pubDate>
+            <title><![CDATA[김보경 (NEON) - '같은 이유로 우리 또 헤어질까봐' 발매 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/OGP1CEINV9GV6SSJRHPR?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/OGP1CEINV9GV6SSJRHPR?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 07 Jan 2022 03:23:20 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/T4U8KQ6JLPSLJXS6ATEV/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OGP1CEINV9GV6SSJRHPR/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블리처스 (BLITZERS) - 성숙해진 소년들의 이유 있는 외침, '끄덕끄덕끄덕' 자켓 현장 공개]]></title>
@@ -185,13 +192,6 @@
             <pubDate>Wed, 03 Nov 2021 06:23:05 GMT</pubDate>
             <content:encoded><![CDATA[뮤직포커스]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/74BNFDTD88RNCMB2WFCS/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝송으로 배우는 영어! 52. AREA21 - 'Lovin' Every Minute']]></title>
-            <link>https://music.bugs.co.kr/musicpost/YHLWL0115K15Z6R12R3E?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/YHLWL0115K15Z6R12R3E?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 01 Nov 2021 02:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
