@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 14:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 15:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -429,6 +429,15 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11550/Mgz_Main_List_20220112104119.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
+            <title><![CDATA[위켄드와 함께 한 친구들 : 
+짐 캐리, OPN (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/57754</link>
+            <guid>https://vibe.naver.com/magazines/57754</guid>
+            <pubDate>Fri, 14 Jan 2022 15:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.01.14]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220113_128/1642054665690v1p7a_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[무엇이든 물어보세요 : 
 TRENDZ(트렌드지) (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/57577</link>
@@ -453,7 +462,7 @@ TRENDZ(트렌드지) (VIBE ─ 매거진)]]></title>
             <guid>https://vibe.naver.com/magazines/57407</guid>
             <pubDate>Mon, 10 Jan 2022 10:24:01 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2022.01.06]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220106_282/1641459333086VRypL_JPEG/%C4%BF%B9%F61j.jpg?type=w720" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII="/>
         </item>
         <item>
             <title><![CDATA[New Release #74 : 
@@ -1311,22 +1320,13 @@ Zior Park (VIBE ─ 매거진)]]></title>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII="/>
         </item>
         <item>
-            <title><![CDATA[7월의 느낌, 
-당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/50479</link>
-            <guid>https://vibe.naver.com/magazines/50479</guid>
-            <pubDate>Fri, 31 Dec 2021 15:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-16fe29a2="" class="blind">작성일</span> 2021.07.13]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII="/>
-        </item>
-        <item>
-            <title><![CDATA[위켄드와 함께 한 친구들 : 
-짐 캐리, OPN (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[이주의 디깅 #126 
+2022 기대주 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 14 Jan 2022 14:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[연초부터 평단의 극찬을 받는 올해의 앨범이 등장했다. 바로 위켄드(The Weeknd)의 &lt;Dawn FM&gt;이다. 유기성과 작품성, 대중성을 모두 지닌 앨범은 위켄드의 커리어에 또 한 번 방점을 찍었다는 평을 얻고 있다. 특히 위켄드는 팬데믹 시대를 겪고 있는 사람들을 위해 1980년대의 팝 음악을 한데 아울러 환상적이고 현실 도피적인 사운드를 앨범에 담아냈다고 한다. 그렇다면 위켄드의 이번 앨범에는 어떤 이들이 참여했을까? - 힙합엘이]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220113_148/1642054672290XsvRx_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <pubDate>Fri, 14 Jan 2022 15:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[어느덧 찾아온 2022년의 첫 번째 달. 해마다 첫 달은 저마다의 1년 계획을 세우고 있느라 분주하다. 이는 음악가들, 음악 관계자들 역시 마찬가지다. 그런 만큼 올해도 마찬가지로 어떤 아티스트가 좋은 결과물을 발표해 나가고, 또 성장해 나가는지를 지켜봐도 재밌을 거다. 새로운 음악을 즐기고자 하는 모든 이들을 위해 이주의 디깅에서는 여러 매체에서 손꼽히는 2022년의 기대주를 소개하고자 한다. - 인스]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220111_175/1641873083981I8WbM_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빈티지의 매력 (현대카드 DIVE ─ POST)]]></title>
