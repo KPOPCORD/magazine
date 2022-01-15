@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 03:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 04:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미술로 녹이는  겨울]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[가장 따스하고 흥미로운 예술의 이름들]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1c4a26fb4196458198189e36c91c9949.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빈티지의 매력]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[보물같은 빈티지 제품을 만날 수 있는 곳]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/63f10a4ba5f34a969df4e01ebdcacd2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[릴러말즈와 그의 바이올린]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[DIVE와 릴러말즈의 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b496c8c3529043ac96c0764a32876959.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
