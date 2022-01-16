@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 03:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 04:28:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옛것과 새것 사이]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[나만 아는 동네 #19 서계동]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d7094798f98b4e63b8848db3cdd93035.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미술로 녹이는  겨울]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[디즈니플러스 1월 신작]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c9f50cc3cfb047ff8a05fda3a098b01a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈티지  발굴단]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[보물같은 빈티지 제품을 만날 수 있는 곳]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/63f10a4ba5f34a969df4e01ebdcacd2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
