@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 01:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 02:42:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음반 호황의 불편한 진실]]></title>
+            <link>http://billboard.co.kr/main/news/view/771</link>
+            <guid>http://billboard.co.kr/main/news/view/771</guid>
+            <pubDate>Mon, 17 Jan 2022 02:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/771">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220117110008_24.jpg" alt="음반 호황의 불편한 진실" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>음반 호황의 불편한 진실</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220117110008_24.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤즈의 귀환: 싱글 Won't Stand Down 발표]]></title>
             <link>http://billboard.co.kr/main/news/view/770</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220107164020_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위켄드의 정규 5집 [Dawn FM] 발매]]></title>
-            <link>http://billboard.co.kr/main/news/view/762</link>
-            <guid>http://billboard.co.kr/main/news/view/762</guid>
-            <pubDate>Fri, 07 Jan 2022 08:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/762">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220107155202_1.jpg" alt="위켄드의 정규 5집 [Dawn FM] 발매" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>위켄드의 정규 5집 [Dawn FM] 발매</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220107155202_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
