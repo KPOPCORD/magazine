@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 09:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 10:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2월 베일을 벗는 케이팝 그룹의 신보]]></title>
+            <link>http://billboard.co.kr/main/news/view/772</link>
+            <guid>http://billboard.co.kr/main/news/view/772</guid>
+            <pubDate>Mon, 17 Jan 2022 10:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/772">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220117180331_5.jpg" alt="2월 베일을 벗는 케이팝 그룹의 신보" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>2월 베일을 벗는 케이팝 그룹의 신보</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220117180331_5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음반 호황의 불편한 진실]]></title>
             <link>http://billboard.co.kr/main/news/view/771</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220112023039_15.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에릭남, 홀로서기 후 첫 앨범 공개]]></title>
-            <link>http://billboard.co.kr/main/news/view/763</link>
-            <guid>http://billboard.co.kr/main/news/view/763</guid>
-            <pubDate>Thu, 13 Jan 2022 07:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/763">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220107164020_2.jpg" alt="에릭남, 홀로서기 후 첫 앨범 공개" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>에릭남, 홀로서기 후 첫 앨범 공개</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220107164020_2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
