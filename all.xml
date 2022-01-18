@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 05:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 06:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위너 멤버들이 전하는 '완전체 컴백' (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/773</link>
+            <guid>http://billboard.co.kr/main/news/view/773</guid>
+            <pubDate>Tue, 18 Jan 2022 06:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/773">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220118141758_9.jpg" alt="위너 멤버들이 전하는 '완전체 컴백'" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>위너 멤버들이 전하는 '완전체 컴백'</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220118141758_9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2월 베일을 벗는 케이팝 그룹의 신보 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/772</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220112135549_28.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유 ‘겨울잠’, 빌보드 케이팝 100 차트 정상 등극 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/764</link>
-            <guid>http://billboard.co.kr/main/news/view/764</guid>
-            <pubDate>Tue, 11 Jan 2022 18:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/764">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220112023039_15.png" alt="아이유 ‘겨울잠’, 빌보드 케이팝 100 차트 정상 등극" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>아이유 ‘겨울잠’, 빌보드 케이팝 100 차트 정상 등극</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220112023039_15.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2022년 1월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
@@ -1324,9 +1324,17 @@ Zior Park (VIBE ─ 매거진)]]></title>
 FKA 트위그스, 박정현 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 18 Jan 2022 05:21:54 GMT</pubDate>
+            <pubDate>Tue, 18 Jan 2022 06:22:53 GMT</pubDate>
             <content:encoded><![CDATA[팝 음악계 화제인 FKA 트위그스의 믹스테잎과 새 EP를 들고 찾아온 박정현. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220117_292/1642409336351FUcg6_JPEG/%C4%BF%B9%F62-2.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[갓생을  위하여 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[좋은 습관을 만들어주는 앱 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/217268b9a6e148fe9cb423752a4d4b67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해는 베리페리 (현대카드 DIVE ─ POST)]]></title>
@@ -1391,14 +1399,6 @@ FKA 트위그스, 박정현 (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[UX 디자인의 창시자, 도널드 노먼]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aa2c495ffb26491fb169694c4f085aed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고집이 만든  확고한 브랜드 커버 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[최태혁의 '브랜드 이야기, ECM']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b54fd1f212db4cbba0472a5b53c5a338.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
