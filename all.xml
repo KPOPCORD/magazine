@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 03:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 04:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1324,9 +1324,17 @@ Zior Park (VIBE ─ 매거진)]]></title>
 FKA 트위그스, 박정현 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 18 Jan 2022 03:22:53 GMT</pubDate>
+            <pubDate>Tue, 18 Jan 2022 04:28:26 GMT</pubDate>
             <content:encoded><![CDATA[팝 음악계 화제인 FKA 트위그스의 믹스테잎과 새 EP를 들고 찾아온 박정현. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220117_292/1642409336351FUcg6_JPEG/%C4%BF%B9%F62-2.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해는 베리페리 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[팬톤이 선보인 올해의 컬러]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/edfc5c30aa89451fb9081a5dc971f3e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울을 밝히는  작은 빛 (현대카드 DIVE ─ POST)]]></title>
@@ -1391,14 +1399,6 @@ FKA 트위그스, 박정현 (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[최태혁의 '브랜드 이야기, ECM']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b54fd1f212db4cbba0472a5b53c5a338.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일잘러는  앱부터 달라 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[업무 효율 만렙 앱 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5a18605e9a1a427ea6093cf787d3fc8e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

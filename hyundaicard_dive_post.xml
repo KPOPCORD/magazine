@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 03:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 04:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해는 베리페리]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[팬톤이 선보인 올해의 컬러]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/edfc5c30aa89451fb9081a5dc971f3e1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울을 밝히는  작은 빛]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[최태혁의 '브랜드 이야기, ECM']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b54fd1f212db4cbba0472a5b53c5a338.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일잘러는  앱부터 달라]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[업무 효율 만렙 앱 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5a18605e9a1a427ea6093cf787d3fc8e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
