@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 07:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 08:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풍성한 미식을 위한 향신료 팔레트]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[Spice &amp; Herb Pantry]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61f3977151ac4844b3e47b817d440a4f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발견하는 기쁨]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[주간 DIVE 99호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c5ba7efb25c44f0da4713cb787bf117c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어워드 시즌 비긴즈]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021 시상식 라이브 레전드 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b7e68403c49b4e2397b4c4c40407fb05.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
