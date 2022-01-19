@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 08:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 09:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,6 +365,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/74BNFDTD88RNCMB2WFCS/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[알앤비 따라잡기 ＃49 2022년의 알앤비/소울 기대주는?! (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11573&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11573&amp;pg=1</guid>
+            <pubDate>Wed, 19 Jan 2022 09:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11573/Mgz_Main_List_20220119174324.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[올해도 어김없이 돌아왔다! 빈 필하모닉의 2022 신년음악회 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11571&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11571&amp;pg=1</guid>
@@ -419,14 +427,6 @@
             <pubDate>Tue, 18 Jan 2022 03:22:27 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11565/Mgz_Main_List_20220118105131.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[솔로 핫 데뷔! 최예나 첫 미니 앨범 [ ˣ‿ˣ (SMiLEY)] 앨범 자켓 ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11564&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11564&amp;pg=1</guid>
-            <pubDate>Mon, 17 Jan 2022 09:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11563/Mgz_Main_List_20220117133524.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #76 : 
@@ -1324,7 +1324,7 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
 프로미스나인 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 19 Jan 2022 08:22:46 GMT</pubDate>
+            <pubDate>Wed, 19 Jan 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 매거진! 이번에는 9인 9색 다채로운 매력의 과감한 변신을 시도하며 미니 4집으로 돌아온 프로미스나인을 만나봤습니다. 과연 어떤 질문과 답변이 이들의 솔직함을 보여줬을지 다 함께 만나보시죠.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220118_235/1642471948419qRXrw_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
