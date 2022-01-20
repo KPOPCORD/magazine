@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 04:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 05:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자기 치유의 시간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[왓챠 추천, 마음을 어루만지는 영화 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a97dd4cb2f594c888934d81124a191a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[풍성한  미식을 위한 향신료 팔레트]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[가장 따스하고 흥미로운 예술의 이름들]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1c4a26fb4196458198189e36c91c9949.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈티지의 매력]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[주간 DIVE 99호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c5ba7efb25c44f0da4713cb787bf117c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
