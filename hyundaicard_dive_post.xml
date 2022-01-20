@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 06:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 07:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 바에는  특별한 것이 있다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[독특한 매력의 와인 바 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7e530ab0a1cb4051b5970a3f2a6d75e7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자기 치유의 시간]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #19 서계동]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d7094798f98b4e63b8848db3cdd93035.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미술로 녹이는  겨울]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[가장 따스하고 흥미로운 예술의 이름들]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1c4a26fb4196458198189e36c91c9949.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

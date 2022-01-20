@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 06:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 07:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1324,9 +1324,17 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
 프로미스나인 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 20 Jan 2022 06:22:56 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 07:18:48 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 매거진! 이번에는 9인 9색 다채로운 매력의 과감한 변신을 시도하며 미니 4집으로 돌아온 프로미스나인을 만나봤습니다. 과연 어떤 질문과 답변이 이들의 솔직함을 보여줬을지 다 함께 만나보시죠.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220118_235/1642471948419qRXrw_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그 바에는  특별한 것이 있다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[독특한 매력의 와인 바 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7e530ab0a1cb4051b5970a3f2a6d75e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자기 치유의 시간 (현대카드 DIVE ─ POST)]]></title>
@@ -1391,14 +1399,6 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #19 서계동]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d7094798f98b4e63b8848db3cdd93035.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미술로 녹이는  겨울 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[가장 따스하고 흥미로운 예술의 이름들]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1c4a26fb4196458198189e36c91c9949.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
