@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 08:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 09:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MoMA의 신규 미디어 컬렉션]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[MoMA의 현대카드 비디오 뷰스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f7f648d0bfdf4c06a3d9c7843e076eaf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 바에는  특별한 것이 있다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 1월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0cf2fc8ab40b43faa268d1b501e1609e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옛것과 새것 사이]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[나만 아는 동네 #19 서계동]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d7094798f98b4e63b8848db3cdd93035.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
