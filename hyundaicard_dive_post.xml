@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 08:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 09:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MoMA의 신규 미디어 컬렉션]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[MoMA의 현대카드 비디오 뷰스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f7f648d0bfdf4c06a3d9c7843e076eaf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기록하는 즐거움]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[팬톤이 선보인 올해의 컬러]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/edfc5c30aa89451fb9081a5dc971f3e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울을 밝히는  작은 빛]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[마음까지 따뜻해지는 포터블 램프 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02b77d519656400eb9c98faffd0e1cd8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
