@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 03:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 04:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[HOT SHOT DEBUT] 1월 22일 자 차트에 등장한 신곡]]></title>
+            <link>http://billboard.co.kr/main/news/view/775</link>
+            <guid>http://billboard.co.kr/main/news/view/775</guid>
+            <pubDate>Fri, 21 Jan 2022 04:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/775">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220119155732_1.png" alt="[HOT SHOT DEBUT] 1월 22일 자 차트에 등장한 신곡" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>[HOT SHOT DEBUT] 1월 22일 자 차트에 등장한 신곡</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220119155732_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 정상 탈환 7주 1위]]></title>
             <link>http://billboard.co.kr/main/news/view/774</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220113132446_8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 빌보드 HOT 100 총정리(12/11~1/8)]]></title>
-            <link>http://billboard.co.kr/main/news/view/766</link>
-            <guid>http://billboard.co.kr/main/news/view/766</guid>
-            <pubDate>Wed, 12 Jan 2022 08:24:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/766">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220112171211_14.png" alt="이달의 빌보드 HOT 100 총정리(12/11~1/8)" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>이달의 빌보드 HOT 100 총정리(12/11~1/8)</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220112171211_14.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
