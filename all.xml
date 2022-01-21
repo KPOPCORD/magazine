@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 10:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 11:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 슈퍼볼 LVI 하프타임 쇼 트레일러 공개 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/777</link>
+            <guid>http://billboard.co.kr/main/news/view/777</guid>
+            <pubDate>Fri, 21 Jan 2022 11:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/777">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220121193642_103.png" alt="2022 슈퍼볼 LVI 하프타임 쇼 트레일러 공개" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>2022 슈퍼볼 LVI 하프타임 쇼 트레일러 공개</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220121193642_103.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제10회 서울레코드페어에서 놓치지 말아야 할 3가지 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/776</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220113184357_15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아델의 새 뮤직비디오 'Oh My God'을 둘러싼 해석들 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/768</link>
-            <guid>http://billboard.co.kr/main/news/view/768</guid>
-            <pubDate>Thu, 13 Jan 2022 10:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/768">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220113181913_1.jpg" alt="아델의 새 뮤직비디오 'Oh My God'을 둘러싼 해석들" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>아델의 새 뮤직비디오 'Oh My God'을 둘러싼 해석들</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220113181913_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2022년 1월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
@@ -1324,7 +1324,7 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
 예나, 팔로알토 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 21 Jan 2022 10:21:25 GMT</pubDate>
+            <pubDate>Fri, 21 Jan 2022 11:16:46 GMT</pubDate>
             <content:encoded><![CDATA[아니 벌써, 2022년 새해의 첫 달이 절반이나 지났다. 모두 새해 계획 잘 지키고 있는지. 잘 지키지 못한다고 너무 자책은 하지 말길 바란다. 아직 새해는 11달이 넘게 남았고 새해를 맞이할 날도 무수히 많이 남았으니까. 남은 나날에 행복을 가져다줄 노래를 준비했다. - 하박국]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220121_16/1642752604512JaHk3_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
