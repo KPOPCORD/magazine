@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 03:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 04:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울이니까 북 스테이]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[책이 가득한 전국의 감성 숙소 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f23e92be4f7f4ec9a79f2ab26d2a737a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MoMA의 신규 미디어 컬렉션]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[좋은 습관을 만들어주는 앱 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/217268b9a6e148fe9cb423752a4d4b67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해는 베리페리]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[팬톤이 선보인 올해의 컬러]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/edfc5c30aa89451fb9081a5dc971f3e1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
