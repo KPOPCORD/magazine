@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 03:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 04:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝 스타의 스위트 홈]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[월클 뮤지션의 럭셔리 하우스 구경하기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/484add412ba14811916678b297533b22.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울이니까 북 스테이]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[스포티파이에서 건져 올린 인디 뮤지션 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9abc2caadd0445e7a7297cc1184a4a3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갓생을  위하여]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[좋은 습관을 만들어주는 앱 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/217268b9a6e148fe9cb423752a4d4b67.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
