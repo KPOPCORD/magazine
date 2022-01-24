@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 02:35:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 03:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220113184357_15.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만쥬한봉지, 빅토(Big Toe) - 여행을 떠나고픈 이들을 위한 노래 'Airport Song' (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/2OTNYW0P03WX5AU5H1SW?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/2OTNYW0P03WX5AU5H1SW?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 24 Jan 2022 03:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2OTNYW0P03WX5AU5H1SW/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2022년 1월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
@@ -357,12 +365,28 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/01Y5VHM37M3KI3LTAD2N/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[믿듣! 벅스만의 유니크한 플레이리스트 추천 서비스, <뮤직PD 앨범> 10주년! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/74BNFDTD88RNCMB2WFCS?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/74BNFDTD88RNCMB2WFCS?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직포커스]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/74BNFDTD88RNCMB2WFCS/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[내일은 미스트롯2 TOP4의 전국투어 콘서트 [소리, 꽃] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11581&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11581&amp;pg=1</guid>
+            <pubDate>Mon, 24 Jan 2022 03:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11581/Mgz_Main_List_20220124103158.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[9001 첫 번째 싱글 앨범 [마음에도 없는 말] 작업기 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11579&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11579&amp;pg=1</guid>
+            <pubDate>Mon, 24 Jan 2022 03:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11579/Mgz_Main_List_20220124090736.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[올 겨울 몰입감 최고의 발라드, 김로망 [스토리] 발매 인터뷰 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11578&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11578&amp;pg=1</guid>
+            <pubDate>Mon, 24 Jan 2022 03:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11578/Mgz_Main_List_20220124090614.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[지니 컬러 동향 ＃33 – 2022.01.01 ~ 2022.01.14 발매작 (지니 ─ 매거진)]]></title>
@@ -403,30 +427,6 @@
             <pubDate>Thu, 20 Jan 2022 03:18:40 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11572/Mgz_Main_List_20220120090448.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[알앤비 따라잡기 ＃49 2022년의 알앤비/소울 기대주는?! (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11573&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11573&amp;pg=1</guid>
-            <pubDate>Wed, 19 Jan 2022 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[힙알사전]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11573/Mgz_Main_List_20220119174324.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[올해도 어김없이 돌아왔다! 빈 필하모닉의 2022 신년음악회 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11571&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11571&amp;pg=1</guid>
-            <pubDate>Wed, 19 Jan 2022 03:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11571/Mgz_Main_List_20220119103611.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[자신의 생각과 마음을 담백하고 덤덤하게 그려내는 리릭 코이트리의 정규 1집 [... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11570&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11570&amp;pg=1</guid>
-            <pubDate>Wed, 19 Jan 2022 03:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11570/Mgz_Main_List_20220119095909.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #127 
@@ -1324,7 +1324,7 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
 예나, 팔로알토 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 24 Jan 2022 02:35:34 GMT</pubDate>
+            <pubDate>Mon, 24 Jan 2022 03:22:11 GMT</pubDate>
             <content:encoded><![CDATA[아니 벌써, 2022년 새해의 첫 달이 절반이나 지났다. 모두 새해 계획 잘 지키고 있는지. 잘 지키지 못한다고 너무 자책은 하지 말길 바란다. 아직 새해는 11달이 넘게 남았고 새해를 맞이할 날도 무수히 많이 남았으니까. 남은 나날에 행복을 가져다줄 노래를 준비했다. - 하박국]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220121_16/1642752604512JaHk3_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
