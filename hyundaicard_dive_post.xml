@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 06:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 07:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신선한  젠더리스]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[다채로워진 뉴 젠더리스 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5f05c91ee625455b9070fc56a9a9f787.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[첫 순간의  기억]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[왓챠 추천, 마음을 어루만지는 영화 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a97dd4cb2f594c888934d81124a191a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풍성한  미식을 위한 향신료 팔레트]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[Spice &amp; Herb Pantry]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61f3977151ac4844b3e47b817d440a4f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
