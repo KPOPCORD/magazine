@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 07:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 08:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울 바다는  못 참지]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[잊지 못할 바다 뷰 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1a05b00aff774763a80300681641c6ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일출 맛집  클라쓰]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[주간 DIVE 100호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7dbd036541ad421aa86601462c526b1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 가장 핫한 바이닐]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 1월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fbb40fa337014c728003c33a2b3dff01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

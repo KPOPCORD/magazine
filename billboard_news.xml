@@ -4,9 +4,47 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 07:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 08:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인터스코프 레코즈 창립 30주년 기념 한정판 바이닐 출시]]></title>
+            <link>http://billboard.co.kr/main/news/view/778</link>
+            <guid>http://billboard.co.kr/main/news/view/778</guid>
+            <pubDate>Tue, 25 Jan 2022 08:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/778">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220125164708_6.jpg" alt="인터스코프 레코즈 창립 30주년 기념 한정판 바이닐 출시" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>인터스코프 레코즈 창립 30주년 기념 한정판 바이닐 출시</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220125164708_6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AOMG, 래퍼 쿠기 영입]]></title>
+            <link>http://billboard.co.kr/main/news/view/779</link>
+            <guid>http://billboard.co.kr/main/news/view/779</guid>
+            <pubDate>Tue, 25 Jan 2022 08:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/779">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220125170921_5.jpg" alt="AOMG, 래퍼 쿠기 영입" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>AOMG, 래퍼 쿠기 영입</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220125170921_5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 슈퍼볼 LVI 하프타임 쇼 트레일러 공개]]></title>
             <link>http://billboard.co.kr/main/news/view/777</link>
@@ -139,44 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220117110008_24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤즈의 귀환: 싱글 Won't Stand Down 발표]]></title>
-            <link>http://billboard.co.kr/main/news/view/770</link>
-            <guid>http://billboard.co.kr/main/news/view/770</guid>
-            <pubDate>Fri, 14 Jan 2022 11:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/770">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220114175051_1.jpg" alt="뮤즈의 귀환: 싱글 Won't Stand Down 발표" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>뮤즈의 귀환: 싱글 Won't Stand Down 발표</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220114175051_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강렬한 분위기로 컴백한 최강창민]]></title>
-            <link>http://billboard.co.kr/main/news/view/769</link>
-            <guid>http://billboard.co.kr/main/news/view/769</guid>
-            <pubDate>Thu, 13 Jan 2022 10:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/769">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220113184357_15.jpg" alt="강렬한 분위기로 컴백한 최강창민" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>강렬한 분위기로 컴백한 최강창민</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220113184357_15.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
