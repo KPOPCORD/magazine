@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 05:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 06:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,6 +365,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/Q7JHWWR19NNYSI6TCENP/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메타버스 공간에서 만나는 제이미의 선물같은 플레이리스트 L1STEN. (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11589&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11589&amp;pg=1</guid>
+            <pubDate>Tue, 25 Jan 2022 06:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11588/Mgz_Main_List_20220125122803.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[마음의 평화를 찾아가다 – 루도비코 에이나우디의 [Underwater] (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11587&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11587&amp;pg=1</guid>
@@ -419,14 +427,6 @@
             <pubDate>Mon, 24 Jan 2022 03:21:47 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11581/Mgz_Main_List_20220124103158.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[9001 첫 번째 싱글 앨범 [마음에도 없는 말] 작업기 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11579&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11579&amp;pg=1</guid>
-            <pubDate>Mon, 24 Jan 2022 03:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11579/Mgz_Main_List_20220124090736.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[긍정의 에너지를 담은 앨범들 : 
@@ -1324,9 +1324,17 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
 찰리 푸스, YENA (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 25 Jan 2022 05:17:55 GMT</pubDate>
+            <pubDate>Tue, 25 Jan 2022 06:23:29 GMT</pubDate>
             <content:encoded><![CDATA[신곡을 공개한 찰리 푸스와 밝은 에너지로 무장한 YENA. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220124_192/1643013899194RKCLP_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일출 맛집  클라쓰 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[에어비앤비에서 만나는 일출 숙소 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe46ccc7e36741c890e2531f75599625.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이라이트,  마이애미! (현대카드 DIVE ─ POST)]]></title>
@@ -1391,14 +1399,6 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 1월의 새 음반]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fbb40fa337014c728003c33a2b3dff01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 바에는  특별한 것이 있다 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[독특한 매력의 와인 바 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7e530ab0a1cb4051b5970a3f2a6d75e7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
