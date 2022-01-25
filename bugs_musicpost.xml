@@ -4,7 +4,7 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 23:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 01:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,14 +29,6 @@
             <pubDate>Tue, 11 Jan 2022 03:22:50 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/N1RE5CECQBK33WV2T7VY/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벅스X제페토 - 메타버스가 사랑한 K-POP 아티스트, 지금 투표하세요!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/J29JWWKCUHZ6L8R9ZUWF?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/J29JWWKCUHZ6L8R9ZUWF?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 07 Jan 2022 01:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/J29JWWKCUHZ6L8R9ZUWF/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김보경 (NEON) - '같은 이유로 우리 또 헤어질까봐' 발매 인터뷰]]></title>
@@ -192,6 +184,14 @@
             <pubDate>Fri, 05 Nov 2021 07:19:21 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/01Y5VHM37M3KI3LTAD2N/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[믿듣! 벅스만의 유니크한 플레이리스트 추천 서비스, <뮤직PD 앨범> 10주년!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/74BNFDTD88RNCMB2WFCS?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/74BNFDTD88RNCMB2WFCS?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 25 Jan 2022 01:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직포커스]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/74BNFDTD88RNCMB2WFCS/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
