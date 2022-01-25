@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 02:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 03:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안수지 - 통통 튀는 청량한 매력의 '바나나걸’에서 재즈 싱어와 발라드의 향연까지.]]></title>
+            <link>https://music.bugs.co.kr/musicpost/3KP2P1YC9IOI9V1QMNQS?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/3KP2P1YC9IOI9V1QMNQS?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 25 Jan 2022 03:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/3KP2P1YC9IOI9V1QMNQS/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벅스X제페토 - 메타버스가 사랑한 K-POP 아티스트, 투표 결과 공개!]]></title>
             <link>https://music.bugs.co.kr/musicpost/J29JWWKCUHZ6L8R9ZUWF?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <pubDate>Fri, 05 Nov 2021 09:19:34 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/Q7JHWWR19NNYSI6TCENP/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카페25 위드 콘서트 - 음악으로 전하는 따뜻한 위로 with 김예지, 포맨]]></title>
-            <link>https://music.bugs.co.kr/musicpost/01Y5VHM37M3KI3LTAD2N?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/01Y5VHM37M3KI3LTAD2N?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 05 Nov 2021 07:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/01Y5VHM37M3KI3LTAD2N/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
