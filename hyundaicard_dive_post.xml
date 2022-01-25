@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 03:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 04:25:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이라이트,  마이애미!]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021 디자인 마이애미의 볼거리 리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/72e88027d205438b8eaa1ac2a5222562.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신선한  젠더리스]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[독특한 매력의 와인 바 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7e530ab0a1cb4051b5970a3f2a6d75e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자기 치유의 시간]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[왓챠 추천, 마음을 어루만지는 영화 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a97dd4cb2f594c888934d81124a191a3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
