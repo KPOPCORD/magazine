@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 05:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 06:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 54. The Weeknd - 'Sacrifice']]></title>
+            <link>https://music.bugs.co.kr/musicpost/9D6QJR0RPXYFA8IA2R6Y?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/9D6QJR0RPXYFA8IA2R6Y?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 26 Jan 2022 06:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[안수지 - 통통 튀는 청량한 매력의 '바나나걸'에서 재즈 싱어와 발라드의 향연까지.]]></title>
             <link>https://music.bugs.co.kr/musicpost/3KP2P1YC9IOI9V1QMNQS?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +191,6 @@
             <pubDate>Mon, 08 Nov 2021 03:20:33 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/5UZ58QSX9GWW53619RYS/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짙은(Zitten) - 4년 만에 EP [수면에서]로 돌아온 '짙은'이 소개해주는 앨범 감상 포인트!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/Q7JHWWR19NNYSI6TCENP?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/Q7JHWWR19NNYSI6TCENP?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 05 Nov 2021 09:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/Q7JHWWR19NNYSI6TCENP/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

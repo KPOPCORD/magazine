@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 05:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 06:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,13 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220118192847_16.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 54. The Weeknd - 'Sacrifice' (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/9D6QJR0RPXYFA8IA2R6Y?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/9D6QJR0RPXYFA8IA2R6Y?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 26 Jan 2022 06:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[안수지 - 통통 튀는 청량한 매력의 '바나나걸'에서 재즈 싱어와 발라드의 향연까지. (벅스 ─ 뮤직포스트)]]></title>
@@ -355,14 +362,6 @@
             <pubDate>Mon, 27 Dec 2021 07:25:01 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/5UZ58QSX9GWW53619RYS/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짙은(Zitten) - 4년 만에 EP [수면에서]로 돌아온 '짙은'이 소개해주는 앨범 감상 포인트! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/Q7JHWWR19NNYSI6TCENP?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/Q7JHWWR19NNYSI6TCENP?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/Q7JHWWR19NNYSI6TCENP/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사계절을 지나 마침내 완성된 이야기, 규현 [Love Story (4 Seas... (지니 ─ 매거진)]]></title>
@@ -1324,7 +1323,7 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
 찰리 푸스, YENA (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 26 Jan 2022 05:18:09 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 06:24:00 GMT</pubDate>
             <content:encoded><![CDATA[신곡을 공개한 찰리 푸스와 밝은 에너지로 무장한 YENA. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220124_192/1643013899194RKCLP_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
