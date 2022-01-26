@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 04:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 05:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션이라는  영원한 영감]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 1월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6b78dde0b7a14af29ca0dc2e18b7962c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울 바다는  못 참지]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[MoMA의 현대카드 비디오 뷰스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f7f648d0bfdf4c06a3d9c7843e076eaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기록하는 즐거움]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[주간 DIVE 100호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7dbd036541ad421aa86601462c526b1e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

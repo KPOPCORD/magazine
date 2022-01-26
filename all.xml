@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 04:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 05:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1324,9 +1324,17 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
 찰리 푸스, YENA (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 26 Jan 2022 04:25:09 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 05:18:09 GMT</pubDate>
             <content:encoded><![CDATA[신곡을 공개한 찰리 푸스와 밝은 에너지로 무장한 YENA. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220124_192/1643013899194RKCLP_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패션이라는  영원한 영감 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 1월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6b78dde0b7a14af29ca0dc2e18b7962c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울 바다는  못 참지 (현대카드 DIVE ─ POST)]]></title>
@@ -1391,14 +1399,6 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[MoMA의 현대카드 비디오 뷰스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f7f648d0bfdf4c06a3d9c7843e076eaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기록하는 즐거움 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[주간 DIVE 100호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7dbd036541ad421aa86601462c526b1e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
