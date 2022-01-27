@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 03:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 04:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1323,9 +1323,17 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
 찰리 푸스, YENA (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 27 Jan 2022 03:19:56 GMT</pubDate>
+            <pubDate>Thu, 27 Jan 2022 04:24:59 GMT</pubDate>
             <content:encoded><![CDATA[신곡을 공개한 찰리 푸스와 밝은 에너지로 무장한 YENA. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220124_192/1643013899194RKCLP_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴 보스 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[새롭게 바뀐 브랜드의 새 수장들]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b407efbbc6bb480aab8125974d91666e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년에도 잘 먹겠습니다 (현대카드 DIVE ─ POST)]]></title>
@@ -1390,14 +1398,6 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[월클 뮤지션의 럭셔리 하우스 구경하기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/484add412ba14811916678b297533b22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울이니까 북 스테이 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[책이 가득한 전국의 감성 숙소 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f23e92be4f7f4ec9a79f2ab26d2a737a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
