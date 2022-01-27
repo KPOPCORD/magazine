@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 08:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 09:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,6 +364,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/5UZ58QSX9GWW53619RYS/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Wanna One (워너원) 3년 만의 신곡 'Beautiful (Part.3... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11600&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11600&amp;pg=1</guid>
+            <pubDate>Thu, 27 Jan 2022 09:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11600/Mgz_Main_List_20220126172314.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[KIMKIMPARKKIM's 한국 멜로우 팝 100선 ＃8 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11595&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11595&amp;pg=1</guid>
@@ -418,14 +426,6 @@
             <pubDate>Wed, 26 Jan 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11590/Mgz_Main_List_20220126141055.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[‘내 생에 가장 찬란했던 시절’ 홍자 [화양연화] 자켓촬영 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11588&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11588&amp;pg=1</guid>
-            <pubDate>Wed, 26 Jan 2022 09:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11588/Mgz_Main_List_20220126134948.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[긍정의 에너지를 담은 앨범들 : 
@@ -1323,7 +1323,7 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
 찰리 푸스, YENA (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 27 Jan 2022 08:24:31 GMT</pubDate>
+            <pubDate>Thu, 27 Jan 2022 09:20:20 GMT</pubDate>
             <content:encoded><![CDATA[신곡을 공개한 찰리 푸스와 밝은 에너지로 무장한 YENA. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220124_192/1643013899194RKCLP_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
