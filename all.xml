@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 05:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 06:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,6 +364,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/5UZ58QSX9GWW53619RYS/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KIMKIMPARKKIM's 한국 멜로우 팝 100선 ＃8 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11595&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11595&amp;pg=1</guid>
+            <pubDate>Thu, 27 Jan 2022 06:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[김김박김]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11595/Mgz_Main_List_20220127145801.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[누군가의 플레이리스트 Track.4 빌리어코스티 ‘그 겨울의 우리’ 메이킹 인... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11599&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11599&amp;pg=1</guid>
@@ -418,14 +426,6 @@
             <pubDate>Wed, 26 Jan 2022 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11588/Mgz_Main_List_20220126134948.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[사계절을 지나 마침내 완성된 이야기, 규현 [Love Story (4 Seas... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11586&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11586&amp;pg=1</guid>
-            <pubDate>Tue, 25 Jan 2022 09:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11586/Mgz_Main_List_20220125142144.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[긍정의 에너지를 담은 앨범들 : 
@@ -1323,16 +1323,24 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
 찰리 푸스, YENA (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 27 Jan 2022 05:19:14 GMT</pubDate>
+            <pubDate>Thu, 27 Jan 2022 06:23:31 GMT</pubDate>
             <content:encoded><![CDATA[신곡을 공개한 찰리 푸스와 밝은 에너지로 무장한 YENA. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220124_192/1643013899194RKCLP_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그러니까  지금 지구는 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[지구를 위한 넷플릭스의 환경 다큐멘터리]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c6eb268c252d4ff7a80db4a6c09f0133.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴 보스 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[새롭게 바뀐 브랜드의 새 수장들]]></content:encoded>
+            <content:encoded><![CDATA[새롭게 바뀐 패션 브랜드의 수장들]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b407efbbc6bb480aab8125974d91666e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1390,14 +1398,6 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 1월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ac569684776048f9b44585b67bb9d05d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝 스타의 스위트 홈 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[월클 뮤지션의 럭셔리 하우스 구경하기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/484add412ba14811916678b297533b22.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
