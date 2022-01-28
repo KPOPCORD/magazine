@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 01:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 02:35:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱숭생숭한 한 해의 시작, 내 울적한 마음을 대변하는 앨범 7]]></title>
+            <link>https://music.bugs.co.kr/musicpost/6LFIPKBGNDJUD2OKWMKQ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/6LFIPKBGNDJUD2OKWMKQ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 28 Jan 2022 02:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 54. The Weeknd - 'Sacrifice']]></title>
             <link>https://music.bugs.co.kr/musicpost/9D6QJR0RPXYFA8IA2R6Y?&amp;wl_ref=list_sp_01_h</link>
@@ -183,14 +190,6 @@
             <guid>https://music.bugs.co.kr/musicpost/9OFUDBOY2LX7ZMMBORJD?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[경다솜 - '위로가 필요해' 자켓 촬영 비하인드 공개]]></title>
-            <link>https://music.bugs.co.kr/musicpost/5UZ58QSX9GWW53619RYS?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/5UZ58QSX9GWW53619RYS?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/5UZ58QSX9GWW53619RYS/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
