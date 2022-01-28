@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 06:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[천재적인 비디오 아트]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[주간 DIVE 101호]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b92f35db4c0341f7baa58a3498910b61.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미슐랭 앳 홈]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[2021 디자인 마이애미의 볼거리 리뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/72e88027d205438b8eaa1ac2a5222562.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신선한  젠더리스]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[다채로워진 뉴 젠더리스 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5f05c91ee625455b9070fc56a9a9f787.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
