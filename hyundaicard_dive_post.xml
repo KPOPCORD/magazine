@@ -4,24 +4,48 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 19:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 21:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[솔로 플레이]]></title>
+            <title><![CDATA[감성 넘치는 우리집]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 2월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/57662d53def04d56b5866b2d360eaca6.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[주간 DIVE 104호]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ff482d04991c463d9e7004ed269de8aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[건축이라는  뷰파인더]]></title>
+            <title><![CDATA[나무야  나무야]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[인문 건축가, 유현준]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1777243115ee4dddbb2d838070141651.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[나무 보러 떠나는 전국의 여행 스폿 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/56f739db9eb24f5087ebd66eef92318f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비틀즈의  화려했던 마지막 순간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;비틀즈 : 겟백&gt; 북토크 다시보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dae03311a8494829b25e8ab361b3809e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비건 길도  앱부터]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[시작하는 비건을 위한 앱 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/31d5a51d33d64e60bc9034173e66bf65.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글쓰기에 대한  글쓰기]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[배순탁의 ‘지금 바로 보아야 할 음악 서적’]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bff2b5850e3c48d382c5cb225d7fc377.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이토록 달콤한  겨울의 끝]]></title>
@@ -32,52 +56,28 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b367c780eab74258980420958a92da4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[게이머의  유토피아]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[극도의 몰입을 부르는 게이밍 룸 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe887d00538147f88adf8b3406690334.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신이 몰랐던  부산의 낮과 밤]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[부산의 매력을 일깨워줄 특별한 체험 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0f73fd42a65a4005ad94723a7e728c8b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이 시대의 원&온리]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 2월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/65d7d35072eb42889a59e19474e94b3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛이 나는 솔로]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 2월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eb7292673f19447799a2e8dbaeb3aa59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[궁극의 밴드 사운드]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 2월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d62299dcae1747e49962a16c29af7e73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-패션의 도약]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[주목해야 할 신진 디자이너 브랜드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/41ebbb0a54354318a43378ae0a0cdb57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세젤쉬  콜드브루]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[집에서 뚝딱, 콜드브루 메이커 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d9e20c185c194afabd83ef7cd3b527e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘도 평화로운  건축 나라]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[세계의 뉴 건축 플레이스 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/751134ab9e9642e788ce590fd006e706.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
