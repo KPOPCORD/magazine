@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 03:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 04:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 록 오아시스]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[DIVE와 밴드 더 폴스의 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fcb2b0ee18324484bb73dc3a0dae16aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감성 넘치는 우리집]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[부산의 매력을 일깨워줄 특별한 체험 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0f73fd42a65a4005ad94723a7e728c8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시대의 원&온리]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 2월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/65d7d35072eb42889a59e19474e94b3a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

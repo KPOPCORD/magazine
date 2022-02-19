@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 03:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 04:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1323,9 +1323,17 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
 신스, 스카이민혁 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 19 Feb 2022 03:13:16 GMT</pubDate>
+            <pubDate>Sat, 19 Feb 2022 04:15:49 GMT</pubDate>
             <content:encoded><![CDATA[라임과 장르, 그리고 힙합에 관한 여러 논쟁이 이어지고 있는 2022년의 한국 힙합 씬. 물론, 올 상반기도 어김없이 여러 음악가가 좋은 작품을 발표하며 힙합 팬들의 귀를 즐겁게 만들어 주고 있다. 이에 힙합엘이가 올 상반기까지 나왔던 국내 힙합 음악 중 반드시 들었으면 하는 몇몇 아티스트를 꼽아 소개하려고 한다. 순서는 무순. - 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220217_149/1645088371284es8ba_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 록 오아시스 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[DIVE와 밴드 더 폴스의 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fcb2b0ee18324484bb73dc3a0dae16aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[감성 넘치는 우리집 (현대카드 DIVE ─ POST)]]></title>
@@ -1390,14 +1398,6 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[부산의 매력을 일깨워줄 특별한 체험 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0f73fd42a65a4005ad94723a7e728c8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시대의 원&온리 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 2월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/65d7d35072eb42889a59e19474e94b3a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
