@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 05:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 07:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워크레저의  아이콘]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[뉴 애슬레저 룩의 탄생]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fba6a2c27490400a88c0bbb4b0a7129c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[R&B의  멜팅 팟]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[제주도 채식 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dc170763fb924388916cb64e21956d3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 록 오아시스]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[DIVE와 밴드 더 폴스의 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fcb2b0ee18324484bb73dc3a0dae16aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
