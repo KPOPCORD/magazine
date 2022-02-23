@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 04:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 05:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,6 +364,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/YEC7DH0K7JSK7NN20FAX/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스스로 관조하는 듯, 깊은 사색 내재된 피아노 음률, 'Ryuichi Saka... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11682&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11682&amp;pg=1</guid>
+            <pubDate>Wed, 23 Feb 2022 05:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11681/Mgz_Main_List_20220223122639.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[KT와 함께하는 예술의전당 “마음을 담은 클래식” 2월 공연 미리보기 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11679&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11679&amp;pg=1</guid>
@@ -418,14 +426,6 @@
             <pubDate>Tue, 22 Feb 2022 03:13:26 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11673/Mgz_Main_List_20220222100345.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[나훈아 데뷔 55주년, 나훈아의 5가지 기록 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11671&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11671&amp;pg=1</guid>
-            <pubDate>Tue, 22 Feb 2022 03:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11671/Mgz_Main_List_20220222090913.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #80 : 
@@ -1323,9 +1323,17 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
 엔칸토: 마법의 세계 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 23 Feb 2022 04:15:50 GMT</pubDate>
+            <pubDate>Wed, 23 Feb 2022 05:12:49 GMT</pubDate>
             <content:encoded><![CDATA[누구도 예상치 못한 일이 일어났다. 디즈니 애니메이션 영화 &lt;엔칸토: 마법의 세계&gt;의 OST &lt;We Don't Talk About Bruno&gt;가 빌보드 핫100 차트에서 1위를 차지한 것이다. 디즈니 영화 주제곡이 1위에 오른 것은 1993년 &lt;알라딘&gt; 이후 29년 만으로, 덩달아 디즈니의 여러 명곡도 다시 주목받고 있다. 어쩌면 지금, 세상은 마음을 따뜻하게 덥혀줄 동심을 필요로 하는 것은 아닐까? - 파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220215_239/1644889573476pybWN_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[R&B의  멜팅 팟 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[Artist Inside: 위켄드]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ffaf06c8ed5f49e8bd85ef949916042e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한 모금의 여유 (현대카드 DIVE ─ POST)]]></title>
@@ -1390,14 +1398,6 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[DIVE와 밴드 더 폴스의 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fcb2b0ee18324484bb73dc3a0dae16aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감성 넘치는 우리집 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[주간 DIVE 104호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ff482d04991c463d9e7004ed269de8aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
