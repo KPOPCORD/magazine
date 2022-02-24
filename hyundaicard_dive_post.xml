@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 05:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 06:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가  좋아하는 것 여기 다 있네]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[신상 맛집 #18]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3a357af5aa394ffe9aaf72da032558af.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잃어버린 시간을  찾아서]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[현대카드가 디자인한 렛세콰이어 커피]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0aa5bdbb0fbe487ab68e077634bee6bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 눈앞에 펼쳐진]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[현실부터 가상까지, 세계의 랜드스케이프 아트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e9324c0b649b4e8a934f0d7895c6daf8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

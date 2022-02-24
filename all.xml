@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 05:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 06:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -363,6 +363,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/8E46XC1DN26FDNGO55JZ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KIMKIMPARKKIM's 플레이리스트 가이드 ＃18 - 오늘 하루도 열심히... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11687&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11687&amp;pg=1</guid>
+            <pubDate>Thu, 24 Feb 2022 06:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[김김박김]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11687/Mgz_Main_List_20220224141251.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[당신은 승리했습니다. 옥타브 올림픽에서... - (2) 옥타브의 예술가들 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11686&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11686&amp;pg=1</guid>
@@ -417,14 +425,6 @@
             <pubDate>Wed, 23 Feb 2022 03:13:16 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11678/Mgz_Main_List_20220222142724.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[레이 (LAY) & 24KGoldn 글로벌 콜라보 싱글 [Dawn To Dus... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11678&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11678&amp;pg=1</guid>
-            <pubDate>Wed, 23 Feb 2022 03:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11678/Mgz_Main_List_20220223091511.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #80 : 
@@ -1322,9 +1322,17 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
 엔칸토 : 마법의 세계 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 24 Feb 2022 05:12:28 GMT</pubDate>
+            <pubDate>Thu, 24 Feb 2022 06:15:53 GMT</pubDate>
             <content:encoded><![CDATA[누구도 예상치 못한 일이 일어났다. 디즈니 애니메이션 영화 &lt;엔칸토: 마법의 세계&gt;의 OST &lt;We Don't Talk About Bruno&gt;가 빌보드 핫100 차트에서 1위를 차지한 것이다. 디즈니 영화 주제곡이 1위에 오른 것은 1993년 &lt;알라딘&gt; 이후 29년 만으로, 덩달아 디즈니의 여러 명곡도 다시 주목받고 있다. 어쩌면 지금, 세상은 마음을 따뜻하게 덥혀줄 동심을 필요로 하는 것은 아닐까? - 파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220215_239/1644889573476pybWN_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내가  좋아하는 것 여기 다 있네 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[신상 맛집 #18]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3a357af5aa394ffe9aaf72da032558af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잃어버린 시간을  찾아서 (현대카드 DIVE ─ POST)]]></title>
@@ -1389,14 +1397,6 @@ Weeekly(위클리) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[현대카드가 디자인한 렛세콰이어 커피]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0aa5bdbb0fbe487ab68e077634bee6bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 눈앞에 펼쳐진 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[현실부터 가상까지, 세계의 랜드스케이프 아트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e9324c0b649b4e8a934f0d7895c6daf8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
