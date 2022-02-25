@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 04:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 05:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신선해! 컬러 백]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[컬러로 물든 미니 백]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eb53eec96bfc464cad98541fddf4c5ce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가  좋아하는 것 여기 다 있네]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[볼수록 빠져드는 애니메이션 작가 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4fe0035520d949a098fca23bb4e33fee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[띵동!  농부의 마음이  도착했습니다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드가 디자인한 렛세콰이어 커피]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0aa5bdbb0fbe487ab68e077634bee6bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
