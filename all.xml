@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 00:49:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 02:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,13 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220214171157_11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 55. Peach PRC - 'Heavy' (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/CN6Q4XA5ING1YZPBFZ2S?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/CN6Q4XA5ING1YZPBFZ2S?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 25 Feb 2022 02:03:55 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우리, 친해져요! 2022년 주목해야 할 뉴 페이스 7 (벅스 ─ 뮤직포스트)]]></title>
@@ -353,14 +360,6 @@
             <guid>https://music.bugs.co.kr/musicpost/QYGUGABCWC41L5YYMUYE?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영화 '웨스트 사이드 스토리' - 스티븐 스필버그 첫 뮤지컬 영화, 사랑에 빠질 사운드 트랙 공개! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/8E46XC1DN26FDNGO55JZ?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/8E46XC1DN26FDNGO55JZ?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/8E46XC1DN26FDNGO55JZ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오넷의 첫 번째 EP 앨범 [Citymare, Cityzone] 발매 기념 인... (지니 ─ 매거진)]]></title>
@@ -1322,7 +1321,7 @@ AKMU (VIBE ─ 매거진)]]></title>
 당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 25 Feb 2022 00:49:00 GMT</pubDate>
+            <pubDate>Fri, 25 Feb 2022 02:04:46 GMT</pubDate>
             <content:encoded><![CDATA[최근 발매된 수많은 노래 중 VIBE에서 사랑받은 ‘이달의 노래’를 소개합니다. 힙터질때, 신났을때, 우울할때, 사랑할때, 사랑했을때, 파티할때, 멍때릴때, 운동할때, 휴식할때… 느낌별 스테이션이 선정한 ‘2월의 노래’를 여러분도 들어보세요.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211203_269/1638496452150FyiIA_JPEG/%C0%CC%B4%DE%C0%C7%B3%EB%B7%A1_%C1%A4%B9%E6%C7%FC%28%C4%BF%B9%F62%29.jpg?type=w840" length="0" type="image/jpg"/>
         </item>

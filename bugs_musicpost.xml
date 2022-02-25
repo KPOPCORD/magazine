@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 00:49:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 02:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 55. Peach PRC - 'Heavy']]></title>
+            <link>https://music.bugs.co.kr/musicpost/CN6Q4XA5ING1YZPBFZ2S?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/CN6Q4XA5ING1YZPBFZ2S?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 25 Feb 2022 02:03:55 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[우리, 친해져요! 2022년 주목해야 할 뉴 페이스 7]]></title>
             <link>https://music.bugs.co.kr/musicpost/AD0K58LP59V71VZ03X2I?&amp;wl_ref=list_sp_01_h</link>
@@ -182,14 +189,6 @@
             <guid>https://music.bugs.co.kr/musicpost/QYGUGABCWC41L5YYMUYE?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영화 '웨스트 사이드 스토리' - 스티븐 스필버그 첫 뮤지컬 영화, 사랑에 빠질 사운드 트랙 공개!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/8E46XC1DN26FDNGO55JZ?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/8E46XC1DN26FDNGO55JZ?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/8E46XC1DN26FDNGO55JZ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
