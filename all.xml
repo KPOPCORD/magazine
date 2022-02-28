@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 04:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 05:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1321,9 +1321,17 @@ AKMU (VIBE ─ 매거진)]]></title>
 당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 04:16:36 GMT</pubDate>
+            <pubDate>Mon, 28 Feb 2022 05:12:41 GMT</pubDate>
             <content:encoded><![CDATA[최근 발매된 수많은 노래 중 VIBE에서 사랑받은 ‘이달의 노래’를 소개합니다. 힙터질때, 신났을때, 우울할때, 사랑할때, 사랑했을때, 파티할때, 멍때릴때, 운동할때, 휴식할때… 느낌별 스테이션이 선정한 ‘2월의 노래’를 여러분도 들어보세요.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211203_269/1638496452150FyiIA_JPEG/%C0%CC%B4%DE%C0%C7%B3%EB%B7%A1_%C1%A4%B9%E6%C7%FC%28%C4%BF%B9%F62%29.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 골프 히어로 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[더 강력해진 국내 최정상급 레슨 프로팀]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ddac45fb45c240c4bb44cb420430b3b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청진옥에  어서 오시게 (현대카드 DIVE ─ POST)]]></title>
@@ -1388,14 +1396,6 @@ AKMU (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 Our Tools]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/671b6a7b71e84b179edfcbb64577b9c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스의  인디 신 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스가 선택한 고퀄 독립 영화 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/39f41a1a5e624f0cbe1e0e296ed61018.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
