@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 08:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 09:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -362,6 +362,22 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[내 마음과의 대화, 너의 대화 '모트(Motte)' [대화] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11701&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11701&amp;pg=1</guid>
+            <pubDate>Mon, 28 Feb 2022 09:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11701/Mgz_Main_List_20220228143438.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼주니어표 감성의 끝 [The Road : Winter for Spring]... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11700&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11700&amp;pg=1</guid>
+            <pubDate>Mon, 28 Feb 2022 09:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11700/Mgz_Main_List_20220228143253.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[가요 탐구생활 ＃39 - 어디서 펑크랑 록 향기 안 나요? (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=11694&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=11694&amp;pg=1</guid>
@@ -408,22 +424,6 @@
             <pubDate>Mon, 28 Feb 2022 03:13:35 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11691/Mgz_Main_List_20220225124822.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[R&B 씬에 혜성같이 나타난 독보적 그루브의 소유자, Moise ‘Burn Y... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11696&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11696&amp;pg=1</guid>
-            <pubDate>Fri, 25 Feb 2022 09:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11696/Mgz_Main_List_20220225102103.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[최자 [재호] 발매 기념 '재호가 최자에게' 인터뷰 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11690&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11690&amp;pg=1</guid>
-            <pubDate>Fri, 25 Feb 2022 09:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11690/Mgz_Main_List_20220225123736.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #128 
@@ -1321,9 +1321,17 @@ AKMU (VIBE ─ 매거진)]]></title>
 당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:58 GMT</pubDate>
+            <pubDate>Mon, 28 Feb 2022 09:14:03 GMT</pubDate>
             <content:encoded><![CDATA[최근 발매된 수많은 노래 중 VIBE에서 사랑받은 ‘이달의 노래’를 소개합니다. 힙터질때, 신났을때, 우울할때, 사랑할때, 사랑했을때, 파티할때, 멍때릴때, 운동할때, 휴식할때… 느낌별 스테이션이 선정한 ‘2월의 노래’를 여러분도 들어보세요.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211203_269/1638496452150FyiIA_JPEG/%C0%CC%B4%DE%C0%C7%B3%EB%B7%A1_%C1%A4%B9%E6%C7%FC%28%C4%BF%B9%F62%29.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[짧지만 긴 여운 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[왓챠 추천, 짧은 러닝타임 콘텐츠 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/73d4ecce8da849dbbf55c6361f6f005b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴노멀  맛집 (현대카드 DIVE ─ POST)]]></title>
@@ -1388,14 +1396,6 @@ AKMU (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[신상 맛집 #18]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3a357af5aa394ffe9aaf72da032558af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잃어버린 시간을  찾아서 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[최태혁의 '브랜드 이야기, H2']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/84e52e7c633641a49800fb3daffecf14.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
