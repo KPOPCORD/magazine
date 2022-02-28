@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 06:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 07:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴노멀  맛집]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[미식의 미래, 팜투테이블 다이닝]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1c66fcfd592446788acdb022458fa5db.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나의 골프 히어로]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[최태혁의 '브랜드 이야기, H2']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/84e52e7c633641a49800fb3daffecf14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카드의 비례를 담다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 Our Tools]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/671b6a7b71e84b179edfcbb64577b9c4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
