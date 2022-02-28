@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 02:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 03:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칸예 웨스트의 ‘Donda 2’ 리스닝 콘서트에서 발견한 다섯 가지]]></title>
+            <link>http://billboard.co.kr/main/news/view/805</link>
+            <guid>http://billboard.co.kr/main/news/view/805</guid>
+            <pubDate>Mon, 28 Feb 2022 03:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/805">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220225200243_0.png" alt="칸예 웨스트의 ‘Donda 2’ 리스닝 콘서트에서 발견한 다섯 가지" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>칸예 웨스트의 ‘Donda 2’ 리스닝 콘서트에서 발견한 다섯 가지</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220225200243_0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[HOT SHOT DEBUT] 2월 26일 자 차트에 데뷔한 신곡]]></title>
             <link>http://billboard.co.kr/main/news/view/804</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215184112_4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 빌보드, 국가별 노래 순위 측정할 ‘히트 오브 더 월드’ 차트 신설]]></title>
-            <link>http://billboard.co.kr/main/news/view/796</link>
-            <guid>http://billboard.co.kr/main/news/view/796</guid>
-            <pubDate>Fri, 18 Feb 2022 21:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/796">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220215155934_1.png" alt="美 빌보드, 국가별 노래 순위 측정할 ‘히트 오브 더 월드’ 차트 신설" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>美 빌보드, 국가별 노래 순위 측정할 ‘히트 오브 더 월드’ 차트 신설</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215155934_1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
