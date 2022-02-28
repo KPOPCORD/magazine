@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 14:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 15:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1321,9 +1321,57 @@ CIX (VIBE ─ 매거진)]]></title>
 에이브릴 라빈, 비투비 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 14:13:15 GMT</pubDate>
+            <pubDate>Mon, 28 Feb 2022 15:15:36 GMT</pubDate>
             <content:encoded><![CDATA[팝 펑크 퀸의 귀환을 알린 에이브릴 라빈과 4년 만에 완전체로 컴백한 비투비. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220228_143/1646027255605tMyGY_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거리의  낭만가 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[일상이 특별해지는 순간, 사울 레이터]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dd1963bb64e2444991ea49c508536bac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄이 왔어요 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 디자인 라이브러리 3월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a863b46eff544d6a8d835d8fcc0f472d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명반의  품격 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[V&amp;P 3월 Monthly Special]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/20543a615b18401c8f2e34070d2d0d74.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴 프런티어 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 뮤직 라이브러리 3월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ce5ef3ed809947979653500602ebbd8c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새 시대 새 음악 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 3월의 새 음반]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a3c5d503963f4e97b7ecf07dd2b564db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한번 해보세요 참 쉽죠? (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리 3월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1645be455e8142a9990701cc264691a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짧지만 긴 여운 (현대카드 DIVE ─ POST)]]></title>
@@ -1348,54 +1396,6 @@ CIX (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[더 강력해진 국내 최정상급 레슨 프로팀]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ddac45fb45c240c4bb44cb420430b3b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청진옥에  어서 오시게 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[음악과 사람, 이야기가 모이는 홈 라운지]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8fa2906aaba249a187a01c4894d8818f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타이와니즈 바이브 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[힙한 레트로 정서의 대만 인디 밴드 3]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/78d3ba8978904a24a8ee97805adc347c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DIVE와 함께하는 삼시 세끼 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[주간 DIVE 105호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cbd9d665baff4ca1966c8e387e9a439c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취향러들을 위한 굿 뉴스 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[취향 저격 뉴 라이프스타일 숍]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/753f6b26544b487e945e51035b341521.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신선해! 컬러 백 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[컬러로 물든 미니 백]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eb53eec96bfc464cad98541fddf4c5ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가  좋아하는 것 여기 다 있네 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[신상 맛집 #18]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3a357af5aa394ffe9aaf72da032558af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
