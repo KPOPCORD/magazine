@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 03:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 04:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바람에 스치다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[부드러운 영감을 주는 텍스타일 인테리어디자인]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2ca48b8487c14f4fbbb173397bbfd78a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거리의  낭만가]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[미식의 미래, 팜투테이블 다이닝]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1c66fcfd592446788acdb022458fa5db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 골프 히어로]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[더 강력해진 국내 최정상급 레슨 프로팀]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ddac45fb45c240c4bb44cb420430b3b0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
