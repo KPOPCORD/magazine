@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 11:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 12:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태연 ‘INVU’, 빌보드 케이팝 100 차트 정상 등극]]></title>
+            <link>http://billboard.co.kr/main/news/view/806</link>
+            <guid>http://billboard.co.kr/main/news/view/806</guid>
+            <pubDate>Tue, 01 Mar 2022 12:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/806">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220301203508_1.png" alt="태연 ‘INVU’, 빌보드 케이팝 100 차트 정상 등극" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>태연 ‘INVU’, 빌보드 케이팝 100 차트 정상 등극</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220301203508_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[칸예 웨스트의 ‘Donda 2’ 리스닝 콘서트에서 발견한 다섯 가지]]></title>
             <link>http://billboard.co.kr/main/news/view/805</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215204306_7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트레저의 새 챕터, '직진' 발매]]></title>
-            <link>http://billboard.co.kr/main/news/view/797</link>
-            <guid>http://billboard.co.kr/main/news/view/797</guid>
-            <pubDate>Fri, 18 Feb 2022 21:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/797">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220215184112_4.jpg" alt="트레저의 새 챕터, '직진' 발매" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>트레저의 새 챕터, '직진' 발매</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215184112_4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
