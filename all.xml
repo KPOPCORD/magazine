@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 06:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 07:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -179,6 +179,14 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220215204306_7.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[제 19회 한국 대중음악상 수상자를 소개합니다! (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/LN4W9YSRFC7MIEP0DUTB?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/LN4W9YSRFC7MIEP0DUTB?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 02 Mar 2022 07:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직포커스]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/LN4W9YSRFC7MIEP0DUTB/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[팝송으로 배우는 영어! 55. Peach PRC - 'Heavy' (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/CN6Q4XA5ING1YZPBFZ2S?&amp;wl_ref=list_sp_01_h</link>
             <guid>https://music.bugs.co.kr/musicpost/CN6Q4XA5ING1YZPBFZ2S?&amp;wl_ref=list_sp_01_h</guid>
@@ -351,13 +359,6 @@
             <title><![CDATA[팝송으로 배우는 영어! 53. Jimmy Fallon, Ariana Grande - It Was A ... (Masked Christmas) (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/IYJ10701UL3LRKQN556Y?&amp;wl_ref=list_sp_01_h</link>
             <guid>https://music.bugs.co.kr/musicpost/IYJ10701UL3LRKQN556Y?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뭘 들을까? - 2021년 12월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/QYGUGABCWC41L5YYMUYE?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/QYGUGABCWC41L5YYMUYE?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
@@ -1321,9 +1322,17 @@ CIX (VIBE ─ 매거진)]]></title>
 에이브릴 라빈, 비투비 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 02 Mar 2022 06:16:44 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2022 07:12:48 GMT</pubDate>
             <content:encoded><![CDATA[팝 펑크 퀸의 귀환을 알린 에이브릴 라빈과 4년 만에 완전체로 컴백한 비투비. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220228_143/1646027255605tMyGY_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삶고 굽고  발라서 냠 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[중독적인 베이글 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/418bcc60614c400b8f26e2a6b9610c44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넥스트 스니커즈 (현대카드 DIVE ─ POST)]]></title>
@@ -1388,14 +1397,6 @@ CIX (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 3월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1645be455e8142a9990701cc264691a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짧지만 긴 여운 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[왓챠 추천, 짧은 러닝타임 콘텐츠 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/73d4ecce8da849dbbf55c6361f6f005b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
