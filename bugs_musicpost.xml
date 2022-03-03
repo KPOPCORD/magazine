@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 02:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 03:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Steelheart(스틸하트) - 'Trust In Love'가 전하는 평화와 희망의 메시지]]></title>
+            <link>https://music.bugs.co.kr/musicpost/5HZAD7YBZJP3C4ZFX3GB?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/5HZAD7YBZJP3C4ZFX3GB?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 03 Mar 2022 03:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/5HZAD7YBZJP3C4ZFX3GB/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제 19회 한국 대중음악상 수상자를 소개합니다!]]></title>
             <link>https://music.bugs.co.kr/musicpost/LN4W9YSRFC7MIEP0DUTB?&amp;wl_ref=list_sp_01_h</link>
@@ -30,13 +38,6 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뭘 들을까? - 2022년 2월 노래 모음!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/FWJY6Q6RL5VUSXCD8HBC?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/FWJY6Q6RL5VUSXCD8HBC?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 18 Feb 2022 21:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[무성 - '동암역 2번 출구 (2022)' 발매 기념 인터뷰]]></title>
             <link>https://music.bugs.co.kr/musicpost/AFQDTQ0YEQZXYD8SB6GJ?&amp;wl_ref=list_sp_01_h</link>
             <guid>https://music.bugs.co.kr/musicpost/AFQDTQ0YEQZXYD8SB6GJ?&amp;wl_ref=list_sp_01_h</guid>
@@ -51,6 +52,13 @@
             <pubDate>Fri, 18 Feb 2022 21:10:41 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/8EKS3N8MC6VAY48QFWKR/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2022년 2월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/FWJY6Q6RL5VUSXCD8HBC?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/FWJY6Q6RL5VUSXCD8HBC?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 18 Feb 2022 21:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[콰이엇톤 - 도시적 차가움과 낭만적 따스함이 공존할 수 있는가]]></title>
@@ -183,13 +191,6 @@
             <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/DI9PM7NM7W5267W6JUVV/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝송으로 배우는 영어! 53. Jimmy Fallon, Ariana Grande - It Was A ... (Masked Christmas)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/IYJ10701UL3LRKQN556Y?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/IYJ10701UL3LRKQN556Y?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
