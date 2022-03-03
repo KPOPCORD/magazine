@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 04:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 05:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1323,9 +1323,17 @@ CIX (VIBE ─ 매거진)]]></title>
 윤석철 트리오 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 03 Mar 2022 04:16:03 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 05:12:26 GMT</pubDate>
             <content:encoded><![CDATA[가장 안정적으로 자리를 지키면서 가장 실험적인 행보를 만드는 것. 장르적으로 어떤 것보다도 뚜렷한 색깔을 가졌으면서도 가장 변칙적인 자유를 허용하는 재즈 속에서 민속적인 접목을 시도하면서도 그건 그저 익숙한 호흡으로 꾸준히 음악을 해 온 윤석철트리오만의 가장 자연스런 방식.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220302_252/1646209579807I3KDX_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[향기로운 드라이브 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[쏘카·타다 카 디퓨저]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/13533fb4c03c4a31adfe8bd14cc9dde4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삶고 굽고  발라서 냠 (현대카드 DIVE ─ POST)]]></title>
@@ -1390,14 +1398,6 @@ CIX (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 3월의 새 음반]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a3c5d503963f4e97b7ecf07dd2b564db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한번 해보세요 참 쉽죠? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 3월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1645be455e8142a9990701cc264691a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
