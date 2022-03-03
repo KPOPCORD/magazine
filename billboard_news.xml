@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 09:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 10:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글렌체크의 음악적 스펙트럼을 응축한 새 앨범 [Bleache]]]></title>
+            <link>http://billboard.co.kr/main/news/view/809</link>
+            <guid>http://billboard.co.kr/main/news/view/809</guid>
+            <pubDate>Thu, 03 Mar 2022 10:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/809">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220303183349_8.jpg" alt="글렌체크의 음악적 스펙트럼을 응축한 새 앨범 [Bleache]" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>글렌체크의 음악적 스펙트럼을 응축한 새 앨범 [Bleache]</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303183349_8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박재범이 'MORE VISION'을 통해 나누고 싶은 것]]></title>
             <link>http://billboard.co.kr/main/news/view/808</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220218154308_5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HOT SHOT DEBUT] 2월 19일 자 차트에 데뷔한 신곡]]></title>
-            <link>http://billboard.co.kr/main/news/view/800</link>
-            <guid>http://billboard.co.kr/main/news/view/800</guid>
-            <pubDate>Fri, 18 Feb 2022 21:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/800">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220217144842_24.png" alt="[HOT SHOT DEBUT] 2월 19일 자 차트에 데뷔한 신곡" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>[HOT SHOT DEBUT] 2월 19일 자 차트에 데뷔한 신곡</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220217144842_24.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
