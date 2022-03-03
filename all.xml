@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 07:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 08:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -25,6 +25,25 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303142826_5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/807</link>
+            <guid>http://billboard.co.kr/main/news/view/807</guid>
+            <pubDate>Thu, 03 Mar 2022 08:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/807">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220303140223_8.png" alt="[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303140223_8.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[태연 ‘INVU’, 빌보드 케이팝 100 차트 정상 등극 (빌보드 코리아 ─ 뉴스)]]></title>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220217144842_24.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 3월 서울 콘서트 개최 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/799</link>
-            <guid>http://billboard.co.kr/main/news/view/799</guid>
-            <pubDate>Fri, 18 Feb 2022 21:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/799">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220216150511_6.jpg" alt="방탄소년단 3월 서울 콘서트 개최" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>방탄소년단 3월 서울 콘서트 개최</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220216150511_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Steelheart(스틸하트) - 'Trust In Love'가 전하는 평화와 희망의 메시지 (벅스 ─ 뮤직포스트)]]></title>
@@ -1323,9 +1323,17 @@ CIX (VIBE ─ 매거진)]]></title>
 윤석철 트리오 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 03 Mar 2022 07:12:42 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 08:15:30 GMT</pubDate>
             <content:encoded><![CDATA[가장 안정적으로 자리를 지키면서 가장 실험적인 행보를 만드는 것. 장르적으로 어떤 것보다도 뚜렷한 색깔을 가졌으면서도 가장 변칙적인 자유를 허용하는 재즈 속에서 민속적인 접목을 시도하면서도 그건 그저 익숙한 호흡으로 꾸준히 음악을 해 온 윤석철트리오만의 가장 자연스런 방식.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220302_252/1646209579807I3KDX_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신의 맵부심을 위하여 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[Food Theme16.Chili Pepper]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/529e804dac4b45d4b75000d2a70d6074.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대카드  Curated 72  이랑 (현대카드 DIVE ─ POST)]]></title>
@@ -1390,14 +1398,6 @@ CIX (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 3월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/20543a615b18401c8f2e34070d2d0d74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 프런티어 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 뮤직 라이브러리 3월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ce5ef3ed809947979653500602ebbd8c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

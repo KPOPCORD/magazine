@@ -4,7 +4,7 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 07:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 08:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -25,6 +25,25 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303142826_5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡]]></title>
+            <link>http://billboard.co.kr/main/news/view/807</link>
+            <guid>http://billboard.co.kr/main/news/view/807</guid>
+            <pubDate>Thu, 03 Mar 2022 08:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/807">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220303140223_8.png" alt="[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>[HOT SHOT DEBUT] 3월 5일 자 차트에 데뷔한 신곡</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303140223_8.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[태연 ‘INVU’, 빌보드 케이팝 100 차트 정상 등극]]></title>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220217144842_24.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 3월 서울 콘서트 개최]]></title>
-            <link>http://billboard.co.kr/main/news/view/799</link>
-            <guid>http://billboard.co.kr/main/news/view/799</guid>
-            <pubDate>Fri, 18 Feb 2022 21:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/799">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220216150511_6.jpg" alt="방탄소년단 3월 서울 콘서트 개최" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>방탄소년단 3월 서울 콘서트 개최</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220216150511_6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
