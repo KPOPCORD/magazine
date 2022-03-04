@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 08:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 09:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220218154308_5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Panda Gomm - 정규 2집 선공개 곡 'KILL YOUR DARLINGS' 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/NEV6VNS9OUQCI1NQ8PFY?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/NEV6VNS9OUQCI1NQ8PFY?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 04 Mar 2022 09:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/NEV6VNS9OUQCI1NQ8PFY/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[옐(YEL) - 다양한 음악적 공존성의 미학을 담은 그녀의 컴백 [노력하려고] (벅스 ─ 뮤직포스트)]]></title>
@@ -354,14 +362,6 @@
             <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/B7B9DD11IQG62CWOJPFJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카페25 위드 콘서트 - 음악으로 전하는 따뜻한 위로 with 알리, 지젤(Jiselle) (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/B9RZD11USPUUJF8E8H1Z?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/B9RZD11USPUUJF8E8H1Z?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/B9RZD11USPUUJF8E8H1Z/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자유와 불안함을 담아낸 오베르(Auvers), 정규 [4 WAY FLASHER... (지니 ─ 매거진)]]></title>
@@ -1323,9 +1323,17 @@ D.O.G 크루, 데자부 그룹 (VIBE ─ 매거진)]]></title>
 추억의 힙합 명곡 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 04 Mar 2022 08:15:32 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2022 09:13:28 GMT</pubDate>
             <content:encoded><![CDATA[2월 초 정상에 오른 &lt;엔칸토: 마법의 세계&gt; OST ‘We Don't Talk About Bruno’는 5주 연속 1위를 이어가며 디즈니 노래 사상 최장기간 1위를 기록했다. 한 달간 2곡이 새롭게 톱 10을 기록했을 뿐 상위권에서의 큰 변화는 없었다. 오히려 관심은 톱 10 밖으로 집중됐다. 슈퍼볼 하프타임 쇼의 여파로 추억의 힙합 명곡이 차트에 소환되었고, 방탄소년단 멤버는 솔로곡을 남겼다. - 빌보드코리아(이민형)]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220303_110/1646294408079ESWLc_JPEG/%C4%BF%B9%F61.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기대되는 재탄생 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[주간 DIVE 106호]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e8f50127d0d940e199d483b94e5682cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봄바람 휘날리며 (현대카드 DIVE ─ POST)]]></title>
@@ -1390,14 +1398,6 @@ D.O.G 크루, 데자부 그룹 (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[일상이 특별해지는 순간, 사울 레이터]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dd1963bb64e2444991ea49c508536bac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄이 왔어요 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 디자인 라이브러리 3월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a863b46eff544d6a8d835d8fcc0f472d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
