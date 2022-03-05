@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 03:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 04:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공구 상가로  가자]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[호기심을 자극하는 전국의 공구 상가 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/164a1e63fe824f069a779408df0b055d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기대되는 재탄생]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[부드러운 영감을 주는 텍스타일 인테리어디자인]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2ca48b8487c14f4fbbb173397bbfd78a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거리의  낭만가]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[일상이 특별해지는 순간, 사울 레이터]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dd1963bb64e2444991ea49c508536bac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
