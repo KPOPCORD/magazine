@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 03:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 04:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1323,9 +1323,17 @@ D.O.G 크루, 데자부 그룹 (VIBE ─ 매거진)]]></title>
 카밀라 카베요 & 에드시런 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 08 Mar 2022 03:13:31 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 04:16:53 GMT</pubDate>
             <content:encoded><![CDATA[카밀라 카베요와 에드 시런의 듀엣 곡부터, 9년 만에 정규 앨범을 발표한 글렌 체크까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220307_135/16466335555724LbSq_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대체 불가능, 소유의 기쁨 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드의 문화 서비스를 NFT로 만나다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f2760a08a9ab42c4aff7d712c7664418.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짧은 게  매력이라네 (현대카드 DIVE ─ POST)]]></title>
@@ -1390,14 +1398,6 @@ D.O.G 크루, 데자부 그룹 (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[Pain on all fronts]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c8fd3c05cdd64b9ebc446665f5831045.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[향기로운 드라이브 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[쏘카·타다 카 디퓨저]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/13533fb4c03c4a31adfe8bd14cc9dde4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

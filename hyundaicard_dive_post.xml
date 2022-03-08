@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 03:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 04:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대체 불가능, 소유의 기쁨]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드의 문화 서비스를 NFT로 만나다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f2760a08a9ab42c4aff7d712c7664418.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[짧은 게  매력이라네]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[Pain on all fronts]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c8fd3c05cdd64b9ebc446665f5831045.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[향기로운 드라이브]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[쏘카·타다 카 디퓨저]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/13533fb4c03c4a31adfe8bd14cc9dde4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
