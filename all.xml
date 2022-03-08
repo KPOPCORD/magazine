@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 12:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 13:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태연 ‘INVU’, 빌보드 케이팝 100 차트 2주 연속 1위 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/810</link>
+            <guid>http://billboard.co.kr/main/news/view/810</guid>
+            <pubDate>Tue, 08 Mar 2022 13:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/810">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220308215802_14.png" alt="태연 ‘INVU’, 빌보드 케이팝 100 차트 2주 연속 1위" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>태연 ‘INVU’, 빌보드 케이팝 100 차트 2주 연속 1위</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220308215802_14.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[글렌체크의 음악적 스펙트럼을 응축한 새 앨범 [Bleache] (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/809</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222210451_45.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 슈퍼볼 하프타임 쇼 무대 곡 스트리밍 121% 급등 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/801</link>
-            <guid>http://billboard.co.kr/main/news/view/801</guid>
-            <pubDate>Fri, 18 Feb 2022 21:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/801">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220218154308_5.jpg" alt="2022 슈퍼볼 하프타임 쇼 무대 곡 스트리밍 121% 급등" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>2022 슈퍼볼 하프타임 쇼 무대 곡 스트리밍 121% 급등</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220218154308_5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Panda Gomm - 정규 2집 선공개 곡 'KILL YOUR DARLINGS' 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
@@ -1323,7 +1323,7 @@ D.O.G 크루, 데자부 그룹 (VIBE ─ 매거진)]]></title>
 태연 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 08 Mar 2022 12:20:43 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 13:20:06 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 세 번째 정규 앨범을 들고 돌아온 태연. 태연은 2007년 소녀시대로 데뷔해, 2015년 미니 1집을 발표하며 솔로 가수로서 성공적인 커리어를 이어오고 있다. 그렇기에 태연이란 존재는 케이팝을 이끈 솔로 가수이자 걸그룹은 물론, SM 엔터테인먼트의 음악 세계를 이야기할 때도 빼놓아서는 안 된다. 이주의 디깅에서는 그런 태연과 함께 쭉 조선왕조 읊듯이 SM 엔터테인먼트 그룹의 현재부터 시작해 과거를 훑어보도록 하자. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220228_112/1646030063463fNcwB_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
