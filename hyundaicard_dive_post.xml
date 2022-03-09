@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 03:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 04:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동심의  세계]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[만화 속 캐릭터들과 만난 패션 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2421bbc913484949b38a417f5616d0bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[UNDERSTAGE NFT Ticket]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[3월의 현대카드 컬처 캘린더]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4ad916ecdefd4bf583629a3474f4599f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 맵부심을 위하여]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[Food Theme16.Chili Pepper]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/529e804dac4b45d4b75000d2a70d6074.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

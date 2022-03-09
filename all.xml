@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 03:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 04:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1323,9 +1323,17 @@ D.O.G 크루, 데자부 그룹 (VIBE ─ 매거진)]]></title>
 태연 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 09 Mar 2022 03:14:36 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2022 04:16:28 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 세 번째 정규 앨범을 들고 돌아온 태연. 태연은 2007년 소녀시대로 데뷔해, 2015년 미니 1집을 발표하며 솔로 가수로서 성공적인 커리어를 이어오고 있다. 그렇기에 태연이란 존재는 케이팝을 이끈 솔로 가수이자 걸그룹은 물론, SM 엔터테인먼트의 음악 세계를 이야기할 때도 빼놓아서는 안 된다. 이주의 디깅에서는 그런 태연과 함께 쭉 조선왕조 읊듯이 SM 엔터테인먼트 그룹의 현재부터 시작해 과거를 훑어보도록 하자. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220228_112/1646030063463fNcwB_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동심의  세계 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[만화 속 캐릭터들과 만난 패션 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2421bbc913484949b38a417f5616d0bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[UNDERSTAGE NFT Ticket (현대카드 DIVE ─ POST)]]></title>
@@ -1390,14 +1398,6 @@ D.O.G 크루, 데자부 그룹 (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[3월의 현대카드 컬처 캘린더]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4ad916ecdefd4bf583629a3474f4599f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 맵부심을 위하여 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[Food Theme16.Chili Pepper]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/529e804dac4b45d4b75000d2a70d6074.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
