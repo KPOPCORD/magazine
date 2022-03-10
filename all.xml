@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 05:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 06:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,6 +364,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[KIMKIMPARKKIM's 플레이리스트 가이드 ＃19 - 그 곳에 가면 이 ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11739&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11739&amp;pg=1</guid>
+            <pubDate>Thu, 10 Mar 2022 06:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[김김박김]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11739/Mgz_Main_List_20220310150247.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[어쩌면 두 번 다시 경험하지 못할 순간들을 기억하며, 윤한 [아빠의 일기장] (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11735&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11735&amp;pg=1</guid>
@@ -418,14 +426,6 @@
             <pubDate>Tue, 08 Mar 2022 03:13:06 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11726/Mgz_Main_List_20220308120213.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송라이터 우재(WOOJAE)의 [마음은 마음대로] 작업 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11725&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11725&amp;pg=1</guid>
-            <pubDate>Tue, 08 Mar 2022 03:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11725/Mgz_Main_List_20220308103844.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #82 : 
@@ -1323,7 +1323,7 @@ D.O.G 크루, 데자부 그룹 (VIBE ─ 매거진)]]></title>
 태연 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 05:12:27 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2022 06:16:22 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 세 번째 정규 앨범을 들고 돌아온 태연. 태연은 2007년 소녀시대로 데뷔해, 2015년 미니 1집을 발표하며 솔로 가수로서 성공적인 커리어를 이어오고 있다. 그렇기에 태연이란 존재는 케이팝을 이끈 솔로 가수이자 걸그룹은 물론, SM 엔터테인먼트의 음악 세계를 이야기할 때도 빼놓아서는 안 된다. 이주의 디깅에서는 그런 태연과 함께 쭉 조선왕조 읊듯이 SM 엔터테인먼트 그룹의 현재부터 시작해 과거를 훑어보도록 하자. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220228_112/1646030063463fNcwB_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
