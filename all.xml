@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 02:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 03:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222210451_45.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[THE PIECES(더 피스) - 'THE PIECES OF ART' 9개의 그림 조각, 그 안에 담긴 9곡의 음악 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/5M5RD2WOWUJ2SOQKMKUX?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/5M5RD2WOWUJ2SOQKMKUX?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 10 Mar 2022 03:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/5M5RD2WOWUJ2SOQKMKUX/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Panda Gomm - 정규 2집 선공개 곡 'KILL YOUR DARLINGS' 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
@@ -356,12 +364,28 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[카페25 위드 콘서트 - 음악으로 전하는 따뜻한 위로 with DK(디셈버), 진민호 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/B7B9DD11IQG62CWOJPFJ?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/B7B9DD11IQG62CWOJPFJ?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/B7B9DD11IQG62CWOJPFJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[어쩌면 두 번 다시 경험하지 못할 순간들을 기억하며, 윤한 [아빠의 일기장] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11735&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11735&amp;pg=1</guid>
+            <pubDate>Thu, 10 Mar 2022 03:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11735/Mgz_Main_List_20220310095420.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[천용성이 직접 부른 한국대중음악상 수상작 [보리차] 발매 기념 미니 인터뷰 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11734&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11734&amp;pg=1</guid>
+            <pubDate>Thu, 10 Mar 2022 03:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11734/Mgz_Main_List_20220310095147.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[이별 뒤 찾아온 일상, '최은우X시우'의 [네 생각이 나지 않았다고 말했어] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11732&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11732&amp;pg=1</guid>
+            <pubDate>Thu, 10 Mar 2022 03:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11732/Mgz_Main_List_20220310110746.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[내면의 성찰, 단촐함 속 무게 담아낸 재즈, 블루스 - '찰리 정' 외 (지니 ─ 매거진)]]></title>
@@ -402,30 +426,6 @@
             <pubDate>Tue, 08 Mar 2022 03:13:06 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11725/Mgz_Main_List_20220308103844.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[임세모 새 EP [건강하세모] 발매 기념 인터뷰 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11724&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11724&amp;pg=1</guid>
-            <pubDate>Tue, 08 Mar 2022 03:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11724/Mgz_Main_List_20220308104747.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[3RD DESIRE [ Reve ] '꿈속의 소년'으로 돌아온 김우석 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11730&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11730&amp;pg=1</guid>
-            <pubDate>Mon, 07 Mar 2022 09:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11730/Mgz_Main_List_20220307150745.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[또 다른 일주일을 향해 거침없이 달려가는 ‘위클리’의 [Play Game : ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11723&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11723&amp;pg=1</guid>
-            <pubDate>Mon, 07 Mar 2022 09:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11723/Mgz_Main_List_20220307171910.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #82 : 
@@ -1323,7 +1323,7 @@ D.O.G 크루, 데자부 그룹 (VIBE ─ 매거진)]]></title>
 태연 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 02:18:59 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2022 03:18:05 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 세 번째 정규 앨범을 들고 돌아온 태연. 태연은 2007년 소녀시대로 데뷔해, 2015년 미니 1집을 발표하며 솔로 가수로서 성공적인 커리어를 이어오고 있다. 그렇기에 태연이란 존재는 케이팝을 이끈 솔로 가수이자 걸그룹은 물론, SM 엔터테인먼트의 음악 세계를 이야기할 때도 빼놓아서는 안 된다. 이주의 디깅에서는 그런 태연과 함께 쭉 조선왕조 읊듯이 SM 엔터테인먼트 그룹의 현재부터 시작해 과거를 훑어보도록 하자. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220228_112/1646030063463fNcwB_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
