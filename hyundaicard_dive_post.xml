@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 03:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 04:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일분일초도  소중하니까]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[긱 워커를 위한 앱 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6c892b591eeb414fbd4cc409800de9ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휴식,  그 달콤한 단절]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[스트리밍 시간 10분, 디즈니플러스 쇼츠]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c4b0b6bc96134d83a7aae21b5e7add10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄이 왔어요]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 디자인 라이브러리 3월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a863b46eff544d6a8d835d8fcc0f472d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
