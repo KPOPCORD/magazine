@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 06:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 07:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화이트데이에 진심인 편]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[에어비앤비 추천 디저트 만들기 체험 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8539e62864f94f6abafabc5a352d6826.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주거의 형태]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 Curated 72 이랑]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0ccaebaee4c14b8199eea10213063187.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티켓, 굿즈도 NFT로]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 NFT 파일럿 프로그램 소개]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f2760a08a9ab42c4aff7d712c7664418.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
