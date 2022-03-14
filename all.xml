@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 08:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 09:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,6 +364,22 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[미니 6집 [THANK YOU], 뉴트로 퀸으로 돌아온 브레이브걸스 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11748&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11748&amp;pg=1</guid>
+            <pubDate>Mon, 14 Mar 2022 09:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11747/Mgz_Main_List_20220314140150.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[강승윤, [BORN TO LOVE YOU] 미공개 비하인드 이미지 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11742&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11742&amp;pg=1</guid>
+            <pubDate>Mon, 14 Mar 2022 09:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11742/Mgz_Main_List_20220314143855.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[잠실, 석촌호수 옆 《라라랜드》 느낌의 재즈 바 <바티칸> (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11745&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11745&amp;pg=1</guid>
@@ -410,22 +426,6 @@
             <pubDate>Fri, 11 Mar 2022 03:14:50 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11736/Mgz_Main_List_20220307173014.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린, 모니카&립제이 [너머(The Other Side)] 라이브 클립 촬영... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11740&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11740&amp;pg=1</guid>
-            <pubDate>Thu, 10 Mar 2022 10:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11740/Mgz_Main_List_20220310152652.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[KIMKIMPARKKIM's 플레이리스트 가이드 ＃19 - 그 곳에 가면 이 ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11739&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11739&amp;pg=1</guid>
-            <pubDate>Thu, 10 Mar 2022 06:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[김김박김]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11739/Mgz_Main_List_20220310150247.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[봄, 그리고 알앤비 :  
@@ -1323,9 +1323,17 @@ D.O.G 크루, 데자부 그룹 (VIBE ─ 매거진)]]></title>
 완전히 새로운 글렌 체크 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 14 Mar 2022 08:16:25 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 09:14:14 GMT</pubDate>
             <content:encoded><![CDATA[항상 트렌디한 음악을 추구해 온 글렌체크가 한참의 휴식기를 거치고 무규칙적인 트랙 리스트를 빼곡히 채운 정규앨범으로 돌아왔다. 90년대 록 사운드부터 언더그라운드 댄스까지, 글렌 체크가 손을 대면 왜 찬란하게 새로워지는 걸까?]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220310_106/1646909975041BaaGb_JPEG/still161_%BA%B9%BB%E7%BA%BB_2.JPG?type=w840" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[소주로 플렉스 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[힙한 증류식 프리미엄 소주]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61b964a2ca5344e6a0a2f19b3a19e339.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화이트데이에 진심인 편 (현대카드 DIVE ─ POST)]]></title>
@@ -1390,14 +1398,6 @@ D.O.G 크루, 데자부 그룹 (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[만화 속 캐릭터들과 만난 패션 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2421bbc913484949b38a417f5616d0bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UNDERSTAGE NFT Ticket (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 Curated 72 이랑]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0ccaebaee4c14b8199eea10213063187.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
