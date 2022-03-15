@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 02:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 03:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222210451_45.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[손지수 - 따뜻한 목소리의 소유자 소프라노 손지수의 첫 싱글 앨범 [청춘시] (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/E0V5ATYYZAFEAUCG02UZ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/E0V5ATYYZAFEAUCG02UZ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 15 Mar 2022 03:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/E0V5ATYYZAFEAUCG02UZ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THE PIECES(더 피스) - 'THE PIECES OF ART' 9개의 그림 조각, 그 안에 담긴 9곡의 음악 (벅스 ─ 뮤직포스트)]]></title>
@@ -357,11 +365,28 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/U5Y3EH5VRVQWVZDIJOWD/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새해에는 갓생 살자! 신년의 소망을 응원하는 앨범 7 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/3QQUBIKQXPOPWE2NKK0Z?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/3QQUBIKQXPOPWE2NKK0Z?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+            <title><![CDATA[봄을 맞이하는 클래식, 3월에는 무슨 클래식을 들을까? (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11753&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11753&amp;pg=1</guid>
+            <pubDate>Tue, 15 Mar 2022 03:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11753/Mgz_Main_List_20220315111502.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[다비 (DAVII) 3rd Mini album ‘Today’ 앨범 제작 비하인... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11752&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11752&amp;pg=1</guid>
+            <pubDate>Tue, 15 Mar 2022 03:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11752/Mgz_Main_List_20220315104533.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[봄처럼 따뜻한 위로가 되어줄 소프라노 손지수의 싱글 앨범 [청춘시] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11746&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11746&amp;pg=1</guid>
+            <pubDate>Tue, 15 Mar 2022 03:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11746/Mgz_Main_List_20220315101022.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[미니 6집 [THANK YOU], 뉴트로 퀸으로 돌아온 브레이브걸스 (지니 ─ 매거진)]]></title>
@@ -402,30 +427,6 @@
             <pubDate>Mon, 14 Mar 2022 03:15:14 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11741/Mgz_Main_List_20220314114433.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[독보적인 음악 색깔을 가진 CHE, 첫 정규앨범 [Kpop]을 발표하다! (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11738&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11738&amp;pg=1</guid>
-            <pubDate>Fri, 11 Mar 2022 09:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11738/Mgz_Main_List_20220311101639.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[지니 컬러 동향 ＃36 – 2022.02.19 ~ 03.04 발매작 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=11743&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=11743&amp;pg=1</guid>
-            <pubDate>Fri, 11 Mar 2022 03:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[지니 컬러 동향]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11742/Mgz_Main_List_20220311114839.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[KT와 함께하는 예술의전당 “마음을 담은 클래식” 3월 공연 미리보기 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11737&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11737&amp;pg=1</guid>
-            <pubDate>Fri, 11 Mar 2022 03:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11736/Mgz_Main_List_20220307173014.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[늘 새로운, 
@@ -1323,7 +1324,7 @@ SINCE (VIBE ─ 매거진)]]></title>
 메건 더 스탤리언 & 두아 리파 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 15 Mar 2022 02:15:08 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2022 03:14:55 GMT</pubDate>
             <content:encoded><![CDATA[메건 더 스탤리언과 함께한 두아 리파, 아이유와 함께한 박재범까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220314_112/1647245557328uQDdt_JPEG/main1.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
