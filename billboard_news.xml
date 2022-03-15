@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 06:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 07:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[HOT SHOT DEBUT] 3월 12일 자 차트에 데뷔한 신곡]]></title>
+            <link>http://billboard.co.kr/main/news/view/811</link>
+            <guid>http://billboard.co.kr/main/news/view/811</guid>
+            <pubDate>Tue, 15 Mar 2022 07:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/811">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220315144028_10.png" alt="[HOT SHOT DEBUT] 3월 12일 자 차트에 데뷔한 신곡" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>[HOT SHOT DEBUT] 3월 12일 자 차트에 데뷔한 신곡</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315144028_10.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[태연 ‘INVU’, 빌보드 케이팝 100 차트 2주 연속 1위]]></title>
             <link>http://billboard.co.kr/main/news/view/810</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222221115_10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위]]></title>
-            <link>http://billboard.co.kr/main/news/view/802</link>
-            <guid>http://billboard.co.kr/main/news/view/802</guid>
-            <pubDate>Tue, 22 Feb 2022 12:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/802">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220222210451_45.png" alt="빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>빌보드 케이팝 100, 소코도모 ‘회전목마’ 12주 1위</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220222210451_45.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
