@@ -4,7 +4,7 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 04:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 05:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,13 @@
             <pubDate>Wed, 16 Mar 2022 03:16:29 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/UV3ETXAYYPL36342WFZT/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2022년 3월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/DQBC1FHF2NTMILQH2XGD?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/DQBC1FHF2NTMILQH2XGD?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 16 Mar 2022 05:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디즈니+ 단독 공개, NEW 웰메이드 - <메이의 새빨간 비밀> OST 듣고 선물 받자!]]></title>
@@ -184,14 +191,6 @@
             <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/N1RE5CECQBK33WV2T7VY/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김보경 (NEON) - '같은 이유로 우리 또 헤어질까봐' 발매 인터뷰]]></title>
-            <link>https://music.bugs.co.kr/musicpost/OGP1CEINV9GV6SSJRHPR?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/OGP1CEINV9GV6SSJRHPR?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OGP1CEINV9GV6SSJRHPR/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
