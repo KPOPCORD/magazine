@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 02:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 03:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165406_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나윤권 - 3월의 어느 봄날, 감미로운 힐링 보이스 '나윤권'의 귀환 [오늘이 지나면] (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/UV3ETXAYYPL36342WFZT?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/UV3ETXAYYPL36342WFZT?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 16 Mar 2022 03:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/UV3ETXAYYPL36342WFZT/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디즈니+ 단독 공개, NEW 웰메이드 - <메이의 새빨간 비밀> OST 듣고 선물 받자! (벅스 ─ 뮤직포스트)]]></title>
@@ -357,12 +365,20 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OGP1CEINV9GV6SSJRHPR/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그리즐리 (Grizzly) - 설렘 가득 장착한 화보장인의 'Beige coat' 자켓 촬영 현장 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/T4U8KQ6JLPSLJXS6ATEV?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/T4U8KQ6JLPSLJXS6ATEV?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/T4U8KQ6JLPSLJXS6ATEV/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[힙합 따라잡기 ＃52 - 상반기 국힙 원탑, 아니 쓰리탑 앨범은?! (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11761&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11761&amp;pg=1</guid>
+            <pubDate>Wed, 16 Mar 2022 03:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11761/Mgz_Main_List_20220316112706.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[감성 한 스푼, 매력 두 스푼 박현수의 하나뿐인 데뷔앨범 [자화상] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=11758&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=11758&amp;pg=1</guid>
+            <pubDate>Wed, 16 Mar 2022 03:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[공연]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11758/Mgz_Main_List_20220316085901.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[따스한 봄기운과 함께 찾아온 '뉴이스트'의 베스트 앨범 [Needle & Bu... (지니 ─ 매거진)]]></title>
@@ -411,22 +427,6 @@
             <pubDate>Tue, 15 Mar 2022 03:14:30 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11746/Mgz_Main_List_20220315101022.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[미니 6집 [THANK YOU], 뉴트로 퀸으로 돌아온 브레이브걸스 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11748&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11748&amp;pg=1</guid>
-            <pubDate>Mon, 14 Mar 2022 09:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11747/Mgz_Main_List_20220314140150.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[강승윤, [BORN TO LOVE YOU] 미공개 비하인드 이미지 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11742&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11742&amp;pg=1</guid>
-            <pubDate>Mon, 14 Mar 2022 09:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11742/Mgz_Main_List_20220314143855.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #83 :
@@ -1324,7 +1324,7 @@ SINCE (VIBE ─ 매거진)]]></title>
 박봄, 볼빨간사춘기 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 16 Mar 2022 02:20:08 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2022 03:17:06 GMT</pubDate>
             <content:encoded><![CDATA[네이버 어학사전에서 봄을 검색하면 두 번째 뜻풀이로 다음과 같은 설명이 나온다. ‘인생의 한창때를 비유적으로 이르는 말’. 아직 인생의 봄이 오지 않았다고 느끼는 이들에게 오늘의 노래를 바친다. - 하박국]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220314_273/1647249531866LofRN_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>

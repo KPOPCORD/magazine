@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 02:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 03:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나윤권 - 3월의 어느 봄날, 감미로운 힐링 보이스 '나윤권'의 귀환 [오늘이 지나면]]]></title>
+            <link>https://music.bugs.co.kr/musicpost/UV3ETXAYYPL36342WFZT?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/UV3ETXAYYPL36342WFZT?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 16 Mar 2022 03:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/UV3ETXAYYPL36342WFZT/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니+ 단독 공개, NEW 웰메이드 - <메이의 새빨간 비밀> OST 듣고 선물 받자!]]></title>
             <link>https://music.bugs.co.kr/musicpost/XSFHRQ80QWMF0OO09PBJ?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OGP1CEINV9GV6SSJRHPR/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그리즐리 (Grizzly) - 설렘 가득 장착한 화보장인의 'Beige coat' 자켓 촬영 현장]]></title>
-            <link>https://music.bugs.co.kr/musicpost/T4U8KQ6JLPSLJXS6ATEV?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/T4U8KQ6JLPSLJXS6ATEV?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/T4U8KQ6JLPSLJXS6ATEV/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
