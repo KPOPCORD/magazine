@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 03:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 04:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개봉 박두  레고랜드]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[레고랜드와 연계해 가볼 만한 춘천 명소 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7aefb961f0ff4fc19390e9a8021d3cc6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[색감이 다했네]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #20 흑석동]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ae53197441f4afea7aa0a12b47964a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 국힙원탑은  누구?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[한국 힙합 어워즈 2022 수상자 리스트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/434727e4e1644dea9c317cafc3d07c5b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
