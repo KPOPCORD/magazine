@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 06:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 07:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벅스 나눔 캠페인 - 벅스 X 사랑의달팽이]]></title>
+            <link>https://music.bugs.co.kr/musicpost/00UPR2IKONLEJZHPYZ5D?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/00UPR2IKONLEJZHPYZ5D?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 21 Mar 2022 07:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/00UPR2IKONLEJZHPYZ5D/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[72 - 'I Believe' MV 촬영 비하인드 공개]]></title>
             <link>https://music.bugs.co.kr/musicpost/HXEZTQMUJ9GLLH3SFVRO?&amp;wl_ref=list_sp_01_h</link>
@@ -31,20 +39,20 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디즈니+ 단독 공개, NEW 웰메이드 - <메이의 새빨간 비밀> OST 듣고 선물 받자!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/XSFHRQ80QWMF0OO09PBJ?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/XSFHRQ80QWMF0OO09PBJ?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 15 Mar 2022 05:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XSFHRQ80QWMF0OO09PBJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[손지수 - 따뜻한 목소리의 소유자 소프라노 손지수의 첫 싱글 앨범 [청춘시]]]></title>
             <link>https://music.bugs.co.kr/musicpost/E0V5ATYYZAFEAUCG02UZ?&amp;wl_ref=list_sp_01_h</link>
             <guid>https://music.bugs.co.kr/musicpost/E0V5ATYYZAFEAUCG02UZ?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Tue, 15 Mar 2022 03:14:19 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/E0V5ATYYZAFEAUCG02UZ/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니+ 단독 공개, NEW 웰메이드 - <메이의 새빨간 비밀> OST 듣고 선물 받자!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/XSFHRQ80QWMF0OO09PBJ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/XSFHRQ80QWMF0OO09PBJ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 15 Mar 2022 05:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XSFHRQ80QWMF0OO09PBJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THE PIECES(더 피스) - 'THE PIECES OF ART' 9개의 그림 조각, 그 안에 담긴 9곡의 음악]]></title>
@@ -184,13 +192,6 @@
             <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2OTNYW0P03WX5AU5H1SW/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭘 들을까? - 2022년 1월 노래 모음!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/1I5BIVM55U55NOURFSYZ?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/1I5BIVM55U55NOURFSYZ?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 26 Jan 2022 21:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
