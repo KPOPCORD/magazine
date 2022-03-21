@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 02:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 03:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[POP 스튜디오 ＃52 - 아직 조금 더 따뜻함을 기다려야 하지만]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=11770&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=11770&amp;pg=1</guid>
+            <pubDate>Mon, 21 Mar 2022 03:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[POP 컬렉션]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11770/Mgz_Main_List_20220321112657.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[은종 [소란스러운 밤] 뮤직비디오 비하인드]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11768&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11768&amp;pg=1</guid>
+            <pubDate>Mon, 21 Mar 2022 03:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11768/Mgz_Main_List_20220321102016.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[세상의 모든 아웃사이더들에게, 한국계 스웨덴인 프로듀서 LILO의 [LILO]]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11760&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 17 Mar 2022 03:14:39 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11759/Mgz_Main_List_20220316174321.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[“Hi-teen Nerd” FRankly의 첫 번째 EP 앨범 [Frankly...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11757&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11757&amp;pg=1</guid>
-            <pubDate>Thu, 17 Mar 2022 03:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11757/Mgz_Main_List_20220317120016.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[어제보다 새로운 오늘 – 클래식 계의 달라진 모습]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11755&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11755&amp;pg=1</guid>
-            <pubDate>Thu, 17 Mar 2022 03:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11755/Mgz_Main_List_20220317102020.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>

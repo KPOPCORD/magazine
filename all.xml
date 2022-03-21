@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 02:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 03:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,6 +364,22 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[POP 스튜디오 ＃52 - 아직 조금 더 따뜻함을 기다려야 하지만 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=11770&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=11770&amp;pg=1</guid>
+            <pubDate>Mon, 21 Mar 2022 03:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[POP 컬렉션]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11770/Mgz_Main_List_20220321112657.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[은종 [소란스러운 밤] 뮤직비디오 비하인드 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11768&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11768&amp;pg=1</guid>
+            <pubDate>Mon, 21 Mar 2022 03:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11768/Mgz_Main_List_20220321102016.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[세상의 모든 아웃사이더들에게, 한국계 스웨덴인 프로듀서 LILO의 [LILO] (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11760&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11760&amp;pg=1</guid>
@@ -410,22 +426,6 @@
             <pubDate>Thu, 17 Mar 2022 03:14:39 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11759/Mgz_Main_List_20220316174321.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[“Hi-teen Nerd” FRankly의 첫 번째 EP 앨범 [Frankly... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11757&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11757&amp;pg=1</guid>
-            <pubDate>Thu, 17 Mar 2022 03:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11757/Mgz_Main_List_20220317120016.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[어제보다 새로운 오늘 – 클래식 계의 달라진 모습 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11755&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11755&amp;pg=1</guid>
-            <pubDate>Thu, 17 Mar 2022 03:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11755/Mgz_Main_List_20220317102020.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[새로운 차원의 
@@ -1323,7 +1323,7 @@ Zion.T, 비비(BIBI), Seori (VIBE ─ 매거진)]]></title>
 장기하 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 21 Mar 2022 02:26:01 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2022 03:21:41 GMT</pubDate>
             <content:encoded><![CDATA[장기하와 얼굴들 해체 이후 4년 만에 솔로 앨범 &lt;공중부양&gt;과 함께 돌아온 장기하. 밴드를 뒤로하고 일렉트로닉 사운드를 만나게 된 그는 이번 앨범을 통해 자신의 색채를 더욱 확고히 드러낸다. 말하듯 읊조리는 가사와, 개성 넘치는 표현 방식으로 이야기를 풀어나가는 장기하의 음악 세계엔 늘 궁금한 것 투성이다. 이주의 디깅을 통해 그 궁금증을 차근차근 풀어가 보자. - 파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220318_155/1647598293999aTGJT_JPEG/7267342_%BA%B9%BB%E7%BA%BB.jpeg?type=w840" length="0" type="image/jpeg"/>
         </item>
