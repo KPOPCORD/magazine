@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 06:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 07:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 무대가 어떻게 가능해?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼볼 하프타임 쇼 무대에 함께 오른 레전드]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e72bca0002c14e49ad78377cd77566fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쇼핑도 달콤하게]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 뮤직 라이브러리 3월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ce5ef3ed809947979653500602ebbd8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컨템퍼러리의  최전선]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[예술의 오늘과 내일을 만나는 전시 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1218b20e38344fcfbba195a21b23bc6d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
