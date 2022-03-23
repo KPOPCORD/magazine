@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 04:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 05:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복잡한 건  딱 질색이니까]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[워치부터 스마트폰까지 올인원 충전기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/345e9b2177b8440994741d6d4ff71d8b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 무대가 어떻게 가능해?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[주간 DIVE 107호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/15b20134e2bb486495597472a8baf1e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 프런티어]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 뮤직 라이브러리 3월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ce5ef3ed809947979653500602ebbd8c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
