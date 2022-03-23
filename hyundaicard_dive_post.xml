@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 07:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 08:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명반의 기반이 된 명작]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 '디자인 스토리']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/625adcd810264904be768cc62c06ce46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[복잡한 건  딱 질색이니까]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[레고랜드와 연계해 가볼 만한 춘천 명소 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7aefb961f0ff4fc19390e9a8021d3cc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[색감이 다했네]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[주간 DIVE 107호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/15b20134e2bb486495597472a8baf1e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
