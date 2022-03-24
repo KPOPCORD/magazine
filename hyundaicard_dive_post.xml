@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 08:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 09:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나의 웃음 버튼]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[왓챠의 레전드 시트콤 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4f919d85eb894404beff2b54d44e32c7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명반의 기반이 된 명작]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[풀멍을 위한 피크닉 체어]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9f58aae17f7c4c879fcb6185805719b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개봉 박두  레고랜드]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[레고랜드와 연계해 가볼 만한 춘천 명소 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7aefb961f0ff4fc19390e9a8021d3cc6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
