@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 03:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 04:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,6 +373,14 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11792/Mgz_Main_List_20220325103130.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
+            <title><![CDATA[싱어송라이터 '최고은'의 새 앨범 [오늘의 난 미지근하게 축제 (Studio ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11792&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11792&amp;pg=1</guid>
+            <pubDate>Fri, 25 Mar 2022 04:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11792/Mgz_Main_List_20220325104120.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[흔들리는 청춘을 노래하는 싱어송라이터 도현의 첫 번째 EP 앨범 [사춘] (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11790&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11790&amp;pg=1</guid>
@@ -419,14 +427,6 @@
             <pubDate>Thu, 24 Mar 2022 09:13:34 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11783/Mgz_Main_List_20220324161405.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[이석훈 1st Album ‘같은 자리’ 자켓 촬영 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11779&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11779&amp;pg=1</guid>
-            <pubDate>Thu, 24 Mar 2022 09:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11779/Mgz_Main_List_20220323150301.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[라드 뮤지엄이라는 
@@ -1324,9 +1324,17 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
 라드 뮤지엄, 채 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 25 Mar 2022 03:18:15 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 04:17:31 GMT</pubDate>
             <content:encoded><![CDATA[올해 상반기, 음악계에서 가장 눈에 띄는 지점이 있다면 앨범다운 앨범을 들고 나오며 그 어느 때보다 음악으로 정면 승부를 보고 있는 아티스트가 많다는 점이다. 이 중에서는 씨잼, 피타입, 비프리처럼 힙합 커뮤니티의 화제를 모으고 있는 이들도 존재하며, 한편으로는 올해의 앨범으로 꼽히고 있는 작품을 들고 온 이들도 있다. 이에 많은 이들이 반드시 들었으면 하는 일곱 장의 국내 앨범을 소개하고자 한다. 순서는 무순 – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220324_136/1648106655635OvGh6_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메이드 인 코리아 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[주간 DIVE 108호]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d069d8c527104bf48cb9a0f16a1f764f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금 여기에만  존재하는 언어 (현대카드 DIVE ─ POST)]]></title>
@@ -1391,14 +1399,6 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[프레피 룩의 정석 바시티 재킷 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a4d22f465b5e4da7b47471efef05ddaa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명반의  품격 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 3월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/20543a615b18401c8f2e34070d2d0d74.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
