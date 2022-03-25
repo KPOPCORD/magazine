@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 05:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 06:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[HOT SHOT DEBUT] 3월 26일 자 차트에 데뷔한 신곡 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/818</link>
+            <guid>http://billboard.co.kr/main/news/view/818</guid>
+            <pubDate>Fri, 25 Mar 2022 06:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/818">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220325133505_2.png" alt="[HOT SHOT DEBUT] 3월 26일 자 차트에 데뷔한 신곡" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>[HOT SHOT DEBUT] 3월 26일 자 차트에 데뷔한 신곡</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220325133505_2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[박재범 ‘GANADARA’, 빌보드 케이팝 100 차트 정상 데뷔 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/817</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303183349_8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박재범이 'MORE VISION'을 통해 나누고 싶은 것 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/808</link>
-            <guid>http://billboard.co.kr/main/news/view/808</guid>
-            <pubDate>Thu, 03 Mar 2022 06:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/808">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220303142826_5.jpg" alt="박재범이 'MORE VISION'을 통해 나누고 싶은 것" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>박재범이 'MORE VISION'을 통해 나누고 싶은 것</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303142826_5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무라카미 하루키 - 그의 지속가능한 클래식 덕후 생활 (벅스 ─ 뮤직포스트)]]></title>
@@ -1324,9 +1324,17 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
 라드 뮤지엄, 채 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 25 Mar 2022 05:13:00 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 06:16:42 GMT</pubDate>
             <content:encoded><![CDATA[올해 상반기, 음악계에서 가장 눈에 띄는 지점이 있다면 앨범다운 앨범을 들고 나오며 그 어느 때보다 음악으로 정면 승부를 보고 있는 아티스트가 많다는 점이다. 이 중에서는 씨잼, 피타입, 비프리처럼 힙합 커뮤니티의 화제를 모으고 있는 이들도 존재하며, 한편으로는 올해의 앨범으로 꼽히고 있는 작품을 들고 온 이들도 있다. 이에 많은 이들이 반드시 들었으면 하는 일곱 장의 국내 앨범을 소개하고자 한다. 순서는 무순 – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220324_136/1648106655635OvGh6_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[살짝 설레고 싶은   봄날엔 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[신상 맛집 #19]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4899e1c8f6ef43aebb5e6e190990eb96.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메이드 인 코리아 (현대카드 DIVE ─ POST)]]></title>
@@ -1391,14 +1399,6 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 카드팩토리 랜선 투어]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd5f3473c4b34e6e8a7c2749c7feea11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캠퍼스의  봄 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[프레피 룩의 정석 바시티 재킷 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a4d22f465b5e4da7b47471efef05ddaa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
