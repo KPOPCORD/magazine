@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 04:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 05:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST의 영화로운 순간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022 아카데미 음악상 수상자는?]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/abedfd8255014baab332615bcbe0ac04.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 식탁 위 예술 작품]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[왓챠의 레전드 시트콤 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4f919d85eb894404beff2b54d44e32c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명반의 기반이 된 명작]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[전은경의 '디자인 스토리']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/625adcd810264904be768cc62c06ce46.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
