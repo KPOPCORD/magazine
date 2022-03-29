@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 11:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 12:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들, ‘TOMBOY’로 빌보드 케이팝 100 차트 첫 정상 등극 (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/820</link>
+            <guid>http://billboard.co.kr/main/news/view/820</guid>
+            <pubDate>Tue, 29 Mar 2022 12:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/820">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220329203444_6.png" alt="(여자)아이들, ‘TOMBOY’로 빌보드 케이팝 100 차트 첫 정상 등극" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>(여자)아이들, ‘TOMBOY’로 빌보드 케이팝 100 차트 첫 정상 등극</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220329203444_6.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[HOT SHOT DEBUT] 3월 26일 자 차트에 데뷔한 신곡 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/818</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220308215802_14.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[글렌체크의 음악적 스펙트럼을 응축한 새 앨범 [Bleache] (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/809</link>
-            <guid>http://billboard.co.kr/main/news/view/809</guid>
-            <pubDate>Thu, 03 Mar 2022 10:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/809">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220303183349_8.jpg" alt="글렌체크의 음악적 스펙트럼을 응축한 새 앨범 [Bleache]" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>글렌체크의 음악적 스펙트럼을 응축한 새 앨범 [Bleache]</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220303183349_8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 56. Lauv - '26' (벅스 ─ 뮤직포스트)]]></title>
@@ -1324,7 +1324,7 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
 17금 뮤직비디오 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 29 Mar 2022 11:28:26 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2022 12:24:13 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 많은 것들이 바뀌어 버린 2022년의 대한민국. 특히 한국에서도 국제 표준에 따라 만 나이를 적용할 소식이 얼마 전에 전해졌다. 가만히 있다가 갑자기 어려진 건 좋지만, 이제는 한국에서 만 18세로 고정된 미성년자 기준도 바뀌어야 할 때가 아닐까? 그래서 이주의 디깅에서는 15금을 넘어 17금에 가까운 뮤직비디오들을 모아 소개하려고 한다. 어머니에게 등짝을 맞지 않게 조심해서 스크롤을 내리길 바란다. – 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220329_238/1648515308460tH05d_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
