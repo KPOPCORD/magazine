@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 07:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 08:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올봄에는  이렇게]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[패션 인플루언서 박민주가 꼽은 S/S 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4bbcc319380e49dda67d7bc4e0007bbe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한남동,  아트 뉴 웨이브]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[ALESSI 100주년 기념 전시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/20a20bc1b7c841d3a747d28cc4d33462.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마을 구경이  좋아서]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[나들이 가고 싶은 전국의 마을 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/592360f120f14a7087cb7b2a0110ebc2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
