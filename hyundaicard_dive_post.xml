@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 09:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 10:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 갤러리 업데이트]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[새로 생긴 서울의 전시 공간]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1430772b3f3941a2b1525d6725fb1725.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일상을  예술로 바꾸는  디자인의 비밀]]></title>
             <link>javascript:;</link>
@@ -20,7 +28,7 @@
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[특별한 NFT Ticket을 만나다]]></content:encoded>
+            <content:encoded><![CDATA[특별한 NFT 티켓을 만나다]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f46d70777aa340f0b437eddd771d6bf7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 4월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/54fbf8e7a4924080919f0a26625b3122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혁신이 뭐냐고  물으신다면]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 4월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c622ced10722415e90e278681d8b9628.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

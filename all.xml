@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 09:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 10:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1324,9 +1324,17 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
 영국 밴드가 쓴 드라마 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 01 Apr 2022 09:13:47 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2022 10:15:40 GMT</pubDate>
             <content:encoded><![CDATA[&lt;엔칸토: 마법의 세계&gt; OST ‘We Don't Talk About Bruno’의 1위 행진이 5주로 끝이 나고 영국 출신 4인조 밴드 글래스 애니멀즈가 새롭게 핫 100 왕좌에 앉아 4주째 정상을 지켰다. 그러는 동안 몇몇 아티스트가 도드라지는 활약을 보였으며, 팝스타를 등에 업은 넷플릭스와 디즈니 플러스는 전초전을 벌였다. - 빌보드코리아(이민형)]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220331_182/1648712724613d1zkO_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 갤러리 업데이트 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[새로 생긴 서울의 전시 공간]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1430772b3f3941a2b1525d6725fb1725.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일상을  예술로 바꾸는  디자인의 비밀 (현대카드 DIVE ─ POST)]]></title>
@@ -1341,7 +1349,7 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[특별한 NFT Ticket을 만나다]]></content:encoded>
+            <content:encoded><![CDATA[특별한 NFT 티켓을 만나다]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f46d70777aa340f0b437eddd771d6bf7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1391,14 +1399,6 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 4월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/54fbf8e7a4924080919f0a26625b3122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혁신이 뭐냐고  물으신다면 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 4월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c622ced10722415e90e278681d8b9628.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
