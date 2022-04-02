@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 03:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 04:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1324,9 +1324,17 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
 영국 밴드가 쓴 드라마 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 02 Apr 2022 03:25:48 GMT</pubDate>
+            <pubDate>Sat, 02 Apr 2022 04:17:04 GMT</pubDate>
             <content:encoded><![CDATA[&lt;엔칸토: 마법의 세계&gt; OST ‘We Don't Talk About Bruno’의 1위 행진이 5주로 끝이 나고 영국 출신 4인조 밴드 글래스 애니멀즈가 새롭게 핫 100 왕좌에 앉아 4주째 정상을 지켰다. 그러는 동안 몇몇 아티스트가 도드라지는 활약을 보였으며, 팝스타를 등에 업은 넷플릭스와 디즈니 플러스는 전초전을 벌였다. - 빌보드코리아(이민형)]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220331_182/1648712724613d1zkO_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여행의 기록으로  채운 집 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[일러스트레이터·작가 봉현의 연남주택]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0cb2119d5e2945eabfaa6caa6e6fdd1d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울 갤러리 업데이트 (현대카드 DIVE ─ POST)]]></title>
@@ -1391,14 +1399,6 @@ ATEEZ(에이티즈) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[이탈리아 산업디자인 대부, 에토레 소트사스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9210152e62bc4acc8d21a1b705b45ee9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 팝을 원해요 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 4월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/54fbf8e7a4924080919f0a26625b3122.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
