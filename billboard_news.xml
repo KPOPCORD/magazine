@@ -4,9 +4,28 @@
         <title>빌보드 코리아 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 13:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 14:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(여자)아이들 ‘TOMBOY’, 빌보드 케이팝 100 차트 2주 연속 1위]]></title>
+            <link>http://billboard.co.kr/main/news/view/822</link>
+            <guid>http://billboard.co.kr/main/news/view/822</guid>
+            <pubDate>Tue, 05 Apr 2022 14:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/822">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220405223034_2.png" alt="(여자)아이들 ‘TOMBOY’, 빌보드 케이팝 100 차트 2주 연속 1위" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>(여자)아이들 ‘TOMBOY’, 빌보드 케이팝 100 차트 2주 연속 1위</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220405223034_2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들, ‘TOMBOY’로 빌보드 케이팝 100 차트 첫 정상 등극]]></title>
             <link>http://billboard.co.kr/main/news/view/820</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315144028_10.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[태연 ‘INVU’, 빌보드 케이팝 100 차트 2주 연속 1위]]></title>
-            <link>http://billboard.co.kr/main/news/view/810</link>
-            <guid>http://billboard.co.kr/main/news/view/810</guid>
-            <pubDate>Tue, 08 Mar 2022 13:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/810">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220308215802_14.png" alt="태연 ‘INVU’, 빌보드 케이팝 100 차트 2주 연속 1위" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>태연 ‘INVU’, 빌보드 케이팝 100 차트 2주 연속 1위</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220308215802_14.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
