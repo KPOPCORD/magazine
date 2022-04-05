@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 04:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 05:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,6 +366,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/SOEAKX2HP31G9Q6EIY0R/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST PICK! ＃53 - 방준석님을 추모하며 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=11835&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=11835&amp;pg=1</guid>
+            <pubDate>Tue, 05 Apr 2022 05:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[OST PICK]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11835/Mgz_Main_List_20220405133319.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[피아노와 함께하는 하루 - ＜Peaceful Piano Moods＞ (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11829&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11829&amp;pg=1</guid>
@@ -420,14 +428,6 @@
             <pubDate>Mon, 04 Apr 2022 03:33:59 GMT</pubDate>
             <content:encoded><![CDATA[핫플힙플]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11822/Mgz_Main_List_20220404121552.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[시린 이별 감성의 발라드로 돌아온 로즈아나(Rosanna) [꽃샘추위]! (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11821&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11821&amp;pg=1</guid>
-            <pubDate>Mon, 04 Apr 2022 03:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11821/Mgz_Main_List_20220404120209.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[Billboard HOT 100 : 
@@ -1325,9 +1325,17 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
 NCT DREAM, 권진아 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 05 Apr 2022 04:17:03 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2022 05:13:27 GMT</pubDate>
             <content:encoded><![CDATA[정규 2집으로 컴백한 NCT DREAM, 싱어송라이터 권진아의 핑크빛 신곡까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220404_248/1649057022969PtkgG_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[필드 가기  좋은 날 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[눈여겨봐야 할 신상 골프웨어]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0f77956f827e41458c7641605b6d0778.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[싱그러운  인사 (현대카드 DIVE ─ POST)]]></title>
@@ -1392,14 +1400,6 @@ NCT DREAM, 권진아 (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[주간 DIVE 109호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/111c397668224439b942e9a1d50523f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보사노바의 추억 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 4월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cd7d56ceb6d44423a85fed22f96c32bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 04:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 05:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[필드 가기  좋은 날]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[눈여겨봐야 할 신상 골프웨어]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0f77956f827e41458c7641605b6d0778.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싱그러운  인사]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[주간 DIVE 109호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/111c397668224439b942e9a1d50523f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보사노바의 추억]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 4월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cd7d56ceb6d44423a85fed22f96c32bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
