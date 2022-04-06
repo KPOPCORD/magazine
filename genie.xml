@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 08:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 09:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍진영이 전하는 아름다운 인생, 디지털 싱글 ‘비바 라 비다’ 발매]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11827&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11827&amp;pg=1</guid>
+            <pubDate>Wed, 06 Apr 2022 09:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11827/Mgz_Main_List_20220406100547.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[진취적 마인드로 무장한 다섯 뮤지션의 신박한 조합]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11842&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 05 Apr 2022 20:14:43 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11828/Mgz_Main_List_20220405101405.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[GNID의 새 아티스트 도하늘 [Boiling Point] 자켓&뮤비 촬영 스...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11825&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11825&amp;pg=1</guid>
-            <pubDate>Tue, 05 Apr 2022 20:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11825/Mgz_Main_List_20220405102427.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
