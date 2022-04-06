@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 05:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 06:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인생은  아름다워]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스의 감동적인 애니메이션 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e02e8d82017748aca3ebd70e172e4b5e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여기서 카페 신 찍고 갈게요]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 ALESSI 전시 하이라이트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/534aa685aafc406790748500dc568af2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 73  글렌체크]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[특별한 NFT 티켓을 만나다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f46d70777aa340f0b437eddd771d6bf7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
