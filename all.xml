@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 08:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 09:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315144028_10.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[GHOST9(고스트나인) - 'X -Ray' 뮤직비디오 촬영 현장 공개! (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/89R8AULUTNF4CJE0JMLU?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/89R8AULUTNF4CJE0JMLU?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 07 Apr 2022 09:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/89R8AULUTNF4CJE0JMLU/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젠틀레인 - 재즈로 듣는 로맨틱 팝 & 가요 공연 초대! (벅스 ─ 뮤직포스트)]]></title>
@@ -358,12 +366,28 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/4DG6KJ6GF5OXCW1ZUK6I/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Haruno(하루노) - New EP [25] 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/SOEAKX2HP31G9Q6EIY0R?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/SOEAKX2HP31G9Q6EIY0R?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 18 Feb 2022 21:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/SOEAKX2HP31G9Q6EIY0R/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[서로를 향한 진심 속에서 환하게 피어난 [데이브레이크 X LUCY : Part... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11844&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11844&amp;pg=1</guid>
+            <pubDate>Thu, 07 Apr 2022 09:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11844/Mgz_Main_List_20220407143645.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[GHOST9의 새로운 여정을 알리는 여섯 번째 미니 앨범 [ARCADE:V] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11838&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11838&amp;pg=1</guid>
+            <pubDate>Thu, 07 Apr 2022 09:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11838/Mgz_Main_List_20220407112613.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[미란이가 전하는 서툴지만 소중한 사랑 이야기 ‘Pick up your phon... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11832&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11832&amp;pg=1</guid>
+            <pubDate>Thu, 07 Apr 2022 09:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11832/Mgz_Main_List_20220407143302.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[KIMKIMPARKKIM's 플레이리스트 가이드 ＃21 - ‘플레이볼’의 계절... (지니 ─ 매거진)]]></title>
@@ -371,7 +395,7 @@
             <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11845&amp;pg=1</guid>
             <pubDate>Thu, 07 Apr 2022 07:13:29 GMT</pubDate>
             <content:encoded><![CDATA[김김박김]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/imageg/web/common/blank_200.gif" length="0" type="image/gif"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11845/Mgz_Main_List_20220407180420.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[카트라이더, 라인프렌즈 그리고 윤도현, 김예지의 특별한 만남! ‘Go Fast... (지니 ─ 매거진)]]></title>
@@ -404,30 +428,6 @@
             <pubDate>Thu, 07 Apr 2022 02:26:30 GMT</pubDate>
             <content:encoded><![CDATA[힙알사전]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11843/Mgz_Main_List_20220407100449.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[홍진영이 전하는 아름다운 인생, 디지털 싱글 ‘비바 라 비다’ 발매 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11827&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11827&amp;pg=1</guid>
-            <pubDate>Wed, 06 Apr 2022 09:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11827/Mgz_Main_List_20220406100547.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[진취적 마인드로 무장한 다섯 뮤지션의 신박한 조합 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11842&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11842&amp;pg=1</guid>
-            <pubDate>Wed, 06 Apr 2022 06:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11842/Mgz_Main_List_20220406142222.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[IVE(아이브) 매력속으로 Dive! [LOVE DIVE] 자켓 촬영 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11834&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11834&amp;pg=1</guid>
-            <pubDate>Wed, 06 Apr 2022 03:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11834/Mgz_Main_List_20220406113302.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #86 : 
@@ -1325,7 +1325,7 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
 (여자)아이들 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 07 Apr 2022 08:17:13 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2022 09:14:07 GMT</pubDate>
             <content:encoded><![CDATA[물음표에서 느낌표를 던지게 된다. (여자)아이들의 음악은 귓가를 맴돌게 하기 충분하다. 아니, 차고 넘친다고 해도 틀리지 않는다. 첫 정규 앨범 &lt;I NEVER DIE&gt;은 자신감으로 채워진 앨범이 분명하다. 이들은 이제 K-POP을 넘어 언제든 예상치 못한 음악을 보여줄 준비가 됐다. (여자)아이들이 돌아왔다. 가장 (여자)아이들 다운 음악을 들고. – 글 주현욱, 포토 이승훈]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220405_300/1649154899532a3NLi_JPEG/%BD%E6%B3%D7%C0%CF2.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
