@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 03:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 04:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022  프리츠커상  주인공]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[아프리카 건축의 선구자, 프랑시스 케레]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6bfa1f6b377c4a3f982b0e5088331075.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스탠더드  호텔]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[영화 속 세트장처럼 예쁜 카페]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a0f7b4fcc72642fabe392a66888ab698.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필드 가기  좋은 날]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[눈여겨봐야 할 신상 골프웨어]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0f77956f827e41458c7641605b6d0778.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
