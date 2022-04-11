@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 02:48:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 03:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,6 +366,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/4DG6KJ6GF5OXCW1ZUK6I/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아메바컬쳐 ˝The Seed˝ 프로젝트 첫 번째 주자 차메인 (ChaMane)... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11852&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11852&amp;pg=1</guid>
+            <pubDate>Mon, 11 Apr 2022 03:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11851/Mgz_Main_List_20220411093423.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[대한민국 '최강' 부대를 향한 밀리터리 서바이벌 프로그램 <강철부대2> (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=11848&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=11848&amp;pg=1</guid>
+            <pubDate>Mon, 11 Apr 2022 03:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[방송]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11848/Mgz_Main_List_20220411094532.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[지니 컬러 동향 ＃38 – 2022.03.19 ~ 04.01 발매작 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=11847&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=11847&amp;pg=1</guid>
@@ -412,22 +428,6 @@
             <pubDate>Thu, 07 Apr 2022 09:13:42 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11844/Mgz_Main_List_20220407143645.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[GHOST9의 새로운 여정을 알리는 여섯 번째 미니 앨범 [ARCADE:V] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11838&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11838&amp;pg=1</guid>
-            <pubDate>Thu, 07 Apr 2022 09:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11838/Mgz_Main_List_20220407112613.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[미란이가 전하는 서툴지만 소중한 사랑 이야기 ‘Pick up your phon... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11832&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11832&amp;pg=1</guid>
-            <pubDate>Thu, 07 Apr 2022 09:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11832/Mgz_Main_List_20220407143302.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[덴젤 커리의 도우미 : 
@@ -1325,7 +1325,7 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
 멋진 클래식 레코드 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 11 Apr 2022 02:48:18 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 03:40:57 GMT</pubDate>
             <content:encoded><![CDATA[본업인 소설가 외에도 사시사철 음악과 함께하는 무라카미 하루키. 그는 1만 5천여 장의 아날로그 레코드를 모은 수집가, 그리고 클래식 애호가로도 유명하다. 클래식이 어쩌면 그의 문학관에 큰 영향을 미쳤을 터. 하루키 독자라면 그의 클래식 취향을 살펴보는 과정이 '하루키 월드의 흔적 찾기' 놀이가 될 것이다. 조현영 피아니스트가 하루키가 소장한 클래식 레코드의 일부를 살펴보며 그의 취향을 탐구한다. - &lt;문학동네&gt;]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220401_198/1648772767387l8dat_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
