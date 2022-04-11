@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 06:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 07:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,6 +366,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/4DG6KJ6GF5OXCW1ZUK6I/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘백 년 클럽’을 꿈꾸는 밴드 음악의 성지 <클럽 FF> (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11856&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11856&amp;pg=1</guid>
+            <pubDate>Mon, 11 Apr 2022 07:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11856/Mgz_Main_List_20220411154834.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[아메바컬쳐 ˝The Seed˝ 프로젝트 첫 번째 주자 차메인 (ChaMane)... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11852&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11852&amp;pg=1</guid>
@@ -420,14 +428,6 @@
             <pubDate>Fri, 08 Apr 2022 03:32:42 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11832/Mgz_Main_List_20220404162549.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[서로를 향한 진심 속에서 환하게 피어난 [데이브레이크 X LUCY : Part... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11844&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11844&amp;pg=1</guid>
-            <pubDate>Thu, 07 Apr 2022 09:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11844/Mgz_Main_List_20220407143645.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[덴젤 커리의 도우미 : 
@@ -1325,9 +1325,17 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
 멋진 클래식 레코드 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 11 Apr 2022 06:17:45 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 07:14:55 GMT</pubDate>
             <content:encoded><![CDATA[본업인 소설가 외에도 사시사철 음악과 함께하는 무라카미 하루키. 그는 1만 5천여 장의 아날로그 레코드를 모은 수집가, 그리고 클래식 애호가로도 유명하다. 클래식이 어쩌면 그의 문학관에 큰 영향을 미쳤을 터. 하루키 독자라면 그의 클래식 취향을 살펴보는 과정이 '하루키 월드의 흔적 찾기' 놀이가 될 것이다. 조현영 피아니스트가 하루키가 소장한 클래식 레코드의 일부를 살펴보며 그의 취향을 탐구한다. - &lt;문학동네&gt;]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220401_198/1648772767387l8dat_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꽃놀이에는 꽃노래 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[인디 뮤지션의 꽃노래 플레이리스트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0c924dac10b343219d61b1180072daf2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무해한 옷 (현대카드 DIVE ─ POST)]]></title>
@@ -1392,14 +1400,6 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[극도의 몰입을 부르는 게임 아이템 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/05404eb04d5143879e288c7ce25d2e83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인생은  아름다워 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스의 감동적인 애니메이션 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e02e8d82017748aca3ebd70e172e4b5e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
