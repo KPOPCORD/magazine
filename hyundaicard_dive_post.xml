@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 08:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 09:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[60년이 만든 음악과 책]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[무라카미 하루키의 LP 컬렉션을 만나다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/acf9ddc6b03648b49d336d1f011655b5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돈가스 따라 전국 기행]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[새로운 영감을 불어넣는 세계의 신상 호텔 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5604db5433ec4efd8e7029ab37c6edfb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풀밭 위의  점심]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[봄 소풍을 빛내줄 호텔 도시락]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/17d419885c1141c796f76bc617f0b1f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
