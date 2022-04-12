@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 05:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 06:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돈가스 따라 전국 기행]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[전국의 숨은 돈가스 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/110c861d39dd40918b105719dcaf80fe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나만의  유토피아를  찾아서]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[봄 소풍을 빛내줄 호텔 도시락]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/17d419885c1141c796f76bc617f0b1f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따스한 햇살로 충전!]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[4월의 현대카드 컬처 캘린더]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3dac3eaea9224d17813036c60dfecfc9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
