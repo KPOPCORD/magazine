@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 03:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 04:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1325,9 +1325,17 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
 찰리 푸스, 아이브 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 12 Apr 2022 03:32:04 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2022 04:16:27 GMT</pubDate>
             <content:encoded><![CDATA[눈물 나는 신곡을 발표한 찰리 푸스, 가장 주목받는 신예 걸그룹 아이브의 새 앨범까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220411_181/1649667270831rMMh0_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만의  유토피아를  찾아서 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[집을 감각적으로 꾸미는 리빙 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aef0add13bad42f1bd26a81a9dab6f54.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이런 것도  만들었다고? (현대카드 DIVE ─ POST)]]></title>
@@ -1392,14 +1400,6 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[4월의 현대카드 컬처 캘린더]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3dac3eaea9224d17813036c60dfecfc9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이파이프를  넘어 날아오를  숀 화이트 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[최태혁의 '브랜드 이야기, 숀 화이트']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e6e649011dc04729bc6a188d94ab6230.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
