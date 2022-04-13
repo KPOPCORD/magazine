@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 08:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 09:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,6 +366,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/4DG6KJ6GF5OXCW1ZUK6I/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그윽한 분위기와 설렘, ‘봄밤’에 찾아온 김필의 [봄밤 (Spring Nigh... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11865&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11865&amp;pg=1</guid>
+            <pubDate>Wed, 13 Apr 2022 09:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11865/Mgz_Main_List_20220413142458.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[봄날에 듣는 실내악 향연 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11855&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11855&amp;pg=1</guid>
+            <pubDate>Wed, 13 Apr 2022 09:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11855/Mgz_Main_List_20220413170616.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[김동현 첫 솔로 데뷔! [Bittersweet] 라이브 클립 비하인드 현장 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11864&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11864&amp;pg=1</guid>
@@ -412,22 +428,6 @@
             <pubDate>Tue, 12 Apr 2022 09:13:25 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11851/Mgz_Main_List_20220412135327.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[클라우스 메켈레, 이 이름을 기억하세요 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11858&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11858&amp;pg=1</guid>
-            <pubDate>Tue, 12 Apr 2022 03:31:31 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11858/Mgz_Main_List_20220412113128.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[숨어있는 신인 아티스트를 위해 찾아온 월간 오디션 프로젝트 ‘Flospoon’ (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11850&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11850&amp;pg=1</guid>
-            <pubDate>Tue, 12 Apr 2022 03:31:31 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11850/Mgz_Main_List_20220412110224.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #87 : 
@@ -1325,9 +1325,17 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
 당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 13 Apr 2022 08:18:22 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2022 09:13:45 GMT</pubDate>
             <content:encoded><![CDATA[최근 발매된 수많은 노래 중 VIBE에서 사랑받은 ‘이달의 노래’를 소개합니다. 힙터질때, 신났을때, 우울할때, 사랑할때, 사랑했을때, 파티할때, 멍때릴때, 운동할때, 휴식할때… 느낌별 스테이션이 선정한 ‘4월의 노래’를 여러분도 들어보세요.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211203_269/1638496452150FyiIA_JPEG/%C0%CC%B4%DE%C0%C7%B3%EB%B7%A1_%C1%A4%B9%E6%C7%FC%28%C4%BF%B9%F62%29.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘자연스럽게’  여행하는 법 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[탄소 중립을 실천할 수 있는 여행지 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/312d6a6cff63498394bc7559c74ea2ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 봄 새로운 맛 (현대카드 DIVE ─ POST)]]></title>
@@ -1392,14 +1400,6 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[인디 뮤지션의 꽃노래 플레이리스트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0c924dac10b343219d61b1180072daf2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무해한 옷 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[환경의 영향을 최소화하는 패션 브랜드 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/97ebecf02a924854bea1b8c170fc8a0e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
