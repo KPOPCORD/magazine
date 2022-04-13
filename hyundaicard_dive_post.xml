@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 06:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 07:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식집사에게  권합니다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[반려식물과 함께하는 사람을 위한 앱 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/66890bb07c694091bb2c6c9a512a2f84.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[60년이 만든 음악과 책]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[아프리카 건축의 선구자, 프랑시스 케레]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6bfa1f6b377c4a3f982b0e5088331075.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스탠더드  호텔]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 영감을 불어넣는 세계의 신상 호텔 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5604db5433ec4efd8e7029ab37c6edfb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

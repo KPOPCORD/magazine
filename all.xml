@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 06:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 07:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1325,9 +1325,17 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
 당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 13 Apr 2022 06:17:35 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2022 07:14:40 GMT</pubDate>
             <content:encoded><![CDATA[최근 발매된 수많은 노래 중 VIBE에서 사랑받은 ‘이달의 노래’를 소개합니다. 힙터질때, 신났을때, 우울할때, 사랑할때, 사랑했을때, 파티할때, 멍때릴때, 운동할때, 휴식할때… 느낌별 스테이션이 선정한 ‘4월의 노래’를 여러분도 들어보세요.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211203_269/1638496452150FyiIA_JPEG/%C0%CC%B4%DE%C0%C7%B3%EB%B7%A1_%C1%A4%B9%E6%C7%FC%28%C4%BF%B9%F62%29.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[식집사에게  권합니다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[반려식물과 함께하는 사람을 위한 앱 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/66890bb07c694091bb2c6c9a512a2f84.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[60년이 만든 음악과 책 (현대카드 DIVE ─ POST)]]></title>
@@ -1392,14 +1400,6 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[아프리카 건축의 선구자, 프랑시스 케레]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6bfa1f6b377c4a3f982b0e5088331075.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스탠더드  호텔 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 영감을 불어넣는 세계의 신상 호텔 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5604db5433ec4efd8e7029ab37c6edfb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
