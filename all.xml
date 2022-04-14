@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 01:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 03:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,6 +366,30 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/4DG6KJ6GF5OXCW1ZUK6I/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[봄이 되면 생각나는 뻔하지 않은 클래식 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11866&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11866&amp;pg=1</guid>
+            <pubDate>Thu, 14 Apr 2022 03:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11866/Mgz_Main_List_20220414105740.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA['싱포레스트' OST 발매 기념 비하인드 컷 공개! (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11862&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11862&amp;pg=1</guid>
+            <pubDate>Thu, 14 Apr 2022 03:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11862/Mgz_Main_List_20220414104316.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[이상민의 세 번째 싱글 앨범 [소리를 질러봐] 작업기 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11859&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11859&amp;pg=1</guid>
+            <pubDate>Thu, 14 Apr 2022 03:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11859/Mgz_Main_List_20220414100208.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[그윽한 분위기와 설렘, ‘봄밤’에 찾아온 김필의 [봄밤 (Spring Nigh... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11865&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11865&amp;pg=1</guid>
@@ -404,30 +428,6 @@
             <pubDate>Wed, 13 Apr 2022 03:34:36 GMT</pubDate>
             <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11809/Mgz_Main_List_20220412113046.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[어지러운 세계에서 드림캐쳐가 말하는 ‘Apocalypse’, 그 3부작의 시작 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11860&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11860&amp;pg=1</guid>
-            <pubDate>Tue, 12 Apr 2022 09:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11860/Mgz_Main_List_20220412140158.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[완성체로 새롭게 출발하는 ‘양반들’ 싱글 [두무개다리] 발매기 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11854&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11854&amp;pg=1</guid>
-            <pubDate>Tue, 12 Apr 2022 09:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11854/Mgz_Main_List_20220412161925.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[DKZ 여섯 번째 싱글 앨범 [CHASE EPISODE 2. MAUM] MV현... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11851&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11851&amp;pg=1</guid>
-            <pubDate>Tue, 12 Apr 2022 09:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11851/Mgz_Main_List_20220412135327.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #87 : 
@@ -1325,7 +1325,7 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
 당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 14 Apr 2022 01:04:05 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2022 03:02:41 GMT</pubDate>
             <content:encoded><![CDATA[최근 발매된 수많은 노래 중 VIBE에서 사랑받은 ‘이달의 노래’를 소개합니다. 힙터질때, 신났을때, 우울할때, 사랑할때, 사랑했을때, 파티할때, 멍때릴때, 운동할때, 휴식할때… 느낌별 스테이션이 선정한 ‘4월의 노래’를 여러분도 들어보세요.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20211203_269/1638496452150FyiIA_JPEG/%C0%CC%B4%DE%C0%C7%B3%EB%B7%A1_%C1%A4%B9%E6%C7%FC%28%C4%BF%B9%F62%29.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
