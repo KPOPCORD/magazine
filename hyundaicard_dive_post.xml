@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 07:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 08:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옥계에  가면]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[한적해서 더 좋은 강릉의 숨은 명소]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/daeb124cd338466da7ea025080a6c2c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄맞이 미술관 투어]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[집을 감각적으로 꾸미는 리빙 아이템]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aef0add13bad42f1bd26a81a9dab6f54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이런 것도  만들었다고?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[패션 브랜드의 무한도전]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/be4e274c06ab4e27a43a1ed30836c0dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
