@@ -4,11 +4,19 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 05:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 06:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[봄바람 휘날리며]]></title>
+            <title><![CDATA[봄맞이 미술관 투어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[감성을 화사하게 꽃피우는 이달의 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/39ea0bc207ab457cabdb0fbb4ff82a0c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[궁극의 봄 아우터]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[패션 브랜드의 무한도전]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/be4e274c06ab4e27a43a1ed30836c0dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혁신이 뭐냐고  물으신다면]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 4월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c622ced10722415e90e278681d8b9628.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
