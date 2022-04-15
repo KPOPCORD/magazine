@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 00:59:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 03:03:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,6 +366,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/4DG6KJ6GF5OXCW1ZUK6I/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KIMKIMPARKKIM's 인생 음반 ＃11 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11871&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11871&amp;pg=1</guid>
+            <pubDate>Fri, 15 Apr 2022 03:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[김김박김]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11871/Mgz_Main_List_20220415105800.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[힙합사의 결정적인 순간을 장식한 싱글들 53화 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11870&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11870&amp;pg=1</guid>
+            <pubDate>Fri, 15 Apr 2022 03:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11870/Mgz_Main_List_20220415105706.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[밤마다 쌓아온 고민, 유토(JUTO)의 첫 정규 앨범 [THE MIDNIGHT... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11868&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11868&amp;pg=1</guid>
@@ -412,22 +428,6 @@
             <pubDate>Wed, 13 Apr 2022 09:13:18 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11855/Mgz_Main_List_20220413170616.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[김동현 첫 솔로 데뷔! [Bittersweet] 라이브 클립 비하인드 현장 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11864&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11864&amp;pg=1</guid>
-            <pubDate>Wed, 13 Apr 2022 03:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11864/Mgz_Main_List_20220413120058.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식 핫스타! ‘레이어스 클래식’의 2집 앨범 [LOVE SIGNAL] 발매 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11861&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11861&amp;pg=1</guid>
-            <pubDate>Wed, 13 Apr 2022 03:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11861/Mgz_Main_List_20220413111850.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[4월의 느낌, 
@@ -1325,7 +1325,7 @@ AB6IX(에이비식스) (VIBE ─ 매거진)]]></title>
 그래미 어워드 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 15 Apr 2022 00:58:57 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2022 03:02:40 GMT</pubDate>
             <content:encoded><![CDATA[드디어 얼마 전 2022년 그래미 어워드의 수상 결과가 발표되었다. 코로나 팬데믹으로 인한 ‘무기한 연기’ 끝에 시상식이 당초 계획이던 1월 31일에서 몇 달이나 늦게 진행된 만큼, 후보에 오른 뮤지션과 그를 응원하는 팬들에겐 유독 기다림이 길었을 올해였다. 이번 그래미 시상식에선 어떤 일들이 있었고, 또 눈여겨봐야 할 뮤지션은 누구인지 이주의 디깅과 함께 알아가 보자. - 파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220414_15/1649936688649KJUid_JPEG/5291387_%BA%B9%BB%E7%BA%BB.jpeg?type=w840" length="0" type="image/jpeg"/>
         </item>
