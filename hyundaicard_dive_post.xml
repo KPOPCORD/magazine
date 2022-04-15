@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 05:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 06:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방용국 LIVE PLAY ▶]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[Fan-made LIVE, 방용국]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cbfe2fd8f9af40cf9a8ae2b45ff7abb9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영수증 사진이  뭐길래]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[무라카미 하루키의 LP 컬렉션을 만나다]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/acf9ddc6b03648b49d336d1f011655b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돈가스 따라 전국 기행]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[전국의 숨은 돈가스 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/110c861d39dd40918b105719dcaf80fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
