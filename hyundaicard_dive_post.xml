@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 04:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 05:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기능이여,  안녕]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[이탈리아 산업디자인 대부, 에토레 소트사스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9210152e62bc4acc8d21a1b705b45ee9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[균형과 리듬]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[아웃도어 라이프를 위한 윈드브레이커 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6d8c8dfab22646ffa0279050439616f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘자연스럽게’  여행하는 법]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[탄소 중립을 실천할 수 있는 여행지 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/312d6a6cff63498394bc7559c74ea2ce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
