@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 08:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 09:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새벽공방이 재해석한 ‘4월 이야기 (2022 ver.)’ M/V 촬영&아트워크...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11873&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11873&amp;pg=1</guid>
+            <pubDate>Wed, 20 Apr 2022 09:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11873/Mgz_Main_List_20220420153505.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[재즈 피아니스트 '김네리' [Melodies of My Heart] 발매 인터...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11880&amp;pg=1</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11879/Mgz_Main_List_20220420103259.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[따뜻한 봄날을 노래하는 '따뜻한 동행' [WE(with equality)]]]></title>
+            <title><![CDATA[따뜻한 봄날을 노래하는 '따뜻한동행' [WE(with equality)]]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11874&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11874&amp;pg=1</guid>
             <pubDate>Wed, 20 Apr 2022 03:37:13 GMT</pubDate>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Apr 2022 03:20:56 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11872/Mgz_Main_List_20220419104825.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[[쿠팡이츠X지니] 따뜻한 봄날, 음악과 함께 LET’S PICK UP!]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11857&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11857&amp;pg=1</guid>
-            <pubDate>Mon, 18 Apr 2022 03:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11857/Mgz_Main_List_20220418102411.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>

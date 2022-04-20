@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 08:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 09:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쇼미더NFT]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[힙합 신에 부는 NFT 열풍]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4dd82cce6f16401895258f5fe7835358.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄 향기  가득한 장터]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[DEAN이 피처링한 띵곡 플레이리스트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a2416feba826481a8f2fb8d78061920f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트의 세계로 한발짝]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[주간 DIVE 110호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d0a12dc84d834a5194ca4c30be720a85.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
