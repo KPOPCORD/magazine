@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 03:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 04:40:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[술도 마시고 만화책도  읽는 서점]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 '요즘 핫한 디자인 스팟']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5334515c55244f9ba4b465cd63fbd26f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쇼미더NFT]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[가장 극적인 오브제, 모빌]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/57f217ee51874a2bb84a1a98934e451a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DEAN의  목소리가 그리울 때]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[DEAN이 피처링한 띵곡 플레이리스트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a2416feba826481a8f2fb8d78061920f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
