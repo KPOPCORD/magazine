@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 07:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 08:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카이막 드셔보신 분?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[한국에서 맛보는 카이막]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d512c409e9474e449c854eb09ff27a1d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보랏빛 꽃비가 내려]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[새롭고 근사한 모습으로 돌아온 바이커 재킷]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0db6c7efa0b34be292c1363a58bb471f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기능이여,  안녕]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[이탈리아 산업디자인 대부, 에토레 소트사스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9210152e62bc4acc8d21a1b705b45ee9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
