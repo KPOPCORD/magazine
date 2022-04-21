@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 01:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 03:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경다솜 - 'I'm Sorry Mother' MV 촬영 비하인드 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/RC91LURSHOZ4AEMC4E8Y?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/RC91LURSHOZ4AEMC4E8Y?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 21 Apr 2022 03:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RC91LURSHOZ4AEMC4E8Y/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2022년 4월 노래 모음!]]></title>
             <link>https://music.bugs.co.kr/musicpost/P5301GGKNE3C79QZYXMV?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <guid>https://music.bugs.co.kr/musicpost/FWJY6Q6RL5VUSXCD8HBC?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Fri, 18 Feb 2022 21:10:41 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[콰이엇톤 - 도시적 차가움과 낭만적 따스함이 공존할 수 있는가]]></title>
-            <link>https://music.bugs.co.kr/musicpost/09BECT7YPGKQ2OLA4RFX?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/09BECT7YPGKQ2OLA4RFX?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 18 Feb 2022 21:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/09BECT7YPGKQ2OLA4RFX/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

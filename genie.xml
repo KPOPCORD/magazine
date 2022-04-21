@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 01:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 03:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KIMKIMPARKKIM's 플레이리스트 가이드 ＃22 - 한밤의 드라이브]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11884&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11884&amp;pg=1</guid>
+            <pubDate>Thu, 21 Apr 2022 03:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[김김박김]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11883/Mgz_Main_List_20220421100729.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[여전히 최고의 피아니스트 – 그리고리 소콜로프의 에스테르하지 궁전 리사이틀]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11882&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11882&amp;pg=1</guid>
+            <pubDate>Thu, 21 Apr 2022 03:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11881/Mgz_Main_List_20220420170002.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[새벽공방이 재해석한 ‘4월 이야기 (2022 ver.)’ M/V 촬영&아트워크...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11873&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 19 Apr 2022 03:20:56 GMT</pubDate>
             <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11877/Mgz_Main_List_20220419113019.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[K-크로스오버의 자존심, 포르테 디 콰트로 4집 [METAPHONIC] 화보 ...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11875&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11875&amp;pg=1</guid>
-            <pubDate>Tue, 19 Apr 2022 03:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11875/Mgz_Main_List_20220419111736.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[더더 9.5집 [Dramatic Irony] 제작 비하인드 스토리 공개!]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11872&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11872&amp;pg=1</guid>
-            <pubDate>Tue, 19 Apr 2022 03:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11872/Mgz_Main_List_20220419104825.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
