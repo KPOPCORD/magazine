@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 05:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 06:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보랏빛 꽃비가 내려]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[전국 등나무꽃 성지 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0b5587bfe0f740d998ecbb3336015289.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[술도 마시고 만화책도  읽는 서점]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[이탈리아 산업디자인 대부, 에토레 소트사스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9210152e62bc4acc8d21a1b705b45ee9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[균형과 리듬]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[가장 극적인 오브제, 모빌]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/57f217ee51874a2bb84a1a98934e451a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
