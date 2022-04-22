@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 09:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 10:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼히어로의 강림]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;마블 : 더 리플렉션&gt; 팝업 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4ec52fac81c649c58063cd42e829136a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 얘길 들어봐]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[DIVE와 라드 뮤지엄의 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/207959705ead43f39132190ef8507758.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머물고 싶은 주방]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[멋진 주방을 갖춘 에어비앤비 숙소 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81cea4bc68524b228af23ad32ac1d35d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
