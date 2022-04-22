@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 06:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 07:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 얘길 들어봐]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[주간 DIVE 111호]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b7e6626d795c4f51a8e07b216d0ab0cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일상에 아름다움을 불어넣다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[멋진 주방을 갖춘 에어비앤비 숙소 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81cea4bc68524b228af23ad32ac1d35d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블링블링  마블링]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[밋밋한 일상에 색다른 포인트가 필요하다면]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/daa5696422ca4fa890e1a7174c5f4803.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
