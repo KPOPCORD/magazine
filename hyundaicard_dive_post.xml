@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 03:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 04:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[항구도시  클라쓰]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[나만 아는 동네 #21 부산 영도]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b178fce7777c4f9e886d20bf3c8bb13a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청소기의  신세계]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[힙합 신에 부는 NFT 열풍]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4dd82cce6f16401895258f5fe7835358.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 향기  가득한 장터]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[토요일은 쿠킹 라이브러리로 장 보러 가는 날]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/75853644e1ba4b75aadd9ac8bd19715e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
