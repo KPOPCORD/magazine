@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 05:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 06:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작품  공구할 사람?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[세계적 작가의 작품을 소유하는 방법]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f258ffb7dbd74f4aa08bae3b13705c43.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 팝을 원해요]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[전국 등나무꽃 성지 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0b5587bfe0f740d998ecbb3336015289.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[술도 마시고 만화책도  읽는 서점]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[전은경의 '요즘 핫한 디자인 스팟']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5334515c55244f9ba4b465cd63fbd26f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
