@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 08:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 09:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버그 아이 ON]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[액세서리의 꽃, 선글라스 트렌드 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/398df32c8e0a4b19a7c7926d9337dfde.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아시아의  파워]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[&lt;마블 : 더 리플렉션&gt; 팝업 전시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4ec52fac81c649c58063cd42e829136a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 얘길 들어봐]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[주간 DIVE 111호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b7e6626d795c4f51a8e07b216d0ab0cc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
