@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 01:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 03:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이식, 래원 X LG올레드 - 함께 듣는 전투력 상승 플레이리스트]]></title>
+            <link>https://music.bugs.co.kr/musicpost/2Y4ECM3L5XJ211SM30BX?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/2Y4ECM3L5XJ211SM30BX?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 26 Apr 2022 03:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2Y4ECM3L5XJ211SM30BX/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우소연 - 스스로를 '못난이'라고 부르는 천재 프로듀서의 첫 번째 정규 앨범 [못난이]]]></title>
             <link>https://music.bugs.co.kr/musicpost/1MHP0LOUNFT1PM6H7AWB?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <guid>https://music.bugs.co.kr/musicpost/AD0K58LP59V71VZ03X2I?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Thu, 24 Feb 2022 03:11:38 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[무성 - '동암역 2번 출구 (2022)' 발매 기념 인터뷰]]></title>
-            <link>https://music.bugs.co.kr/musicpost/AFQDTQ0YEQZXYD8SB6GJ?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/AFQDTQ0YEQZXYD8SB6GJ?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 18 Feb 2022 21:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/AFQDTQ0YEQZXYD8SB6GJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
