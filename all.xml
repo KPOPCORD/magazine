@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 04:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 05:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -541,9 +541,17 @@ NCT DREAM, 권진아 (VIBE ─ 매거진)]]></title>
 김성규, 키드 라로이 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 26 Apr 2022 04:25:36 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2022 05:16:46 GMT</pubDate>
             <content:encoded><![CDATA[솔로 앨범으로 돌아온 데뷔 13년 차 김성규, 새로운 스타의 등장을 알린 키드 라로이. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220425_265/1650872787307tn1vh_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑을 담아서  당신의 식탁에 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리 4월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7406e4e4b2ba4907883a070b5b983fa6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봄날은 짧고  추억은 길다 (현대카드 DIVE ─ POST)]]></title>
@@ -608,14 +616,6 @@ NCT DREAM, 권진아 (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 ALESSI 전시 연장]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/69edeac8b05047e4af029e8af4417df6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카이막 드셔보신 분? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[한국에서 맛보는 카이막]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d512c409e9474e449c854eb09ff27a1d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
