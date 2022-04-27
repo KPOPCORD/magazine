@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 07:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 08:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주방의  멀티플레이어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[한 번에 뚝딱, 멀티쿠커 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f6fe6a4bc40f467789d28bb09ed26419.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청량한 봄의 사운드]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 4월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/54fbf8e7a4924080919f0a26625b3122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[항구도시  클라쓰]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[나만 아는 동네 #21 부산 영도]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b178fce7777c4f9e886d20bf3c8bb13a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 07:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 08:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -541,9 +541,17 @@ NCT DREAM, 권진아 (VIBE ─ 매거진)]]></title>
 김성규, 키드 라로이 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 27 Apr 2022 07:13:38 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2022 08:17:04 GMT</pubDate>
             <content:encoded><![CDATA[솔로 앨범으로 돌아온 데뷔 13년 차 김성규, 새로운 스타의 등장을 알린 키드 라로이. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220425_265/1650872787307tn1vh_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주방의  멀티플레이어 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[한 번에 뚝딱, 멀티쿠커 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f6fe6a4bc40f467789d28bb09ed26419.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청량한 봄의 사운드 (현대카드 DIVE ─ POST)]]></title>
@@ -608,14 +616,6 @@ NCT DREAM, 권진아 (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 4월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/54fbf8e7a4924080919f0a26625b3122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[항구도시  클라쓰 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[나만 아는 동네 #21 부산 영도]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b178fce7777c4f9e886d20bf3c8bb13a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
