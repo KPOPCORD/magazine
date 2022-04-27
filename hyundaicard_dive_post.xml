@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 03:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 04:39:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[번뇌의  무늬]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[21세기 동양화의 색다른 매력]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/25823421668a48c492a9771bcaebf3ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버그 아이 ON]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[카펫 물청소도 가능한 습식 청소기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/875aaef0510f4331ab50e22531031cbc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼히어로의 강림]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;마블 : 더 리플렉션&gt; 팝업 전시]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4ec52fac81c649c58063cd42e829136a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
