@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 05:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 06:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청량한 봄의 사운드]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[DIVE와 글렌체크의 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fcf6a9955d984ba9af75bbdfe5201e78.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[번뇌의  무늬]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #21 부산 영도]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b178fce7777c4f9e886d20bf3c8bb13a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청소기의  신세계]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[카펫 물청소도 가능한 습식 청소기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/875aaef0510f4331ab50e22531031cbc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
