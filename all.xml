@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 06:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 07:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315144028_10.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[THE CON 2022 - 김종국 콘서트 초대! (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/RPX1SB589A22BXAPNTPT?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/RPX1SB589A22BXAPNTPT?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 28 Apr 2022 07:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[공연/페스티벌]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RPX1SB589A22BXAPNTPT/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베이식, 래원 X LG올레드 - 함께 듣는 전투력 상승 플레이리스트 (벅스 ─ 뮤직포스트)]]></title>
@@ -358,13 +366,6 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[우리, 친해져요! 2022년 주목해야 할 뉴 페이스 7 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/AD0K58LP59V71VZ03X2I?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/AD0K58LP59V71VZ03X2I?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 24 Feb 2022 03:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[KIMKIMPARKKIM's 한국 멜로우 팝 100선 ＃11 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11915&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11915&amp;pg=1</guid>
@@ -541,17 +542,9 @@ NCT DREAM, 권진아 (VIBE ─ 매거진)]]></title>
 릴모쉬핏, 엘로 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 28 Apr 2022 06:19:59 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2022 07:12:44 GMT</pubDate>
             <content:encoded><![CDATA[한국 힙합/알앤비를 상징하는 음악 레이블 하이라이트 레코즈가 해체 소식을 알린 2022년의 4월. 이에 일부 힙합 팬들은 지난 추억을, 일부는 한국 힙합 씬의 위기를 이야기하고 있는 요즘이다. 하지만, 여전히 한국 힙합/알앤비 음악가는 이들의 유산을 물려받아 개성 넘치는 작품을 발표하고 있다. 이 중에서도 반드시 들었으면 하는 일곱 장의 앨범을 소개한다. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220427_213/1651049412600slQjP_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘작은 집’은  절대 작지 않아! (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[무과수의 상상력을 불러일으키는 집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/26f39439f24443dfb837be4f2783c79f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주방의  멀티플레이어 (현대카드 DIVE ─ POST)]]></title>
@@ -616,6 +609,14 @@ NCT DREAM, 권진아 (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[세계적 작가의 작품을 소유하는 방법]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f258ffb7dbd74f4aa08bae3b13705c43.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 팝을 원해요 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[V&amp;P 4월 Monthly Special]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/54fbf8e7a4924080919f0a26625b3122.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 06:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 07:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THE CON 2022 - 김종국 콘서트 초대!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/RPX1SB589A22BXAPNTPT?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/RPX1SB589A22BXAPNTPT?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 28 Apr 2022 07:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[공연/페스티벌]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RPX1SB589A22BXAPNTPT/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베이식, 래원 X LG올레드 - 함께 듣는 전투력 상승 플레이리스트]]></title>
             <link>https://music.bugs.co.kr/musicpost/2Y4ECM3L5XJ211SM30BX?&amp;wl_ref=list_sp_01_h</link>
@@ -184,13 +192,6 @@
             <link>https://music.bugs.co.kr/musicpost/CN6Q4XA5ING1YZPBFZ2S?&amp;wl_ref=list_sp_01_h</link>
             <guid>https://music.bugs.co.kr/musicpost/CN6Q4XA5ING1YZPBFZ2S?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Fri, 25 Feb 2022 02:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우리, 친해져요! 2022년 주목해야 할 뉴 페이스 7]]></title>
-            <link>https://music.bugs.co.kr/musicpost/AD0K58LP59V71VZ03X2I?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/AD0K58LP59V71VZ03X2I?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 24 Feb 2022 03:11:38 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
