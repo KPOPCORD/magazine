@@ -4,9 +4,25 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 08:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 09:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BONUS TRACK 08. 최정윤]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[1년만에 돌아온 뮤직 라이브러리 보너스 트랙]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/424be870e1dc41c7ad9e3e99815c9c3b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[젠더리스 미니 백]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[모두의 마음을 사로잡을 미니 백 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a9bd77c724c64cfb934028fb40c15c2e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘작은 집’은  절대 작지 않아!]]></title>
             <link>javascript:;</link>
@@ -62,22 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 4월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7406e4e4b2ba4907883a070b5b983fa6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄날은 짧고  추억은 길다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[신상 맛집 #20]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f1e0510e979e450caedfdc512c10a6ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작품  공구할 사람?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[세계적 작가의 작품을 소유하는 방법]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f258ffb7dbd74f4aa08bae3b13705c43.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
