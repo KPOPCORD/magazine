@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 08:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 09:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -367,6 +367,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/LN4W9YSRFC7MIEP0DUTB/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[5년만에 돌아온 싸이의 정규 9집 [싸다9] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11917&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11917&amp;pg=1</guid>
+            <pubDate>Fri, 29 Apr 2022 09:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11916/Mgz_Main_List_20220428153607.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[알앤비 레전드 ＃15 - 트렌드부터 빈티지까지, 라파엘 사딕 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11921&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11921&amp;pg=1</guid>
@@ -421,14 +429,6 @@
             <pubDate>Thu, 28 Apr 2022 04:07:06 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11912/Mgz_Main_List_20220428120157.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[“Studio M-Lab”이 선보이는 신개념 리메이크 프로젝트 [버킷 리메이크... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11911&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11911&amp;pg=1</guid>
-            <pubDate>Thu, 28 Apr 2022 04:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11910/Mgz_Main_List_20220428091436.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #89 : 
@@ -543,9 +543,17 @@ NCT DREAM, 권진아 (VIBE ─ 매거진)]]></title>
 릴모쉬핏, 엘로 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 29 Apr 2022 08:18:11 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2022 09:14:58 GMT</pubDate>
             <content:encoded><![CDATA[한국 힙합/알앤비를 상징하는 음악 레이블 하이라이트 레코즈가 해체 소식을 알린 2022년의 4월. 이에 일부 힙합 팬들은 지난 추억을, 일부는 한국 힙합 씬의 위기를 이야기하고 있는 요즘이다. 하지만, 여전히 한국 힙합/알앤비 음악가는 이들의 유산을 물려받아 개성 넘치는 작품을 발표하고 있다. 이 중에서도 반드시 들었으면 하는 일곱 장의 앨범을 소개한다. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220427_213/1651049412600slQjP_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NFT  그게 뭔데 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[세상 쉬운 NFT 입문서, #0 프롤로그]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d18a6f65b58b45fd8945c77655110b22.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여행지 숙소처럼 (현대카드 DIVE ─ POST)]]></title>
@@ -610,14 +618,6 @@ NCT DREAM, 권진아 (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[21세기 동양화의 색다른 매력]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/25823421668a48c492a9771bcaebf3ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버그 아이 ON (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[액세서리의 꽃, 선글라스 트렌드 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/398df32c8e0a4b19a7c7926d9337dfde.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

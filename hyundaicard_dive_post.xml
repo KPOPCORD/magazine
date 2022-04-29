@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 08:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 09:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NFT  그게 뭔데]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[세상 쉬운 NFT 입문서, #0 프롤로그]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d18a6f65b58b45fd8945c77655110b22.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여행지 숙소처럼]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[21세기 동양화의 색다른 매력]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/25823421668a48c492a9771bcaebf3ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버그 아이 ON]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[액세서리의 꽃, 선글라스 트렌드 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/398df32c8e0a4b19a7c7926d9337dfde.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
