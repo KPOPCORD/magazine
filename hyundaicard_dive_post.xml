@@ -4,9 +4,25 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 06:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 07:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여행지 숙소처럼]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[여행 온 듯한 느낌을 주는 카페 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/29badaccde8b40c2836798d5b18f9364.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국의 뉴 사운드]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 4월의 신규 음반]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/78e154a657b847a895d2e98a0a4acbbf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BONUS TRACK 08. 최정윤]]></title>
             <link>javascript:;</link>
@@ -62,22 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[액세서리의 꽃, 선글라스 트렌드 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/398df32c8e0a4b19a7c7926d9337dfde.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아시아의  파워]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[아카데미상 수상한 아시안 영화]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ef3d0d669ed49ebaaf812ae2cee0153.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을 담아서  당신의 식탁에]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 4월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7406e4e4b2ba4907883a070b5b983fa6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
