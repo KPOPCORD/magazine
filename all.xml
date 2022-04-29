@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 07:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 08:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -179,6 +179,14 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315144028_10.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[THE CON 2022 - FT아일랜드 콘서트 초대! (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/BAKYBNVJDTT9QTX91MOV?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/BAKYBNVJDTT9QTX91MOV?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 29 Apr 2022 08:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[공연/페스티벌]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BAKYBNVJDTT9QTX91MOV/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[THE CON 2022 - 김종국 콘서트 초대! (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/RPX1SB589A22BXAPNTPT?&amp;wl_ref=list_sp_01_h</link>
             <guid>https://music.bugs.co.kr/musicpost/RPX1SB589A22BXAPNTPT?&amp;wl_ref=list_sp_01_h</guid>
@@ -203,19 +211,19 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/1MHP0LOUNFT1PM6H7AWB/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팝송으로 배우는 영어! 57. Shawn Mendes - 'When You're Gone' (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/FFTWKX0RT4KO9X7GKNIT?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/FFTWKX0RT4KO9X7GKNIT?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 21 Apr 2022 05:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[경다솜 - 'I'm Sorry Mother' MV 촬영 비하인드 공개 (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/RC91LURSHOZ4AEMC4E8Y?&amp;wl_ref=list_sp_01_h</link>
             <guid>https://music.bugs.co.kr/musicpost/RC91LURSHOZ4AEMC4E8Y?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Thu, 21 Apr 2022 03:23:16 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RC91LURSHOZ4AEMC4E8Y/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 57. Shawn Mendes - 'When You're Gone' (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/FFTWKX0RT4KO9X7GKNIT?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/FFTWKX0RT4KO9X7GKNIT?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 21 Apr 2022 05:33:55 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2022년 4월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
@@ -357,13 +365,6 @@
             <pubDate>Wed, 02 Mar 2022 07:12:06 GMT</pubDate>
             <content:encoded><![CDATA[뮤직포커스]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/LN4W9YSRFC7MIEP0DUTB/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝송으로 배우는 영어! 55. Peach PRC - 'Heavy' (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/CN6Q4XA5ING1YZPBFZ2S?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/CN6Q4XA5ING1YZPBFZ2S?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 25 Feb 2022 02:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[알앤비 레전드 ＃15 - 트렌드부터 빈티지까지, 라파엘 사딕 (지니 ─ 매거진)]]></title>
@@ -542,7 +543,7 @@ NCT DREAM, 권진아 (VIBE ─ 매거진)]]></title>
 릴모쉬핏, 엘로 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 29 Apr 2022 07:14:00 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2022 08:18:11 GMT</pubDate>
             <content:encoded><![CDATA[한국 힙합/알앤비를 상징하는 음악 레이블 하이라이트 레코즈가 해체 소식을 알린 2022년의 4월. 이에 일부 힙합 팬들은 지난 추억을, 일부는 한국 힙합 씬의 위기를 이야기하고 있는 요즘이다. 하지만, 여전히 한국 힙합/알앤비 음악가는 이들의 유산을 물려받아 개성 넘치는 작품을 발표하고 있다. 이 중에서도 반드시 들었으면 하는 일곱 장의 앨범을 소개한다. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220427_213/1651049412600slQjP_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
