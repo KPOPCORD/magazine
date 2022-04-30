@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 03:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 04:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간 팝 펑크]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[Artist Inside: 에이브릴 라빈]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/043f669cf3bd460fa7e54782e5b4657e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NFT  그게 뭔데]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[DIVE와 글렌체크의 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fcf6a9955d984ba9af75bbdfe5201e78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[번뇌의  무늬]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[21세기 동양화의 색다른 매력]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/25823421668a48c492a9771bcaebf3ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
