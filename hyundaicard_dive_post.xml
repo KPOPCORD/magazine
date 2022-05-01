@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 03:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 04:32:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[높이  더 높이!]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[당찬 발걸음을 위한 플랫폼 슈즈 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/99a750f1b5be4fd4b1d6c75534b87fa4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미래에서 온 남자]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[세상 쉬운 NFT 입문서, #0 프롤로그]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d18a6f65b58b45fd8945c77655110b22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여행지 숙소처럼]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[여행 온 듯한 느낌을 주는 카페 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/29badaccde8b40c2836798d5b18f9364.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
