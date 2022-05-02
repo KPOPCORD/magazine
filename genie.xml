@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 08:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 09:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘하이브 최초 걸그룹’ 르세라핌, 5월 2일 데뷔 앨범 ‘FEARLESS’ 발...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11927&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11927&amp;pg=1</guid>
+            <pubDate>Mon, 02 May 2022 09:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11927/Mgz_Main_List_20220502111944.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[드림웍스 개비의 매직하우스와 NMIXX의 컬래버레이션!]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11926&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11926&amp;pg=1</guid>
+            <pubDate>Mon, 02 May 2022 09:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11926/Mgz_Main_List_20220502155216.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[kursor (커서) ‘서로 (Sorrow)’ 뮤직비디오 촬영 현장 비하인드]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11925&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 29 Apr 2022 03:07:23 GMT</pubDate>
             <content:encoded><![CDATA[힙알사전]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11921/Mgz_Main_List_20220429111043.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[“부러질지언정 굽힐 수는 없다!” ENA 특별기획 <구필수는 없다>]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=11914&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=11914&amp;pg=1</guid>
-            <pubDate>Fri, 29 Apr 2022 03:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[방송]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11914/Mgz_Main_List_20220428172042.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[언어의 열매가 맺히는 여름이 온다, cotoba 첫 정규 앨범 [4pricøt...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11908&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11908&amp;pg=1</guid>
-            <pubDate>Fri, 29 Apr 2022 03:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11908/Mgz_Main_List_20220429105303.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
