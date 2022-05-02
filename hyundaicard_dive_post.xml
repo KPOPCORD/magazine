@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 01:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 03:52:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/21941d36918a4b6cbbcc57add0e25656.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[집을 꾸미는  중입니다만]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 5월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/966a280e2c864bc6819ef9fd1e554feb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[인간 팝 펑크]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -78,6 +70,14 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[세상 쉬운 NFT 입문서, #0 프롤로그]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d18a6f65b58b45fd8945c77655110b22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여행지 숙소처럼]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[여행 온 듯한 느낌을 주는 카페 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/29badaccde8b40c2836798d5b18f9364.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 01:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 03:52:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 29 Apr 2022 08:17:47 GMT</pubDate>
             <content:encoded><![CDATA[공연/페스티벌]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BAKYBNVJDTT9QTX91MOV/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <태양의 노래> - K-POP 최정상 아티스트와 함께하는 창작 뮤지컬 초대!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/TOVXAWYK8V69JAYZ100S?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/TOVXAWYK8V69JAYZ100S?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 02 May 2022 03:51:14 GMT</pubDate>
+            <content:encoded><![CDATA[공연/페스티벌]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/TOVXAWYK8V69JAYZ100S/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THE CON 2022 - 김종국 콘서트 초대!]]></title>
@@ -186,14 +194,6 @@
             <pubDate>Thu, 03 Mar 2022 03:15:00 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/5HZAD7YBZJP3C4ZFX3GB/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제 19회 한국 대중음악상 수상자를 소개합니다!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/LN4W9YSRFC7MIEP0DUTB?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/LN4W9YSRFC7MIEP0DUTB?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 02 Mar 2022 07:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직포커스]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/LN4W9YSRFC7MIEP0DUTB/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
