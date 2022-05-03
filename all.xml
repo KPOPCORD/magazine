@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 05:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 06:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -367,6 +367,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/5HZAD7YBZJP3C4ZFX3GB/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[재즈의 새로운 고전 ＃26 - 듀오 인터플레이 최정점에 오른 대가의 온화함과 ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11923&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=11923&amp;pg=1</guid>
+            <pubDate>Tue, 03 May 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11923/Mgz_Main_List_20220503150703.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[소울풀한 R&B 발라드로 돌아온 WINee의 새 싱글 [흔적] (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11932&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11932&amp;pg=1</guid>
@@ -423,21 +431,13 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11925/Mgz_Main_List_20220502105313.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[신지훈 1집 정규 앨범 [별과 추억과 시] 스토리 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11924&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11924&amp;pg=1</guid>
-            <pubDate>Mon, 02 May 2022 03:51:26 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11924/Mgz_Main_List_20220502103439.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[NEXTREND : 
-LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/61453</link>
-            <guid>https://vibe.naver.com/magazines/61453</guid>
-            <pubDate>Tue, 03 May 2022 05:17:37 GMT</pubDate>
+            <title><![CDATA[New Release #90 : 
+몬스타엑스, 샘 스미스 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/61530</link>
+            <guid>https://vibe.naver.com/magazines/61530</guid>
+            <pubDate>Tue, 03 May 2022 06:17:13 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-6937534c="" class="blind">작성일</span> 2022.05.02]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220502_290/1651465569274g8U5h_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+            <enclosure url="https://music-phinf.pstatic.net/20220502_292/16514832670042KKuE_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 힙합/알앤비 이즈 고 : 
@@ -539,13 +539,21 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII="/>
         </item>
         <item>
-            <title><![CDATA[New Release #90 : 
-몬스타엑스, 샘 스미스 (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[NEXTREND : 
+LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 03 May 2022 05:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[사랑에 대한 성찰을 담은 몬스타엑스의 새 앨범, 위로의 메시지를 담은 샘 스미스의 신곡. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220502_147/1651483273094FftrV_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <pubDate>Tue, 03 May 2022 06:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 2022년 첫 포문을 연 아티스트는 데뷔 전부터 6인 6색 환상 비주얼로 국내외를 떠들썩하게 만들고 있는 차세대 K-POP 대표 아이돌, LE SSERAFIM 입니다.]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220502_103/1651465573194M8QQv_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아듀 하이라이트  레코즈 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[해체를 선언한 국힙 대표 레이블]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9bfdde584ae64a3fa6f97873381e3007.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[필드의 바람, 두렵지 않아요 (현대카드 DIVE ─ POST)]]></title>
@@ -610,14 +618,6 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 5월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4409dc45dda54cf3ab89827a490b1203.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디어 마이 패밀리 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 5월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/21941d36918a4b6cbbcc57add0e25656.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
