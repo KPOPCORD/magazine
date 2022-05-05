@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 03:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 04:31:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -543,9 +543,17 @@
 LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 05 May 2022 03:19:09 GMT</pubDate>
+            <pubDate>Thu, 05 May 2022 04:30:44 GMT</pubDate>
             <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 2022년 첫 포문을 연 아티스트는 데뷔 전부터 6인 6색 환상 비주얼로 국내외를 떠들썩하게 만들고 있는 차세대 K-POP 대표 아이돌, LE SSERAFIM 입니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220502_103/1651465573194M8QQv_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추억은  방울방울 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니플러스에서 만나는 명작 애니메이션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dc0597c030f4433fab1f2e97ded3208d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다채로운 영감으로 피어나는 (현대카드 DIVE ─ POST)]]></title>
@@ -610,14 +618,6 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 5월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/966a280e2c864bc6819ef9fd1e554feb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[높이  더 높이! (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[당찬 발걸음을 위한 플랫폼 슈즈 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/99a750f1b5be4fd4b1d6c75534b87fa4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

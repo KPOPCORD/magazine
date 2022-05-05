@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 03:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 04:31:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추억은  방울방울]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니플러스에서 만나는 명작 애니메이션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dc0597c030f4433fab1f2e97ded3208d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다채로운 영감으로 피어나는]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 5월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/966a280e2c864bc6819ef9fd1e554feb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[높이  더 높이!]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[당찬 발걸음을 위한 플랫폼 슈즈 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/99a750f1b5be4fd4b1d6c75534b87fa4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
