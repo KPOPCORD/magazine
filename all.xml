@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 08:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 09:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -367,6 +367,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/5HZAD7YBZJP3C4ZFX3GB/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[What is love] 모나(MONA)의 MV가 '궁금해' (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11939&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11939&amp;pg=1</guid>
+            <pubDate>Fri, 06 May 2022 09:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11939/Mgz_Main_List_20220506155122.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[KIMKIMPARKKIM's 플레이리스트 가이드 ＃23 - 다시 열리는 페스티... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11942&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=11942&amp;pg=1</guid>
@@ -421,14 +429,6 @@
             <pubDate>Wed, 04 May 2022 03:22:14 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11935/Mgz_Main_List_20220504111242.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[알앤비 따라잡기 ＃52 - 한국 알앤비 이즈 고 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11931&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=11931&amp;pg=1</guid>
-            <pubDate>Wed, 04 May 2022 03:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[힙알사전]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11931/Mgz_Main_List_20220504103427.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #90 : 
@@ -543,9 +543,17 @@
 LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 06 May 2022 08:18:01 GMT</pubDate>
+            <pubDate>Fri, 06 May 2022 09:14:46 GMT</pubDate>
             <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 2022년 첫 포문을 연 아티스트는 데뷔 전부터 6인 6색 환상 비주얼로 국내외를 떠들썩하게 만들고 있는 차세대 K-POP 대표 아이돌, LE SSERAFIM 입니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220502_103/1651465573194M8QQv_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천릿길도  블록체인부터 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[세상 쉬운 NFT 입문서, #1 블록체인]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8ff388ec08d7430d895907c1bcb34320.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어머니, 제가 사 왔어요 (현대카드 DIVE ─ POST)]]></title>
@@ -610,14 +618,6 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[해체를 선언한 국힙 대표 레이블]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9bfdde584ae64a3fa6f97873381e3007.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필드의 바람, 두렵지 않아요 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[IRON &amp; WOOD 레슨 프로의 라운드 팁]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/250ce71892fd48438923a4f35ae4c003.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
