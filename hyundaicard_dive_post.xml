@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 06:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 07:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어머니, 제가 사 왔어요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[어버이날 선물로 고른 뷰티 디바이스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/21671e28b41843249dc6c5d28fd65ac2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-팝 모먼트]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[IRON &amp; WOOD 레슨 프로의 라운드 팁]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/250ce71892fd48438923a4f35ae4c003.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드  Curated 75 기리보이]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[하나의 장르가 된 허슬러의 이야기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2d313776b9404fd89289358553cbf7cd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

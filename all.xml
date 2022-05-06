@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 06:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 07:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -543,9 +543,17 @@
 LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 06 May 2022 06:19:16 GMT</pubDate>
+            <pubDate>Fri, 06 May 2022 07:14:00 GMT</pubDate>
             <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 2022년 첫 포문을 연 아티스트는 데뷔 전부터 6인 6색 환상 비주얼로 국내외를 떠들썩하게 만들고 있는 차세대 K-POP 대표 아이돌, LE SSERAFIM 입니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220502_103/1651465573194M8QQv_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어머니, 제가 사 왔어요 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[어버이날 선물로 고른 뷰티 디바이스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/21671e28b41843249dc6c5d28fd65ac2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[K-팝 모먼트 (현대카드 DIVE ─ POST)]]></title>
@@ -610,14 +618,6 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[IRON &amp; WOOD 레슨 프로의 라운드 팁]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/250ce71892fd48438923a4f35ae4c003.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드  Curated 75 기리보이 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[하나의 장르가 된 허슬러의 이야기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2d313776b9404fd89289358553cbf7cd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
