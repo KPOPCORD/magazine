@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 03:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 04:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여기는 포켓몬 월드]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[최고 대세 포켓몬, 어디까지 모아봤니?]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f3e7c87b2b714c2891781e97872ba733.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진정한 호텔 플레이]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[라이프스타일을 브랜딩하는 디자이너의 집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d681c4ca85d6467aba5a3bc363cce549.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ Soulscape  Curated 18  윤석철트리오]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[젊은 감성으로 재해석하는 새로운 재즈]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/35e274213eac422dac7b3e21046243c7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
