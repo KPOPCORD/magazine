@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 01:03:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 03:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315144028_10.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[현이랑 - 찬란한 내일을 맞이하자, 밴드 '현이랑' 프로필 촬영 현장 단독 공개 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/XVA4W8IZIGUWET2TZP5V?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/XVA4W8IZIGUWET2TZP5V?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 09 May 2022 03:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XVA4W8IZIGUWET2TZP5V/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THE CON 2022 - FT아일랜드 콘서트 초대! (벅스 ─ 뮤직포스트)]]></title>
@@ -359,12 +367,36 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/30NDPH0ZBTWT8V1XHF3Q/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Steelheart(스틸하트) - 'Trust In Love'가 전하는 평화와 희망의 메시지 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/5HZAD7YBZJP3C4ZFX3GB?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/5HZAD7YBZJP3C4ZFX3GB?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 03 Mar 2022 03:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/5HZAD7YBZJP3C4ZFX3GB/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[세상에 지친 모든 이들에게 전하는 주형진식 힐링 세레나데 [들을게] 인터뷰 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11949&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11949&amp;pg=1</guid>
+            <pubDate>Mon, 09 May 2022 03:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11949/Mgz_Main_List_20220509110100.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[밴드 ‘현이랑’, 미니 앨범 [항해] 작업기 인터뷰 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11948&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11948&amp;pg=1</guid>
+            <pubDate>Mon, 09 May 2022 03:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11948/Mgz_Main_List_20220509110140.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[고라니처럼 갑자기 툭 튀어나온 남영역 힙플레이스 <고라니커피클럽> (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11947&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11947&amp;pg=1</guid>
+            <pubDate>Mon, 09 May 2022 03:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11947/Mgz_Main_List_20220509105625.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[하헌진 EP 앨범 [너의 행복] 발매 기념 독점 인터뷰 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11943&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11943&amp;pg=1</guid>
+            <pubDate>Mon, 09 May 2022 03:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11943/Mgz_Main_List_20220509105551.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[[What is love] 모나(MONA)의 MV가 '궁금해' (지니 ─ 매거진)]]></title>
@@ -397,38 +429,6 @@
             <pubDate>Fri, 06 May 2022 03:37:46 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11938/Mgz_Main_List_20220506113007.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[라인프렌즈의 특별한 동화 시리즈! [비밀요원 레너드의 미스터리41] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11937&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11937&amp;pg=1</guid>
-            <pubDate>Fri, 06 May 2022 03:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11937/Mgz_Main_List_20220506113106.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[“수업은 끝났다. 이제 우리는 K팝 그룹입니다!” CLASS:y [CLASS ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11936&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11936&amp;pg=1</guid>
-            <pubDate>Fri, 06 May 2022 03:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11936/Mgz_Main_List_20220506121027.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[WOODZ, [COLORFUL TRAUMA] MV 촬영 현장 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11919&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11919&amp;pg=1</guid>
-            <pubDate>Wed, 04 May 2022 09:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11919/Mgz_Main_List_20220504162207.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[개코 @Gaejaksill 프로젝트 제 4탄! [눈에 넣어도] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11935&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11935&amp;pg=1</guid>
-            <pubDate>Wed, 04 May 2022 03:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11935/Mgz_Main_List_20220504111242.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #90 : 
@@ -543,7 +543,7 @@
 LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 09 May 2022 01:03:09 GMT</pubDate>
+            <pubDate>Mon, 09 May 2022 03:17:54 GMT</pubDate>
             <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 2022년 첫 포문을 연 아티스트는 데뷔 전부터 6인 6색 환상 비주얼로 국내외를 떠들썩하게 만들고 있는 차세대 K-POP 대표 아이돌, LE SSERAFIM 입니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220502_103/1651465573194M8QQv_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
