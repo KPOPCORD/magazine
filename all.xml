@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 08:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 09:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -367,6 +367,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/30NDPH0ZBTWT8V1XHF3Q/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[독특한 감정선으로 자신만의 이야기를 쓰는 '퀸샤 (Quinsha)' [Illu... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11950&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11950&amp;pg=1</guid>
+            <pubDate>Mon, 09 May 2022 09:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11950/Mgz_Main_List_20220509110930.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어게인 TOP6 이주혁과 함께 하는 버스킹! 이주혁의 [세탁소에서 만나요] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11944&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11944&amp;pg=1</guid>
+            <pubDate>Mon, 09 May 2022 09:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11944/Mgz_Main_List_20220509162653.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[세상에 지친 모든 이들에게 전하는 주형진식 힐링 세레나데 [들을게] 인터뷰 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11949&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11949&amp;pg=1</guid>
@@ -413,22 +429,6 @@
             <pubDate>Fri, 06 May 2022 04:17:31 GMT</pubDate>
             <content:encoded><![CDATA[김김박김]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11942/Mgz_Main_List_20220506125331.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[지니 컬러 동향 ＃40 – 2022.04.16 ~ 04.29 발매작 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=11941&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=11941&amp;pg=1</guid>
-            <pubDate>Fri, 06 May 2022 03:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[지니 컬러 동향]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11940/Mgz_Main_List_20220506113547.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[K-Pop과 클래식, 한국 대중가요 속 클래식 선율을 찾아서! (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11938&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11938&amp;pg=1</guid>
-            <pubDate>Fri, 06 May 2022 03:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11938/Mgz_Main_List_20220506113007.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #90 : 
@@ -543,7 +543,7 @@
 LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 09 May 2022 08:18:04 GMT</pubDate>
+            <pubDate>Mon, 09 May 2022 09:15:00 GMT</pubDate>
             <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 2022년 첫 포문을 연 아티스트는 데뷔 전부터 6인 6색 환상 비주얼로 국내외를 떠들썩하게 만들고 있는 차세대 K-POP 대표 아이돌, LE SSERAFIM 입니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220502_103/1651465573194M8QQv_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
