@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 08:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 09:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘글로벌 K-팝 4세대 리더’ 투모로우바이투게더, [minisode 2: Th...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11952&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11952&amp;pg=1</guid>
+            <pubDate>Tue, 10 May 2022 09:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11952/Mgz_Main_List_20220510103232.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[SSUP의 Escape! 힐링으로 떠나는 여행!]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11945&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11945&amp;pg=1</guid>
+            <pubDate>Tue, 10 May 2022 09:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11945/Mgz_Main_List_20220510145950.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[쓸쓸하지만 아름다운 – 플루티스트 조성현의 ＜슈만, 라이네케, 슈베르트＞]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=11956&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 09 May 2022 03:17:35 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11949/Mgz_Main_List_20220509110100.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[밴드 ‘현이랑’, 미니 앨범 [항해] 작업기 인터뷰]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11948&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=11948&amp;pg=1</guid>
-            <pubDate>Mon, 09 May 2022 03:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11948/Mgz_Main_List_20220509110140.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[고라니처럼 갑자기 툭 튀어나온 남영역 힙플레이스 <고라니커피클럽>]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11947&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=11947&amp;pg=1</guid>
-            <pubDate>Mon, 09 May 2022 03:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/11947/Mgz_Main_List_20220509105625.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
