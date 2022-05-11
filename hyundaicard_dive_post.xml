@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 08:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 09:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그리웠어, 이 열기]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[뜨거웠던 언더스테이지 4월 공연 모아 보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/203bf3bffffe4d3da9d36cb5aa442422.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 정도는  약과지]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[시대를 초월한 디자이너, 조 체사레 콜롬보]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e6994f53d19d448fae8c690994dda12b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여기는 포켓몬 월드]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[최고 대세 포켓몬, 어디까지 모아봤니?]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f3e7c87b2b714c2891781e97872ba733.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
