@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 04:33:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 05:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너와 나의  국보급 폰트]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[iF 디자인 어워드 본상 수상한 서체]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/70b449eeab884aa08530df1a7ab45f21.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영 컬렉터 in 부산]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[이색 패키지가 있는 국내 호텔 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bfa2d8b667a846788aed5533b61c348f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천릿길도  블록체인부터]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[세상 쉬운 NFT 입문서, #1 블록체인]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8ff388ec08d7430d895907c1bcb34320.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
