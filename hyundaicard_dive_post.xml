@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 06:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 07:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 정도는  약과지]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[품절을 부르는 대인기 약과]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dcab1090a3114507ad8e85848339a117.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너와 나의  국보급 폰트]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[최고 대세 포켓몬, 어디까지 모아봤니?]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f3e7c87b2b714c2891781e97872ba733.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진정한 호텔 플레이]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[이색 패키지가 있는 국내 호텔 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bfa2d8b667a846788aed5533b61c348f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
