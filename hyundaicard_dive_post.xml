@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 06:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 07:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[럭셔리 스포티즘]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠 정신이 깃든 패션 브랜드 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9d084ab65f334b7f9341c1ad9c58479d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[월요일 병은 없어]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[분위기 좋은 한옥 레스토랑]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a2d7e6bf70794d85ae464b548884c52d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT로 질주]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[자동차 브랜드의 NFT 아트워크]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d74a020846744a6caa48f8fdbb012b40.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
