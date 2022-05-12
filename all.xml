@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 04:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 05:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -543,9 +543,17 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
 싸이 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 12 May 2022 04:24:55 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 05:20:59 GMT</pubDate>
             <content:encoded><![CDATA[케이팝의 원조 가수가 누구인지에 대해서는 다소 논의가 필요하겠지만, 적어도 싸이가 케이팝의 인지도를 끌어올린 사실은 부정할 수 없을 거다. ‘강남스타일’을 통해 지금의 “두유노 신드롬”을 일으킨 게 싸이였으니 말이다. 그런 싸이가 5년 만에 정규 9집을 들고 우리 곁에 돌아왔다. 이주의 디깅에서는 다시 돌아온 미스터 강남 스타일, 아니 싸이의 새 앨범을 요리조리 훑어보도록 하자. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220503_72/1651549298720R1Iuz_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월요일 병은 없어 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 '디자인 스토리']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/09604c54e3024615aea6f43e8219ba02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그리웠어, 이 열기 (현대카드 DIVE ─ POST)]]></title>
@@ -610,14 +618,6 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[자동차 브랜드의 NFT 아트워크]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d74a020846744a6caa48f8fdbb012b40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미래에서 온 남자 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[시대를 초월한 디자이너, 조 체사레 콜롬보]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e6994f53d19d448fae8c690994dda12b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
