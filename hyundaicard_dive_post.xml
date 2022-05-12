@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 08:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 09:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꾸안꾸 매력이 있어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[나만 아는 동네 #22 보광동]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a1c6edad371646c9bd23f73ce111b913.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[럭셔리 스포티즘]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 5월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/21941d36918a4b6cbbcc57add0e25656.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월엔  한옥에서  칼질할 거야]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[분위기 좋은 한옥 레스토랑]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a2d7e6bf70794d85ae464b548884c52d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
