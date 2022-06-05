@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 03:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 04:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -542,9 +542,17 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
 세븐틴, 캘빈 해리스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 05 Jun 2022 03:07:44 GMT</pubDate>
+            <pubDate>Sun, 05 Jun 2022 04:15:28 GMT</pubDate>
             <content:encoded><![CDATA[네 번째 정규 앨범을 발표한 세븐틴, 다시 한번 두아 리파와 호흡을 맞춘 캘빈 해리스. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220530_128/1653904000769vi00O_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소리로  ‘불멍’ (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[청각과 시각을 만족시키는 ‘빛나는’ 스피커]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61956e11ef0e4439a4e4ac04cace0cac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누군가에겐 반드시 필요했던 말들 (현대카드 DIVE ─ POST)]]></title>
@@ -609,14 +617,6 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 6월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/981f3c8084af4412a97389f7c1b69a26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT로  결제할게요 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[NFT를 다루는 요식업계의 독특한 접근 방식]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02172d4ac7934b46a3c5c72eb14cb13d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
