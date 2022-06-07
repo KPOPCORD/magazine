@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 08:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 09:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나의 바다야 나의 하늘아]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[6월의 현대카드 컬처 캘린더]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9120bdcf04b3474dac57847148ae4281.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해조의  재발견]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[&lt;상수리나무 아래&gt; OST 뮤직토크쇼]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c5de88608ac401ca34b2e944919b4d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저기압일 땐 고기 앞으로]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[주간 DIVE 113호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fb89a1c9ba8d425e8537aa87f9b48d2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
