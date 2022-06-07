@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 02:55:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 03:50:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[APR PROJECT - 새롭게 피어난 [BOYHOOD I S#1] 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/CTRO3478ACJZDH16WSZH?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/CTRO3478ACJZDH16WSZH?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 07 Jun 2022 03:49:48 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/CTRO3478ACJZDH16WSZH/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Panda Gomm - 'YAHE (feat. VINXEN)' M/V 촬영 비하인드 공개]]></title>
             <link>https://music.bugs.co.kr/musicpost/HLNT0NNFHLF28T13RB1W?&amp;wl_ref=list_sp_01_h</link>
@@ -185,14 +193,6 @@
             <pubDate>Mon, 21 Mar 2022 07:13:05 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/00UPR2IKONLEJZHPYZ5D/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[72 - 'I Believe' MV 촬영 비하인드 공개]]></title>
-            <link>https://music.bugs.co.kr/musicpost/HXEZTQMUJ9GLLH3SFVRO?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/HXEZTQMUJ9GLLH3SFVRO?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 18 Mar 2022 03:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HXEZTQMUJ9GLLH3SFVRO/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
