@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 06:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 07:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -542,9 +542,17 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
 세븐틴, 캘빈 해리스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 07 Jun 2022 06:17:12 GMT</pubDate>
+            <pubDate>Tue, 07 Jun 2022 07:14:07 GMT</pubDate>
             <content:encoded><![CDATA[네 번째 정규 앨범을 발표한 세븐틴, 다시 한번 두아 리파와 호흡을 맞춘 캘빈 해리스. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220530_128/1653904000769vi00O_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해조의  재발견 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[바다 식물의 가능성을 시사하는 프로젝트 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/82462777434447ddac4f227708e17eab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위트와 조형  사이에서 (현대카드 DIVE ─ POST)]]></title>
@@ -609,14 +617,6 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[주간 DIVE 113호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fb89a1c9ba8d425e8537aa87f9b48d2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고기고기한 비건 모먼트 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[지속가능한 미래먹거리, 이스라엘 식물성 대체육]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7c320b76c1464d45a0d42442612daaa8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
