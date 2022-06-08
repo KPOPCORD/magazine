@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 05:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 06:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해리네 집으로 놀러 오세요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[Artist Inside: 해리 스타일스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/80685bc5e6f34124a1c8a460e74102d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금, 아시아 아트 신]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[뉴욕 MoMA 미디어 &amp; 퍼포먼스 컬렉션 전시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d2f788c6f6934addb8ab451c47ffa4e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT 중간고사]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[세상 쉬운 NFT 초급편, #중간고사]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd6e497e06e246f7960542a6462fd710.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
