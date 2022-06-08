@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 07:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 08:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NFT가  먹는 건가요?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[NFT가 미식을 만났을 때]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f477090f9bf74a8da8ae3789752a6821.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해리네 집으로 놀러 오세요]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼스타 뮤지션의 졸업식 연설]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/89fffb59a83b44c2b613d2dce2882ec0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pervasive Light 스며드는 빛]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕 MoMA 미디어 &amp; 퍼포먼스 컬렉션 전시]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d2f788c6f6934addb8ab451c47ffa4e5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
