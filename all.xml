@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 03:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 04:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -542,9 +542,17 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
 포스트 말론, 포레스텔라 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 08 Jun 2022 03:02:42 GMT</pubDate>
+            <pubDate>Wed, 08 Jun 2022 04:27:16 GMT</pubDate>
             <content:encoded><![CDATA[포스트 말론의 새 정규 앨범부터 크로스오버계의 아이돌로 불리는 포레스텔라까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220607_57/1654588938000zmpx1_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금, 아시아 아트 신 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[아트 바젤 홍콩 2022 리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/26ff35c4bf4d49f5a1dabe41374f4dbf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나의 바다야 나의 하늘아 (현대카드 DIVE ─ POST)]]></title>
@@ -609,14 +617,6 @@ LE SSERAFIM(르세라핌) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[세상 쉬운 NFT 초급편, #중간고사]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd6e497e06e246f7960542a6462fd710.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레전드 작품 속  그 노래 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;상수리나무 아래&gt; OST 뮤직토크쇼]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c5de88608ac401ca34b2e944919b4d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

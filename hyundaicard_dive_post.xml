@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 03:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 04:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금, 아시아 아트 신]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[아트 바젤 홍콩 2022 리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/26ff35c4bf4d49f5a1dabe41374f4dbf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나의 바다야 나의 하늘아]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[세상 쉬운 NFT 초급편, #중간고사]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd6e497e06e246f7960542a6462fd710.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레전드 작품 속  그 노래]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;상수리나무 아래&gt; OST 뮤직토크쇼]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c5de88608ac401ca34b2e944919b4d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
