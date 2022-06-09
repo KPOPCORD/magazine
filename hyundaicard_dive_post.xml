@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 08:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 09:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도시보다  힙한 농촌]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 ‘요즘 핫한 스팟']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9c30e06881ae4b789ff17732e3f8a493.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맛있고  멋있는  채식]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[산업디자인의 정수, 콘스탄틴 그리치치]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7bc97357bbcc49d4a71292c13b0bb8b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[처음 만난  세계]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[NFT를 이끄는 아티스트들]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/831fbbda7c894850be3d090902f918d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
