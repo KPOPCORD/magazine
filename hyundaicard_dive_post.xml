@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 04:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 05:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나를  추앙해요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[예술을 머금은 아티스틱 화분 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/90bc7a4351ad431f824dbdf84409d398.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NFT가  먹는 건가요?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[청각과 시각을 만족시키는 ‘빛나는’ 스피커]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61956e11ef0e4439a4e4ac04cace0cac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가에겐 반드시 필요했던 말들]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼스타 뮤지션의 졸업식 연설]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/89fffb59a83b44c2b613d2dce2882ec0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
