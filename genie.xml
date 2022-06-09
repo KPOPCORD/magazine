@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 05:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 07:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KIMKIMPARKKIM's 플레이리스트 가이드 ＃25 - 나의 스무 살에게 ...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=12052&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=12052&amp;pg=1</guid>
+            <pubDate>Thu, 09 Jun 2022 07:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[김김박김]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12051/Mgz_Main_List_20220609142341.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[행복과 슬픔 그리고 파멸, 클래식으로 듣는 사랑의 세 가지 결말]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12046&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 08 Jun 2022 03:02:25 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12036/Mgz_Main_List_20220608100153.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[유료 회원 ‘지니뮤직x팀 버튼 : The World of Tim Burton’...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=12034&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=12034&amp;pg=1</guid>
-            <pubDate>Wed, 08 Jun 2022 03:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[영화/전시]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12034/Mgz_Main_List_20220603141147.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>

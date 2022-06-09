@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 05:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 07:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맛있고  멋있는  채식]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[감각적인 채식 레스토랑 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3526082dccce429a844de7addc6096dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나를  추앙해요]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[NFT를 이끄는 아티스트들]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/831fbbda7c894850be3d090902f918d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소리로  ‘불멍’]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[청각과 시각을 만족시키는 ‘빛나는’ 스피커]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61956e11ef0e4439a4e4ac04cace0cac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
