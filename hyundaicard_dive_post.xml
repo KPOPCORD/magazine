@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 03:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 04:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴욕 MoMA  미디어 & 퍼포먼스  컬렉션 전시]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드와 MoMA가 선보이는 특별한 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2761e59d7aa64f9ab028cdfe50c28f1c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도시보다  힙한 농촌]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[바다 식물의 가능성을 시사하는 프로젝트 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/82462777434447ddac4f227708e17eab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위트와 조형  사이에서]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[산업디자인의 정수, 콘스탄틴 그리치치]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7bc97357bbcc49d4a71292c13b0bb8b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
