@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 08:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 09:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 삼송이 수상해]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[나만 아는 동네 #23 삼송동]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/963d87e522234c25aad66f32eef6a816.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴욕 MoMA  미디어 & 퍼포먼스  컬렉션 전시]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[6월의 현대카드 컬처 캘린더]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9120bdcf04b3474dac57847148ae4281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해조의  재발견]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[바다 식물의 가능성을 시사하는 프로젝트 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/82462777434447ddac4f227708e17eab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
