@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 09:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 10:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NFT  어디서 사요?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[세상 쉬운 NFT 실전편, #1 거래소]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/82a78f9b05d44001a5af3b76b1221329.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 삼송이 수상해]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[아트 바젤 홍콩 2022 리뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/26ff35c4bf4d49f5a1dabe41374f4dbf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 바다야 나의 하늘아]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[6월의 현대카드 컬처 캘린더]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9120bdcf04b3474dac57847148ae4281.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
