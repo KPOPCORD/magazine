@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 06:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 07:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어땠나요? 프리즈 뉴욕!]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[박필재의 ‘프리즈 뉴욕 2022’]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f259401c3c4d4409bb85d8d4d28b6202.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캐리비언 홀리데이]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[감각적인 채식 레스토랑 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3526082dccce429a844de7addc6096dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나를  추앙해요]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[예술을 머금은 아티스틱 화분 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/90bc7a4351ad431f824dbdf84409d398.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

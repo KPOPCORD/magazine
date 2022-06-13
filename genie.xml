@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 06:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 07:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷰 맛집, 핸드드립 테라스 카페 <오디너리핏 연희>]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=12058&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=12058&amp;pg=1</guid>
+            <pubDate>Mon, 13 Jun 2022 07:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12058/Mgz_Main_List_20220613152417.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[수후(soohoo)의 신곡, 태평동의 청년들과 만든 노래 [또 다른 하루] M...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12056&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 10 Jun 2022 03:18:03 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12048/Mgz_Main_List_20220610102017.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[‘내일 날씨는 더 푸름’ 페노메코가 전하는 내일을 위한 오늘의 위로 메시지!]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12047&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12047&amp;pg=1</guid>
-            <pubDate>Thu, 09 Jun 2022 09:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12047/Mgz_Main_List_20220609163508.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
