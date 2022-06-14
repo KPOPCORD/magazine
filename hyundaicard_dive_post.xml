@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 07:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 08:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파스타에 진심이니까]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[페리지 생면 파스타 쿠킹 클래스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8c8f4d58edc94765a675bc4c2887ec75.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인공 해변으로  가요]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[세상 쉬운 NFT 실전편, #1 거래소]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/82a78f9b05d44001a5af3b76b1221329.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 삼송이 수상해]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[나만 아는 동네 #23 삼송동]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/963d87e522234c25aad66f32eef6a816.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
