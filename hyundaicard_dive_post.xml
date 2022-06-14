@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 05:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 06:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인공 해변으로  가요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[당장 입수하고 싶어지는 전국의 워터파크 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/87022d91aa8e48d28b1a6d038f1d5759.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명품은 스포츠를  사랑해]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #23 삼송동]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/963d87e522234c25aad66f32eef6a816.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕 MoMA  미디어 & 퍼포먼스  컬렉션 전시]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드와 MoMA가 선보이는 특별한 전시]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2761e59d7aa64f9ab028cdfe50c28f1c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
