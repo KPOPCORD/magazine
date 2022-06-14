@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 08:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 09:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,6 +366,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/3S5CERRHXSKTEW4XFH7C/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[재즈덩크 ＃47 - 짧은 역사, 많지 않은 카탈로그 숫자에도 지속되는 레이블 ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=12067&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=12067&amp;pg=1</guid>
+            <pubDate>Tue, 14 Jun 2022 09:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12067/Mgz_Main_List_20220614161601.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[서인국 2022 싱글 앨범 [LOVE&LOVE] 뮤직비디오 촬영 현장 비하인드 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12063&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12063&amp;pg=1</guid>
+            <pubDate>Tue, 14 Jun 2022 09:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12063/Mgz_Main_List_20220614151131.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[마룡C의 첫 번째 재밌는 동요 <우주방귀송> 녹음 비하인드 스토리! (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12064&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12064&amp;pg=1</guid>
@@ -412,22 +428,6 @@
             <pubDate>Mon, 13 Jun 2022 07:13:27 GMT</pubDate>
             <content:encoded><![CDATA[핫플힙플]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12058/Mgz_Main_List_20220613152417.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[수후(soohoo)의 신곡, 태평동의 청년들과 만든 노래 [또 다른 하루] M... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12056&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12056&amp;pg=1</guid>
-            <pubDate>Mon, 13 Jun 2022 03:28:30 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12055/Mgz_Main_List_20220613100226.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단의 다짐과 아미 향한 진심이 담긴 특별한 앨범, [Proof] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12054&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12054&amp;pg=1</guid>
-            <pubDate>Mon, 13 Jun 2022 03:28:30 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12054/Mgz_Main_List_20220613103154.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[사랑과 갈등 사이 : 
@@ -542,7 +542,7 @@ TXT, 켄드릭 라마 (VIBE ─ 매거진)]]></title>
 방탄소년단, 할시 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 14 Jun 2022 08:19:07 GMT</pubDate>
+            <pubDate>Tue, 14 Jun 2022 09:16:15 GMT</pubDate>
             <content:encoded><![CDATA[처음으로 베스트 앨범을 발표한 방탄소년단, 음악계에 뜨거운 이슈를 던진 할시의 신곡까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220613_185/1655111025730kJvrn_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
