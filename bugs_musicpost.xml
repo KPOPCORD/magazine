@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 05:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 06:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2022년 6월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/6HE9T2K6TZUL220XDPNX?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/6HE9T2K6TZUL220XDPNX?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 15 Jun 2022 06:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[수후 - 어른의 시선으로 담은 태평동의 동화 같은 이야기 '또 다른 하루']]></title>
             <link>https://music.bugs.co.kr/musicpost/CH3X6A56HD56FFPP1ZNU?&amp;wl_ref=list_sp_01_h</link>
@@ -185,14 +192,6 @@
             <pubDate>Wed, 23 Mar 2022 09:12:59 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/YLN9B6NZ790QBMWR7YJE/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최혜빈 - 트렌디한 사운드 위에 펼쳐지는 그녀만의 우주, 첫 번째 싱글 [유니버스(Universe)]]]></title>
-            <link>https://music.bugs.co.kr/musicpost/3S5CERRHXSKTEW4XFH7C?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/3S5CERRHXSKTEW4XFH7C?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 22 Mar 2022 03:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/3S5CERRHXSKTEW4XFH7C/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
