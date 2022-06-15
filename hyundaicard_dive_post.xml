@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 06:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 08:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀가루 없는  빵집에 어서 오세요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[저탄수&amp;글루텐프리 베이커리 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/00603074de7c4cbfad38583336198201.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리가 사랑한 브랜드]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[여름밤의 몽상을 닮은 전시 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/40f8de9a62134ed2bf3f6fa5c68585d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일상과 필드 모두 책임져]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[필드에서 활용도 높은 서머 버킷 해트 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/471a826a26e644cfa07e444f8ae801f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
