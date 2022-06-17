@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 04:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 05:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신상 클럽이 가득해]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[IRON &amp; WOOD 클럽 커스터마이징 서비스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f7260ab1f5da47009784feab20aa05d1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정원의 울림이 만들어낸 예술]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[페리지 생면 파스타 쿠킹 클래스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8c8f4d58edc94765a675bc4c2887ec75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인공 해변으로  가요]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[당장 입수하고 싶어지는 전국의 워터파크 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/87022d91aa8e48d28b1a6d038f1d5759.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
