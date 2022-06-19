@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 03:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 04:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서점 미학]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[아름다움을 수집하는 아트 북 서점 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1295141a2d3f414da442d53e4456d4ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싱어송라이돌의 정원]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[디즈니플러스의 판타지 무비 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b964658fa3124269a4783bb04d4e9b3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조명 하나  들였을 뿐인데]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[공간에 미감을 불어넣는 조명 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/37e8124fb2ec4541a7994583ed534214.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
