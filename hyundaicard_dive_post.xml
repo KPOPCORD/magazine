@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 07:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 08:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헬로 뉴 브랜드]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[지금 주목해야 할 신상 골프 브랜드 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2397c1079ed74369b5ce992988dee423.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그의 악기를 느껴요]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[서울시립미술관 장-미셸 오토니엘 개인전]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/04140b58759f4708a2b0e964d3b60363.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유희열  Curated 19  적재]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[꾸밈 없는 싱어송라이터]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bd79070f7c14470ba7b8e4b100c788ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
