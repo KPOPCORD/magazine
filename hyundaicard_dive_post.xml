@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 08:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 09:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갤러리에서 만나요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[영 컬렉터가 사랑한 갤러리 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/97f7e54f36304fc3845982f38c1c7f46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칸의 남자]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[‘2022 아트 바젤’ 프리뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cffc774e60d440fc8f3850e39371ef2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디저트 배는 따로 있어]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[주간 DIVE 114호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6a420ec9a01a47289dc5eec6dc7bd9a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

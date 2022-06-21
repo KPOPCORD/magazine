@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 08:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 09:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,6 +365,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HHUZN2K5JNWQ65S8YH3G/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[달콤한 보이스의 치명적인 매력, 영재 [SUGAR] 자켓 촬영 비하인드 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12082&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12082&amp;pg=1</guid>
+            <pubDate>Tue, 21 Jun 2022 09:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12082/Mgz_Main_List_20220621174241.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[서서히 흐릿해지는 연주와 프로듀싱의 경계지점, 'Gilad Hekselman'... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=12087&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=12087&amp;pg=1</guid>
@@ -419,14 +427,6 @@
             <pubDate>Mon, 20 Jun 2022 09:13:58 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12073/Mgz_Main_List_20220620161406.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[엄마로 살아가는 그녀들의 일기장 같은 피아노 앨범, 유해인X이사라 [You &... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12080&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12080&amp;pg=1</guid>
-            <pubDate>Mon, 20 Jun 2022 03:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12080/Mgz_Main_List_20220620102256.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[NEXTREND : 
@@ -541,9 +541,17 @@ in Dvwn (VIBE ─ 매거진)]]></title>
 드레이크, 폴킴 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 21 Jun 2022 08:22:37 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2022 09:23:33 GMT</pubDate>
             <content:encoded><![CDATA[새 앨범을 깜짝 발표한 드레이크, 위로가 담긴 소박한 앨범으로 돌아온 폴킴까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220621_286/1655795310081s95xy_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[갤러리에서 만나요 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[영 컬렉터가 사랑한 갤러리 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/97f7e54f36304fc3845982f38c1c7f46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[칸의 남자 (현대카드 DIVE ─ POST)]]></title>
@@ -608,14 +616,6 @@ in Dvwn (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[‘2022 아트 바젤’ 프리뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cffc774e60d440fc8f3850e39371ef2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디저트 배는 따로 있어 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[주간 DIVE 114호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6a420ec9a01a47289dc5eec6dc7bd9a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
