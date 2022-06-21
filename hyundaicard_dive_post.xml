@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 04:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 05:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넌  뚱뚱해서  좋아]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[크고 맛있는 아메리칸 쿠키]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cce1d0dcc14c4e2aa2bc566569c0ee5e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헬로 뉴 브랜드]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[IRON &amp; WOOD 클럽 커스터마이징 서비스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f7260ab1f5da47009784feab20aa05d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정원의 울림이 만들어낸 예술]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[서울시립미술관 장-미셸 오토니엘 개인전]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/04140b58759f4708a2b0e964d3b60363.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
