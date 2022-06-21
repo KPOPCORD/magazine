@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 06:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 08:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서서히 흐릿해지는 연주와 프로듀싱의 경계지점, 'Gilad Hekselman'...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=12087&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=12087&amp;pg=1</guid>
+            <pubDate>Tue, 21 Jun 2022 08:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12087/Mgz_Main_List_20220621170054.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[새로운 이야기가 펼쳐진다! tvN 드라마 프로젝트 〈O’PENing〉]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=12085&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 20 Jun 2022 03:13:19 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12080/Mgz_Main_List_20220620102256.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[3년 만에 돌아온 제 8회 <레코드 박스 세트 데이>]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12079&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12079&amp;pg=1</guid>
-            <pubDate>Mon, 20 Jun 2022 03:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12079/Mgz_Main_List_20220620113039.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
