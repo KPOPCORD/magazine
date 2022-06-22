@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 09:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 10:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[착해진  NFT]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[NFT를 통해 기부하는 법]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9bf0e6a7e23c49a1a9eaf79f240cab62.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투명한  유리처럼]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 6월의 새 음반]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aa384b6c017844e5a8fbf39dc4577139.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서점 미학]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[아름다움을 수집하는 아트 북 서점 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1295141a2d3f414da442d53e4456d4ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
