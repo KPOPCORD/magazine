@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 05:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 06:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파이 안에  고기 있어요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 대세 미트 파이 맛집 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a9106674c7584be283a18f416445edb5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소울 히스토리 101]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[DIVE와 정세운의 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8cd4357c922e4b81951cf3fcf6f9bffd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT 사러 가요]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[세상 쉬운 NFT 실전편 #2 구매]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7ed7700c7f2e47a98b2b5a3bbfa2bd41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
