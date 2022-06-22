@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 06:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 07:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -541,17 +541,9 @@ in Dvwn (VIBE ─ 매거진)]]></title>
 드레이크, 폴킴 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 22 Jun 2022 06:16:48 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 07:13:00 GMT</pubDate>
             <content:encoded><![CDATA[새 앨범을 깜짝 발표한 드레이크, 위로가 담긴 소박한 앨범으로 돌아온 폴킴까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220621_286/1655795310081s95xy_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[파이 안에  고기 있어요 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 대세 미트 파이 맛집 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a9106674c7584be283a18f416445edb5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소울 히스토리 101 (현대카드 DIVE ─ POST)]]></title>
@@ -616,6 +608,14 @@ in Dvwn (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[DIVE와 정세운의 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8cd4357c922e4b81951cf3fcf6f9bffd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NFT 사러 가요 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[세상 쉬운 NFT 실전편 #2 구매]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7ed7700c7f2e47a98b2b5a3bbfa2bd41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
