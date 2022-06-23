@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 23:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 01:00:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Super Concert is Back]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 슈퍼콘서트 26 빌리 아일리시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81f75f8e1f61456fbd330a72a3642957.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[착해진  NFT]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[지금 주목해야 할 신상 골프 브랜드 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2397c1079ed74369b5ce992988dee423.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그의 악기를 느껴요]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 6월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aa384b6c017844e5a8fbf39dc4577139.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
