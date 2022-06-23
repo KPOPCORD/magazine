@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 08:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 09:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,6 +365,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HHUZN2K5JNWQ65S8YH3G/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이무진 The 1st Mini Album [Room Vol.1] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12098&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12098&amp;pg=1</guid>
+            <pubDate>Thu, 23 Jun 2022 09:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12097/Mgz_Main_List_20220623115015.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[정동원&베이식, <구필수는 없다> OST Part 10 ’Alright’ 녹음... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12091&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12091&amp;pg=1</guid>
+            <pubDate>Thu, 23 Jun 2022 09:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12091/Mgz_Main_List_20220622151019.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[왜 아직도 음반을 사냐고요? – 음반 구매의 즐거움 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12097&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12097&amp;pg=1</guid>
@@ -411,22 +427,6 @@
             <pubDate>Wed, 22 Jun 2022 03:28:18 GMT</pubDate>
             <content:encoded><![CDATA[힙알사전]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12086/Mgz_Main_List_20220622111248.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[달콤한 보이스의 치명적인 매력, 영재 [SUGAR] 자켓 촬영 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12082&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12082&amp;pg=1</guid>
-            <pubDate>Tue, 21 Jun 2022 09:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12082/Mgz_Main_List_20220621174241.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[서서히 흐릿해지는 연주와 프로듀싱의 경계지점, 'Gilad Hekselman'... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=12087&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=12087&amp;pg=1</guid>
-            <pubDate>Tue, 21 Jun 2022 08:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12087/Mgz_Main_List_20220621170054.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #97 : 
@@ -541,10 +541,18 @@ in Dvwn (VIBE ─ 매거진)]]></title>
 이달의 소녀 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 23 Jun 2022 08:19:32 GMT</pubDate>
+            <pubDate>Thu, 23 Jun 2022 09:13:30 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 매거진! 이번에는 화사하게 꽃피운 절정의 청순미를 뽐내며 이달의 소녀가 서머 스페셜 미니 앨범 'Flip That'(플립 댓)으로 찾아왔습니다.
 멤버 각각의 솔직함을 엿볼 수 있는 무엇이든 물어보세요 매거진. 함께 만나보시죠.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220621_50/1655797071531ud8Su_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[대체 불가능한  가치의 시장 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[최태혁의 '브랜드 이야기, NFT']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7fc73318ce334043ae7e4b1e555ad304.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[토이 스토리 (현대카드 DIVE ─ POST)]]></title>
@@ -609,14 +617,6 @@ in Dvwn (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[영 컬렉터가 사랑한 갤러리 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/97f7e54f36304fc3845982f38c1c7f46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칸의 남자 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[왓챠에서 만나는 박찬욱 감독의 띵작 3]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ef34fd385bd94d13b539f1af856a40c4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
