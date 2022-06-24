@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 04:36:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 05:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,6 +365,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HHUZN2K5JNWQ65S8YH3G/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[POP! POP! 매력이 터지는 나연 (TWICE)의 첫 솔로 데뷔 앨범 [I... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12093&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12093&amp;pg=1</guid>
+            <pubDate>Fri, 24 Jun 2022 05:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12093/Mgz_Main_List_20220623151701.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[주현미 재즈 프로젝트의 일곱 번째 싱글 ‘바다와 푸른 밤’ (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12099&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12099&amp;pg=1</guid>
@@ -419,14 +427,6 @@
             <pubDate>Thu, 23 Jun 2022 03:11:32 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12096/Mgz_Main_List_20220623102058.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[오뚜기X지니와 함께 떠나는 <라면로드>! (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12094&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12094&amp;pg=1</guid>
-            <pubDate>Thu, 23 Jun 2022 03:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12093/Mgz_Main_List_20220622142347.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #97 : 
@@ -541,10 +541,18 @@ in Dvwn (VIBE ─ 매거진)]]></title>
 이달의 소녀 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 24 Jun 2022 04:36:03 GMT</pubDate>
+            <pubDate>Fri, 24 Jun 2022 05:19:32 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 매거진! 이번에는 화사하게 꽃피운 절정의 청순미를 뽐내며 이달의 소녀가 서머 스페셜 미니 앨범 'Flip That'(플립 댓)으로 찾아왔습니다.
 멤버 각각의 솔직함을 엿볼 수 있는 무엇이든 물어보세요 매거진. 함께 만나보시죠.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220621_50/1655797071531ud8Su_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[저 푸른 초원 위에 그림같은 고기 한 점 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[스태미나 충전! 양고기 맛집 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/df018f40d5004390a428b31e27c22f04.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대체 불가능한  가치의 시장 (현대카드 DIVE ─ POST)]]></title>
@@ -609,14 +617,6 @@ in Dvwn (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 6월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b04e2a386b4b4586837763dd39da5b67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갤러리에서 만나요 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[영 컬렉터가 사랑한 갤러리 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/97f7e54f36304fc3845982f38c1c7f46.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
