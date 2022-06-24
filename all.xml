@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 06:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 08:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -541,10 +541,18 @@ in Dvwn (VIBE ─ 매거진)]]></title>
 이달의 소녀 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 24 Jun 2022 06:17:37 GMT</pubDate>
+            <pubDate>Fri, 24 Jun 2022 08:17:21 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 매거진! 이번에는 화사하게 꽃피운 절정의 청순미를 뽐내며 이달의 소녀가 서머 스페셜 미니 앨범 'Flip That'(플립 댓)으로 찾아왔습니다.
 멤버 각각의 솔직함을 엿볼 수 있는 무엇이든 물어보세요 매거진. 함께 만나보시죠.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220621_50/1655797071531ud8Su_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[속닥속닥 NFT (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[세상 쉬운 NFT 실전편, #3 커뮤니티]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dff1b9568a6d46c8964c0946b082a212.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저 푸른 초원 위에 그림같은 고기 한 점 (현대카드 DIVE ─ POST)]]></title>
@@ -609,14 +617,6 @@ in Dvwn (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[요즘 대세 미트 파이 맛집 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a9106674c7584be283a18f416445edb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소울 히스토리 101 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 6월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b04e2a386b4b4586837763dd39da5b67.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
