@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 03:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 04:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리는 떼창의 민족]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[RESTART! 홍대 라이브 클럽]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b5aa3529d4024d14b8258e4b3ffd1c0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영접하라, 갓슈콘]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 슈퍼콘서트 26 빌리 아일리시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81f75f8e1f61456fbd330a72a3642957.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[착해진  NFT]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[NFT를 통해 기부하는 법]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9bf0e6a7e23c49a1a9eaf79f240cab62.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
