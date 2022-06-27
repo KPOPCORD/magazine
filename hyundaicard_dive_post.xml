@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 07:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 08:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[100일의  미술관]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[가장 실험적인 미술 전시 ‘카셀 도큐멘타’]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/63207edc12fd48a5884c10f1ab62a25f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청와대  가는 길]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[최태혁의 '브랜드 이야기, NFT']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7fc73318ce334043ae7e4b1e555ad304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토이 스토리]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[장난감보다 더 귀여운 주얼리 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6c338bbf8e1041c891d8a2ff64478525.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

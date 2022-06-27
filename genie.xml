@@ -4,7 +4,7 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 07:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 08:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 27 Jun 2022 07:12:50 GMT</pubDate>
             <content:encoded><![CDATA[가요 탐구생활]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12108/Mgz_Main_List_20220627155502.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[음악에 관한 여러 가지를 하는 공간, <아파트먼트 프란츠>]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=12107&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=12107&amp;pg=1</guid>
+            <pubDate>Mon, 27 Jun 2022 08:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12106/Mgz_Main_List_20220627141101.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이제는 하나의 색으로 자리 잡은 아티스트, 노르웨이 숲 [나의 밤, 너의 밤]]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Jun 2022 03:39:08 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12099/Mgz_Main_List_20220624100918.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 꼭 알아야 할 헤비메탈의 순간들 55화 – 툴 (Tool)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=12095&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=12095&amp;pg=1</guid>
-            <pubDate>Fri, 24 Jun 2022 03:39:08 GMT</pubDate>
-            <content:encoded><![CDATA[올댓메탈]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12095/Mgz_Main_List_20220624113833.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
