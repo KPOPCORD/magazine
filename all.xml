@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 09:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 10:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -542,10 +542,18 @@ in Dvwn (VIBE ─ 매거진)]]></title>
 이달의 소녀 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 27 Jun 2022 09:13:54 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2022 10:15:45 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 매거진! 이번에는 화사하게 꽃피운 절정의 청순미를 뽐내며 이달의 소녀가 서머 스페셜 미니 앨범 'Flip That'(플립 댓)으로 찾아왔습니다.
 멤버 각각의 솔직함을 엿볼 수 있는 무엇이든 물어보세요 매거진. 함께 만나보시죠.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220621_50/1655797071531ud8Su_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[장르가 빌리 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[괴물 아티스트 빌리 아일리시의 명곡 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2d398b3860aa4b96855f95e8c5c9eb9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[100일의  미술관 (현대카드 DIVE ─ POST)]]></title>
@@ -610,14 +618,6 @@ in Dvwn (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[스태미나 충전! 양고기 맛집 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f97845426a2d493886e40a218a2a342b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대체 불가능한  가치의 시장 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[최태혁의 '브랜드 이야기, NFT']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7fc73318ce334043ae7e4b1e555ad304.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
