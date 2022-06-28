@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 07:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 08:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이건 그냥 지나칠 수  없잖아]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[신상 맛집 #22]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/79c912123abe4655997102319eee436a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전통적인 재미]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[역대 현대카드 슈퍼콘서트 최고의 장면 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/69bf74c9335041f399fcf91f3cbad55a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드  Curated 76  김목인]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[일상의 비범한 관찰자 김목인]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b01339b899724102a096385883d623df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
