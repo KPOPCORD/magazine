@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 08:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 09:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌리는 지구를 사랑해]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[빌리 아일리시의 선한 영향력]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f78f9581bf4746ae8cc178882a0159eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[콘크리트 건물 안  식물들]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[청운동에서 재동까지, 청와대 주변 핫플 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7ec5d647227f4998aa5e185d91542556.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호텔  인 레코드]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[역사적 공간을 레노베이션한 호텔들]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c33ae0f4765b4696a273561e716bbbd5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
