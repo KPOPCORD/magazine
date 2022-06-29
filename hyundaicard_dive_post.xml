@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 09:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 10:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화계도  NFT]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[영화계에 부는 NFT 바람]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ab70e82e2274d6486546d1e0ab6daec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빌리는 지구를 사랑해]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[가장 실험적인 미술 전시 ‘카셀 도큐멘타’]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/63207edc12fd48a5884c10f1ab62a25f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청와대  가는 길]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[청운동에서 재동까지, 청와대 주변 핫플 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7ec5d647227f4998aa5e185d91542556.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
