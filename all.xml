@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 04:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 05:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -541,9 +541,17 @@ in Dvwn (VIBE ─ 매거진)]]></title>
 나연, 비욘세 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 29 Jun 2022 04:41:42 GMT</pubDate>
+            <pubDate>Wed, 29 Jun 2022 05:23:29 GMT</pubDate>
             <content:encoded><![CDATA[트와이스 첫 솔로 데뷔 나연의 새 EP, 스트리밍 차트를 뒤흔든 비욘세의 신곡까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220627_173/1656313989385FQTfF_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한여름밤의 꿀 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[캠핑의 하이라이트, 불멍을 위한 플리 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bfeb1f9225fd4441a707de669ff02d43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이건 그냥 지나칠 수  없잖아 (현대카드 DIVE ─ POST)]]></title>
@@ -608,14 +616,6 @@ in Dvwn (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[RESTART! 홍대 라이브 클럽]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b5aa3529d4024d14b8258e4b3ffd1c0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영접하라, 갓슈콘 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[역대 현대카드 슈퍼콘서트 최고의 장면 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/69bf74c9335041f399fcf91f3cbad55a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
