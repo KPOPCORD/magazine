@@ -4,9 +4,25 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 08:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 09:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흑인 문학 운동의  사색을 담은 영화]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[MoMA의 &lt;현대카드 비디오 뷰스&gt;]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4764aee619264d80829002dc74cbc378.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숙소에만 있어도 좋아]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[에펠탑 직관하기 좋은 파리 호텔 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ee7a57252f714c2a8d504b8374ea7cd8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 1세대  건축가의 작품]]></title>
             <link>javascript:;</link>
@@ -62,22 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[신상 맛집 #22]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/79c912123abe4655997102319eee436a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전통적인 재미]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[에어비앤비 전주 한옥마을 체험 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7c0cc342367f4b8d9246dc48f843745f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네가 왜  거기서 나와]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[자동차 브랜드의 라이프스타일 아이템 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aa240bffddac446a8c6f1eba37edbd0b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
