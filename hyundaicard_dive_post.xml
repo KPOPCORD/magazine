@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 07:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 08:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 1세대  건축가의 작품]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 ‘디자인 스팟, 온양민속박물관’]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/efcd29d186b640b8ab4ce4706e3b072f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[톰 삭스,  웰컴 투 서울]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[자동차 브랜드의 라이프스타일 아이템 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aa240bffddac446a8c6f1eba37edbd0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장르가 빌리]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[괴물 아티스트 빌리 아일리시의 명곡 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2d398b3860aa4b96855f95e8c5c9eb9f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
