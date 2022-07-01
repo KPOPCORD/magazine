@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 23:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 08:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 레어 북 들여다보기 #9]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e435ccb0d9ac410096e1b3494dafc856.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름을  마셔봐]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[테라스가 있는 와인 바 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aa84eb3b0c704e8e8a01145eb0e89f83.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[놀면 놀수록 터지는 POP!]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[DIVE POP 론칭]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/beaec3f50d9f4aa3902de78b72a895a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[관능적이고도  낙관적인 세계]]></title>
@@ -62,22 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 7월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1ed5a742fa2c494ba27a772838349d93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흑인 문학 운동의  사색을 담은 영화]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[MoMA의 &lt;현대카드 비디오 뷰스&gt;]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4764aee619264d80829002dc74cbc378.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숙소에만 있어도 좋아]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[에펠탑 직관하기 좋은 파리 호텔 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ee7a57252f714c2a8d504b8374ea7cd8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
