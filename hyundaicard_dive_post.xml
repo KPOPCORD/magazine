@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 03:31:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 04:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일에 대한 엉뚱하고도 영민한 상상]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[모베러웍스 모춘, 소호의 홈 오피스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d01e1972c05e4958978bf09c39087771.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하와이로 갈  결심]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 7월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c5ac70999c3b432bb00b86981ac21335.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상에 없던 음악]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 7월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1199da306faa4d3789e7b9400e053d7e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
