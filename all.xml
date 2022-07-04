@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 09:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 10:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -429,6 +429,15 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12128/Mgz_Main_List_20220701105604.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
+            <title><![CDATA[드레이크의 
+하우스 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62137</link>
+            <guid>https://vibe.naver.com/magazines/62137</guid>
+            <pubDate>Mon, 04 Jul 2022 10:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.30]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220630_176/1656569158833pBGo1_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이주의 디깅 #137 
 나연 (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/62134</link>
@@ -453,7 +462,7 @@
             <guid>https://vibe.naver.com/magazines/62136</guid>
             <pubDate>Wed, 29 Jun 2022 10:14:53 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.29]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220629_275/16564835067669qydi_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII="/>
         </item>
         <item>
             <title><![CDATA[New Release #98 : 
@@ -528,22 +537,21 @@ Lapillus(라필루스) (VIBE ─ 매거진)]]></title>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII="/>
         </item>
         <item>
-            <title><![CDATA[사랑과 갈등 사이 : 
-화제의 예능 BGM (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62122</link>
-            <guid>https://vibe.naver.com/magazines/62122</guid>
-            <pubDate>Mon, 13 Jun 2022 10:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-103cea08="" class="blind">작성일</span> 2022.06.09]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII="/>
-        </item>
-        <item>
-            <title><![CDATA[드레이크의 
-하우스 (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[New Release #99 : 
+카디비, 선미 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 04 Jul 2022 09:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[이제는 자타가 공인하는 슈퍼스타 드레이크. 드레이크는 앨범마다 각종 기록을 경신하며 대중음악의 트렌드를 선도하고 있는 아티스트다. 그런 드레이크가 기습적으로 일곱 번째 앨범 &lt;Honestly, Nevermind&gt;를 발표했다. 드레이크는 이번 앨범에서 랩 보다도 노래에 더욱 주력했다. 그렇다면 드레이크의 이번 앨범은 어떤 감상 포인트가 있을까? – 힙합엘이]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220630_109/16565691609042VWKO_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <pubDate>Mon, 04 Jul 2022 10:26:15 GMT</pubDate>
+            <content:encoded><![CDATA[팝계 최대 화제를 몰고 온 카디 비, 새 싱글로 돌아온 선미까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220704_13/1656922246642P2fXs_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소리도  NFT가 되나요? (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[NFT 기술을 접목한 ‘소리’의 유형 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/db01c06d64bb4ce79d0f5f0b1673be69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서머  바캉스! (현대카드 DIVE ─ POST)]]></title>
@@ -608,14 +616,6 @@ Lapillus(라필루스) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[DIVE POP 론칭]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/beaec3f50d9f4aa3902de78b72a895a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관능적이고도  낙관적인 세계 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[7월의 디자이너 카림 라시드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a656103fcec84b4a841765b856c3a890.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
