@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 08:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 09:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,6 +365,22 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[LAS (라스) 두 번째 싱글 [Everywhere] LIVE CLIP 촬영 ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12134&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12134&amp;pg=1</guid>
+            <pubDate>Mon, 04 Jul 2022 09:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12134/Mgz_Main_List_20220704140121.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[‘글로벌 K-팝 라이징 스타’ ENHYPEN, [MANIFESTO : DAY ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12132&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12132&amp;pg=1</guid>
+            <pubDate>Mon, 04 Jul 2022 09:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12132/Mgz_Main_List_20220704154505.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[A.TRAIN (에이트레인) [줘도 안 가질 보물] MV 촬영 비하인드 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12131&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12131&amp;pg=1</guid>
@@ -411,22 +427,6 @@
             <pubDate>Fri, 01 Jul 2022 08:17:41 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12128/Mgz_Main_List_20220701105604.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어게인2 TOP10 전국투어 콘서트 – 서울앵콜 초대 이벤트! (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=12119&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=12119&amp;pg=1</guid>
-            <pubDate>Fri, 01 Jul 2022 08:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[공연]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12119/Mgz_Main_List_20220629153844.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[프루던스 (Prudence) [Roller-Skate] LYRIC VIDEO ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12126&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12126&amp;pg=1</guid>
-            <pubDate>Thu, 30 Jun 2022 09:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12125/Mgz_Main_List_20220630105737.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #137 
@@ -541,7 +541,7 @@ Lapillus(라필루스) (VIBE ─ 매거진)]]></title>
 하우스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 04 Jul 2022 08:27:22 GMT</pubDate>
+            <pubDate>Mon, 04 Jul 2022 09:23:12 GMT</pubDate>
             <content:encoded><![CDATA[이제는 자타가 공인하는 슈퍼스타 드레이크. 드레이크는 앨범마다 각종 기록을 경신하며 대중음악의 트렌드를 선도하고 있는 아티스트다. 그런 드레이크가 기습적으로 일곱 번째 앨범 &lt;Honestly, Nevermind&gt;를 발표했다. 드레이크는 이번 앨범에서 랩 보다도 노래에 더욱 주력했다. 그렇다면 드레이크의 이번 앨범은 어떤 감상 포인트가 있을까? – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220630_109/16565691609042VWKO_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
