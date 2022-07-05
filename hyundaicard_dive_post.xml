@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 04:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 05:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수영장으로 체크인]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[수영장 맛집으로 소문난 전국 호텔 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/282377be78f0460f97fd7cc892dec6d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소리도  NFT가 되나요?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[테라스가 있는 와인 바 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aa84eb3b0c704e8e8a01145eb0e89f83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[놀면 놀수록 터지는 POP!]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[DIVE POP 론칭]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/beaec3f50d9f4aa3902de78b72a895a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
