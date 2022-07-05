@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 06:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 07:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -541,9 +541,17 @@ Lapillus(라필루스) (VIBE ─ 매거진)]]></title>
 카디비, 선미 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 05 Jul 2022 06:17:44 GMT</pubDate>
+            <pubDate>Tue, 05 Jul 2022 07:13:26 GMT</pubDate>
             <content:encoded><![CDATA[팝계 최대 화제를 몰고 온 카디 비, 새 싱글로 돌아온 선미까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220704_13/1656922246642P2fXs_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하우스 뉴 패밀리십 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 수장을 영입한 브랜드 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/400d4ee5b4fc4d2b86c144d9495911d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수영장으로 체크인 (현대카드 DIVE ─ POST)]]></title>
@@ -608,14 +616,6 @@ Lapillus(라필루스) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 레어 북 들여다보기 #9]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e435ccb0d9ac410096e1b3494dafc856.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름을  마셔봐 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[테라스가 있는 와인 바 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aa84eb3b0c704e8e8a01145eb0e89f83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
