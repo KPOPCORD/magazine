@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 09:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 10:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -541,9 +541,17 @@ Lapillus(라필루스) (VIBE ─ 매거진)]]></title>
 우리의 시간을 축하해 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 06 Jul 2022 09:14:45 GMT</pubDate>
+            <pubDate>Wed, 06 Jul 2022 10:22:58 GMT</pubDate>
             <content:encoded><![CDATA[25년간 현역인 밴드, 자우림의 25주년을 축하하려다 보니 자우림의 음악에 울고 웃고 사랑하고 위로받은 우리들의 시간을 자축하고 싶어졌다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220705_23/1657005935906U6kqp_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자기만의 방 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[마케터 홍안의 자신을 위한 공간]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d025b5ceefc94b36b773020e5032598a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시작은  베트남 (현대카드 DIVE ─ POST)]]></title>
@@ -608,14 +616,6 @@ Lapillus(라필루스) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[MZ세대를 위한 스윔웨어 브랜드 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b333089408c04868bf71f94754378b27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[댄스  투 더 뮤직 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 7월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f24b24cef71747e1bb1822ea3bc4436f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
