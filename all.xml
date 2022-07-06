@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 04:44:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 05:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -541,9 +541,17 @@ Lapillus(라필루스) (VIBE ─ 매거진)]]></title>
 카디비, 선미 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 06 Jul 2022 04:44:11 GMT</pubDate>
+            <pubDate>Wed, 06 Jul 2022 05:25:08 GMT</pubDate>
             <content:encoded><![CDATA[팝계 최대 화제를 몰고 온 카디 비, 새 싱글로 돌아온 선미까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220704_13/1656922246642P2fXs_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[취향으로 물 들이는  여름 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[7월의 현대카드 컬처 캘린더]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/698a023fefc646b6b9475eb698fccdfe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반짝반짝 여름의 맛 (현대카드 DIVE ─ POST)]]></title>
@@ -608,14 +616,6 @@ Lapillus(라필루스) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[모베러웍스 모춘, 소호의 홈 오피스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d01e1972c05e4958978bf09c39087771.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하와이로 갈  결심 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[무더위엔 해변으로, 하와이 핫 스팟 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/68051a0c1e7a4212828c62c8340b59a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
