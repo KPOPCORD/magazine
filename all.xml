@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 08:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 09:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,6 +365,30 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[내 고막에 와인 한잔 같은 사운드, ‘Abroad’의 [Departure] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12152&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12152&amp;pg=1</guid>
+            <pubDate>Thu, 07 Jul 2022 09:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12151/Mgz_Main_List_20220706174048.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[FUN하고 DYNAMIC하게 돌아온 MCND [THE EARTH : SECRE... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12147&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12147&amp;pg=1</guid>
+            <pubDate>Thu, 07 Jul 2022 09:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12147/Mgz_Main_List_20220707171419.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[허성현 (Huh) [926] 발매 인터뷰 “9 to 6” (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12140&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12140&amp;pg=1</guid>
+            <pubDate>Thu, 07 Jul 2022 09:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12140/Mgz_Main_List_20220707171250.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[올 여름은 클래식과 함께, 신비롭고 오싹한 클래식 모음 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12149&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12149&amp;pg=1</guid>
@@ -403,30 +427,6 @@
             <pubDate>Wed, 06 Jul 2022 09:14:28 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12144/Mgz_Main_List_20220706142915.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 오빠들! 밴드 ‘사거리 그오빠’ [LOVE LINE] 자켓 촬영현장 비... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12141&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12141&amp;pg=1</guid>
-            <pubDate>Wed, 06 Jul 2022 09:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12141/Mgz_Main_List_20220706142406.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[초여름의 청량함, 유채훈(LA POEM) 솔로 미니앨범 [Podium] 재킷 ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12139&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12139&amp;pg=1</guid>
-            <pubDate>Wed, 06 Jul 2022 09:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12139/Mgz_Main_List_20220706172024.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[세월이 지나도 기본 클래스는 사라지지 않아. '빛과 소금' 외 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=12143&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=12143&amp;pg=1</guid>
-            <pubDate>Wed, 06 Jul 2022 03:46:08 GMT</pubDate>
-            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12143/Mgz_Main_List_20220706120216.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #99 : 
@@ -541,9 +541,17 @@ Lapillus(라필루스) (VIBE ─ 매거진)]]></title>
 우리의 시간을 축하해 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 07 Jul 2022 08:18:10 GMT</pubDate>
+            <pubDate>Thu, 07 Jul 2022 09:13:41 GMT</pubDate>
             <content:encoded><![CDATA[25년간 현역인 밴드, 자우림의 25주년을 축하하려다 보니 자우림의 음악에 울고 웃고 사랑하고 위로받은 우리들의 시간을 자축하고 싶어졌다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220705_23/1657005935906U6kqp_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신의 외힙 교과서 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;롤링스톤&gt; 가장 위대한 힙합 앨범 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/64be669edbff49b48fea97aca3c00ada.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만  고양이 없어 (현대카드 DIVE ─ POST)]]></title>
@@ -608,14 +616,6 @@ Lapillus(라필루스) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[새로운 수장을 영입한 브랜드 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/400d4ee5b4fc4d2b86c144d9495911d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수영장으로 체크인 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[수영장 맛집으로 소문난 전국 호텔 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/282377be78f0460f97fd7cc892dec6d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
