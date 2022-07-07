@@ -4,15 +4,23 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 06:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 08:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나만  고양이 없어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[반려묘를 위한 인테리어 가구]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/99b455c43bed4a91b92cb86a2ef28fbf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 세계에 로그인할 시간]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[게이머를 위한 복지, 넥슨X현대카드]]></content:encoded>
+            <content:encoded><![CDATA[넥슨 현대카드]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/09a562f5ed6f43b099cb52f6bcbcc395.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[수영장 맛집으로 소문난 전국 호텔 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/282377be78f0460f97fd7cc892dec6d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소리도  NFT가 되나요?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[NFT 기술을 접목한 ‘소리’의 유형 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/db01c06d64bb4ce79d0f5f0b1673be69.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
