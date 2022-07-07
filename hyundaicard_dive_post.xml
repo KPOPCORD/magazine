@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 04:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 05:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 세계에 로그인할 시간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[게이머를 위한 복지, 넥슨X현대카드]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/09a562f5ed6f43b099cb52f6bcbcc395.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자기만의 방]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[NFT 기술을 접목한 ‘소리’의 유형 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/db01c06d64bb4ce79d0f5f0b1673be69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서머  바캉스!]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[MZ세대를 위한 스윔웨어 브랜드 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b333089408c04868bf71f94754378b27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
