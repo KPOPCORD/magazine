@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 03:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 04:36:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,6 +365,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[다시 ‘aespa’에게 빠질 시간, 미니 2집 Girls 공개 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12154&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12154&amp;pg=1</guid>
+            <pubDate>Fri, 08 Jul 2022 04:35:57 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12154/Mgz_Main_List_20220708104044.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[KT와 함께하는 예술의전당 “마음을 담은 클래식” 7월 공연 미리보기 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12157&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12157&amp;pg=1</guid>
@@ -419,14 +427,6 @@
             <pubDate>Thu, 07 Jul 2022 09:13:24 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12140/Mgz_Main_List_20220707171250.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[올 여름은 클래식과 함께, 신비롭고 오싹한 클래식 모음 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12149&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12149&amp;pg=1</guid>
-            <pubDate>Thu, 07 Jul 2022 03:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12148/Mgz_Main_List_20220706144541.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #99 : 
@@ -541,7 +541,7 @@ Lapillus(라필루스) (VIBE ─ 매거진)]]></title>
 우리의 시간을 축하해 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 08 Jul 2022 03:40:44 GMT</pubDate>
+            <pubDate>Fri, 08 Jul 2022 04:36:14 GMT</pubDate>
             <content:encoded><![CDATA[25년간 현역인 밴드, 자우림의 25주년을 축하하려다 보니 자우림의 음악에 울고 웃고 사랑하고 위로받은 우리들의 시간을 자축하고 싶어졌다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220705_23/1657005935906U6kqp_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
