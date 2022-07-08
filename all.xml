@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 05:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 06:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -541,7 +541,7 @@ Lapillus(라필루스) (VIBE ─ 매거진)]]></title>
 우리의 시간을 축하해 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 08 Jul 2022 05:21:04 GMT</pubDate>
+            <pubDate>Fri, 08 Jul 2022 06:18:07 GMT</pubDate>
             <content:encoded><![CDATA[25년간 현역인 밴드, 자우림의 25주년을 축하하려다 보니 자우림의 음악에 울고 웃고 사랑하고 위로받은 우리들의 시간을 자축하고 싶어졌다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220705_23/1657005935906U6kqp_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
@@ -610,12 +610,12 @@ Lapillus(라필루스) (VIBE ─ 매거진)]]></title>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/24c549efa4ce4f07b570b6215d4ed860.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다이슨만 있는 게  아니야 (현대카드 DIVE ─ POST)]]></title>
+            <title><![CDATA[뜨거운 열기의 이 순간 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[프리미엄 헤어드라이어 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/07b641fddeb94deaa93f4e36348919d0.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[언더스테이지 대관공연 7월 라인업]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd72dd488db146c0b05baa0b95e37369.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

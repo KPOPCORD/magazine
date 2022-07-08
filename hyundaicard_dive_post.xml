@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 05:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 06:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,12 +72,12 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/24c549efa4ce4f07b570b6215d4ed860.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다이슨만 있는 게  아니야]]></title>
+            <title><![CDATA[뜨거운 열기의 이 순간]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[프리미엄 헤어드라이어 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/07b641fddeb94deaa93f4e36348919d0.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[언더스테이지 대관공연 7월 라인업]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd72dd488db146c0b05baa0b95e37369.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
