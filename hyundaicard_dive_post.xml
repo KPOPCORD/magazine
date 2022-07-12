@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 03:56:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 04:58:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사진가의 시선]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 7월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1ed5a742fa2c494ba27a772838349d93.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기이하고 아름다워]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[여름에 생각나는 타코 맛집 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5d199181e69847358e8334e7303b55f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 외힙 교과서]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;롤링스톤&gt; 가장 위대한 힙합 앨범 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/64be669edbff49b48fea97aca3c00ada.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
