@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 01:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 03:49:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쓱~ 화려한 컴백]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[SSG.COM카드 Editon2]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cf5c547305774f68bfea61983bee93b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힙합엔  얼터너티브가 필요해]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[＜Pervasive Light＞딥다이브 #1]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7711e35ffaf44fb1bf2682a9e32a72b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그냥 그런 빙수 말고]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[이색적인 빙수 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/23e87859d62a44a0929eb0e8f9aa2ec0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
