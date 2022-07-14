@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 03:49:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 04:45:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나의 축제 일지]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[평범함을 거부하는 이색 여름 축제 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8d1d73a16d65413881105db362ac33bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쓱~ 화려한 컴백]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[Artist Inside: 빌리 아일리시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c16d804a09b04602ab8751d105db13fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마틴 심스의  시적인 영상 에세이]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[＜Pervasive Light＞딥다이브 #1]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7711e35ffaf44fb1bf2682a9e32a72b0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
