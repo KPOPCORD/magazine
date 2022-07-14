@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 05:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 06:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조용한  하룻밤이  필요할 때]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 ‘디자인 스팟, 고성 서로재’]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0b54bee5c761424bb9b750826cbcb057.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나의 축제 일지]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 7월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1ed5a742fa2c494ba27a772838349d93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기이하고 아름다워]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[Artist Inside: 빌리 아일리시]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c16d804a09b04602ab8751d105db13fa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
