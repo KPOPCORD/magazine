@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 05:44:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 06:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 바로 팔로잉]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[패션계 화제의 아티스트 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/01874f8a423c4cfc919b7e798dc9a5d1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[향기로  기억되는  공간]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[힙하디힙한 업사이클링 스팟 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2132545a40324779acea32a130fc2aa5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조형의 새 얼굴]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[7월에 꼭 봐야 할 전시 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/88e3dcf838214430b4f04df70fa241ad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
