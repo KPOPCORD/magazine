@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 03:54:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 05:00:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[향기로  기억되는  공간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 브랜드 스페이스 시그니처 향 개발]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/00211d9b71fd4332938a59c1708daacf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플이 ‘엄지 척’한  최고의 앱]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[7월에 꼭 봐야 할 전시 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/88e3dcf838214430b4f04df70fa241ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[땅끝까지  가봤니]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[해남 여행 필수 발도장 코스 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0427ad8d96534bec980f80181cb33614.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
