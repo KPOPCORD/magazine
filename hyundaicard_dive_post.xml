@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 08:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 09:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아무거나  소장할 순 없으니까]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[세상 쉬운 NFT 고급 편, #2 가치평가]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2805c678e5b0464894f5c515af914dba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카페에  진심이야]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[DIVE와 넉살ｘ까데호의 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2daaa273616b470493b36fbda2eb803d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[할리우드의 NFT 홀릭]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[NFT를 사랑한 셀럽들]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f4bd4a3749aa44e1958d83de2c354a25.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
