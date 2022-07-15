@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 07:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 08:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카페에  진심이야]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[나만 아는 동네 #24 대구 교동]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/32726f8cf3734f3d90fe20ecf10f9ecc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 바로 팔로잉]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[NFT를 사랑한 셀럽들]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f4bd4a3749aa44e1958d83de2c354a25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버려진 곳  다시 가기]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[힙하디힙한 업사이클링 스팟 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2132545a40324779acea32a130fc2aa5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

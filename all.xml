@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 07:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 08:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -541,9 +541,17 @@ Lapillus(라필루스) (VIBE ─ 매거진)]]></title>
 찬란한 서머송 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 15 Jul 2022 07:14:02 GMT</pubDate>
+            <pubDate>Fri, 15 Jul 2022 08:18:09 GMT</pubDate>
             <content:encoded><![CDATA[여름이 아무리 더워봤자, 돌아온 프로미스나인은 청량함만 가득하다. 지금 현재를, 모든 순간을 즐기는 프로미스나인에게 새 앨범을 준비하며 새로 쌓인 추억들과 앞으로 만들고 싶은 새 발걸음에 대해 물었다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220713_5/16576928888076oeLk_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카페에  진심이야 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[나만 아는 동네 #24 대구 교동]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/32726f8cf3734f3d90fe20ecf10f9ecc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금 바로 팔로잉 (현대카드 DIVE ─ POST)]]></title>
@@ -608,14 +616,6 @@ Lapillus(라필루스) (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[NFT를 사랑한 셀럽들]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f4bd4a3749aa44e1958d83de2c354a25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버려진 곳  다시 가기 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[힙하디힙한 업사이클링 스팟 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2132545a40324779acea32a130fc2aa5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
