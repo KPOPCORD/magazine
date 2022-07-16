@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 03:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 04:26:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공원 예찬]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[세계적 도시들의 녹지화 계획]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8970a1b443dc49f4aaa3af78b1335791.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아무거나  소장할 순 없으니까]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[SSG.COM카드 Editon2]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cf5c547305774f68bfea61983bee93b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙합엔  얼터너티브가 필요해]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[DIVE와 넉살ｘ까데호의 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2daaa273616b470493b36fbda2eb803d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
