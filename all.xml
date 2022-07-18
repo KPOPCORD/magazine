@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 08:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 09:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,6 +365,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[다른 이의 발길이 닿지 않은, 세상에서 가장 높은 미지의 정상 [SECTOR ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12190&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12190&amp;pg=1</guid>
+            <pubDate>Mon, 18 Jul 2022 09:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12190/Mgz_Main_List_20220718160930.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[나에게 보내는 신호, meeruu(미루)의 첫 EP [Signal] 발매 기념... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12192&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12192&amp;pg=1</guid>
@@ -419,14 +427,6 @@
             <pubDate>Fri, 15 Jul 2022 03:54:04 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12183/Mgz_Main_List_20220715102833.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[힙합사의 결정적인 순간을 장식한 싱글들 56화 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12181&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12181&amp;pg=1</guid>
-            <pubDate>Fri, 15 Jul 2022 03:54:04 GMT</pubDate>
-            <content:encoded><![CDATA[힙알사전]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12181/Mgz_Main_List_20220715111208.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[아프로팝의 문익점들 : 
@@ -541,9 +541,17 @@ j-hope (VIBE ─ 매거진)]]></title>
 ITZY, 리조 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 18 Jul 2022 08:18:32 GMT</pubDate>
+            <pubDate>Mon, 18 Jul 2022 09:14:16 GMT</pubDate>
             <content:encoded><![CDATA[4세대 K팝 걸그룹 ITZY, 발매 전부터 기대를 모은 리조까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220718_180/1658131382803DQRjj_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바니바니  당근당근 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[NFT로 새롭게 태어난 플레이보이]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a3738655606e40ea86418db0bb8db3ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다 먹었니?  그럼 살 빼자! (현대카드 DIVE ─ POST)]]></title>
@@ -608,14 +616,6 @@ ITZY, 리조 (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[올해 ‘애플 디자인 어워즈’를 수상한 앱 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/15ae9daf68f94d619c1366e8a9a80651.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조용한  하룻밤이  필요할 때 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[전은경의 ‘디자인 스팟, 고성 서로재’]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0b54bee5c761424bb9b750826cbcb057.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
