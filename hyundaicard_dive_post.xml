@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 08:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 09:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[촌캉스  갈래]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[하룻밤 묵고 싶은 시골집 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/00f34c281322423cb0d9345796d106df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서머 뮤직  라이브]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #24 대구 교동]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/32726f8cf3734f3d90fe20ecf10f9ecc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 바로 팔로잉]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[패션계 화제의 아티스트 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/01874f8a423c4cfc919b7e798dc9a5d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
