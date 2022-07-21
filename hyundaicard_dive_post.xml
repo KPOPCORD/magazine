@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 08:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 09:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아메리칸  아티스트가  경고한 미래]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[＜Pervasive Light＞ 딥다이브 #2]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02c3b213da3d475d8bfff3724153415e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팬 하나로 완성]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 슈퍼콘서트 티켓의 주인공은 누구?]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ad6f2c32e2a84b86aff58cdec2c40f81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바니바니  당근당근]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[NFT로 새롭게 태어난 플레이보이]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a3738655606e40ea86418db0bb8db3ea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
