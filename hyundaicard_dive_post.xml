@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 06:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 07:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키치함과 엘레강스 사이 어디쯤]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[빌리 아일리시의 스타일 에볼루션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/792442a98b31416f9152ca750ae4eb82.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사색의 정원을 내 손안에 쏙!]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[하룻밤 묵고 싶은 시골집 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/00f34c281322423cb0d9345796d106df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서머 뮤직  라이브]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[왓챠에서 만나요, 슈스의 공연 실황]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1b4a7b0ae8c34acab7dab343a4b84ffe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
