@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 04:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 05:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -541,9 +541,17 @@ j-hope (VIBE ─ 매거진)]]></title>
 Xdinary Heroes (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 04:41:37 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 05:23:23 GMT</pubDate>
             <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 이 무더운 여름을 시원하게 만들어 줄 아티스트는 특별한 연주실력과 함께 누구나 히어로가 될 수 있다고 외치는 차세대 K-POP 대표 밴드 그룹, Xdinary Heroes 입니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220719_208/1658214880102FmyA5_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[사색의 정원을 내 손안에 쏙! (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[장-미셸 오토니엘 전시 굿즈 증정 이벤트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/58987125e9aa4b6fa5084db9dbdec21a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아메리칸  아티스트가  경고한 미래 (현대카드 DIVE ─ POST)]]></title>
@@ -608,14 +616,6 @@ Xdinary Heroes (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[왓챠에서 만나요, 슈스의 공연 실황]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1b4a7b0ae8c34acab7dab343a4b84ffe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌리 아일리시 팬아트 챌린지 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 슈퍼콘서트 티켓의 주인공은 누구?]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ad6f2c32e2a84b86aff58cdec2c40f81.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
