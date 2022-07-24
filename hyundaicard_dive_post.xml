@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 03:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 04:30:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현재진행형 레전드]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[창작을 멈추지 않는 거장들의 컴백]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e45217dbaa9b4545b95071f16790c736.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[막걸리의  다른 이름은  라이스 와인]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[매울수록 좋아! 맵부심 뿜뿜 하는 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/811ecf183c62431085ece005400b6d31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금  너 뭐 듣니?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[월드와이드 스트리트 큐레이션 콘텐츠]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/73cf98f801d04a1986815bb6333dfc4b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
