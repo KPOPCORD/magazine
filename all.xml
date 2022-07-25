@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 03:44:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 04:44:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -542,9 +542,17 @@ j-hope (VIBE ─ 매거진)]]></title>
 Xdinary Heroes (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 25 Jul 2022 03:43:50 GMT</pubDate>
+            <pubDate>Mon, 25 Jul 2022 04:44:33 GMT</pubDate>
             <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 이 무더운 여름을 시원하게 만들어 줄 아티스트는 특별한 연주실력과 함께 누구나 히어로가 될 수 있다고 외치는 차세대 K-POP 대표 밴드 그룹, Xdinary Heroes 입니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220719_208/1658214880102FmyA5_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[세상에 없던 음악 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 7월의 새 음반]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1199da306faa4d3789e7b9400e053d7e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현재진행형 레전드 (현대카드 DIVE ─ POST)]]></title>
@@ -609,14 +617,6 @@ Xdinary Heroes (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
             <content:encoded><![CDATA[무과수의 CASA GONGGREEM]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/24f77ce5067441988caf23d4588da91e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매워도  다시 한번 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 07:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[매울수록 좋아! 맵부심 뿜뿜 하는 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/811ecf183c62431085ece005400b6d31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
