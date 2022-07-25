@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 01:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 03:44:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315144028_10.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[용이 - 12년차 트롯 가수와 신인 배우의 K- POP 아이돌 도전기, '빛이나는 그대' M/V 비하인드 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/YXG15RWRTCBUMU5W52JB?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/YXG15RWRTCBUMU5W52JB?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 25 Jul 2022 03:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/YXG15RWRTCBUMU5W52JB/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2022년 7월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
@@ -358,11 +366,28 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RC91LURSHOZ4AEMC4E8Y/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팝송으로 배우는 영어! 57. Shawn Mendes - 'When You're Gone' (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/FFTWKX0RT4KO9X7GKNIT?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/FFTWKX0RT4KO9X7GKNIT?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 21 Apr 2022 05:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+            <title><![CDATA[12년차 트롯 가수와 신인 배우의 K- Pop 아이돌 도전기! 용이 [빛이나는... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12211&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12211&amp;pg=1</guid>
+            <pubDate>Mon, 25 Jul 2022 03:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12211/Mgz_Main_List_20220725112230.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[감각적인 MPC 플레이어 'STUTS', ＜2022 펜타포트 락 페스티벌＞ 내... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12210&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12210&amp;pg=1</guid>
+            <pubDate>Mon, 25 Jul 2022 03:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12210/Mgz_Main_List_20220725110958.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[비일상적인 꿈을 펼치며, <나는 고래> 전시 & 서울스카이 초대 이벤트 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=12209&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=17&amp;mgz_seq=12209&amp;pg=1</guid>
+            <pubDate>Mon, 25 Jul 2022 03:43:33 GMT</pubDate>
+            <content:encoded><![CDATA[영화/전시]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12209/Mgz_Main_List_20220722112749.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[현대적 펑크(Funk) 그루브 사운드의 간판, 'Trombone Shorty'... (지니 ─ 매거진)]]></title>
@@ -403,30 +428,6 @@
             <pubDate>Thu, 21 Jul 2022 09:13:57 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12199/Mgz_Main_List_20220721110317.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[천재들의 등용문, 콩쿠르와 피아니스트 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12204&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12204&amp;pg=1</guid>
-            <pubDate>Thu, 21 Jul 2022 03:38:04 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12204/Mgz_Main_List_20220721104056.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[기타리스트 박지형 두 번째 앨범 [Homage to Schubert] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12203&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12203&amp;pg=1</guid>
-            <pubDate>Thu, 21 Jul 2022 03:38:04 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12203/Mgz_Main_List_20220721102102.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[zin 싱글 앨범 [never know] 뮤직비디오, 프로필 촬영 현장 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12198&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12198&amp;pg=1</guid>
-            <pubDate>Thu, 21 Jul 2022 03:38:04 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12198/Mgz_Main_List_20220721110204.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[낯선 이들에게 건네는 
@@ -541,7 +542,7 @@ j-hope (VIBE ─ 매거진)]]></title>
 Xdinary Heroes (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 25 Jul 2022 01:10:16 GMT</pubDate>
+            <pubDate>Mon, 25 Jul 2022 03:43:50 GMT</pubDate>
             <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 이 무더운 여름을 시원하게 만들어 줄 아티스트는 특별한 연주실력과 함께 누구나 히어로가 될 수 있다고 외치는 차세대 K-POP 대표 밴드 그룹, Xdinary Heroes 입니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220719_208/1658214880102FmyA5_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
         </item>

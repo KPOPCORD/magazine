@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 01:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 03:44:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[용이 - 12년차 트롯 가수와 신인 배우의 K- POP 아이돌 도전기, '빛이나는 그대' M/V 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/YXG15RWRTCBUMU5W52JB?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/YXG15RWRTCBUMU5W52JB?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 25 Jul 2022 03:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/YXG15RWRTCBUMU5W52JB/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2022년 7월 노래 모음!]]></title>
             <link>https://music.bugs.co.kr/musicpost/AUN1H8071QFDN4RWQ5KL?&amp;wl_ref=list_sp_01_h</link>
@@ -185,13 +193,6 @@
             <pubDate>Thu, 21 Apr 2022 03:23:16 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RC91LURSHOZ4AEMC4E8Y/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝송으로 배우는 영어! 57. Shawn Mendes - 'When You're Gone']]></title>
-            <link>https://music.bugs.co.kr/musicpost/FFTWKX0RT4KO9X7GKNIT?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/FFTWKX0RT4KO9X7GKNIT?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 21 Apr 2022 05:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
