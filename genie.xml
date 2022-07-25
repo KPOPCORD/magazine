@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 07:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 08:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가요 탐구생활 ＃44 - 깜짝 만남: 아이돌 X 해외 뮤지션]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=12218&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=12218&amp;pg=1</guid>
+            <pubDate>Mon, 25 Jul 2022 08:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[가요 탐구생활]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12218/Mgz_Main_List_20220725171330.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[12년차 트롯 가수와 신인 배우의 K- Pop 아이돌 도전기! 용이 [빛이나는...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12211&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Jul 2022 03:47:34 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12205/Mgz_Main_List_20220722102456.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[공감과 위로를 끌어내는 두 보컬의 만남, 김은영x오세웅 [각자의 자리, 각자의...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12199&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12199&amp;pg=1</guid>
-            <pubDate>Thu, 21 Jul 2022 09:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12199/Mgz_Main_List_20220721110317.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>

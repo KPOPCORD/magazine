@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 07:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 08:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NFT를 여행하는  컬렉터를 위한 안내서]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[NFT 큐레이토리얼 그룹, 더 파이브 콜렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/903f9995730e427c99e1d85b4ba3e5c2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세상에 없던 음악]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[＜Pervasive Light＞ 딥다이브 #2]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02c3b213da3d475d8bfff3724153415e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬 하나로 완성]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 X 휘슬러 쿠킹 클래스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/900dcca1eb5242fc8ed103d95797a917.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
