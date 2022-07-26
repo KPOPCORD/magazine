@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 06:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 07:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나 심슨 좋아하네]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니플러스가 품은 ‘심슨’은 무엇?]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c93bed372e3a4b9ca1bc7c6759c22328.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[큐레이터가  고른 물건]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[세상 쉬운 NFT 고급 편, #3 N차거래]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/11019040b36040e9aa7bee48fbbec57d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드  Curated 77  너드커넥션]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 밴드의 시대를 열 주역]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7ec519f921cc4d0a8a93fe4225d5fe95.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
