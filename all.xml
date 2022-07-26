@@ -4,9 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 13:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 14:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BLANK2Y COVER STORY (빌보드 코리아 ─ 뉴스)]]></title>
+            <link>http://billboard.co.kr/main/news/view/823</link>
+            <guid>http://billboard.co.kr/main/news/view/823</guid>
+            <pubDate>Tue, 26 Jul 2022 14:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/main/news/view/823">
+								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
+                                <div class="img-boxs">
+                                    <div class="img-con">
+								        <img src="/upload_data/board/simg/20220726225805_2.jpg" alt="BLANK2Y COVER STORY" style="width:100%;">
+                                    </div>
+                                </div>
+								<div class="txt">
+									<span>BLANK2Y COVER STORY</span>
+									<div class="sub_title"></div>
+								</div>
+							</a>]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220726225805_2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들 ‘TOMBOY’, 빌보드 케이팝 100 차트 2주 연속 1위 (빌보드 코리아 ─ 뉴스)]]></title>
             <link>http://billboard.co.kr/main/news/view/822</link>
@@ -158,25 +177,6 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165749_4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HOT SHOT DEBUT] 3월 12일 자 차트에 데뷔한 신곡 (빌보드 코리아 ─ 뉴스)]]></title>
-            <link>http://billboard.co.kr/main/news/view/811</link>
-            <guid>http://billboard.co.kr/main/news/view/811</guid>
-            <pubDate>Tue, 15 Mar 2022 07:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/main/news/view/811">
-								<!-- <span class="label_crown"><img src="../images/main2/label_crown.png" alt="라벨"></span> -->
-                                <div class="img-boxs">
-                                    <div class="img-con">
-								        <img src="/upload_data/board/simg/20220315144028_10.png" alt="[HOT SHOT DEBUT] 3월 12일 자 차트에 데뷔한 신곡" style="width:100%;">
-                                    </div>
-                                </div>
-								<div class="txt">
-									<span>[HOT SHOT DEBUT] 3월 12일 자 차트에 데뷔한 신곡</span>
-									<div class="sub_title"></div>
-								</div>
-							</a>]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315144028_10.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[선예 - [Genuine] Lead Single 'Glass Heart' Live Clip 촬영 현장 공개! (벅스 ─ 뮤직포스트)]]></title>
@@ -542,7 +542,7 @@ j-hope (VIBE ─ 매거진)]]></title>
 WSG 워너비 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 26 Jul 2022 13:38:06 GMT</pubDate>
+            <pubDate>Tue, 26 Jul 2022 14:13:31 GMT</pubDate>
             <content:encoded><![CDATA[MBC의 간판 예능 프로그램으로 자리 잡은 &lt;놀면 뭐하니&gt;. 색다른 캐릭터를 선보이며 독특한 세계관을 구축하고 있다. 최근 프로그램에서 화제가 된 그룹이 있으니. 바로 여섯 번째 음악 장기 프로젝트의 일환으로 출범된 WSG 워너비다. 그렇다면 이주의 디깅에서는 최고의 화제성을 자랑하고 있는 WSG 워너비와 함께 여러 음악을 들어보도록 하자. – 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220726_133/16588181057168oQMk_JPEG/%C0%CC%C1%D6%C0%C7_%B5%F0%B1%EB.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
