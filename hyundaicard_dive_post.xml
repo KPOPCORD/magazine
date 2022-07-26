@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 04:04:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 05:37:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[큐레이터가  고른 물건]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[사물에 대한 깊은 관심, 포브젝트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/97fef53eb5134a5c8a1b13b0bf4a190d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[키치함과 엘레강스 사이 어디쯤]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[새로운 밴드의 시대를 열 주역]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7ec519f921cc4d0a8a93fe4225d5fe95.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사색의 정원을 내 손안에 쏙!]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 27 Dec 2021 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[장-미셸 오토니엘 전시 굿즈 증정 이벤트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/58987125e9aa4b6fa5084db9dbdec21a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
