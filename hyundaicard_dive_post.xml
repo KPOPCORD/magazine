@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 06:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 07:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름이지만 입맛 못 잃어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 03:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[신상 맛집 #23]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c893ad71194f4190b06cf876424f2e76.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삽 모임  할 사람?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 03:48:09 GMT</pubDate>
             <content:encoded><![CDATA[이탈리아를 대표하는 휴양지 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d33a965244cb4c9f8057de093a5a9d3f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현재진행형 레전드]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 03:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[창작을 멈추지 않는 거장들의 컴백]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e45217dbaa9b4545b95071f16790c736.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
