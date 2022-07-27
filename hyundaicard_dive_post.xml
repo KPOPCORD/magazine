@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://dive.hyundaicard.com/web/post/post.hdc</id>
-    <title>현대카드 DIVE ─ POST</title>
-    <updated>2022-07-27T01:17:05.702Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dive.hyundaicard.com/web/post/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>현대카드 DIVE ─ POST</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 27 Jul 2022 03:48:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대카드 Curated 78 Israel Jazz Night]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 03:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[전세계를 열광시킨 이스라엘 재즈 뮤지션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/71d495cb3f554b9e8a928004aadd5d30.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나 심슨 좋아하네]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 03:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니플러스가 품은 ‘심슨’은 무엇?]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c93bed372e3a4b9ca1bc7c6759c22328.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[큐레이터가  고른 물건]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 03:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[사물에 대한 깊은 관심, 포브젝트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/97fef53eb5134a5c8a1b13b0bf4a190d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키치함과 엘레강스 사이 어디쯤]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 03:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[빌리 아일리시의 스타일 에볼루션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/792442a98b31416f9152ca750ae4eb82.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NFT 컬렉터를 위한 안내서]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 03:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[NFT 큐레이토리얼 그룹, 더 파이브 콜렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/903f9995730e427c99e1d85b4ba3e5c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세상에 없던 음악]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 03:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 7월의 새 음반]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1199da306faa4d3789e7b9400e053d7e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프리패스  이탈리아]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 03:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[이탈리아를 대표하는 휴양지 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d33a965244cb4c9f8057de093a5a9d3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현재진행형 레전드]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 03:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[창작을 멈추지 않는 거장들의 컴백]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e45217dbaa9b4545b95071f16790c736.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[막걸리의  다른 이름은  라이스 와인]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 03:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[와인만큼 개성 있는 요즘 막걸리]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c45a96e13c734efc9c8d5786ded7885a.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
