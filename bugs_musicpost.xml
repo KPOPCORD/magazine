@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 04:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 05:30:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 60. Conan Gray - 'Disaster']]></title>
+            <link>https://music.bugs.co.kr/musicpost/GT4U4OHW2R14QJVPWHBI?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/GT4U4OHW2R14QJVPWHBI?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 27 Jul 2022 05:29:34 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[선예 - [Genuine] Lead Single 'Glass Heart' Live Clip 촬영 현장 공개!]]></title>
             <link>https://music.bugs.co.kr/musicpost/AV824WEPGBNQZAIYKQ3H?&amp;wl_ref=list_sp_01_h</link>
@@ -185,14 +192,6 @@
             <pubDate>Tue, 26 Apr 2022 03:18:51 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2Y4ECM3L5XJ211SM30BX/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우소연 - 스스로를 '못난이'라고 부르는 천재 프로듀서의 첫 번째 정규 앨범 [못난이]]]></title>
-            <link>https://music.bugs.co.kr/musicpost/1MHP0LOUNFT1PM6H7AWB?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/1MHP0LOUNFT1PM6H7AWB?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 25 Apr 2022 03:42:51 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/1MHP0LOUNFT1PM6H7AWB/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
