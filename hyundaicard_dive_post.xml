@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 07:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 08:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[들숨의 여름]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 03:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[여름을 위한 신상 향수 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/696a404419024bab9f6e4f413a59a810.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름이지만 입맛 못 잃어]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 03:48:09 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 7월의 새 음반]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1199da306faa4d3789e7b9400e053d7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리패스  이탈리아]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 03:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[이탈리아를 대표하는 휴양지 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d33a965244cb4c9f8057de093a5a9d3f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
