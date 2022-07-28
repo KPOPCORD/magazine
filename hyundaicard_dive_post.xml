@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 06:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 07:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공간을 즐기는 순간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 ‘요즘 핫한 스팟']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9e9598d2254a46309c15088b9916f8ce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기분만 낼게요]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[사물에 대한 깊은 관심, 포브젝트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/97fef53eb5134a5c8a1b13b0bf4a190d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키치함과 엘레강스 사이 어디쯤]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[빌리 아일리시의 스타일 에볼루션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/792442a98b31416f9152ca750ae4eb82.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
