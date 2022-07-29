@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 08:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 09:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이미 슈퍼스타 재질]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[빌리 아일리시의 성장기 TMI]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c20742feb71f47caadcb535e122bd474.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하룬 파로키와 카메라의 눈]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[신상 맛집 #23]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c893ad71194f4190b06cf876424f2e76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삽 모임  할 사람?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[그리너리 라이프를 위하여, 스페이드클럽서울]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/50eb9be3b83949e78eb96ab5e62d6ae5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
