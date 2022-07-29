@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 04:45:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 05:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전지적  동해 시점]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[에어비앤비에서 만나는 동해 근처 숙소 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5994eaea2ab9417e9033aecc0863fb11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공간을 즐기는 순간]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[디즈니플러스가 품은 ‘심슨’은 무엇?]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c93bed372e3a4b9ca1bc7c6759c22328.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큐레이터가  고른 물건]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[사물에 대한 깊은 관심, 포브젝트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/97fef53eb5134a5c8a1b13b0bf4a190d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
