@@ -4,9 +4,25 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 05:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 06:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하룬 파로키와 카메라의 눈]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;Pervasive Light&gt; 딥다이브 #3]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5a6ef68a685d4332ac43f13108128726.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 체크인]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[주목해야 할 K-패션 브랜드 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c7028a92351d4bbbb1b8624fa7d7e7cb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전지적  동해 시점]]></title>
             <link>javascript:;</link>
@@ -62,22 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[그리너리 라이프를 위하여, 스페이드클럽서울]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/50eb9be3b83949e78eb96ab5e62d6ae5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 78 Israel Jazz Night]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[전세계를 열광시킨 이스라엘 재즈 뮤지션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/71d495cb3f554b9e8a928004aadd5d30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 심슨 좋아하네]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니플러스가 품은 ‘심슨’은 무엇?]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c93bed372e3a4b9ca1bc7c6759c22328.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
