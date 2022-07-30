@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 03:45:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 04:35:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[취향과 안목의 콜라보]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[아이코닉한 아이덴티티를 추구한 공간]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f4aa0d34ab64455e94bc4fc872039502.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이미 슈퍼스타 재질]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[여름을 위한 신상 향수 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/696a404419024bab9f6e4f413a59a810.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름이지만 입맛 못 잃어]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[신상 맛집 #23]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c893ad71194f4190b06cf876424f2e76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

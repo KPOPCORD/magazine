@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 03:45:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 04:35:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -541,9 +541,17 @@ j-hope (VIBE ─ 매거진)]]></title>
 에이티즈 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 30 Jul 2022 03:45:24 GMT</pubDate>
+            <pubDate>Sat, 30 Jul 2022 04:34:38 GMT</pubDate>
             <content:encoded><![CDATA[강력한 글로벌 팬덤만큼이나 확고한 세계관을 가진 에이티즈는 지금까지 선보였던 것들이 서막에 불과하다고 선언할 만큼 강렬한 다음 챕터를 준비하고 있다. 같은 방향성을 가진 앨범을 시리즈로 발매해왔던 에이티즈가 새로운 시리즈 앨범을 공개하며 바이브에만 새 앨범 비하인드 스토리를 들려주었다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220729_75/1659074403131OrkHs_JPEG/%C4%BF%B9%F6-2.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[취향과 안목의 콜라보 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[아이코닉한 아이덴티티를 추구한 공간]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f4aa0d34ab64455e94bc4fc872039502.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이미 슈퍼스타 재질 (현대카드 DIVE ─ POST)]]></title>
@@ -608,14 +616,6 @@ j-hope (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[여름을 위한 신상 향수 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/696a404419024bab9f6e4f413a59a810.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름이지만 입맛 못 잃어 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[신상 맛집 #23]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c893ad71194f4190b06cf876424f2e76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
