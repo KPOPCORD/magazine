@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 04:02:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 05:51:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알앤비 레전드 ＃18 - 대서양을 건넌 알앤비 뮤지션, 빌리 오션]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12246&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12246&amp;pg=1</guid>
+            <pubDate>Mon, 01 Aug 2022 05:50:19 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12246/Mgz_Main_List_20220801110813.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[OST PICK! ＃57 - 주목할 영화와 OST, “타다: 대한민국 스타트업...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=12245&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Jul 2022 09:14:15 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12224/Mgz_Main_List_20220729104637.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[지니 컬러 동향 ＃46 – 2022.07.09 ~ 07.22 발매작]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=12240&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=12240&amp;pg=1</guid>
-            <pubDate>Fri, 29 Jul 2022 03:49:09 GMT</pubDate>
-            <content:encoded><![CDATA[지니 컬러 동향]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12239/Mgz_Main_List_20220729112133.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>

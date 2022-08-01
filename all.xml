@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 04:02:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 05:51:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,6 +365,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2Y4ECM3L5XJ211SM30BX/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[알앤비 레전드 ＃18 - 대서양을 건넌 알앤비 뮤지션, 빌리 오션 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12246&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12246&amp;pg=1</guid>
+            <pubDate>Mon, 01 Aug 2022 05:50:19 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12246/Mgz_Main_List_20220801110813.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[OST PICK! ＃57 - 주목할 영화와 OST, “타다: 대한민국 스타트업... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=12245&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=12245&amp;pg=1</guid>
@@ -419,14 +427,6 @@
             <pubDate>Fri, 29 Jul 2022 09:14:15 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12224/Mgz_Main_List_20220729104637.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[지니 컬러 동향 ＃46 – 2022.07.09 ~ 07.22 발매작 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=12240&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=12240&amp;pg=1</guid>
-            <pubDate>Fri, 29 Jul 2022 03:49:09 GMT</pubDate>
-            <content:encoded><![CDATA[지니 컬러 동향]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12239/Mgz_Main_List_20220729112133.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[프로듀서 777 : 
@@ -541,7 +541,7 @@ j-hope (VIBE ─ 매거진)]]></title>
 에이티즈 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 01 Aug 2022 04:02:17 GMT</pubDate>
+            <pubDate>Mon, 01 Aug 2022 05:50:37 GMT</pubDate>
             <content:encoded><![CDATA[강력한 글로벌 팬덤만큼이나 확고한 세계관을 가진 에이티즈는 지금까지 선보였던 것들이 서막에 불과하다고 선언할 만큼 강렬한 다음 챕터를 준비하고 있다. 같은 방향성을 가진 앨범을 시리즈로 발매해왔던 에이티즈가 새로운 시리즈 앨범을 공개하며 바이브에만 새 앨범 비하인드 스토리를 들려주었다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220729_75/1659074403131OrkHs_JPEG/%C4%BF%B9%F6-2.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
