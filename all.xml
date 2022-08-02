@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 04:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 05:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -541,9 +541,17 @@ j-hope (VIBE ─ 매거진)]]></title>
 비욘세, 지코 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 02 Aug 2022 04:01:39 GMT</pubDate>
+            <pubDate>Tue, 02 Aug 2022 05:16:55 GMT</pubDate>
             <content:encoded><![CDATA[새 앨범을 발표한 비욘세, 긴 공백을 깨고 돌아온 지코까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220801_257/165934174317613G37_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리를 둘러싼 세계 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 8월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7a6022b657bf4ac59f1ca5fd87780e85.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디테일의 힘 (현대카드 DIVE ─ POST)]]></title>
@@ -608,14 +616,6 @@ j-hope (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[아이코닉한 아이덴티티를 추구한 공간]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f4aa0d34ab64455e94bc4fc872039502.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이미 슈퍼스타 재질 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[빌리 아일리시의 성장기 TMI]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c20742feb71f47caadcb535e122bd474.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
