@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 08:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 09:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[춤 선이 다르네]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[지금 챙겨 봐야 할 안무가의 시안]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8669e0e062144300a47322f5fe13e08d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금,  우리가  좋아하는 것들]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 8월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b8d8efaa956b4f4faa65072066496409.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여행의 시작과 끝]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[여행을 완성할 뉴 캐리어 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8f86701ece92445a9d1957f10aa179a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

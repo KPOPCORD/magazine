@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 08:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 09:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,6 +365,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2Y4ECM3L5XJ211SM30BX/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[from20가 부르는 첫 청량 Summer Song! [ Chemical ] ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12236&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12236&amp;pg=1</guid>
+            <pubDate>Tue, 02 Aug 2022 09:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12236/Mgz_Main_List_20220801173834.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[우리는 친구가 없어 – 지휘자들의 인간관계 (2) (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12251&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12251&amp;pg=1</guid>
@@ -419,14 +427,6 @@
             <pubDate>Mon, 01 Aug 2022 04:02:01 GMT</pubDate>
             <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12244/Mgz_Main_List_20220801104458.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[김아름 [OCEAN WAVE] 김현철-이원석(데이브레이크)과 함께 떠난 여름 ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12239&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12239&amp;pg=1</guid>
-            <pubDate>Mon, 01 Aug 2022 04:02:01 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12239/Mgz_Main_List_20220729114250.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[완전히 달라진 뉴월드, 
@@ -541,9 +541,17 @@ j-hope (VIBE ─ 매거진)]]></title>
 비욘세, 지코 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 02 Aug 2022 08:18:02 GMT</pubDate>
+            <pubDate>Tue, 02 Aug 2022 09:13:24 GMT</pubDate>
             <content:encoded><![CDATA[새 앨범을 발표한 비욘세, 긴 공백을 깨고 돌아온 지코까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220801_257/165934174317613G37_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[춤 선이 다르네 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[지금 챙겨 봐야 할 안무가의 시안]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8669e0e062144300a47322f5fe13e08d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금,  우리가  좋아하는 것들 (현대카드 DIVE ─ POST)]]></title>
@@ -608,14 +616,6 @@ j-hope (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 8월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b8d8efaa956b4f4faa65072066496409.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여행의 시작과 끝 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[여행을 완성할 뉴 캐리어 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8f86701ece92445a9d1957f10aa179a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
