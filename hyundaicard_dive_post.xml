@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 01:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 04:01:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 8월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6e3f2704884149c9a8b4c2d981dc0bd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리를 둘러싼 세계]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 8월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7a6022b657bf4ac59f1ca5fd87780e85.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Summer of Love]]></title>
@@ -78,6 +70,14 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[아이코닉한 아이덴티티를 추구한 공간]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f4aa0d34ab64455e94bc4fc872039502.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이미 슈퍼스타 재질]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[빌리 아일리시의 성장기 TMI]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c20742feb71f47caadcb535e122bd474.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
