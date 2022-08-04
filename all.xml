@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 01:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 03:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165749_4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정환호 - 피아니스트 정환호의 [오롯이] MV 촬영 현장 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/JHFGFK242RVE200TFW3M?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/JHFGFK242RVE200TFW3M?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 04 Aug 2022 03:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JHFGFK242RVE200TFW3M/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 60. Conan Gray - 'Disaster' (벅스 ─ 뮤직포스트)]]></title>
@@ -357,12 +365,28 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RPX1SB589A22BXAPNTPT/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[베이식, 래원 X LG올레드 - 함께 듣는 전투력 상승 플레이리스트 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/2Y4ECM3L5XJ211SM30BX?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/2Y4ECM3L5XJ211SM30BX?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 26 Apr 2022 03:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2Y4ECM3L5XJ211SM30BX/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[일렉트로니카로 만드는 나만의 여름 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12260&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12260&amp;pg=1</guid>
+            <pubDate>Thu, 04 Aug 2022 03:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12260/Mgz_Main_List_20220804100951.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[피아니스트 정환호의 새 미니 앨범 [오롯이] 레코딩 비하인드 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12258&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12258&amp;pg=1</guid>
+            <pubDate>Thu, 04 Aug 2022 03:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12258/Mgz_Main_List_20220804100809.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[밴드에서 혼성 듀오로 돌아와 파격적인 변신을 시도하는 러블레스! (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12249&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12249&amp;pg=1</guid>
+            <pubDate>Thu, 04 Aug 2022 03:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12249/Mgz_Main_List_20220804101310.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[YENA (최예나) 두 번째 미니 앨범 [SMARTPHONE] MV 촬영 비하... (지니 ─ 매거진)]]></title>
@@ -403,30 +427,6 @@
             <pubDate>Wed, 03 Aug 2022 03:51:01 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12247/Mgz_Main_List_20220803112619.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[from20가 부르는 첫 청량 Summer Song! [ Chemical ] ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12236&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12236&amp;pg=1</guid>
-            <pubDate>Tue, 02 Aug 2022 09:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12236/Mgz_Main_List_20220801173834.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 친구가 없어 – 지휘자들의 인간관계 (2) (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12251&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12251&amp;pg=1</guid>
-            <pubDate>Tue, 02 Aug 2022 04:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12251/Mgz_Main_List_20220802101126.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[유키스 수현의 첫번째 미니 앨범 [COUNT ON ME] 자켓 촬영 현장 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12242&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12242&amp;pg=1</guid>
-            <pubDate>Tue, 02 Aug 2022 04:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12242/Mgz_Main_List_20220801173614.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #103 : 
@@ -541,7 +541,7 @@ j-hope (VIBE ─ 매거진)]]></title>
 수현답게 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 04 Aug 2022 01:15:19 GMT</pubDate>
+            <pubDate>Thu, 04 Aug 2022 03:23:48 GMT</pubDate>
             <content:encoded><![CDATA[솔로 아티스트로 앨범을 내면서도 유키스 수현으로 자신을 소개하는 이유. 그룹 활동으로 많은 것을 배우면서 수현은 마침내 혼자만의 앨범을 내면 어떤 이야기를 어떻게 음악으로 만들지 오히려 답을 얻었다. 그간 해보지 않은 음악을 가장 자유롭게 시도하면서도, 가장 자기다운 이야기를 담은 새 앨범에 대한 인터뷰.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220803_119/1659514111892pGvcS_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>

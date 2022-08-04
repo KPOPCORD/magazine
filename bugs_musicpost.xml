@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 01:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 03:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정환호 - 피아니스트 정환호의 [오롯이] MV 촬영 현장]]></title>
+            <link>https://music.bugs.co.kr/musicpost/JHFGFK242RVE200TFW3M?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/JHFGFK242RVE200TFW3M?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 04 Aug 2022 03:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JHFGFK242RVE200TFW3M/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 60. Conan Gray - 'Disaster']]></title>
             <link>https://music.bugs.co.kr/musicpost/GT4U4OHW2R14QJVPWHBI?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <pubDate>Thu, 28 Apr 2022 07:12:12 GMT</pubDate>
             <content:encoded><![CDATA[공연/페스티벌]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RPX1SB589A22BXAPNTPT/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베이식, 래원 X LG올레드 - 함께 듣는 전투력 상승 플레이리스트]]></title>
-            <link>https://music.bugs.co.kr/musicpost/2Y4ECM3L5XJ211SM30BX?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/2Y4ECM3L5XJ211SM30BX?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 26 Apr 2022 03:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2Y4ECM3L5XJ211SM30BX/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
