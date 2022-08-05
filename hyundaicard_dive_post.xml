@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 08:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 09:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌리와 친구들]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[빌리 아일리시가 추앙하는 뮤지션 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4750501c02944528980496b4789f5398.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이토록 낭만적인]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[NFT로 만나는 와인]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cbaa578edb7b43a7bc93e40a3f0f9c98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춤 선이 다르네]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[지금 챙겨 봐야 할 안무가의 시안]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8669e0e062144300a47322f5fe13e08d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
