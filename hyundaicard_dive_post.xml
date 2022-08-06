@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 03:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 04:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젤라또가  제일 좋아]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[전국 젤라또 맛집 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3ccc1a2b253c4969b67d9381c5804dba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빌리와 친구들]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[선선한 여름밤이 더 좋은 그곳 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/42c695935baa415d9f772ac6a481f35f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신의  물방울]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[NFT로 만나는 와인]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cbaa578edb7b43a7bc93e40a3f0f9c98.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
