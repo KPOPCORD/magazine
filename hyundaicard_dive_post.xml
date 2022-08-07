@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 03:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 04:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엘비스 인 더 무비]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[영화 보기 전 예습해야 할 그의 대표곡]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/687a1378a059492e928b576fa2924e70.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젤라또가  제일 좋아]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[끼쟁이 빌리 아일리시의 찐 예능 모멘트 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/414de7d0cd6046eea5496b51134b2154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤마실  어때?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[선선한 여름밤이 더 좋은 그곳 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/42c695935baa415d9f772ac6a481f35f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
