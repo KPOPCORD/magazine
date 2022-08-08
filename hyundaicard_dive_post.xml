@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 06:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 07:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[록 스피릿을 탐구하다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 8월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b8d8efaa956b4f4faa65072066496409.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엘비스 인 더 무비]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[싱어송라이터 유라의 첫 번째 단독 공연 &lt;1&gt;]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/542b2c19507a44b390be3f2221187401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌리의 예능 맛집]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[끼쟁이 빌리 아일리시의 찐 예능 모멘트 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/414de7d0cd6046eea5496b51134b2154.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
