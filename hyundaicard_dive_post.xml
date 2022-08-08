@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 07:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 08:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[골프 백을 여는 순간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[취향을 담은 클럽 커버 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9d90fdeaf7ca4a62a01a838e238427bd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[록 스피릿을 탐구하다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[접어보고 싶은 폴더블폰 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1693eeb818af4e7c9f96a241698a4b77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이적 Curated 04  유라(youra)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 유라의 첫 번째 단독 공연 &lt;1&gt;]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/542b2c19507a44b390be3f2221187401.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
