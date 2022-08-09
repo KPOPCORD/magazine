@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 03:41:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 04:37:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,9 +433,17 @@
 소녀시대, 뉴진스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 09 Aug 2022 03:41:14 GMT</pubDate>
+            <pubDate>Tue, 09 Aug 2022 04:37:38 GMT</pubDate>
             <content:encoded><![CDATA[데뷔 15주년을 맞은 소녀시대, ‘민희진 걸그룹’이라고 불리며 기대를 모았던 뉴진스의 데뷔까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220808_149/1659946887094SWoW6_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이펫션 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[하이패션 브랜드의 펫 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3c3098ce4b9843ca89f714cc3a069014.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이태원  한가운데에서 컨템포러리  아트를 읽다 (현대카드 DIVE ─ POST)]]></title>
@@ -500,14 +508,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[영화 보기 전 예습해야 할 그의 대표곡]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/687a1378a059492e928b576fa2924e70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젤라또가  제일 좋아 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[전국 젤라또 맛집 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3ccc1a2b253c4969b67d9381c5804dba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
