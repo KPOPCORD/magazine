@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 08:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 09:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기다리고 기다리던]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[8월의 현대카드 컬처 캘린더]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/28293dbbd7974d6b9cc7928d5a6bf48e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세상 신기한 뿌리채소의 세계]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[취향을 담은 클럽 커버 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9d90fdeaf7ca4a62a01a838e238427bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[록 스피릿을 탐구하다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 8월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b8d8efaa956b4f4faa65072066496409.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
