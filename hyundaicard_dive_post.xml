@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 23:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 03:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>javascript:;</guid>
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 아트 라이브러리 개관]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4766c155a4474e9fbbb0c9432b5a87a2.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe08a36790e04159a293f932e1e24946.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[책과 예술의  랑데부]]></title>
@@ -53,7 +53,7 @@
             <guid>javascript:;</guid>
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 테마 전시 #1]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4067b47ee36943138f78ed14bac8f877.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b8a1717484d9411babc8f2cbb5a2dd54.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미디어 아트의  원형]]></title>
@@ -64,20 +64,20 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0e12116f1d05472696e05afed10ec4b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어디에서도  볼 수 없던 컬렉션]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 전권 보유 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/29853389451c449ab30c823e7c1be2bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[떼창을 위한 예습]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼콘서트 26 빌리 아일리시 예상 셋리스트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b9509ecdcba943358ad132e6a86e1775.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[골프 백을 여는 순간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[취향을 담은 클럽 커버 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9d90fdeaf7ca4a62a01a838e238427bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
