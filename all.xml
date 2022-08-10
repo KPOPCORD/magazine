@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 04:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 05:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,9 +433,17 @@
 NewJeans (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 10 Aug 2022 04:16:52 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2022 05:13:10 GMT</pubDate>
             <content:encoded><![CDATA[데뷔 전부터 뜨거운 관심을 모은 하이브의 신인 걸그룹, 뉴진스의 데뷔 앨범이 공개되었다. 멤버 전원이 10대로 구성되어 더욱 큰 화제를 모으기도 했던 뉴진스는 오랜 시간 수많은 아이돌의 아트 디렉터로 활약한 민희진의 지원 아래, 이제 세상에 그들만의 매력을 내보인다. 이주의 디깅과 함께 뉴진스의 데뷔 앨범을 둘러싼 흥미로운 사실들을 알아가 보자. - 파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220809_188/166001077054299Ovi_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer of Love (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[V&amp;P 8월 Monthly Special]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3e5ff8f3f7d4409d849797653bad09e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에일리와 당신의 이야기 (현대카드 DIVE ─ POST)]]></title>
@@ -500,14 +508,6 @@ NewJeans (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼콘서트 26 빌리 아일리시 예상 셋리스트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b9509ecdcba943358ad132e6a86e1775.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골프 백을 여는 순간 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[취향을 담은 클럽 커버 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9d90fdeaf7ca4a62a01a838e238427bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
