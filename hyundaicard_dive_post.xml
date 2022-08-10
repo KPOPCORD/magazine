@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 06:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 07:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울이 부럽지가 않어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[나만 아는 동네 #25 울산 달동]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/010155130f2940a89570d36869505751.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Summer of Love]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리의 무빙 이미지 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0e12116f1d05472696e05afed10ec4b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떼창을 위한 예습]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼콘서트 26 빌리 아일리시 예상 셋리스트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b9509ecdcba943358ad132e6a86e1775.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
