@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 07:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 08:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,10 +433,18 @@
 트라이비(TRI.BE) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 11 Aug 2022 07:13:29 GMT</pubDate>
+            <pubDate>Thu, 11 Aug 2022 08:16:48 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 매거진! 이번에는 약 10개월 만에 다채로운 매력과 함께 새 싱글 'LEVIOSA'로 찾아온 트라이비(TRI.BE)와 함께했습니다.
 멤버 각각의 솔직함을 담아낸 답변과 함께 하는 무엇이든 물어보세요 매거진. 지금 함께 만나보시죠.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220809_203/1660033359590TuuDr_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름날 필드 솔루션 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[IRON &amp; WOOD에서 준비하는 여름 라운드]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2cb707d9074642ad9c7d5a1833ca6cd8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어차피 주인공은 빌리 아일리시 (현대카드 DIVE ─ POST)]]></title>
@@ -501,14 +509,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[푸드 테마 17. Root Vegetables]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9f3ae20f18134c079bd51e109b957bde.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이펫션 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[하이패션 브랜드의 펫 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3c3098ce4b9843ca89f714cc3a069014.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
