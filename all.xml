@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 08:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 09:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,9 +433,17 @@
 마돈나, 템즈 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 12 Aug 2022 08:17:43 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2022 09:14:16 GMT</pubDate>
             <content:encoded><![CDATA[2022년 8월. 전 세계에서 많은 이슈를 만든 한 장의 앨범이 있으니. 6년 만에 발표된 비욘세의 새 앨범 &lt;Renaissance&gt;다. 이번 앨범은 병으로 세상을 떠난 퀴어 삼촌에 대한 헌정의 메시지, LGBTQ 문화, 그리고 댄스 음악을 선도한 흑인 선구자들의 영향력이 곳곳에 묻어난다. 어떤 음악가들이 비욘세의 크레딧에 이름을 올렸을까? – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220812_7/1660288811847xk0DK_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴가철 양조장 기행 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[휴가지에서 만나는 양조장 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bc4ca65b125e46b99fb12c2d748d2768.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프리즈 서울이  온다 (현대카드 DIVE ─ POST)]]></title>
@@ -500,14 +508,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 전권 보유 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eecc2659c76c49bd9d0e1578e987d952.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울이 부럽지가 않어 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[나만 아는 동네 #25 울산 달동]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/010155130f2940a89570d36869505751.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
