@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 04:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 05:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[책과 예술의  랑데부]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 테마 전시 #1]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b8a1717484d9411babc8f2cbb5a2dd54.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트레버 페글렌과  AI의 시선]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[언더스테이지 에일리 팬 미팅 현장]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/91da7fd9857746c78c63662916080bcb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기다리고 기다리던]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[8월의 현대카드 컬처 캘린더]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/28293dbbd7974d6b9cc7928d5a6bf48e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
