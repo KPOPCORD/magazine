@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 07:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 08:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프리즈 서울이  온다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[박지호가 들려주는 아트 트렌드]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6184e2514434444daa713da7ed6f511a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[계곡인데 식당이야]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #25 울산 달동]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/010155130f2940a89570d36869505751.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer of Love]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 8월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3e5ff8f3f7d4409d849797653bad09e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

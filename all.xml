@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 07:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 08:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -429,14 +429,21 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12285/Mgz_Main_List_20220811105249.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[무엇이든 물어보세요 : 
-트라이비(TRI.BE) (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[비욘세의 도우미들 : 
+마돈나, 템즈 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 12 Aug 2022 07:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 매거진! 이번에는 약 10개월 만에 다채로운 매력과 함께 새 싱글 'LEVIOSA'로 찾아온 트라이비(TRI.BE)와 함께했습니다.
-멤버 각각의 솔직함을 담아낸 답변과 함께 하는 무엇이든 물어보세요 매거진. 지금 함께 만나보시죠.]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220809_203/1660033359590TuuDr_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <pubDate>Fri, 12 Aug 2022 08:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 8월. 전 세계에서 많은 이슈를 만든 한 장의 앨범이 있으니. 6년 만에 발표된 비욘세의 새 앨범 &lt;Renaissance&gt;다. 이번 앨범은 병으로 세상을 떠난 퀴어 삼촌에 대한 헌정의 메시지, LGBTQ 문화, 그리고 댄스 음악을 선도한 흑인 선구자들의 영향력이 곳곳에 묻어난다. 어떤 음악가들이 비욘세의 크레딧에 이름을 올렸을까? – 힙합엘이]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220812_7/1660288811847xk0DK_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프리즈 서울이  온다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[박지호가 들려주는 아트 트렌드]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6184e2514434444daa713da7ed6f511a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[계곡인데 식당이야 (현대카드 DIVE ─ POST)]]></title>
@@ -501,14 +508,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #25 울산 달동]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/010155130f2940a89570d36869505751.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer of Love (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 8월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3e5ff8f3f7d4409d849797653bad09e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
