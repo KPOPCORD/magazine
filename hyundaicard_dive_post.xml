@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 03:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 04:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈이 만 개라도  모자라]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 떠오르는 현대 예술 아티스트의 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dfdb95656e7c488ea457106bfa21b4d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휴가철 양조장 기행]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[자전거 라이더를 위한 앱 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/da64bb1e046a4f73b5d68f2769ae76ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어디에서도  볼 수 없던 컬렉션]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 전권 보유 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eecc2659c76c49bd9d0e1578e987d952.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
