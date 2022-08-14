@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 03:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 04:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행복의 나라로 가요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[빌리 아일리시 2집으로 딥 다이브]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f448e7dabb99473687de43dfb97db4de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈이 만 개라도  모자라]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[상복 있는 그가 전하는 감동의 수상 소감]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0d9f779c9c0c425f89c00d3a4c5938c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이딩 플레저]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[자전거 라이더를 위한 앱 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/da64bb1e046a4f73b5d68f2769ae76ff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
