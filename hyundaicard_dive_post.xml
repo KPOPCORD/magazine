@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 03:42:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 04:37:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초록이 무성한  싱가포르]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[풀내음 진동하는 싱가포르 여행 스팟 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f0962ab882de4fca878e4b7ce1ac6593.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘 밤 주인공은 빌리]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 테마 전시 #1]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b8a1717484d9411babc8f2cbb5a2dd54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트레버 페글렌과  AI의 시선]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[＜Pervasive Light＞딥다이브 #4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/40ab9277ac204265bb7121752e570bac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
