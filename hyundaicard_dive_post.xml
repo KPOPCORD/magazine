@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 05:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 06:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디스 이즈  해변 바이브]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[해변 뷰를 즐길 수 있는 바 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f455d9d7e98844138fe8822d5803d2ac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초록이 무성한  싱가포르]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[물놀이와 몸보신을 한 번에 할 수 있는 곳]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a1d7335b46334bbcadd115392dd94669.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책과 예술의  랑데부]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 테마 전시 #1]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b8a1717484d9411babc8f2cbb5a2dd54.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
