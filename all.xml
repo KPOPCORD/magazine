@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 03:56:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 05:05:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -433,9 +433,17 @@
 이효리, 니키 미나즈 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 17 Aug 2022 03:56:22 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2022 05:05:05 GMT</pubDate>
             <content:encoded><![CDATA[동반자 이상순과 함께 새 싱글을 발표한 이효리부터 팝의 고전을 샘플링한 싱글로 돌아온 니키 미나즈까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220816_234/1660630579937HbsXU_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스트리트의 품격 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[개성과 섬세함을 겸비한 남성 스트리트 브랜드]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/650d65da1eb2429ea6b5252df5ae44d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미디어 아트의  원형 (현대카드 DIVE ─ POST)]]></title>
@@ -500,14 +508,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[휴가지에서 만나는 양조장 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bc4ca65b125e46b99fb12c2d748d2768.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리즈 서울이  온다 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[박지호가 들려주는 아트 트렌드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6184e2514434444daa713da7ed6f511a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
