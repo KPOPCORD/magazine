@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 06:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 07:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 눈에  캔디]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[달콤하고 영롱한 색채의 아트워크]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/655adcb4f1f84966ac9fd373adf61151.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앗! 이 앨범 바이닐로 나왔네]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼콘서트 26 빌리 아일리시 무대 공개]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3e0986e5a2c243a4875ab12acc245b05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 슈콘 DAY]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼콘서트 26 빌리 아일리시 현장 공개]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fda58d12d3074e7eb2d490c3c2a1bcf1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

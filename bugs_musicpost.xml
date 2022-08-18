@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 06:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 07:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2022년 8월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/PIRQ07LH7UBMXIT6SK8C?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/PIRQ07LH7UBMXIT6SK8C?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 18 Aug 2022 07:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[나린 - 아카펠라로 재탄생! 'Sweety' MV 촬영 현장 비하인드]]></title>
             <link>https://music.bugs.co.kr/musicpost/VWLHLJAHY07X6XICYN0S?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +191,6 @@
             <pubDate>Mon, 02 May 2022 03:51:14 GMT</pubDate>
             <content:encoded><![CDATA[공연/페스티벌]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/TOVXAWYK8V69JAYZ100S/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE CON 2022 - FT아일랜드 콘서트 초대!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/BAKYBNVJDTT9QTX91MOV?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/BAKYBNVJDTT9QTX91MOV?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 29 Apr 2022 08:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[공연/페스티벌]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BAKYBNVJDTT9QTX91MOV/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
