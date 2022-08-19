@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 01:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 03:48:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최혜빈 - 독보적인 존재감, 최혜빈의 새로운 싱글 [섬] 발매 작업기]]></title>
+            <link>https://music.bugs.co.kr/musicpost/V5KZWCRIBWHGC0Z3Q5BV?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/V5KZWCRIBWHGC0Z3Q5BV?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 19 Aug 2022 03:47:20 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/V5KZWCRIBWHGC0Z3Q5BV/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2022년 8월 노래 모음!]]></title>
             <link>https://music.bugs.co.kr/musicpost/PIRQ07LH7UBMXIT6SK8C?&amp;wl_ref=list_sp_01_h</link>
@@ -183,14 +191,6 @@
             <pubDate>Mon, 09 May 2022 03:17:19 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XVA4W8IZIGUWET2TZP5V/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <태양의 노래> - K-POP 최정상 아티스트와 함께하는 창작 뮤지컬 초대!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/TOVXAWYK8V69JAYZ100S?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/TOVXAWYK8V69JAYZ100S?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 02 May 2022 03:51:14 GMT</pubDate>
-            <content:encoded><![CDATA[공연/페스티벌]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/TOVXAWYK8V69JAYZ100S/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
