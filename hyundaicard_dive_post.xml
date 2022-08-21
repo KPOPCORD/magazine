@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 03:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 04:29:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고마워요, 자존감 요정]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[Artist Inside: 리조]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/67c847827e0d449bb1f4315fd3bbd4c7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지극히 평범하고도, 매혹적인]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 8월의 새 음반]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/38ff1e47545a42a0ac53f2cdaa9b2aa7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너무 기다렸잖아, 빌리 아일리시]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[화려하게 돌아온 슈퍼콘서트 26 공연 현장]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e3cc80ff5f7c43ac821776df3dd0c6ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
