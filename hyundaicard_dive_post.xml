@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 09:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콩국수에 호불호가 어딨어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[호불호 없는 전국 콩국수 맛집 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81c9d35f582446b3ba51a2d4196d10c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시너지 제대로다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[전은경의 '괜찮은 디자인']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c2525ff099e94c269f519c84c4708d31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 극장은 박해일주의보]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[왓챠에서 만나는 배우 박해일의 대표작]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/37e9488e45c04369972632243765d062.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
