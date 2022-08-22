@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 06:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 07:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시너지 제대로다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[N차 재생을 부르는 뮤지션의 협업 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/772cf7e0e80d43bfb7f4ca8d8608580e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상상이 공간이 되는]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[왓챠에서 만나는 배우 박해일의 대표작]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/37e9488e45c04369972632243765d062.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 눈에  캔디]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[달콤하고 영롱한 색채의 아트워크]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/655adcb4f1f84966ac9fd373adf61151.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

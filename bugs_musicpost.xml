@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 06:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 07:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 61. Benny Blanco, BTS & Snoop Dogg - 'Bad Decisions']]></title>
+            <link>https://music.bugs.co.kr/musicpost/V3712BKUM2G3JTI7CMQW?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/V3712BKUM2G3JTI7CMQW?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 22 Aug 2022 07:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[최혜빈 - 독보적인 존재감, 최혜빈의 새로운 싱글 [섬] 발매 작업기]]></title>
             <link>https://music.bugs.co.kr/musicpost/V5KZWCRIBWHGC0Z3Q5BV?&amp;wl_ref=list_sp_01_h</link>
@@ -183,14 +190,6 @@
             <pubDate>Mon, 09 May 2022 12:24:52 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9XIIP8EQDRH27M64EFTD/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현이랑 - 찬란한 내일을 맞이하자, 밴드 '현이랑' 프로필 촬영 현장 단독 공개]]></title>
-            <link>https://music.bugs.co.kr/musicpost/XVA4W8IZIGUWET2TZP5V?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/XVA4W8IZIGUWET2TZP5V?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 09 May 2022 03:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XVA4W8IZIGUWET2TZP5V/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
