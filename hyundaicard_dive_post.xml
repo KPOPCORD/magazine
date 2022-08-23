@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 06:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 07:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 좋하는 게 나인 거잖아]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[DIVE와 보이콜드의 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2120ae5d7fb04a7aa02d87a503109ef5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈과 입이  즐거워]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[저세상 스릴 가득, 실내 액티비티 체험 공간]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4dd8c1b396c1419bacb169c881040adb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라틴음악이 제철이야]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[여름엔 꼭, 라틴 뮤직 플레이리스트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6f34e7735a244f1b8095e8c9831a343d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
