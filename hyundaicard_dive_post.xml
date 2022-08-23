@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 04:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 05:52:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈과 입이  즐거워]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리 뿌리채소 애프터눈티  팝업]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0899ee7bd80e4b8eb595d859c6f7a5e5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[콩국수에 호불호가 어딨어]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[여름엔 꼭, 라틴 뮤직 플레이리스트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6f34e7735a244f1b8095e8c9831a343d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 사람을 위한  밥상, 소반]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[전은경의 '괜찮은 디자인']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c2525ff099e94c269f519c84c4708d31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
