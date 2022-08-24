@@ -1,8 +1,195 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://music.bugs.co.kr/musicpost</id>
-    <title>벅스 ─ 뮤직포스트</title>
-    <updated>2022-08-24T21:13:03.075Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://file.bugsm.co.kr/nbugs/common/faviconBugs.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>벅스 ─ 뮤직포스트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 24 Aug 2022 22:14:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4s4ki - 정규 2집 [Killer in Neverland] 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/RDTWPIE9LOH34TZZT0WT?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/RDTWPIE9LOH34TZZT0WT?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RDTWPIE9LOH34TZZT0WT/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 61. Benny Blanco, BTS & Snoop Dogg - 'Bad Decisions']]></title>
+            <link>https://music.bugs.co.kr/musicpost/V3712BKUM2G3JTI7CMQW?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/V3712BKUM2G3JTI7CMQW?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최혜빈 - 독보적인 존재감, 최혜빈의 새로운 싱글 [섬] 발매 작업기]]></title>
+            <link>https://music.bugs.co.kr/musicpost/V5KZWCRIBWHGC0Z3Q5BV?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/V5KZWCRIBWHGC0Z3Q5BV?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/V5KZWCRIBWHGC0Z3Q5BV/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2022년 8월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/PIRQ07LH7UBMXIT6SK8C?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/PIRQ07LH7UBMXIT6SK8C?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나린 - 아카펠라로 재탄생! 'Sweety' MV 촬영 현장 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/VWLHLJAHY07X6XICYN0S?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/VWLHLJAHY07X6XICYN0S?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/VWLHLJAHY07X6XICYN0S/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정환호 - 피아니스트 정환호의 [오롯이] MV 촬영 현장]]></title>
+            <link>https://music.bugs.co.kr/musicpost/JHFGFK242RVE200TFW3M?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/JHFGFK242RVE200TFW3M?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JHFGFK242RVE200TFW3M/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 60. Conan Gray - 'Disaster']]></title>
+            <link>https://music.bugs.co.kr/musicpost/GT4U4OHW2R14QJVPWHBI?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/GT4U4OHW2R14QJVPWHBI?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[선예 - [Genuine] Lead Single 'Glass Heart' Live Clip 촬영 현장 공개!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/AV824WEPGBNQZAIYKQ3H?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/AV824WEPGBNQZAIYKQ3H?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/AV824WEPGBNQZAIYKQ3H/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[용이 - 12년차 트롯 가수와 신인 배우의 K- POP 아이돌 도전기, '빛이나는 그대' M/V 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/YXG15RWRTCBUMU5W52JB?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/YXG15RWRTCBUMU5W52JB?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/YXG15RWRTCBUMU5W52JB/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2022년 7월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/AUN1H8071QFDN4RWQ5KL?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/AUN1H8071QFDN4RWQ5KL?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사월에 홍남이와 주비트레인 타고 칙칙폭폭 - 틱톡커 x 케이팝 아티스트 협업 프로젝트 두 번째!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/XEHNO6ZLJGDP6U9OYF8J?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/XEHNO6ZLJGDP6U9OYF8J?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XEHNO6ZLJGDP6U9OYF8J/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 59. Post Malone - 'I Like You (A Happier Song)']]></title>
+            <link>https://music.bugs.co.kr/musicpost/69992LVTHLK3SFHPPOFP?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/69992LVTHLK3SFHPPOFP?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정예원 (YEWON) X 우재 (WOOJAE) - 신곡 '다섯 번째 여름' 앨범 작업 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/XSNGLYLWF04ZFPJDZZLC?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/XSNGLYLWF04ZFPJDZZLC?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XSNGLYLWF04ZFPJDZZLC/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트니트니(Teuni Teuni) - 새로운 트니프렌즈와 함께 신나는 뮤지컬에 초대합니다!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/GERS0R3W62BKBB67JPHE?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/GERS0R3W62BKBB67JPHE?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GERS0R3W62BKBB67JPHE/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lapillus (라필루스) - 데뷔 타이틀 곡 'HIT YA!' CONCEPT PHOTO 촬영 현장]]></title>
+            <link>https://music.bugs.co.kr/musicpost/TC2FOSY9OBNS1T4HS4VW?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/TC2FOSY9OBNS1T4HS4VW?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/TC2FOSY9OBNS1T4HS4VW/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2022년 6월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/6HE9T2K6TZUL220XDPNX?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/6HE9T2K6TZUL220XDPNX?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[수후 - 어른의 시선으로 담은 태평동의 동화 같은 이야기 '또 다른 하루']]></title>
+            <link>https://music.bugs.co.kr/musicpost/CH3X6A56HD56FFPP1ZNU?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/CH3X6A56HD56FFPP1ZNU?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/CH3X6A56HD56FFPP1ZNU/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[APR PROJECT - 새롭게 피어난 [BOYHOOD I S#1] 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/CTRO3478ACJZDH16WSZH?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/CTRO3478ACJZDH16WSZH?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/CTRO3478ACJZDH16WSZH/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Panda Gomm - 'YAHE (feat. VINXEN)' M/V 촬영 비하인드 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/HLNT0NNFHLF28T13RB1W?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/HLNT0NNFHLF28T13RB1W?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HLNT0NNFHLF28T13RB1W/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ego apartment - 첫 정규 앨범 [EGO APARTMENT] 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/RNFB02KSIAI8IEDGXFTA?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/RNFB02KSIAI8IEDGXFTA?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RNFB02KSIAI8IEDGXFTA/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벅스 나눔 캠페인 - 벅스 X 카라(동물권행동)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/HQGZOVQBLLZGMQ016W7H?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/HQGZOVQBLLZGMQ016W7H?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HQGZOVQBLLZGMQ016W7H/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 58. Sam Smith - 'Love Me More']]></title>
+            <link>https://music.bugs.co.kr/musicpost/XC2Q461IMQ9UMNDCY9OH?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/XC2Q461IMQ9UMNDCY9OH?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가토(GATO), 주비트레인(Juvie Train) - 420만 스타 틱톡커와 래퍼, 숏폼형 음원 프로젝트 스타트!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/7UVP166XJ7AIMDO9GXYD?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/7UVP166XJ7AIMDO9GXYD?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7UVP166XJ7AIMDO9GXYD/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2022년 5월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/46CY5N6O04FXWV9TCVKR?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/46CY5N6O04FXWV9TCVKR?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+    </channel>
+</rss>
