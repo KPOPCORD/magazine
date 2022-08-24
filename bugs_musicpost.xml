@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 01:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 04:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4s4ki - 정규 2집 [Killer in Neverland] 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/RDTWPIE9LOH34TZZT0WT?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/RDTWPIE9LOH34TZZT0WT?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 24 Aug 2022 04:04:48 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RDTWPIE9LOH34TZZT0WT/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 61. Benny Blanco, BTS & Snoop Dogg - 'Bad Decisions']]></title>
             <link>https://music.bugs.co.kr/musicpost/V3712BKUM2G3JTI7CMQW?&amp;wl_ref=list_sp_01_h</link>
@@ -182,14 +190,6 @@
             <guid>https://music.bugs.co.kr/musicpost/46CY5N6O04FXWV9TCVKR?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Sat, 04 Jun 2022 13:19:04 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박보람, 인순이 - 내일이 빛날 테니까 (You will shine) 자켓 촬영 현장]]></title>
-            <link>https://music.bugs.co.kr/musicpost/9XIIP8EQDRH27M64EFTD?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/9XIIP8EQDRH27M64EFTD?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 09 May 2022 12:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9XIIP8EQDRH27M64EFTD/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
