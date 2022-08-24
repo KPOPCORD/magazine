@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 04:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 05:41:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -431,9 +431,17 @@
 IVE(아이브) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 24 Aug 2022 04:05:21 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 05:40:56 GMT</pubDate>
             <content:encoded><![CDATA[케이팝이 하나의 산업으로 자리 잡기 시작하면서 시작된 아이돌 세대론. 그리하여 현재는 아이브를 비롯한 4세대 걸그룹이 등장해 일종의 계보를 이어 나가고 있다. 하지만, 사실 따지고 보면 걸그룹은 1990년대에 갑자기 등장한 게 아니다. 이전부터 한국에서는 수많은 걸그룹들이 많은 대중의 사랑을 받아왔다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220823_72/1661235793154OxHsG_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치킨의  변신은 무죄 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 이색 치킨 맛집 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/43a158c17434400ab16f019aded4faf3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뭐 이렇게 예쁜 건데 (현대카드 DIVE ─ POST)]]></title>
@@ -444,7 +452,7 @@ IVE(아이브) (VIBE ─ 매거진)]]></title>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aabc0e3e84624379a9c3144116fc29a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[내가 좋하는 게 나인 거잖아 (현대카드 DIVE ─ POST)]]></title>
+            <title><![CDATA[내가 좋아하는 게 나인 거잖아 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
@@ -498,14 +506,6 @@ IVE(아이브) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
             <content:encoded><![CDATA[레진 소재를 사랑한 디자이너 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d9b952265f7b4e55a180c9d61f0b901f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드에서  만나는 뉴욕 MoMA 이야기 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 27 Jul 2022 22:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕 MoMA 부관장 사라 스즈키 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/30ea297f55034130b9cd179b15f3db90.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
