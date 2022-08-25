@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 05:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 06:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제는 맨이야]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[가장 유력한 스맨파 우승 후보 크루 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1b4f264f2c7643e2b8a6242280a18caf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바다를 품은  어느 빈티지  컬렉터의 집]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[호불호 없는 전국 콩국수 맛집 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81c9d35f582446b3ba51a2d4196d10c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시너지 제대로다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[N차 재생을 부르는 뮤지션의 협업 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/772cf7e0e80d43bfb7f4ca8d8608580e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

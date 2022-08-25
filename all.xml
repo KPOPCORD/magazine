@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 05:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 06:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -431,9 +431,17 @@
 IVE(아이브) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 25 Aug 2022 05:51:47 GMT</pubDate>
+            <pubDate>Thu, 25 Aug 2022 06:29:03 GMT</pubDate>
             <content:encoded><![CDATA[케이팝이 하나의 산업으로 자리 잡기 시작하면서 시작된 아이돌 세대론. 그리하여 현재는 아이브를 비롯한 4세대 걸그룹이 등장해 일종의 계보를 이어 나가고 있다. 하지만, 사실 따지고 보면 걸그룹은 1990년대에 갑자기 등장한 게 아니다. 이전부터 한국에서는 수많은 걸그룹들이 많은 대중의 사랑을 받아왔다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220823_72/1661235793154OxHsG_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이제는 맨이야 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[가장 유력한 스맨파 우승 후보 크루 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1b4f264f2c7643e2b8a6242280a18caf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바다를 품은  어느 빈티지  컬렉터의 집 (현대카드 DIVE ─ POST)]]></title>
@@ -498,14 +506,6 @@ IVE(아이브) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[호불호 없는 전국 콩국수 맛집 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81c9d35f582446b3ba51a2d4196d10c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시너지 제대로다 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[N차 재생을 부르는 뮤지션의 협업 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/772cf7e0e80d43bfb7f4ca8d8608580e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
