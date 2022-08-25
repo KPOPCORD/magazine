@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 07:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 08:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 여름이  가기 전에]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[바다를 만끽할 수 있는 방법 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f63388e62aed4b568ac184c8c0d5360e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제는 맨이야]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 뿌리채소 애프터눈티  팝업]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0899ee7bd80e4b8eb595d859c6f7a5e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콩국수에 호불호가 어딨어]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[호불호 없는 전국 콩국수 맛집 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81c9d35f582446b3ba51a2d4196d10c1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
