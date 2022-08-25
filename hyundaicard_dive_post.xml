@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 01:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 04:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바다를 품은  어느 빈티지  컬렉터의 집]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[무과수의 아카이브 대진]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e3368bb3431c478c80faa3bc0cc5c278.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미디어 아트의 모든 이야기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[N차 재생을 부르는 뮤지션의 협업 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/772cf7e0e80d43bfb7f4ca8d8608580e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상상이 공간이 되는]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[지금 꼭 가봐야 하는 복합 문화 공간 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d16311b87f584a42aeb1d866a2669fe1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
