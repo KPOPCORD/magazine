@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 01:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 04:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페르소나  하우스]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[삶의 형태를 닮도록 지은 집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cad5b3e437e541a3a045d41ef7eae7f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 여름이  가기 전에]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[DIVE와 보이콜드의 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2120ae5d7fb04a7aa02d87a503109ef5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈과 입이  즐거워]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 뿌리채소 애프터눈티  팝업]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0899ee7bd80e4b8eb595d859c6f7a5e5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
