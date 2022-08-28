@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 03:55:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 04:53:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내한 공연 마.침.내.]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[올 하반기 우리나라를 찾는 팝 스타 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/496b272a2a0b436ca0e1ee462c4c929f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[곧 만나는  가을]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[무과수의 아카이브 대진]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e3368bb3431c478c80faa3bc0cc5c278.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미디어 아트의 모든 이야기]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕 MoMA 미디어&amp;퍼포먼스 Art Talk]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/edabc2dbf33a4b79bce7f93022010258.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
