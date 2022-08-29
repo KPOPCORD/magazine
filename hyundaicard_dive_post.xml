@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 06:05:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 07:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무심하게 센스 있게]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[쓰는 순간 룩 분위기를 바꿔주는 볼 캡 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f8328bc01c08409fb1a16b0e6dcd12bd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컬렉터의  시선]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[바다를 만끽할 수 있는 방법 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f63388e62aed4b568ac184c8c0d5360e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제는 맨이야]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[가장 유력한 스맨파 우승 후보 크루 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1b4f264f2c7643e2b8a6242280a18caf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
