@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 04:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 06:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -363,6 +363,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[알앤비 레전드 ＃19 - 영원한 ‘팝의 제왕’ 마이클 잭슨 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12345&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12345&amp;pg=1</guid>
+            <pubDate>Mon, 29 Aug 2022 06:05:11 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12345/Mgz_Main_List_20220829133429.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[콩순이의 율동교실 새로운 시즌 오픈! [콩순이의 율동교실 13] (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12342&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12342&amp;pg=1</guid>
@@ -419,21 +427,21 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12334/Mgz_Main_List_20220826093814.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[섬세한 전달력을 지닌 호주 출신 싱어 송라이터 스텔라 도넬리의 2집 [Floo... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12329&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12329&amp;pg=1</guid>
-            <pubDate>Fri, 26 Aug 2022 04:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12329/Mgz_Main_List_20220825110614.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[이주의 디깅 #141 
 IVE(아이브) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 29 Aug 2022 04:08:03 GMT</pubDate>
+            <pubDate>Mon, 29 Aug 2022 06:05:29 GMT</pubDate>
             <content:encoded><![CDATA[케이팝이 하나의 산업으로 자리 잡기 시작하면서 시작된 아이돌 세대론. 그리하여 현재는 아이브를 비롯한 4세대 걸그룹이 등장해 일종의 계보를 이어 나가고 있다. 하지만, 사실 따지고 보면 걸그룹은 1990년대에 갑자기 등장한 게 아니다. 이전부터 한국에서는 수많은 걸그룹들이 많은 대중의 사랑을 받아왔다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220823_72/1661235793154OxHsG_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컬렉터의  시선 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[수퍼파이디자인 스튜디오의 홈 오피스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/216c0991896d4b3e86049c47a76d273c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내한 공연 마.침.내. (현대카드 DIVE ─ POST)]]></title>
@@ -498,14 +506,6 @@ IVE(아이브) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[가장 유력한 스맨파 우승 후보 크루 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1b4f264f2c7643e2b8a6242280a18caf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다를 품은  어느 빈티지  컬렉터의 집 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[무과수의 아카이브 대진]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e3368bb3431c478c80faa3bc0cc5c278.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
