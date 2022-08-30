@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 06:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 07:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그런 기념품은  어디서 사?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[느낌 있는 제주도 기념품을 찾아서]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/564ba2ee46e542dcb16cee8c91e260dc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[날 따라 해봐요]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[놀빠다 #스타일]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f7acfec29f534d21a67e6fdb27f1dbc4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페르소나  하우스]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[삶의 형태를 닮도록 지은 집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cad5b3e437e541a3a045d41ef7eae7f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

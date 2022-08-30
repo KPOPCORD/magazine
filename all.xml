@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 06:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 07:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -431,9 +431,17 @@
 이진혁 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 30 Aug 2022 06:09:50 GMT</pubDate>
+            <pubDate>Tue, 30 Aug 2022 07:26:48 GMT</pubDate>
             <content:encoded><![CDATA[밝고 긍정적인 MBTI 확신의 E 유형, 지금까지 우리가 사랑한 이진혁은 여기 없다. 대신 혼란스러운 감정 속에 빠진, 깊고 강렬하게 섹시한 이진혁의 새로운 다음 챕터가 열릴 참이다. 신곡 ‘Crack’을 발매하며 자연스레 흘러나온 성숙미와 함께 새 변신을 시도한 이진혁과 나눈 인터뷰.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220829_249/1661759485488YiJT9_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그런 기념품은  어디서 사? (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[느낌 있는 제주도 기념품을 찾아서]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/564ba2ee46e542dcb16cee8c91e260dc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[날 따라 해봐요 (현대카드 DIVE ─ POST)]]></title>
@@ -498,14 +506,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[놀빠다 #스타일]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f7acfec29f534d21a67e6fdb27f1dbc4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페르소나  하우스 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[삶의 형태를 닮도록 지은 집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cad5b3e437e541a3a045d41ef7eae7f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
