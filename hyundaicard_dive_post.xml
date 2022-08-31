@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 07:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 08:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[못됐지만  매력 있어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[편 들어주고 싶은 디즈니플러스의 악녀 캐릭터]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61c10e4c7fed41849a226956642ba368.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[야, 너도  앱 만들 수 있어]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[애주가가 사랑한 수육 맛집 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/62c5480fc29f4fed8e3dd402f8b92e0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국티원탑]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[랩티부터 김씨네 과일가게까지, 김도영 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/959bbf21fac649a9b86d1ace0f8d0c2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
