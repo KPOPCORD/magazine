@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 01:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 04:29:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -363,6 +363,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Youth Hostel 첫 번째 정규 앨범 [Youth Hostel] 발매 기... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12353&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12353&amp;pg=1</guid>
+            <pubDate>Wed, 31 Aug 2022 04:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12353/Mgz_Main_List_20220830140934.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[드디어 시작된 화려한 키 (KEY) 타임! 정규 2집 [Gasoline] 공개 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12346&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12346&amp;pg=1</guid>
@@ -419,19 +427,11 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12344/Mgz_Main_List_20220829165209.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[알앤비 레전드 ＃19 - 영원한 ‘팝의 제왕’ 마이클 잭슨 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12345&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12345&amp;pg=1</guid>
-            <pubDate>Mon, 29 Aug 2022 06:05:11 GMT</pubDate>
-            <content:encoded><![CDATA[힙알사전]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12345/Mgz_Main_List_20220829133429.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[반전의 
 이진혁 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 31 Aug 2022 01:24:35 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2022 04:28:52 GMT</pubDate>
             <content:encoded><![CDATA[밝고 긍정적인 MBTI 확신의 E 유형, 지금까지 우리가 사랑한 이진혁은 여기 없다. 대신 혼란스러운 감정 속에 빠진, 깊고 강렬하게 섹시한 이진혁의 새로운 다음 챕터가 열릴 참이다. 신곡 ‘Crack’을 발매하며 자연스레 흘러나온 성숙미와 함께 새 변신을 시도한 이진혁과 나눈 인터뷰.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220829_249/1661759485488YiJT9_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
