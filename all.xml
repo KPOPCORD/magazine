@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 14:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 15:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -431,9 +431,65 @@
 Billlie(빌리) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 31 Aug 2022 14:15:09 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2022 15:15:17 GMT</pubDate>
             <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 이번에 선정된 아티스트는 장르의 한계를 뛰어넘는 중독성과 함께 더 확장된 세계관으로 돌아온 독보적 스토리텔링 아이돌, Billlie(빌리) 입니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220831_262/1661917889043K06LD_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈의 계절 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 9월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/49a35d4bdb8947b0847ba152e95caed1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장르별 업데이트 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 9월의 새 음반]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/37eb376268704a93b176560e46bc1d4c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 산업디자인의 레전드 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[9월의 디자이너 케네스 그레인지]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8d1f4f885aa64141995a4d9014d9511d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘나가는 디자인의 비밀 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 9월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/90f2dbb5deda49d2922bee1999d7b691.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작의 애처로운 슬픔과 기쁨 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 9월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8e96bdd17bfd4c3887e7b048a170559d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[We’ve Got The Jazz (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[V&amp;P 9월 Monthly Special]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7576561ade734d68858a3829f376b57e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디테일이 다른 요리책 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리 9월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fc9118d74edd47e7b68948c350373318.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[못됐지만  매력 있어 (현대카드 DIVE ─ POST)]]></title>
@@ -450,62 +506,6 @@ Billlie(빌리) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[왕초보도 개발자로 만들어주는 플랫폼 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/742217d6edb04f69a08860d705705f67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그런 기념품은  어디서 사? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[느낌 있는 제주도 기념품을 찾아서]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/564ba2ee46e542dcb16cee8c91e260dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[날 따라 해봐요 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[MZ세대에게 가장 영향력 있는 패션 인플루언서]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/98a8d7735aaf449ab09ba8c3c8cb8197.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무심하게 센스 있게 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[쓰는 순간 룩 분위기를 바꿔주는 볼 캡 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f8328bc01c08409fb1a16b0e6dcd12bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컬렉터의  시선 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[수퍼파이디자인 스튜디오의 홈 오피스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/216c0991896d4b3e86049c47a76d273c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내한 공연 마.침.내. (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[올 하반기 우리나라를 찾는 팝 스타 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/496b272a2a0b436ca0e1ee462c4c929f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곧 만나는  가을 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[쿨함 가득한 가을 트렌드 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7cf0aa2a83c645d79b8a38ee14cb507f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따끈한 수육에 소주 한잔 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[애주가가 사랑한 수육 맛집 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/62c5480fc29f4fed8e3dd402f8b92e0f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
