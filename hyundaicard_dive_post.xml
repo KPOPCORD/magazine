@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 04:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 06:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야, 너도  앱 만들 수 있어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[왕초보도 개발자로 만들어주는 플랫폼 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/742217d6edb04f69a08860d705705f67.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그런 기념품은  어디서 사?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[랩티부터 김씨네 과일가게까지, 김도영 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/959bbf21fac649a9b86d1ace0f8d0c2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘은 힙 장착]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[놀빠다 #스타일]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f7acfec29f534d21a67e6fdb27f1dbc4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
