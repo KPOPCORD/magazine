@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 01:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 04:04:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8e96bdd17bfd4c3887e7b048a170559d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[We’ve Got The Jazz]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 9월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7576561ade734d68858a3829f376b57e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[디테일이 다른 요리책]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -78,6 +70,14 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[왕초보도 개발자로 만들어주는 플랫폼 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/742217d6edb04f69a08860d705705f67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그런 기념품은  어디서 사?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[느낌 있는 제주도 기념품을 찾아서]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/564ba2ee46e542dcb16cee8c91e260dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
