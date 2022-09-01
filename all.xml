@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 07:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 08:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -431,9 +431,17 @@
 Billlie(빌리) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 01 Sep 2022 07:17:06 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2022 08:20:20 GMT</pubDate>
             <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 이번에 선정된 아티스트는 장르의 한계를 뛰어넘는 중독성과 함께 더 확장된 세계관으로 돌아온 독보적 스토리텔링 아이돌, Billlie(빌리) 입니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220831_262/1661917889043K06LD_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬바람 불 때 완벽한 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[야키토리 파노 팝업 다이닝 이벤트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab3bc3749d874c479689d6eb31c949a2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[We’ve Got The Jazz (현대카드 DIVE ─ POST)]]></title>
@@ -498,14 +506,6 @@ Billlie(빌리) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[편 들어주고 싶은 디즈니플러스의 악녀 캐릭터]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61c10e4c7fed41849a226956642ba368.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야, 너도  앱 만들 수 있어 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[왕초보도 개발자로 만들어주는 플랫폼 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/742217d6edb04f69a08860d705705f67.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
