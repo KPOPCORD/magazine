@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 07:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 08:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프로 일잘러의  요즘 노트북]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[업무 스킬 올려줄 노트북 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5076aedf9c144ea8b8918be0ac4826ca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘우영우’는  끝났지만]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 9월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/90f2dbb5deda49d2922bee1999d7b691.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디테일이 다른 요리책]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 9월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fc9118d74edd47e7b68948c350373318.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
