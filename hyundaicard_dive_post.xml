@@ -4,9 +4,25 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 01:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 04:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조선의  발리를 찾아서]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 뜨는 섬, 영흥도의 필수 발도장 코스 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0b87751c534149d88f8fb366d4e68d52.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작의 애처로운 슬픔과 기쁨]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 9월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8e96bdd17bfd4c3887e7b048a170559d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찬바람 불 때 완벽한]]></title>
             <link>javascript:;</link>
@@ -56,28 +72,12 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/90f2dbb5deda49d2922bee1999d7b691.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[창작의 애처로운 슬픔과 기쁨]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 9월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8e96bdd17bfd4c3887e7b048a170559d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[디테일이 다른 요리책]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 9월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fc9118d74edd47e7b68948c350373318.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[못됐지만  매력 있어]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[편 들어주고 싶은 디즈니플러스의 악녀 캐릭터]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61c10e4c7fed41849a226956642ba368.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
