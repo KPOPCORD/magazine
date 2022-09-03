@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 01:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 04:01:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -431,9 +431,17 @@
 Billlie(빌리) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 03 Sep 2022 01:11:53 GMT</pubDate>
+            <pubDate>Sat, 03 Sep 2022 04:01:11 GMT</pubDate>
             <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 이번에 선정된 아티스트는 장르의 한계를 뛰어넘는 중독성과 함께 더 확장된 세계관으로 돌아온 독보적 스토리텔링 아이돌, Billlie(빌리) 입니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220831_262/1661917889043K06LD_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바다 마을  갤러리 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[바다와 섬으로 떠난 미술관들]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7b17574bdb624fafab23f397ecad9ed3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프로 일잘러의  요즘 노트북 (현대카드 DIVE ─ POST)]]></title>
@@ -498,14 +506,6 @@ Billlie(빌리) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[9월의 디자이너 케네스 그레인지]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8d1f4f885aa64141995a4d9014d9511d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘나가는 디자인의 비밀 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 9월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/90f2dbb5deda49d2922bee1999d7b691.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
