@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 08:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 09:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -363,6 +363,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘김재환’의 새로운 꿈이 시작될 5th 미니앨범 [Empty Dream] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12367&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12367&amp;pg=1</guid>
+            <pubDate>Mon, 05 Sep 2022 09:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12367/Mgz_Main_List_20220905111251.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[OST PICK! ＃58 - 게임 음악만 하는 것이 아니다, 사라 섀크너가 맡... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=12369&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=12369&amp;pg=1</guid>
@@ -419,21 +427,13 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12356/Mgz_Main_List_20220902112957.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[LAS(라스)의 세 번째 싱글 ‘RUNAWAY’ 라이브 클립 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12355&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12355&amp;pg=1</guid>
-            <pubDate>Thu, 01 Sep 2022 09:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12355/Mgz_Main_List_20220901145108.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[그리운 
-혼성듀오 음악 (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[New Release #108 : 
+키, 찰리 푸스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 05 Sep 2022 08:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[노래방에서 마음에 드는 이성과 혼성듀오 노래 한 번 안 불러본 사람도 드물 것이다. 아쉽게도 지금은 전처럼 혼성듀오 곡을 찾기 어려운 것 같다. 그리운 마음을 담아 혼성듀오 음악을 준비해 봤다. - 하박국]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220905_84/1662361498699a3xpM_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <pubDate>Mon, 05 Sep 2022 09:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[화려한 비주얼로 컴백한 키, 3집 앞두고 새 싱글 발표한 찰리 푸스까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220905_87/16623629840800IK4F_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴 진스! (현대카드 DIVE ─ POST)]]></title>
