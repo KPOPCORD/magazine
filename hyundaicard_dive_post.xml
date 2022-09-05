@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 09:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 10:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[골든 세이렌의 마법]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[스타벅스 현대카드 2주년 기념 한정판 플레이트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bdf68c91b597441d93cca72deeead9bb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴 진스!]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[야키토리 파노 팝업 다이닝 이벤트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab3bc3749d874c479689d6eb31c949a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[We’ve Got The Jazz]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 9월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7576561ade734d68858a3829f376b57e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
