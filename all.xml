@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 07:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 08:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -427,13 +427,21 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12355/Mgz_Main_List_20220901145108.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[여름이었다. : 
-신스, DPR 이안 (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[그리운 
+혼성듀오 음악 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 05 Sep 2022 07:28:18 GMT</pubDate>
-            <content:encoded><![CDATA[많은 사건사고와 찌는 듯한 무더위, 그리고 급작스러운 기온 변화까지 겹쳐 유난히도 길게 느껴졌던 2022년 여름. 다행히도 한국의 힙합/알앤비 장르 팬들은 정신없이 쏟아지는 신보 덕분에 근심을 잠시 덜어낼 수 있었다. 본격적인 가을이 시작되기 전 많은 장르 팬들이 들었으면 하는 일곱 장의 앨범을 소개하고자 한다. – 힙합엘이]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220902_85/1662115930879bCGyE_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <pubDate>Mon, 05 Sep 2022 08:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[노래방에서 마음에 드는 이성과 혼성듀오 노래 한 번 안 불러본 사람도 드물 것이다. 아쉽게도 지금은 전처럼 혼성듀오 곡을 찾기 어려운 것 같다. 그리운 마음을 담아 혼성듀오 음악을 준비해 봤다. - 하박국]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220905_84/1662361498699a3xpM_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴 진스! (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[언제 입어도 질리지 않는 데님 진 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7d2cc4c2cedd4d48a5b5ace6cd33b55c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디테일이 다른 요리책 (현대카드 DIVE ─ POST)]]></title>
@@ -498,14 +506,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 9월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7576561ade734d68858a3829f376b57e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재즈의 계절 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 9월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/49a35d4bdb8947b0847ba152e95caed1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
