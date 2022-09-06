@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 23:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 01:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악을  입은 패션]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[무신사 X 현대카드 패션 위켄드]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3a9acdc817724e498880886a544e5c4f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[골든 세이렌의 마법]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 9월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8e96bdd17bfd4c3887e7b048a170559d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬바람 불 때 완벽한]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[야키토리 파노 팝업 다이닝 이벤트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab3bc3749d874c479689d6eb31c949a2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
