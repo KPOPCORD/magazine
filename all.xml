@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 01:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 04:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -363,6 +363,22 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[올가을을 포근하게 만들어줄 버나드 박의 편지 한 장 [To whom it ma... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12370&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12370&amp;pg=1</guid>
+            <pubDate>Tue, 06 Sep 2022 04:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12370/Mgz_Main_List_20220906114745.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[감성의 계절 가을, 첼로로 특별함을 더하다 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12364&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12364&amp;pg=1</guid>
+            <pubDate>Tue, 06 Sep 2022 04:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12364/Mgz_Main_List_20220906103403.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[‘김재환’의 새로운 꿈이 시작될 5th 미니앨범 [Empty Dream] (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12367&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12367&amp;pg=1</guid>
@@ -411,27 +427,11 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12361/Mgz_Main_List_20220902110211.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[가장 낮고 어두운 곳에서 가장 높고 밝은 곳으로, tvN <작은아씨들> (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=12360&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=12360&amp;pg=1</guid>
-            <pubDate>Fri, 02 Sep 2022 04:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[방송]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12360/Mgz_Main_List_20220831180925.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[생각과 걱정이 많은 불면러들의 편안한 밤을 바라는 나히의 ‘불면송’ (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12356&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12356&amp;pg=1</guid>
-            <pubDate>Fri, 02 Sep 2022 04:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12356/Mgz_Main_List_20220902112957.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[New Release #108 : 
 키, 찰리 푸스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 06 Sep 2022 01:25:06 GMT</pubDate>
+            <pubDate>Tue, 06 Sep 2022 04:19:46 GMT</pubDate>
             <content:encoded><![CDATA[화려한 비주얼로 컴백한 키, 3집 앞두고 새 싱글 발표한 찰리 푸스까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220905_87/16623629840800IK4F_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
@@ -441,7 +441,7 @@
             <guid>javascript:;</guid>
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[무신사 X 현대카드 패션 위켄드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3a9acdc817724e498880886a544e5c4f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/489965939c674ae4b79fdf835431ee44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[골든 세이렌의 마법 (현대카드 DIVE ─ POST)]]></title>
