@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 04:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 06:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야시장 밤에]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[엉덩이 들썩이게 하는 세계의 야시장]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9cf4f6c21388404db555f00e0eb0e01f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악을  입은 패션]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #26 수원 행궁동]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/379f6577bea540e1a84923d1f4e72f8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창작의 애처로운 슬픔과 기쁨]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 9월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8e96bdd17bfd4c3887e7b048a170559d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
