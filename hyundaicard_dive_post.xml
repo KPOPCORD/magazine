@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 09:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 10:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영감으로  수놓아진]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[9월의 현대카드 컬처 캘린더]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/073c06d8995d45818932435adf8cb87d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[개성 만점 개성주악]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[언제 입어도 질리지 않는 데님 진 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7d2cc4c2cedd4d48a5b5ace6cd33b55c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디테일이 다른 요리책]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 9월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fc9118d74edd47e7b68948c350373318.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
