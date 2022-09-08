@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 08:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 09:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SOLE (쏠) 첫 번째 정규 앨범 선공개 곡 ‘머물러 있는 것 또한 아름다울...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12372&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12372&amp;pg=1</guid>
+            <pubDate>Thu, 08 Sep 2022 09:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12372/Mgz_Main_List_20220908103959.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[힙합 따라잡기 ＃58 - 쇼미가 시작되기 전 들어봐야 할 앨범은?]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12381&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 07 Sep 2022 09:16:09 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12375/Mgz_Main_List_20220907133154.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 POP PUNK의 시작! ‘GUMX’ 베스트 앨범 [WORST GREAT...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12374&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12374&amp;pg=1</guid>
-            <pubDate>Wed, 07 Sep 2022 04:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12374/Mgz_Main_List_20220907102848.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
