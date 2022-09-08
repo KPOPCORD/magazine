@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 05:59:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:46:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워너 필름 소사이어티]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[극장에서 다시 만나는 모두의 인생 영화]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f5e121a766d54615826a9444645e19da.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잘나가는 디자인의 비밀]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[무신사 X 현대카드 패션 위켄드]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/489965939c674ae4b79fdf835431ee44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골든 세이렌의 마법]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[스타벅스 현대카드 2주년 기념 한정판 플레이트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bdf68c91b597441d93cca72deeead9bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
