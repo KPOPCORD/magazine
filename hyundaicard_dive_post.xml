@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 07:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 08:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고래 보러  갈래?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[우영우도 반할 전 세계 ‘고래 투어’ 명소 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cf553abca4274e539551ef560bb5fcc7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[워너 필름 소사이어티]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[엉덩이 들썩이게 하는 세계의 야시장]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9cf4f6c21388404db555f00e0eb0e01f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악을  입은 패션]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 X 현대카드 패션 위켄드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/489965939c674ae4b79fdf835431ee44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

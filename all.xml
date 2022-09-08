@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 07:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 08:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -431,9 +431,17 @@
 멜로디 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 08 Sep 2022 07:28:44 GMT</pubDate>
+            <pubDate>Thu, 08 Sep 2022 08:19:21 GMT</pubDate>
             <content:encoded><![CDATA[요즘 히트 곡 공식 중 하나는 1990년대에서 2000년대에 유행했던 음악을 샘플링하는 것이다. 과거에는 잘 알려지지 않은 노래를 샘플링해 노래를 재창조하는 것이 미덕처럼 여겨졌지만, 요즘 프로듀서들은 원곡의 유명한 멜로디 라인과 리듬을 그대로 샘플링해 사운드를 재현하고 있다. 그렇다면 최근 어떤 음악들이 샘플링 방식을 통해 사랑받고 있을까? – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220908_163/1662605062942uTyav_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고래 보러  갈래? (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[우영우도 반할 전 세계 ‘고래 투어’ 명소 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cf553abca4274e539551ef560bb5fcc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워너 필름 소사이어티 (현대카드 DIVE ─ POST)]]></title>
@@ -498,14 +506,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[엉덩이 들썩이게 하는 세계의 야시장]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9cf4f6c21388404db555f00e0eb0e01f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악을  입은 패션 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 X 현대카드 패션 위켄드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/489965939c674ae4b79fdf835431ee44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
