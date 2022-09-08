@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 04:06:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 05:59:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙합 따라잡기 ＃58 - 쇼미가 시작되기 전 들어봐야 할 앨범은?]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12381&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12381&amp;pg=1</guid>
+            <pubDate>Thu, 08 Sep 2022 05:59:18 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12380/Mgz_Main_List_20220908121710.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[지니 컬러 동향 ＃49 – 2022.08.20 ~ 09.02 발매작]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=12380&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 07 Sep 2022 04:22:14 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12374/Mgz_Main_List_20220907102848.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[Mnet <스트릿 맨 파이터> 계급 미션의 꽃, '리더 계급' 댄스 비디오 촬...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12373&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12373&amp;pg=1</guid>
-            <pubDate>Wed, 07 Sep 2022 04:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12373/Mgz_Main_List_20220907104332.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
