@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 01:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 04:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RM  컬렉션]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[BTS RM이 사랑한 작가들]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bd69e128677745ce9954d0346675ed56.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고래 보러  갈래?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[탐나는 스탠딩 가전 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3d5f3f45a28a425180cf54d78b9375d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야시장 밤에]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[엉덩이 들썩이게 하는 세계의 야시장]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9cf4f6c21388404db555f00e0eb0e01f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
