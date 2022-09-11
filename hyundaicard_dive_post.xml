@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 01:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 04:05:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리빙, 인테리어의 바로미터]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[메종&amp;오브제 파리 프리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bd331760366f437c8f2d6396098ce8d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여유 있게 맥시멈]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[차트를 수놓는 이들의 음악 100% 즐기기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d8a2d0861b2341b1a3b0bf5253198028.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[들어는 봤나,  그 이름?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[미감을 살찌우는 대가들의 전시]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cb889f67cc8a4cc0b19fdb87a7a3a26f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
