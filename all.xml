@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 08:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 09:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -363,6 +363,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[도리토리 [곧 만나자] 라이브 클립 촬영 현장 스케치 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12384&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12384&amp;pg=1</guid>
+            <pubDate>Tue, 13 Sep 2022 09:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12384/Mgz_Main_List_20220913101437.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[청중이 있는 곳에서 음악은 살아난다 - 예브게니 키신의 잘츠부르크 실황 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12385&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12385&amp;pg=1</guid>
@@ -419,19 +427,11 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12378/Mgz_Main_List_20220908102607.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[KIMKIMPARKKIM's 인생 음반 ＃15 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=12378&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=12378&amp;pg=1</guid>
-            <pubDate>Thu, 08 Sep 2022 04:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[김김박김]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12378/Mgz_Main_List_20220908111123.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[어딘가 들어본 듯한 
 멜로디 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 13 Sep 2022 08:20:13 GMT</pubDate>
+            <pubDate>Tue, 13 Sep 2022 09:17:09 GMT</pubDate>
             <content:encoded><![CDATA[요즘 히트 곡 공식 중 하나는 1990년대에서 2000년대에 유행했던 음악을 샘플링하는 것이다. 과거에는 잘 알려지지 않은 노래를 샘플링해 노래를 재창조하는 것이 미덕처럼 여겨졌지만, 요즘 프로듀서들은 원곡의 유명한 멜로디 라인과 리듬을 그대로 샘플링해 사운드를 재현하고 있다. 그렇다면 최근 어떤 음악들이 샘플링 방식을 통해 사랑받고 있을까? – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220908_163/1662605062942uTyav_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
