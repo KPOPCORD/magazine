@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 07:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 08:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -431,9 +431,17 @@
 멜로디 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 13 Sep 2022 07:34:50 GMT</pubDate>
+            <pubDate>Tue, 13 Sep 2022 08:20:13 GMT</pubDate>
             <content:encoded><![CDATA[요즘 히트 곡 공식 중 하나는 1990년대에서 2000년대에 유행했던 음악을 샘플링하는 것이다. 과거에는 잘 알려지지 않은 노래를 샘플링해 노래를 재창조하는 것이 미덕처럼 여겨졌지만, 요즘 프로듀서들은 원곡의 유명한 멜로디 라인과 리듬을 그대로 샘플링해 사운드를 재현하고 있다. 그렇다면 최근 어떤 음악들이 샘플링 방식을 통해 사랑받고 있을까? – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220908_163/1662605062942uTyav_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이런 만두 저런 만두 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[추워지면 생각나는 만두 맛집 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a38374b6e7c545b592730dcda3a89d91.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NFT로  파티 해요 (현대카드 DIVE ─ POST)]]></title>
@@ -498,14 +506,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 9월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/90f2dbb5deda49d2922bee1999d7b691.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영감으로  수놓아진 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[9월의 현대카드 컬처 캘린더]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/073c06d8995d45818932435adf8cb87d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
