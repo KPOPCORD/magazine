@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 01:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 04:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -363,6 +363,30 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[청중이 있는 곳에서 음악은 살아난다 - 예브게니 키신의 잘츠부르크 실황 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12385&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12385&amp;pg=1</guid>
+            <pubDate>Tue, 13 Sep 2022 04:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12385/Mgz_Main_List_20220913101347.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[The xx의 보컬리스트 올리버 심(Oliver Sim), 급진적이고 도발적인... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12383&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12383&amp;pg=1</guid>
+            <pubDate>Tue, 13 Sep 2022 04:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12383/Mgz_Main_List_20220913103047.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[아이와 어른이 함께 노는 소리와 움직임 놀이터 <우와 아트랩> (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=12382&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=12382&amp;pg=1</guid>
+            <pubDate>Tue, 13 Sep 2022 04:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12382/Mgz_Main_List_20220913103302.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[SOLE (쏠) 첫 번째 정규 앨범 선공개 곡 ‘머물러 있는 것 또한 아름다울... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12372&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12372&amp;pg=1</guid>
@@ -403,37 +427,21 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12378/Mgz_Main_List_20220908111123.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[좋은 음악은 언제나 그 자리에 – 혼자 듣기 아까운 숨은 명반을 소개합니다 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12377&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12377&amp;pg=1</guid>
-            <pubDate>Thu, 08 Sep 2022 04:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12377/Mgz_Main_List_20220908094753.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[푸른 하늘과 바다의 설렘, 소울플라이트 ‘Love Breeze’ 앨범 작업기 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12376&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12376&amp;pg=1</guid>
-            <pubDate>Thu, 08 Sep 2022 04:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12376/Mgz_Main_List_20220908094914.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[박기영 & 김태영 [Butterfly (버터플라이)] 싱글 앨범 작업기 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12375&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12375&amp;pg=1</guid>
-            <pubDate>Wed, 07 Sep 2022 09:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12375/Mgz_Main_List_20220907133154.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[어딘가 들어본 듯한 
 멜로디 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 13 Sep 2022 01:20:42 GMT</pubDate>
+            <pubDate>Tue, 13 Sep 2022 04:17:09 GMT</pubDate>
             <content:encoded><![CDATA[요즘 히트 곡 공식 중 하나는 1990년대에서 2000년대에 유행했던 음악을 샘플링하는 것이다. 과거에는 잘 알려지지 않은 노래를 샘플링해 노래를 재창조하는 것이 미덕처럼 여겨졌지만, 요즘 프로듀서들은 원곡의 유명한 멜로디 라인과 리듬을 그대로 샘플링해 사운드를 재현하고 있다. 그렇다면 최근 어떤 음악들이 샘플링 방식을 통해 사랑받고 있을까? – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220908_163/1662605062942uTyav_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지성과 감성의 컬래버레이션  스테이 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022 현대카드 다빈치모텔]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/599d6371426d4e8792cd53daeddaf5d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[재즈의 계절 (현대카드 DIVE ─ POST)]]></title>
@@ -498,14 +506,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[9월의 현대카드 컬처 캘린더]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/073c06d8995d45818932435adf8cb87d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개성 만점 개성주악 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[전국 개성주악 맛집 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/814c475dde3f4653b0381422ffa815b3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
