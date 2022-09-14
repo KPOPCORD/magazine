@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 08:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 09:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,14 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165749_4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[범진, 안예은 - '조각들' M/V 촬영 현장 그리고 아티스트 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/ADBCZFZWP2K0PY4UV3GD?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/ADBCZFZWP2K0PY4UV3GD?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 14 Sep 2022 09:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ADBCZFZWP2K0PY4UV3GD/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4s4ki - 정규 2집 [Killer in Neverland] 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
@@ -356,13 +364,6 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7UVP166XJ7AIMDO9GXYD/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뭘 들을까? - 2022년 5월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/46CY5N6O04FXWV9TCVKR?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/46CY5N6O04FXWV9TCVKR?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[KIM JAE JOONG (김재중) 정규 3집 [BORN GENE] MV 촬영... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12391&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12391&amp;pg=1</guid>
@@ -427,13 +428,21 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12382/Mgz_Main_List_20220913103302.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[New Release #109 : 
-존 레전드, 이창섭 (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[컴&백, 
+매몬의 귀환 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 08:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[2CD로 방대하게 돌아온 존 레전드와 스페셜 싱글을 발표한 비투비 이창섭까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220914_233/1663128096224Pn2rV_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <pubDate>Wed, 14 Sep 2022 09:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[전세계 60억 팬들이 지쳐갈 때쯤 전격 컴백을 결정한 매드몬스터를 네이버 VIBE가 극비리에 만났다. 진작에 뜬구름 같은 인기를 좇는 허무함을 알아버린 이 메타버스급 아이돌에게 아방가르드, 팬덤, 부캐 같은 어리석은 질문을 했더니 사랑, 고독 그리고 소주라는 답이 돌아왔다.]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220914_150/1663138168825xHrFe_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[평범함을 특별하게 포착하다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 단독후원 MoMA 볼프강 틸만스 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1e8db326153c4964aad42e0554e887f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시즈널한 미식의 정점 (현대카드 DIVE ─ POST)]]></title>
@@ -498,14 +507,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[BTS RM이 사랑한 작가들]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bd69e128677745ce9954d0346675ed56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고래 보러  갈래? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[우영우도 반할 전 세계 ‘고래 투어’ 명소 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cf553abca4274e539551ef560bb5fcc7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

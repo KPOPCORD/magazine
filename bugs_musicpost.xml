@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 08:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 09:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[범진, 안예은 - '조각들' M/V 촬영 현장 그리고 아티스트 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/ADBCZFZWP2K0PY4UV3GD?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/ADBCZFZWP2K0PY4UV3GD?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 14 Sep 2022 09:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ADBCZFZWP2K0PY4UV3GD/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4s4ki - 정규 2집 [Killer in Neverland] 발매 기념 인터뷰]]></title>
             <link>https://music.bugs.co.kr/musicpost/RDTWPIE9LOH34TZZT0WT?&amp;wl_ref=list_sp_01_h</link>
@@ -183,13 +191,6 @@
             <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7UVP166XJ7AIMDO9GXYD/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭘 들을까? - 2022년 5월 노래 모음!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/46CY5N6O04FXWV9TCVKR?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/46CY5N6O04FXWV9TCVKR?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
