@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 04:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 06:04:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -427,13 +427,21 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12382/Mgz_Main_List_20220913103302.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[어딘가 들어본 듯한 
-멜로디 (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[New Release #109 : 
+존 레전드, 이창섭 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 14 Sep 2022 04:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 히트 곡 공식 중 하나는 1990년대에서 2000년대에 유행했던 음악을 샘플링하는 것이다. 과거에는 잘 알려지지 않은 노래를 샘플링해 노래를 재창조하는 것이 미덕처럼 여겨졌지만, 요즘 프로듀서들은 원곡의 유명한 멜로디 라인과 리듬을 그대로 샘플링해 사운드를 재현하고 있다. 그렇다면 최근 어떤 음악들이 샘플링 방식을 통해 사랑받고 있을까? – 힙합엘이]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220908_163/1662605062942uTyav_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <pubDate>Wed, 14 Sep 2022 06:04:18 GMT</pubDate>
+            <content:encoded><![CDATA[2CD로 방대하게 돌아온 존 레전드와 스페셜 싱글을 발표한 비투비 이창섭까지. 지금 주목해야 할 멋진 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220914_233/1663128096224Pn2rV_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[늘 새로워 짜릿해! (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[아이폰14 시리즈 &amp; 신제품 라인업]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9d64afb6457c42c199439b8725b435c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이런 만두 저런 만두 (현대카드 DIVE ─ POST)]]></title>
@@ -498,14 +506,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[극장에서 다시 만나는 모두의 인생 영화]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f5e121a766d54615826a9444645e19da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘나가는 디자인의 비밀 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 9월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/90f2dbb5deda49d2922bee1999d7b691.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
