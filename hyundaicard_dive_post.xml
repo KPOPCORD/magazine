@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 08:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 09:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜브 공인 라이징 뮤지션]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[우리나라 아티스트 중 비비 선정]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/440545836b6b4ff4944398d83ef4f51a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그저  빛]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 9월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/49a35d4bdb8947b0847ba152e95caed1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리빙, 인테리어의 바로미터]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[메종&amp;오브제 파리 프리뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bd331760366f437c8f2d6396098ce8d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
