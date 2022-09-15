@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 07:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 08:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,6 +364,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7UVP166XJ7AIMDO9GXYD/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[무선이어폰의 초고음질 시대를 여는 [갤럭시버즈2프로 X 지니뮤직 FLAC] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12396&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12396&amp;pg=1</guid>
+            <pubDate>Thu, 15 Sep 2022 08:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12396/Mgz_Main_List_20220915132204.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[음대 입시생들은 도대체 어떤 곡을 연주할까? (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12394&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12394&amp;pg=1</guid>
@@ -420,19 +428,11 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12386/Mgz_Main_List_20220913114451.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[도리토리 [곧 만나자] 라이브 클립 촬영 현장 스케치 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12384&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12384&amp;pg=1</guid>
-            <pubDate>Tue, 13 Sep 2022 09:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12384/Mgz_Main_List_20220913101437.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[컴&백, 
 매몬의 귀환 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 15 Sep 2022 07:27:49 GMT</pubDate>
+            <pubDate>Thu, 15 Sep 2022 08:20:55 GMT</pubDate>
             <content:encoded><![CDATA[전세계 60억 팬들이 지쳐갈 때쯤 전격 컴백을 결정한 매드몬스터를 네이버 VIBE가 극비리에 만났다. 진작에 뜬구름 같은 인기를 좇는 허무함을 알아버린 이 메타버스급 아이돌에게 아방가르드, 팬덤, 부캐 같은 어리석은 질문을 했더니 사랑, 고독 그리고 소주라는 답이 돌아왔다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220914_150/1663138168825xHrFe_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
