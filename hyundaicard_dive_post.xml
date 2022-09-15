@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 04:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:00:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[루이스 폴센 그리고 3 days of Design]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[박지호가 들려주는 디자인 트렌드]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7b0bb5889e6e484f935a9830654efdff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[평범함을 특별하게 포착하다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[실용과 관능을 갖춘 익스트림 맥시 컬렉션 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d752243c78d946289dc95f8b5979969c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RM  컬렉션]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[BTS RM이 사랑한 작가들]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bd69e128677745ce9954d0346675ed56.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
