@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:46:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 07:28:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -432,9 +432,17 @@
 매몬의 귀환 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 15 Sep 2022 06:46:25 GMT</pubDate>
+            <pubDate>Thu, 15 Sep 2022 07:27:49 GMT</pubDate>
             <content:encoded><![CDATA[전세계 60억 팬들이 지쳐갈 때쯤 전격 컴백을 결정한 매드몬스터를 네이버 VIBE가 극비리에 만났다. 진작에 뜬구름 같은 인기를 좇는 허무함을 알아버린 이 메타버스급 아이돌에게 아방가르드, 팬덤, 부캐 같은 어리석은 질문을 했더니 사랑, 고독 그리고 소주라는 답이 돌아왔다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220914_150/1663138168825xHrFe_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그저  빛 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[반짝이는 게 좋아, 전국의 불빛 축제 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/234c2434a5e749fda335927da7933622.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[루이스 폴센 그리고 3 days of Design (현대카드 DIVE ─ POST)]]></title>
@@ -499,14 +507,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[메종&amp;오브제 파리 프리뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bd331760366f437c8f2d6396098ce8d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여유 있게 맥시멈 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[실용과 관능을 갖춘 익스트림 맥시 컬렉션 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d752243c78d946289dc95f8b5979969c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
