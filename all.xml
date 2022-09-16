@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 08:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 09:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,6 +364,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7UVP166XJ7AIMDO9GXYD/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SOLE (쏠) [imagine club] 자켓 & 프로필 촬영 비하인드 현장 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12398&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12398&amp;pg=1</guid>
+            <pubDate>Fri, 16 Sep 2022 09:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12398/Mgz_Main_List_20220916104709.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[무한대로 가속되는 ‘질주’! NCT 127 정규 4집 공개 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12395&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12395&amp;pg=1</guid>
@@ -420,21 +428,21 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12394/Mgz_Main_List_20220915103518.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[이준형의 첫 정규 앨범 [UTOPIA], 우리가 겪는 우울들 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12392&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12392&amp;pg=1</guid>
-            <pubDate>Thu, 15 Sep 2022 04:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12392/Mgz_Main_List_20220915091900.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[무엇이든 물어보세요 : 
 CIX (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 16 Sep 2022 08:19:49 GMT</pubDate>
+            <pubDate>Fri, 16 Sep 2022 09:16:13 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 매거진! 이번에는 FIX의 마음을 사로잡을 CIX가 함께했습니다. 멤버 각각의 솔직함을 담아낸 답변과 함께 하는 무엇이든 물어보세요 매거진. 지금 함께 만나보시죠.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220916_54/1663292788724Vyrjo_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산드라 무징가의  감각적인  비디오 조각 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[＜Pervasive Light＞ 딥다이브 #5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c0a29c83b6ba49ddb710f4a3ac06bfd8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비프 웰링턴 플리즈 (현대카드 DIVE ─ POST)]]></title>
@@ -499,14 +507,6 @@ CIX (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 그린하우스 가을 신메뉴]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4c8cad45c5ad42848e29c5c9b30838ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[늘 새로워 짜릿해! (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[아이폰14 시리즈 &amp; 신제품 라인업]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9d64afb6457c42c199439b8725b435c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
