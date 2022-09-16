@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 01:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 04:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타일의 블루스]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022 F/W 런웨이 속 청량한 블루]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/79526fc19ca14c4d8f89413c7ba2a238.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브 공인 라이징 뮤지션]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[NFT 기술로 더욱 화려해진 파티]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/39aeb25c03544c2da700954c0186d11a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재즈의 계절]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 9월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/49a35d4bdb8947b0847ba152e95caed1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
