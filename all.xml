@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 03:59:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 05:02:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -432,9 +432,17 @@
 CIX (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 17 Sep 2022 03:58:41 GMT</pubDate>
+            <pubDate>Sat, 17 Sep 2022 05:01:41 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 매거진! 이번에는 FIX의 마음을 사로잡을 CIX가 함께했습니다. 멤버 각각의 솔직함을 담아낸 답변과 함께 하는 무엇이든 물어보세요 매거진. 지금 함께 만나보시죠.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220916_54/1663292788724Vyrjo_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[취미가 세상을 구한다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[취미의 즐거움을 극대화하는 앱]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d96cec29e8d0465c99a7b9d6ee5ae058.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산드라 무징가의  감각적인  비디오 조각 (현대카드 DIVE ─ POST)]]></title>
@@ -499,14 +507,6 @@ CIX (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 단독후원 MoMA 볼프강 틸만스 전시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1e8db326153c4964aad42e0554e887f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시즈널한 미식의 정점 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 그린하우스 가을 신메뉴]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4c8cad45c5ad42848e29c5c9b30838ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
