@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 08:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 09:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어느 호텔 덕후의 이야기]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[호텔 전문 리뷰어 정재형 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c796382066ba4e66bbd3d0c2f681fc8e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두 문화의 깊은 교감]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[DIVE와 실리카겔의 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/384853c6fb7740d3a7dda6f59f515aee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타일의 블루스]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022 F/W 런웨이 속 청량한 블루]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/79526fc19ca14c4d8f89413c7ba2a238.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 08:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 09:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -363,6 +363,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[싱글 2집 [ENTWURF]로 돌아온 NMIXX, 운명을 개척할 주사위(DIC... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12404&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12404&amp;pg=1</guid>
+            <pubDate>Mon, 19 Sep 2022 09:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12404/Mgz_Main_List_20220919162734.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[라틴의 정열을 가득 담은 머스트비 (MUSTB)의 [La Señorita (라... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12403&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12403&amp;pg=1</guid>
@@ -419,21 +427,21 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12398/Mgz_Main_List_20220915164637.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[빈티지와 모던 사이 위치한 충실하고 신중한 클래식 팝 / R&B 듀오 Whit... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12389&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12389&amp;pg=1</guid>
-            <pubDate>Fri, 16 Sep 2022 04:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12389/Mgz_Main_List_20220915121228.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[무엇이든 물어보세요 : 
-CIX (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[New Release #110 : 
+NCT 127, 블랙핑크 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 19 Sep 2022 08:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 매거진! 이번에는 FIX의 마음을 사로잡을 CIX가 함께했습니다. 멤버 각각의 솔직함을 담아낸 답변과 함께 하는 무엇이든 물어보세요 매거진. 지금 함께 만나보시죠.]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20220916_54/1663292788724Vyrjo_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <pubDate>Mon, 19 Sep 2022 09:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[오랜만에 만나는 NCT 127의 정규 앨범부터 두 번째 정규 앨범을 발표한 블랙핑크까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20220919_215/1663573135316bEQRx_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어느 호텔 덕후의 이야기 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[호텔 전문 리뷰어 정재형 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c796382066ba4e66bbd3d0c2f681fc8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두 문화의 깊은 교감 (현대카드 DIVE ─ POST)]]></title>
@@ -498,14 +506,6 @@ CIX (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[DIVE와 실리카겔의 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/384853c6fb7740d3a7dda6f59f515aee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타일의 블루스 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022 F/W 런웨이 속 청량한 블루]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/79526fc19ca14c4d8f89413c7ba2a238.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
