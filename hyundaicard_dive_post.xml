@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 01:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 04:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프리즈 서울 드디어 착륙]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[아시아 최초 개최! 프리즈 서울 요점 정리]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f942e22d439d45468074c224ccfb81af.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤페 취향존중]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[반짝이는 게 좋아, 전국의 불빛 축제 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/234c2434a5e749fda335927da7933622.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루이스 폴센 그리고 3 days of Design]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[박지호가 들려주는 디자인 트렌드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7b0bb5889e6e484f935a9830654efdff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
