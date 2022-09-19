@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 04:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 06:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[짧고도  강한 한방]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니플러스의 짧은 ‘띵작’ 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/755e2ef173b541c6add8a73570c52f6f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프리즈 서울 드디어 착륙]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[우리나라 아티스트 중 비비 선정]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/440545836b6b4ff4944398d83ef4f51a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그저  빛]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[반짝이는 게 좋아, 전국의 불빛 축제 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/234c2434a5e749fda335927da7933622.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

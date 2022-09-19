@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 04:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 06:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -177,6 +177,13 @@
 								</div>
 							</a>]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20220315165749_4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2022년 9월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/B9SRGQGRFTSNMY5P08DY?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/B9SRGQGRFTSNMY5P08DY?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 19 Sep 2022 06:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[범진, 안예은 - '조각들' M/V 촬영 현장 그리고 아티스트 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
@@ -356,14 +363,6 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가토(GATO), 주비트레인(Juvie Train) - 420만 스타 틱톡커와 래퍼, 숏폼형 음원 프로젝트 스타트! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/7UVP166XJ7AIMDO9GXYD?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/7UVP166XJ7AIMDO9GXYD?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 24 Aug 2022 22:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7UVP166XJ7AIMDO9GXYD/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[라틴의 정열을 가득 담은 머스트비 (MUSTB)의 [La Señorita (라... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12403&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12403&amp;pg=1</guid>
@@ -432,9 +431,17 @@
 CIX (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 19 Sep 2022 04:25:52 GMT</pubDate>
+            <pubDate>Mon, 19 Sep 2022 06:10:13 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 매거진! 이번에는 FIX의 마음을 사로잡을 CIX가 함께했습니다. 멤버 각각의 솔직함을 담아낸 답변과 함께 하는 무엇이든 물어보세요 매거진. 지금 함께 만나보시죠.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20220916_54/1663292788724Vyrjo_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[짧고도  강한 한방 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니플러스의 짧은 ‘띵작’ 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/755e2ef173b541c6add8a73570c52f6f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프리즈 서울 드디어 착륙 (현대카드 DIVE ─ POST)]]></title>
@@ -499,14 +506,6 @@ CIX (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[우리나라 아티스트 중 비비 선정]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/440545836b6b4ff4944398d83ef4f51a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그저  빛 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[반짝이는 게 좋아, 전국의 불빛 축제 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/234c2434a5e749fda335927da7933622.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
