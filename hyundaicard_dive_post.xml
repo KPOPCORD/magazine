@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 07:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 08:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두 문화의 깊은 교감]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[한-이스라엘 수교 60주년 기념 뮤지션의 협업]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9e8312291cb04341be3faa14068d76eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[짧고도  강한 한방]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[2022 F/W 런웨이 속 청량한 블루]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/79526fc19ca14c4d8f89413c7ba2a238.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브 공인 라이징 뮤지션]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라 아티스트 중 비비 선정]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/440545836b6b4ff4944398d83ef4f51a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
