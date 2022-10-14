@@ -4,17 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Oct 2022 06:05:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 07:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[코카앤버터, 
-댄스앤뮤직 (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[10월의 느낌, 
+당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 14 Oct 2022 06:04:47 GMT</pubDate>
-            <content:encoded><![CDATA[춤과 음악은 떼려야 뗄 수 없는 불가분의 관계. 댄스 크루 코카앤버터가 직접 노래를 소화한 음원을 통해, 한 단계 레벨업한 퍼포먼스를 선보인다. 범위를 한정하지 않고 아이덴티티를 표현하는 아티스트로서의 코카앤버터에게 &lt;스우파&gt; 이후의 도전에 대해 물었다.]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221012_92/1665558339413JF8sX_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <pubDate>Fri, 14 Oct 2022 07:33:51 GMT</pubDate>
+            <content:encoded><![CDATA[최근 발매된 수많은 노래 중 VIBE에서 사랑받은 ‘이달의 노래’를 소개합니다. 힙터질때, 신났을때, 우울할때, 사랑할때, 사랑했을때, 파티할때, 멍때릴때, 운동할때, 휴식할때… 느낌별 스테이션이 선정한 ‘10월의 노래’를 여러분도 들어보세요.]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20221014_22/1665718754183Wt8Qk_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
