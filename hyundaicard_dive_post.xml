@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://dive.hyundaicard.com/web/post/post.hdc</id>
-    <title>현대카드 DIVE ─ POST</title>
-    <updated>2022-11-16T16:21:41.457Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dive.hyundaicard.com/web/post/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>현대카드 DIVE ─ POST</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:15:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대카드 Curated 80 케빈오]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[데뷔 5년 만에 첫 정규 앨범 낸 싱어송라이터]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b2c2ae8f6aed4d83a26283ae26f487f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영감의  시간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리에서 만나는 아트워크]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/72777f3b1044467cb2206ecd50680b38.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홈  드라이브]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[자동차 브랜드가 만든 홈 오브제]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e78fa5cc2fae49f89c96af4d7ebfb249.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한옥만 보고 가긴  너무 아쉬워]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[나만 아는 동네 #28 전주 중앙동]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1360c901571d426fbbbd7eaa2b10c163.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[골프력 수직 상승]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[IRON &amp; WOOD의 동계 집중 트레이닝]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/319311209b6d47eab6da02c98290ce2f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈덕을  위하여]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[운동화부터 부츠까지 신발 관리기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/969a78b94cfd4280ad91b0251486a7ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온수풀이면  다 좋아]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[에어비앤비 온수풀 맛집 3]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2adaaea1c37a411fa5c6c44cba21fed7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웅장한  상상력]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[완성이 기대되는 건축가의 마스터플랜]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ed008a93c0d1463f925fca4f43a5a427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불타오르네  NFT]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[불태워야 가치가 오르는 NFT 미술의 세계]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f6d087c7aadc4ce096e7ed064772e053.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
