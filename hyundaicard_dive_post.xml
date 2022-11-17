@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 06:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 07:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추우니까 이거 덮어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[배고픈 날 생각나는 덮밥 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ce3a68f71364f8fb91dccd83d508686.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시간이 흐르는 공간, 일맥문화재단]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[에어비앤비 온수풀 맛집 3]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2adaaea1c37a411fa5c6c44cba21fed7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웅장한  상상력]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[완성이 기대되는 건축가의 마스터플랜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ed008a93c0d1463f925fca4f43a5a427.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

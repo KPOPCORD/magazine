@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 06:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 07:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ tripleS(트리플에스) (VIBE ─ 매거진)]]></title>
 CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 06:19:13 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 07:12:54 GMT</pubDate>
             <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 이번에 선정된 아티스트는 거침없이 당찬 매력으로 무대를 빛내는 Z세대 대표 걸그룹, 클라씨(CLASS:y) 입니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221116_130/1668565139606pQuNS_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추우니까 이거 덮어 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[배고픈 날 생각나는 덮밥 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ce3a68f71364f8fb91dccd83d508686.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시간이 흐르는 공간, 일맥문화재단 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[에어비앤비 온수풀 맛집 3]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2adaaea1c37a411fa5c6c44cba21fed7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웅장한  상상력 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[완성이 기대되는 건축가의 마스터플랜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ed008a93c0d1463f925fca4f43a5a427.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
