@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 08:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 09:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,22 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[첫사랑(CSR)이 써내려가는 청춘 영화 제 2막 [Sequence : 17&] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12628&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12628&amp;pg=1</guid>
+            <pubDate>Thu, 17 Nov 2022 09:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12628/Mgz_Main_List_20221117104021.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[다비치를 이을 여성 듀오 팀 오전:오후 [이별 앞에서 내가 후회하는 세 가지]... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12621&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12621&amp;pg=1</guid>
+            <pubDate>Thu, 17 Nov 2022 09:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12621/Mgz_Main_List_20221116172328.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[네가 있기에 내가 있을 수 있어, 발레와 클래식의 밀접한 관계? (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12627&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12627&amp;pg=1</guid>
@@ -240,22 +256,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:24 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12624/Mgz_Main_List_20221116104329.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[몽돌 싱글 [윙윙] 라이브 클립과 발매 인터뷰 촬영 현장 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12623&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12623&amp;pg=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12623/Mgz_Main_List_20221116105515.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 이별 감성 가득 희형제, Single ‘순애보’ 앨범 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12614&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12614&amp;pg=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12614/Mgz_Main_List_20221116104731.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[온전한 
@@ -370,9 +370,17 @@ tripleS(트리플에스) (VIBE ─ 매거진)]]></title>
 CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 08:19:26 GMT</pubDate>
+            <pubDate>Thu, 17 Nov 2022 09:16:30 GMT</pubDate>
             <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 이번에 선정된 아티스트는 거침없이 당찬 매력으로 무대를 빛내는 Z세대 대표 걸그룹, 클라씨(CLASS:y) 입니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221116_130/1668565139606pQuNS_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대카드  Curated 81 김준휘 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[진심을 나눌 수 있는 뮤지션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fa83ee813fce418a874ddd5a29965e9d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추우니까 이거 덮어 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[운동화부터 부츠까지 신발 관리기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/969a78b94cfd4280ad91b0251486a7ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온수풀이면  다 좋아 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[에어비앤비 온수풀 맛집 3]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2adaaea1c37a411fa5c6c44cba21fed7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
