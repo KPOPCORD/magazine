@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 09:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 10:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,22 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[FIFTY FIFTY (피프티 피프티)의 첫 데뷔 앨범 [THE FIFTY] ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12635&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12635&amp;pg=1</guid>
+            <pubDate>Fri, 18 Nov 2022 10:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12635/Mgz_Main_List_20221118105822.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[요조 EP [이름들]의 타이틀곡 Unknown Horses’ 뮤직비디오 비하인... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12634&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12634&amp;pg=1</guid>
+            <pubDate>Fri, 18 Nov 2022 10:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12634/Mgz_Main_List_20221118103016.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[힙합사의 결정적인 순간을 장식한 싱글들 60화 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12636&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12636&amp;pg=1</guid>
@@ -240,22 +256,6 @@
             <pubDate>Thu, 17 Nov 2022 09:16:09 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12628/Mgz_Main_List_20221117104021.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[다비치를 이을 여성 듀오 팀 오전:오후 [이별 앞에서 내가 후회하는 세 가지]... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12621&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12621&amp;pg=1</guid>
-            <pubDate>Thu, 17 Nov 2022 09:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12621/Mgz_Main_List_20221116172328.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[네가 있기에 내가 있을 수 있어, 발레와 클래식의 밀접한 관계? (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12627&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12627&amp;pg=1</guid>
-            <pubDate>Thu, 17 Nov 2022 03:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12627/Mgz_Main_List_20221117100752.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[온전한 
@@ -370,7 +370,7 @@ tripleS(트리플에스) (VIBE ─ 매거진)]]></title>
 CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 18 Nov 2022 09:15:12 GMT</pubDate>
+            <pubDate>Fri, 18 Nov 2022 10:14:40 GMT</pubDate>
             <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 이번에 선정된 아티스트는 거침없이 당찬 매력으로 무대를 빛내는 Z세대 대표 걸그룹, 클라씨(CLASS:y) 입니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221116_130/1668565139606pQuNS_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
@@ -399,52 +399,52 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/71787e2c2a84427484621651108e0f7f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현대카드  Curated 81 김준휘 (현대카드 DIVE ─ POST)]]></title>
+            <title><![CDATA[눈이 만 개라도  모자라 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[진심을 나눌 수 있는 뮤지션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fa83ee813fce418a874ddd5a29965e9d.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[요즘 떠오르는 현대 예술 아티스트의 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dfdb95656e7c488ea457106bfa21b4d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[추우니까 이거 덮어 (현대카드 DIVE ─ POST)]]></title>
+            <title><![CDATA[뉴스탠더드  호텔 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[배고픈 날 생각나는 덮밥 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ce3a68f71364f8fb91dccd83d508686.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[새로운 영감을 불어넣는 세계의 신상 호텔 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5604db5433ec4efd8e7029ab37c6edfb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시간이 흐르는 공간, 일맥문화재단 (현대카드 DIVE ─ POST)]]></title>
+            <title><![CDATA[서울 갤러리 업데이트 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[전은경의 '힐링 스팟']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a86f24e0f4964df5b062e314c194ab37.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[새로 생긴 서울의 전시 공간]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1430772b3f3941a2b1525d6725fb1725.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현대카드 Curated 80 케빈오 (현대카드 DIVE ─ POST)]]></title>
+            <title><![CDATA[명반의 기반이 된 명작 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 5년 만에 첫 정규 앨범 낸 싱어송라이터]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b2c2ae8f6aed4d83a26283ae26f487f8.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[전은경의 '디자인 스토리']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/625adcd810264904be768cc62c06ce46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영감의  시간 (현대카드 DIVE ─ POST)]]></title>
+            <title><![CDATA[휴식,  그 달콤한 단절 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리에서 만나는 아트워크]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/72777f3b1044467cb2206ecd50680b38.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[현실을 잊게 하는 초현실적 스파 공간 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8a4057050b4f4b36be4774b48a793a2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[홈  드라이브 (현대카드 DIVE ─ POST)]]></title>
+            <title><![CDATA[빈티지  발굴단 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[자동차 브랜드가 만든 홈 오브제]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e78fa5cc2fae49f89c96af4d7ebfb249.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[보물같은 빈티지 제품을 만날 수 있는 곳]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/63f10a4ba5f34a969df4e01ebdcacd2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
