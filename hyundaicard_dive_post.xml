@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 04:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 05:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푸딩이 디기디기딩]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[달콤하고 부드러운 푸딩 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/71787e2c2a84427484621651108e0f7f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대카드  Curated 81 김준휘]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[IRON &amp; WOOD의 동계 집중 트레이닝]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/319311209b6d47eab6da02c98290ce2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈덕을  위하여]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[운동화부터 부츠까지 신발 관리기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/969a78b94cfd4280ad91b0251486a7ca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
