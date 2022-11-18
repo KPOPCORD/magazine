@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 06:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 07:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한강,  다시 보기]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[‘고수의 눈’으로 찾아낸 한강의 노을 명소]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6fea7c970a014db1bb0f4389223d49b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[푸딩이 디기디기딩]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #28 전주 중앙동]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1360c901571d426fbbbd7eaa2b10c163.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골프력 수직 상승]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[IRON &amp; WOOD의 동계 집중 트레이닝]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/319311209b6d47eab6da02c98290ce2f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
