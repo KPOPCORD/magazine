@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 23:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 01:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,15 +258,6 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12624/Mgz_Main_List_20221116104329.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[NEXTREND : 
-CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62230</link>
-            <guid>https://vibe.naver.com/magazines/62230</guid>
-            <pubDate>Thu, 17 Nov 2022 10:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.11.16]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221116_253/1668565137519Wl1R0_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[온전한 
 유아만의 시간 (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/62229</link>
@@ -283,6 +274,15 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 05:20:19 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.11.15]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221115_153/1668501046578DONlE_GIF/%C4%BF%B9%F61.gif?type=w720" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[다가오는 겨울, 
+머무르는 음악 (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62231</link>
+            <guid>https://vibe.naver.com/magazines/62231</guid>
+            <pubDate>Fri, 18 Nov 2022 01:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.11.15]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20221117_233/1668670853192UnCjd_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[11월의 느낌, 
@@ -366,13 +366,13 @@ tripleS(트리플에스) (VIBE ─ 매거진)]]></title>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII="/>
         </item>
         <item>
-            <title><![CDATA[다가오는 겨울, 
-머무르는 음악 (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[NEXTREND : 
+CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 17 Nov 2022 23:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[강원도에 대설주의보가 내렸다. 여름에 어울리는 노래를 찾던 게 엊그제 같은데 어느새 겨울이 성큼 앞으로 다가왔다. 추운 겨울 따뜻한 방에서 머무르며 좋을 노래를 골라 봤다. – 하박국]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20221117_275/1668670855004m0xh2_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <pubDate>Fri, 18 Nov 2022 01:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[VIBE와 NOW가 함께 차세대 K-POP 리더를 선정하고 조명하는 프로젝트 NEXTREND! 이번에 선정된 아티스트는 거침없이 당찬 매력으로 무대를 빛내는 Z세대 대표 걸그룹, 클라씨(CLASS:y) 입니다.]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20221116_130/1668565139606pQuNS_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대카드  Curated 81 김준휘 (현대카드 DIVE ─ POST)]]></title>
