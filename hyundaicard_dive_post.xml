@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 08:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 09:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언더스테이지 클래식 페스타]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[손민수 큐레이터 공연 후속 라인업 공개]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/48a444a350e34cac9036dc8e12b335ca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한강,  다시 보기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[자동차 브랜드가 만든 홈 오브제]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e78fa5cc2fae49f89c96af4d7ebfb249.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한옥만 보고 가긴  너무 아쉬워]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[나만 아는 동네 #28 전주 중앙동]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1360c901571d426fbbbd7eaa2b10c163.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
