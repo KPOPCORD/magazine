@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 03:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 04:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일잘러의  라벨 프린터]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[정리, 이제 어렵지 않아요]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/56b66f47c9a34399b49c9c3e43d5ddaa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[언더스테이지 클래식 페스타]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[현실을 잊게 하는 초현실적 스파 공간 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8a4057050b4f4b36be4774b48a793a2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈티지  발굴단]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[보물같은 빈티지 제품을 만날 수 있는 곳]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/63f10a4ba5f34a969df4e01ebdcacd2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
