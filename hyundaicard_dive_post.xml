@@ -4,9 +4,25 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 05:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 06:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그대는 그저 빛]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[DIVE와 적재의 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6f652c8aeaf64747a5a53605430dfb9f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[판을 바꾸다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;뉴욕타임스&gt;의 디지털 완벽 적응기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c2cd4476b7d4af7a16a1e64721e0f58.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[궁극의 케미]]></title>
             <link>javascript:;</link>
@@ -62,22 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[새로운 영감을 불어넣는 세계의 신상 호텔 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5604db5433ec4efd8e7029ab37c6edfb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 갤러리 업데이트]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[새로 생긴 서울의 전시 공간]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1430772b3f3941a2b1525d6725fb1725.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명반의 기반이 된 명작]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[전은경의 '디자인 스토리']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/625adcd810264904be768cc62c06ce46.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
