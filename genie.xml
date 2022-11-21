@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 12:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 13:38:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 돌아온 2022 FIFA 월드컵! 호미들, UNEDUCATED KID, ...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12641&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12641&amp;pg=1</guid>
+            <pubDate>Mon, 21 Nov 2022 13:37:37 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12641/Mgz_Main_List_20221121163419.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[앞산 빨래터 LP 청음 카페 <포린>]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=12642&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 18 Nov 2022 07:12:47 GMT</pubDate>
             <content:encoded><![CDATA[힙알사전]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12636/Mgz_Main_List_20221118143142.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[지니 컬러 동향 ＃54 – 2022.10.29 ~ 11.11 발매작]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=12633&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=12633&amp;pg=1</guid>
-            <pubDate>Fri, 18 Nov 2022 03:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[지니 컬러 동향]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12632/Mgz_Main_List_20221118090909.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
