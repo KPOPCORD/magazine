@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 06:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 07:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ tripleS(트리플에스) (VIBE ─ 매거진)]]></title>
 존 케이, 조용필 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 22 Nov 2022 06:17:34 GMT</pubDate>
+            <pubDate>Tue, 22 Nov 2022 07:15:01 GMT</pubDate>
             <content:encoded><![CDATA[곧 내한하는 아티스트 존 케이, 9년 만에 신곡을 발표한 조용필까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221121_285/1669015647736qXAGh_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[형만 한  아우 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[본편만큼 재미있는 속편 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9cd6919015d54f17b5159ca96cae35b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장기하 Curated 15 머드 더 스튜던트 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ tripleS(트리플에스) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[‘고수의 눈’으로 찾아낸 한강의 노을 명소]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6fea7c970a014db1bb0f4389223d49b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸딩이 디기디기딩 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[달콤하고 부드러운 푸딩 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/71787e2c2a84427484621651108e0f7f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
