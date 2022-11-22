@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 09:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 10:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,22 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[3RD MINI ALBUM [ON and ON]으로 돌아온 TEMPEST! (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12646&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12646&amp;pg=1</guid>
+            <pubDate>Tue, 22 Nov 2022 10:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12646/Mgz_Main_List_20221122140814.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[음악적 쾌감의 끝, 보아 (BoA)의 세 번째 미니앨범 [Forgive Me] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12640&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12640&amp;pg=1</guid>
+            <pubDate>Tue, 22 Nov 2022 10:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12640/Mgz_Main_List_20221122101919.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[때로는 차갑게 때로는 따뜻하게, 겨울에 어울리는 클래식 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12645&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12645&amp;pg=1</guid>
@@ -240,22 +256,6 @@
             <pubDate>Mon, 21 Nov 2022 06:18:07 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12639/Mgz_Main_List_20221121104438.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[KT와 함께하는 예술의전당 “마음을 담은 클래식” 11월 공연 미리보기 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12637&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12637&amp;pg=1</guid>
-            <pubDate>Mon, 21 Nov 2022 06:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12636/Mgz_Main_List_20221118143152.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스와 한국, 그리고 전세계를 다니는 디제이/프로듀서 디디한과의 인터뷰 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12629&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12629&amp;pg=1</guid>
-            <pubDate>Mon, 21 Nov 2022 06:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12629/Mgz_Main_List_20221121105640.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #119 : 
@@ -370,7 +370,7 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 조용필 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 22 Nov 2022 09:15:33 GMT</pubDate>
+            <pubDate>Tue, 22 Nov 2022 10:14:50 GMT</pubDate>
             <content:encoded><![CDATA[수없이 많은 스타와 좋은 뮤지션들이 탄탄하게 만들어 낸 한국 가요의 역사. 하지만, 가요 역사상 단 한 명만이 가왕의 칭호로 불리고 있으니. 바로 조용필이다. 조용필은 수많은 뮤지션과 함께 지난 50여 년간 19개의 정규 앨범을 발표하며 한국 대중가요의 역사를 써 내려갔다. 이주의 디깅에서는 조용필과 함께한 뮤지션들을 알아보도록 하자. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221122_265/1669080447132aSTDW_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
