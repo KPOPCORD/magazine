@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 03:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 04:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[&lt;뉴욕타임스&gt;의 디지털 완벽 적응기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c2cd4476b7d4af7a16a1e64721e0f58.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장기하 Curated 15 머드 더 스튜던트]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[현실주의자들 죽이는 피터팬]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5e6e3699738c4b068431806654440670.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[궁극의 케미]]></title>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[달콤하고 부드러운 푸딩 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/71787e2c2a84427484621651108e0f7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈이 만 개라도  모자라]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 떠오르는 현대 예술 아티스트의 전시]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dfdb95656e7c488ea457106bfa21b4d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
