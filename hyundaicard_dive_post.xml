@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 07:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 08:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미술의 역사를  AI로 재해석한 꿈의 작품]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 후원 MoMA 첫 NFT 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f24229f41f6145a59e643d138504af3c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여기서 카페 신 찍고 갈게요]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[본편만큼 재미있는 속편 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9cd6919015d54f17b5159ca96cae35b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장기하 Curated 15 머드 더 스튜던트]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[현실주의자들 죽이는 피터팬]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5e6e3699738c4b068431806654440670.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
