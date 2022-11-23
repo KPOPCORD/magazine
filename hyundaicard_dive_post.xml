@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 08:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 09:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비욘세 vs 아델]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 그래미 올해의 앨범상은 누구?]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ffeb7afa70754a73931a8d25a84f3fb7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미술의 역사를  AI로 재해석한 꿈의 작품]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[캠핑을 더 즐겁게 만드는 가전 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e748d783da054f78a558185418a582d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형만 한  아우]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[본편만큼 재미있는 속편 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9cd6919015d54f17b5159ca96cae35b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

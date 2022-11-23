@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 08:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 09:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젬스톤 - '흔한 이별 (2022)' 녹음 현장 & 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/K7FHFZJSJRZPMHWJNJPH?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/K7FHFZJSJRZPMHWJNJPH?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 23 Nov 2022 09:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/K7FHFZJSJRZPMHWJNJPH/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SECRET NUMBER (시크릿넘버) - 여러분들의 마음을 두드릴 [TAP] 자켓 촬영 현장]]></title>
             <link>https://music.bugs.co.kr/musicpost/G0DG9QNJ56CWDL6GKG0R?&amp;wl_ref=list_sp_01_h</link>
@@ -185,13 +193,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RDTWPIE9LOH34TZZT0WT/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝송으로 배우는 영어! 61. Benny Blanco, BTS & Snoop Dogg - 'Bad Decisions']]></title>
-            <link>https://music.bugs.co.kr/musicpost/V3712BKUM2G3JTI7CMQW?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/V3712BKUM2G3JTI7CMQW?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
