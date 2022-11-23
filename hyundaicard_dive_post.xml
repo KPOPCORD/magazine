@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 09:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 10:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비범한  책방]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[특별한 테마가 있는 전국 독립 서점 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1c2afd8f35234266a0f43773958f1a91.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비욘세 vs 아델]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[무드를 채우는 다채로운 진주 주얼리]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1eeb41cfa20b409fb6dd3daa1574e2ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캠퍼들의  위시 리스트]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[캠핑을 더 즐겁게 만드는 가전 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e748d783da054f78a558185418a582d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
