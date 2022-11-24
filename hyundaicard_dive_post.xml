@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 08:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 09:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울의 근본은 재즈와 와인]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[예약 필수인 요즘 핫한 재즈 바]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a63ce00748c74cf299a39f1abf865a57.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주 송당리에 있는  작은 덴마크]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[중독적인 베이글 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/418bcc60614c400b8f26e2a6b9610c44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#디렉터감성]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[감성이 남다른 패션 디렉터의 인스타그램]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/798a32af43d14919a9945e208da7408e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
