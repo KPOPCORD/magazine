@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 06:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 07:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을을 맛있게 보내는 방법]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[신상 맛집 #26]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dab4daa0a17944eab3f16273089b590e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자연을 테크놀로지에  담다]]></title>
             <link>javascript:;</link>
@@ -21,7 +29,7 @@
             <guid>javascript:;</guid>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[CG 깎는 장인 ‘도라마코리아’ 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b856376fb9c4415f9ae0fec00438735d.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4790d4ef20c843d1a6f77a6dfbafe14e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울의 근본은 재즈와 와인]]></title>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 후원 MoMA 첫 NFT 전시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f24229f41f6145a59e643d138504af3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여기서 카페 신 찍고 갈게요]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[영화 속 세트장처럼 예쁜 카페]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a0f7b4fcc72642fabe392a66888ab698.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
