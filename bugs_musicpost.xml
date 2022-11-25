@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 07:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 08:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 64.Taylor Swift - 'Anti-Hero']]></title>
+            <link>https://music.bugs.co.kr/musicpost/CN7DX0Y6OS9IJO8DH90R?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/CN7DX0Y6OS9IJO8DH90R?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 25 Nov 2022 08:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[젬스톤 - '흔한 이별 (2022)' 녹음 현장 & 발매 기념 인터뷰]]></title>
             <link>https://music.bugs.co.kr/musicpost/K7FHFZJSJRZPMHWJNJPH?&amp;wl_ref=list_sp_01_h</link>
@@ -185,14 +192,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ADBCZFZWP2K0PY4UV3GD/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4s4ki - 정규 2집 [Killer in Neverland] 발매 기념 인터뷰]]></title>
-            <link>https://music.bugs.co.kr/musicpost/RDTWPIE9LOH34TZZT0WT?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/RDTWPIE9LOH34TZZT0WT?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RDTWPIE9LOH34TZZT0WT/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
