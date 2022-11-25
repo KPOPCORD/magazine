@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 05:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 06:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자연을 테크놀로지에  담다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 스토리지 DRIFT 아시아 최초 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/78debf10228e46cd98d324391fb24b4e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저 세상 CG]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[영화 속 세트장처럼 예쁜 카페]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a0f7b4fcc72642fabe392a66888ab698.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑도 달콤하게]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[패션 브랜드에서 오픈한 카페 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/38e714fae5dc41ea8de02271f57f76da.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
