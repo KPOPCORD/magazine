@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 04:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 05:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 가호 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 25 Nov 2022 04:15:52 GMT</pubDate>
+            <pubDate>Fri, 25 Nov 2022 05:13:35 GMT</pubDate>
             <content:encoded><![CDATA[노래를 듣는 것만으로 없던 추억도 새록새록 피어나고 있지도 않은 소중한 그 한 사람을 떠올리게 만들어주는 가호의 신곡 ‘Only You’는 아름다운 추억으로 남은 아련한 첫사랑 같은 곡이다. 지금까지 알던 가호를 잊게 할 만큼, 부드럽고 감미로운 가호의 새로운 매력에 녹아들 시간.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221123_79/1669182831278xCkcu_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저 세상 CG (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[CG 깎는 장인 ‘도라마코리아’ 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b856376fb9c4415f9ae0fec00438735d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울의 근본은 재즈와 와인 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[패션 브랜드에서 오픈한 카페 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/38e714fae5dc41ea8de02271f57f76da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삶고 굽고  발라서 냠 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[중독적인 베이글 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/418bcc60614c400b8f26e2a6b9610c44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
