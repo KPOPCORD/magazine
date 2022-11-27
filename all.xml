@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 03:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 04:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 힙합팀 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 27 Nov 2022 03:04:11 GMT</pubDate>
+            <pubDate>Sun, 27 Nov 2022 04:15:55 GMT</pubDate>
             <content:encoded><![CDATA[단체적인 움직임보다 아티스트 개개인의 활동에 초점이 맞춰진 2020년대의 한국 힙합 씬. 그러나 본래 한국 힙합은 인터넷 커뮤니티와 동호회에서 모인 이들이 씬의 바탕을 만들어 왔다. 덕분에 다양한 듀오, 트리오, 4인조 팀과 크루, 레이블이 등장해 장르 음악뿐 아니라 한국 대중 음악사에 족적을 남겼다. 이 중에서 레전드 팀들을 알아보도록 하자. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221125_45/16693654761729A5fu_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 집에  풀이 났어요 래콜렉티브: 25개의 방 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 ‘디자인 스팟']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3bbc5e942efd4045975fe96f7374055b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[펫크닉  떠날 시간 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[특별한 테마가 있는 전국 독립 서점 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1c2afd8f35234266a0f43773958f1a91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비욘세 vs 아델 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 그래미 올해의 앨범상은 누구?]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ffeb7afa70754a73931a8d25a84f3fb7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
