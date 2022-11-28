@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 05:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 06:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼퓸  파라다이스로  체크인]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[향기와 아름다움에 취하는 서울의 퍼퓨머리]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a3da2a655bcc4f8b9b2bac5fd6c947e7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[취향을 뜨다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[무과수의 여행 #2]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/674996e6d2824172aac857bd5e2e5d65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말 요리를  부탁해]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[이재훈 x 휘슬러 쿠킹 클래스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/40f28820c9274066bdd46e5a21073a26.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
