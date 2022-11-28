@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 01:01:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 02:35:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,12 +38,11 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정민 - 신곡 '익명에게' 작업 비하인드 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/TLQZ3G211XWGTN7SKIWR?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/TLQZ3G211XWGTN7SKIWR?&amp;wl_ref=list_sp_01_h</guid>
+            <title><![CDATA[뭘 들을까? - 2022년 11월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/C9K0LXW1X0EVS8SR3XVO?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/C9K0LXW1X0EVS8SR3XVO?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/TLQZ3G211XWGTN7SKIWR/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[영화 '원피스 필름 레드' - 시리즈 사상 가장 화려한 엔터테이닝 무비, OST 공개! (벅스 ─ 뮤직포스트)]]></title>
@@ -370,7 +369,7 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 힙합팀 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 28 Nov 2022 01:00:59 GMT</pubDate>
+            <pubDate>Mon, 28 Nov 2022 02:35:36 GMT</pubDate>
             <content:encoded><![CDATA[단체적인 움직임보다 아티스트 개개인의 활동에 초점이 맞춰진 2020년대의 한국 힙합 씬. 그러나 본래 한국 힙합은 인터넷 커뮤니티와 동호회에서 모인 이들이 씬의 바탕을 만들어 왔다. 덕분에 다양한 듀오, 트리오, 4인조 팀과 크루, 레이블이 등장해 장르 음악뿐 아니라 한국 대중 음악사에 족적을 남겼다. 이 중에서 레전드 팀들을 알아보도록 하자. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221125_45/16693654761729A5fu_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
