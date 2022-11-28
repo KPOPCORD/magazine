@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 02:35:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 03:28:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 픽스 (THE FIX) - 데뷔 싱글 [RUSH] 자켓 촬영 현장]]></title>
+            <link>https://music.bugs.co.kr/musicpost/7NZB6CG53I8LMIX6O48U?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/7NZB6CG53I8LMIX6O48U?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 28 Nov 2022 03:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7NZB6CG53I8LMIX6O48U/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 64.Taylor Swift - 'Anti-Hero']]></title>
             <link>https://music.bugs.co.kr/musicpost/CN7DX0Y6OS9IJO8DH90R?&amp;wl_ref=list_sp_01_h</link>
@@ -38,11 +46,12 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뭘 들을까? - 2022년 11월 노래 모음!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/C9K0LXW1X0EVS8SR3XVO?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/C9K0LXW1X0EVS8SR3XVO?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+            <title><![CDATA[정민 - 신곡 '익명에게' 작업 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/TLQZ3G211XWGTN7SKIWR?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/TLQZ3G211XWGTN7SKIWR?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 28 Nov 2022 03:26:07 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/TLQZ3G211XWGTN7SKIWR/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화 '원피스 필름 레드' - 시리즈 사상 가장 화려한 엔터테이닝 무비, OST 공개!]]></title>
@@ -183,14 +192,6 @@
             <guid>https://music.bugs.co.kr/musicpost/B9SRGQGRFTSNMY5P08DY?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[범진, 안예은 - '조각들' M/V 촬영 현장 그리고 아티스트 인터뷰]]></title>
-            <link>https://music.bugs.co.kr/musicpost/ADBCZFZWP2K0PY4UV3GD?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/ADBCZFZWP2K0PY4UV3GD?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ADBCZFZWP2K0PY4UV3GD/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
