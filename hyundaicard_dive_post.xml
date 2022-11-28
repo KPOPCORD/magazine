@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 03:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 04:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[취향을 뜨다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[멋과 따뜻함 모두 갖춘 완벽한 니트 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8c2f9a81979d47c388ff4a611b6f94eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 집에  풀이 났어요 래콜렉티브: 25개의 방]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[이재훈 x 휘슬러 쿠킹 클래스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/40f28820c9274066bdd46e5a21073a26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비범한  책방]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[특별한 테마가 있는 전국 독립 서점 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1c2afd8f35234266a0f43773958f1a91.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
