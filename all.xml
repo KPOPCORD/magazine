@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 04:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 05:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 보아, 지미 헨드릭스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 29 Nov 2022 04:16:03 GMT</pubDate>
+            <pubDate>Tue, 29 Nov 2022 05:12:33 GMT</pubDate>
             <content:encoded><![CDATA[‘아시아의 별’ 보아의 새 앨범, 지미 헨드릭스의 80번째 생일을 기념하는 프로젝트까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221128_257/16696187192741cfMB_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[런던에서  가장 사랑스러운  동네 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[무과수의 여행 #3]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6b95a964b9fc4a43bd27d12613b89dcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잠들지 못하는 밤 책 한잔 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[CG 깎는 장인 ‘도라마코리아’ 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4790d4ef20c843d1a6f77a6dfbafe14e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울의 근본은 재즈와 와인 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[예약 필수인 요즘 핫한 재즈 바]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a63ce00748c74cf299a39f1abf865a57.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
