@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 06:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 07:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실루엣의 미학]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[시대를 표현하는 슈트 트렌드 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/376fa94a768340528854148f1ffae45b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[런던에서  가장 사랑스러운  동네]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 스토리지 DRIFT 아시아 최초 전시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/78debf10228e46cd98d324391fb24b4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저 세상 CG]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[CG 깎는 장인 ‘도라마코리아’ 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4790d4ef20c843d1a6f77a6dfbafe14e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
