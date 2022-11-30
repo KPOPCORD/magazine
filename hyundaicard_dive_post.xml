@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 05:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 06:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퓨처 테크웨어 국내 브랜드 5]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[광야로 앞서가는 K-패션 #2]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61a01a1d11074825972d388edc912312.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[물 위를  보라]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[전은경의 ‘디자인 스팟']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3bbc5e942efd4045975fe96f7374055b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펫크닉  떠날 시간]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[경기도 반려견 동반 카페 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a151ae931e744188a88b6962635121fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
