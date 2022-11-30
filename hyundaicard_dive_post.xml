@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 04:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 05:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[물 위를  보라]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[물 위에 띄운 세계 곳곳의 흥미로운 작품]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0cbddf4860e64d6b81b953a04c897c73.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울의  길목에서  마주친 그곳]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[경기도 반려견 동반 카페 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a151ae931e744188a88b6962635121fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛있음 한도초과]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[신상 맛집 #26]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dab4daa0a17944eab3f16273089b590e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
