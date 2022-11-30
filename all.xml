@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 14:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 15:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,65 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 보아, 지미 헨드릭스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 30 Nov 2022 14:12:37 GMT</pubDate>
+            <pubDate>Wed, 30 Nov 2022 15:14:40 GMT</pubDate>
             <content:encoded><![CDATA[‘아시아의 별’ 보아의 새 앨범, 지미 헨드릭스의 80번째 생일을 기념하는 프로젝트까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221128_257/16696187192741cfMB_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[커버 아트 클래식 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[V&amp;P 12월 Monthly Special]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/494d1b9701cc4ecaa0263e9e7cef3d59.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인디 록 업데이트 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 12월의 새 음반]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3025b04dbac74097b14742bb03234c69.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만남은 새로움을 낳고 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 12월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/93932dae5a8e4779a93c8ac472da0dda.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가장 동시대적인  사진 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 12월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e6c5db7f45704790b0c679484878f0eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디자인이 만든  세계 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 12월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/86cedb92b7174dbf9f3e9ae6876ab910.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가장 본질적인 것 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[12월의 디자이너 Neri &amp; Hu]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/76e375d157bd4ded8e7398a834f7272a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영감이 자라나는 레시피 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 쿠킹 라이브러리 12월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b1d8093980994cce8480b0769126b5d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실비집의  치명적 매력 (현대카드 DIVE ─ POST)]]></title>
@@ -389,62 +445,6 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[광야로 앞서가는 K-패션 #2]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61a01a1d11074825972d388edc912312.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물 위를  보라 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[물 위에 띄운 세계 곳곳의 흥미로운 작품]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0cbddf4860e64d6b81b953a04c897c73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울의  길목에서  마주친 그곳 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[신상 맛집 #27]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/accff3629b20454ab07cabc8e5222044.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실루엣의 미학 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[시대를 표현하는 슈트 트렌드 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/376fa94a768340528854148f1ffae45b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[런던에서  가장 사랑스러운  동네 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[무과수의 여행 #3]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6b95a964b9fc4a43bd27d12613b89dcd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠들지 못하는 밤 책 한잔 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[어른을 위한 술 파는 책방]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/74683c6862c343e3950a5d239bf4564f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼퓸  파라다이스로  체크인 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[향기와 아름다움에 취하는 서울의 퍼퓨머리]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a3da2a655bcc4f8b9b2bac5fd6c947e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취향을 뜨다 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[멋과 따뜻함 모두 갖춘 완벽한 니트 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8c2f9a81979d47c388ff4a611b6f94eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
