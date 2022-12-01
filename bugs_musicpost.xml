@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 01:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 03:09:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최혜빈 - 올 겨울, 모든 이의 마음속에 따듯하게 저장될 최혜빈의 캐롤 [겨울]]]></title>
+            <link>https://music.bugs.co.kr/musicpost/083WXQV5RXHYRJB7ZB9I?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/083WXQV5RXHYRJB7ZB9I?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 01 Dec 2022 03:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/083WXQV5RXHYRJB7ZB9I/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 픽스 (THE FIX) - 데뷔 싱글 [RUSH] 자켓 촬영 현장]]></title>
             <link>https://music.bugs.co.kr/musicpost/7NZB6CG53I8LMIX6O48U?&amp;wl_ref=list_sp_01_h</link>
@@ -185,13 +193,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/018D0BNOO0HK4Y76OISR/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭘 들을까? - 2022년 9월 노래 모음!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/B9SRGQGRFTSNMY5P08DY?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/B9SRGQGRFTSNMY5P08DY?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
