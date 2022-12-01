@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 08:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 09:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전세계가 주목하는 드리프트의 모든 이야기]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[DRIFT 전시 연계 아티스트 토크]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eaee22f0653d4a56abcacdbf003eadb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한겨울에 만나는 캘리포니아]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[12월의 디자이너 Neri &amp; Hu]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/76e375d157bd4ded8e7398a834f7272a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영감이 자라나는 레시피]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 쿠킹 라이브러리 12월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b1d8093980994cce8480b0769126b5d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
