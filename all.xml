@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 05:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 06:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 보아, 지미 헨드릭스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 01 Dec 2022 05:13:46 GMT</pubDate>
+            <pubDate>Thu, 01 Dec 2022 06:18:21 GMT</pubDate>
             <content:encoded><![CDATA[‘아시아의 별’ 보아의 새 앨범, 지미 헨드릭스의 80번째 생일을 기념하는 프로젝트까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221128_257/16696187192741cfMB_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디자이너들의  공유 오피스, 썬트리하우스 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 ‘디자인 스팟']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6c9d0e66c4f04f58b85a586fcebf7263.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인디 록 업데이트 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[전국의 매력적인 실비 식당]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/57cc639e1fc144f99638a8665488113c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퓨처 테크웨어 국내 브랜드 5 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[광야로 앞서가는 K-패션 #2]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61a01a1d11074825972d388edc912312.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
