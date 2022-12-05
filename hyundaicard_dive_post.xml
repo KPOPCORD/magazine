@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 05:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 06:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연말을 대하는  호텔의 자세]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[국내 5성급 호텔의 12월 특별 이벤트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e31fc7247da24e95bdd8f2f0fc992b69.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디자인이 만든  세계]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[DRIFT 전시 연계 아티스트 토크]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eaee22f0653d4a56abcacdbf003eadb8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한겨울에 만나는 캘리포니아]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[SAM SAM SAM 스페셜 팝업 다이닝]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/357b32f0f011488b9e488f7865480618.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
