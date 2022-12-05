@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 08:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 09:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카타르는  처음이지?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[중동 최초의 월드컵 개최국, 카타르 여행 스팟]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/66884cc2215340fda77123a5bbebbf20.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[만남은 새로움을 낳고]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[12월의 디자이너 Neri &amp; Hu]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/76e375d157bd4ded8e7398a834f7272a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손민수 Curated 01 김도현]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[깊은 몰입감의 차세대 글로벌 피아니스트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f1bfaafb43e1486eb1ee89599f1430ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
