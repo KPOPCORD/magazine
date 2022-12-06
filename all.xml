@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 06:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 07:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 06 Dec 2022 06:15:41 GMT</pubDate>
+            <pubDate>Tue, 06 Dec 2022 07:12:55 GMT</pubDate>
             <content:encoded><![CDATA[솔로 앨범을 발표한 방탄소년단의 리더 RM과 신곡으로 돌아온 트로이 시반까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221205_179/1670225502944z1ycH_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강릉도  할인되나요? (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[갓성비 넘치는 강릉 여행을 위하여]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/488e7eb0a4fe41b687f55a7b850f896f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남다른 용기,  남다른 배달 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[익숙한 듯 낯선, 빨간 맛 김치 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0511a13af2024560b65d5b048801366f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끝날 때까지 끝난 게 아니니까 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022 카타르 월드컵 응원가 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dc8c371e57b84ab9a732c6e3dde2d4b3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
