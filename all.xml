@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 04:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 05:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 06 Dec 2022 04:16:19 GMT</pubDate>
+            <pubDate>Tue, 06 Dec 2022 05:13:12 GMT</pubDate>
             <content:encoded><![CDATA[솔로 앨범을 발표한 방탄소년단의 리더 RM과 신곡으로 돌아온 트로이 시반까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221205_179/1670225502944z1ycH_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남다른 용기,  남다른 배달 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[개봉 밥두! 고메배달위크]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a7694f08d25c4924a480f9eefa87a979.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차보다 좋은  전기 자전거 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[2022 카타르 월드컵 응원가 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dc8c371e57b84ab9a732c6e3dde2d4b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리 메리 크리스마스 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 Saturday Market에 가다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6bf1553b6e2b4e9197bb4673b18f4a97.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
