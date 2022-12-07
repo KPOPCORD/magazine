@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 05:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 06:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가장 동시대적인  사진]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 12월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e6c5db7f45704790b0c679484878f0eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그린하우스에 눈이 내리면]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 12월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/86cedb92b7174dbf9f3e9ae6876ab910.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작고  소듕해]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[작디작아진 소형 안마 의자의 세계]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/91b0b184a81a4a229c5e5f753406788f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
