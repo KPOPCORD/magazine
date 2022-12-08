@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 07:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 08:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 드레이크 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 08 Dec 2022 07:11:42 GMT</pubDate>
+            <pubDate>Thu, 08 Dec 2022 08:16:07 GMT</pubDate>
             <content:encoded><![CDATA[드레이크가 21새비지와의 합작 앨범 &lt;Her Loss&gt;를 발표했다. 지난 6월, 하우스 장르에 주력한 깜짝 앨범 발표에 이어 올해 두 장의 앨범을 내며 왕성한 활동을 펼친 그는 새 앨범을 통해 다시 랩에 집중한 강렬한 사운드를 선보였다. 한편, 그는 작년에 이어 올해도 그래미를 보이콧하며 매번 이슈의 중심에 선 슈퍼스타의 행보를 이어 나가고 있다. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221206_238/1670304688186Xgv5T_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리턴 타이츠 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[연말 스타일을 위한 컬러웨이 타이츠 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c20cf4a004614fab8d6743012e53a96e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리바이벌  <양파의 음악정원> (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[갓성비 넘치는 강릉 여행을 위하여]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/488e7eb0a4fe41b687f55a7b850f896f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남다른 용기,  남다른 배달 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 밥두! 고메배달위크]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a7694f08d25c4924a480f9eefa87a979.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

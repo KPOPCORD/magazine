@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 07:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 08:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리턴 타이츠]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[연말 스타일을 위한 컬러웨이 타이츠 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c20cf4a004614fab8d6743012e53a96e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리바이벌  <양파의 음악정원>]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[갓성비 넘치는 강릉 여행을 위하여]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/488e7eb0a4fe41b687f55a7b850f896f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남다른 용기,  남다른 배달]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[개봉 밥두! 고메배달위크]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a7694f08d25c4924a480f9eefa87a979.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
