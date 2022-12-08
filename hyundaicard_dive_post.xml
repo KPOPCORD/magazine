@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 02:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 03:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자연과 기술이 만난 예술적 경험]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트 듀오 DRIFT 아시아 최초 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/93961e9b6fc54aa9a70c8e03cadf1d53.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손민수,  기교를 초월하다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[중동 최초의 월드컵 개최국, 카타르 여행 스팟]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/66884cc2215340fda77123a5bbebbf20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만남은 새로움을 낳고]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 12월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/93932dae5a8e4779a93c8ac472da0dda.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 02:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 03:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 드레이크 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 08 Dec 2022 02:19:54 GMT</pubDate>
+            <pubDate>Thu, 08 Dec 2022 03:16:26 GMT</pubDate>
             <content:encoded><![CDATA[드레이크가 21새비지와의 합작 앨범 &lt;Her Loss&gt;를 발표했다. 지난 6월, 하우스 장르에 주력한 깜짝 앨범 발표에 이어 올해 두 장의 앨범을 내며 왕성한 활동을 펼친 그는 새 앨범을 통해 다시 랩에 집중한 강렬한 사운드를 선보였다. 한편, 그는 작년에 이어 올해도 그래미를 보이콧하며 매번 이슈의 중심에 선 슈퍼스타의 행보를 이어 나가고 있다. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221206_238/1670304688186Xgv5T_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자연과 기술이 만난 예술적 경험 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트 듀오 DRIFT 아시아 최초 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/93961e9b6fc54aa9a70c8e03cadf1d53.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손민수,  기교를 초월하다 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[중동 최초의 월드컵 개최국, 카타르 여행 스팟]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/66884cc2215340fda77123a5bbebbf20.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만남은 새로움을 낳고 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 12월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/93932dae5a8e4779a93c8ac472da0dda.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
