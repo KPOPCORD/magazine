@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 05:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 06:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리바이벌  <양파의 음악정원>]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[언더스테이지 양파 팬 미팅 현장]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/96793b0f5d6d4d3fa501201664c9d011.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영감이 자라나는 레시피]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[개봉 밥두! 고메배달위크]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a7694f08d25c4924a480f9eefa87a979.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차보다 좋은  전기 자전거]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼 카? 이제 슈퍼 자전거 시대!]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/16b0d80e2223451f8b870c3f9d8c543f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
