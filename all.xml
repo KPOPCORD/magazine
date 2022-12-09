@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 05:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 06:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 드레이크 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 09 Dec 2022 05:12:07 GMT</pubDate>
+            <pubDate>Fri, 09 Dec 2022 06:17:27 GMT</pubDate>
             <content:encoded><![CDATA[드레이크가 21새비지와의 합작 앨범 &lt;Her Loss&gt;를 발표했다. 지난 6월, 하우스 장르에 주력한 깜짝 앨범 발표에 이어 올해 두 장의 앨범을 내며 왕성한 활동을 펼친 그는 새 앨범을 통해 다시 랩에 집중한 강렬한 사운드를 선보였다. 한편, 그는 작년에 이어 올해도 그래미를 보이콧하며 매번 이슈의 중심에 선 슈퍼스타의 행보를 이어 나가고 있다. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221206_238/1670304688186Xgv5T_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[커버 아트 클래식 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[V&amp;P 12월 Monthly Special]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/494d1b9701cc4ecaa0263e9e7cef3d59.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리턴 타이츠 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 그린하우스 겨울 유로피언 코스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f6599d997e0c46fb9e92cd7abcf83624.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강릉도  할인되나요? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[갓성비 넘치는 강릉 여행을 위하여]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/488e7eb0a4fe41b687f55a7b850f896f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
