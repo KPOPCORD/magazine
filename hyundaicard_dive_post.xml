@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 07:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 08:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시,  도쿄]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[다시 찾은 도쿄에서 꼭 가봐야 할 곳 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cc300eb365e345b48772f3751ba2adad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커버 아트 클래식]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 12월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e6c5db7f45704790b0c679484878f0eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그린하우스에 눈이 내리면]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 그린하우스 겨울 유로피언 코스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f6599d997e0c46fb9e92cd7abcf83624.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
