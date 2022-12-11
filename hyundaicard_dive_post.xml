@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 03:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 04:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브랜드 미감]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드의 예술 DNA를 담은 전시 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/85ec333ce22f4f5c9daea21a91f0b82b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자꾸  올라가고 싶어]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[아티스트 듀오 DRIFT 아시아 최초 전시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/93961e9b6fc54aa9a70c8e03cadf1d53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손민수,  기교를 초월하다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[언더스테이지의 첫 클래식 공연]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7c3ac75ed37640e79987d082f1e53326.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
