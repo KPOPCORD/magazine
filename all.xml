@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 08:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 09:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 드레이크 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 12 Dec 2022 08:16:40 GMT</pubDate>
+            <pubDate>Mon, 12 Dec 2022 09:14:09 GMT</pubDate>
             <content:encoded><![CDATA[드레이크가 21새비지와의 합작 앨범 &lt;Her Loss&gt;를 발표했다. 지난 6월, 하우스 장르에 주력한 깜짝 앨범 발표에 이어 올해 두 장의 앨범을 내며 왕성한 활동을 펼친 그는 새 앨범을 통해 다시 랩에 집중한 강렬한 사운드를 선보였다. 한편, 그는 작년에 이어 올해도 그래미를 보이콧하며 매번 이슈의 중심에 선 슈퍼스타의 행보를 이어 나가고 있다. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221206_238/1670304688186Xgv5T_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테크가  아트를 만났을 때 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[기술과 예술이 어우러진 전시 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/69ee07d238e44291863fd08ef8aef3ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구름처럼 폭신하게 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[연말 스타일을 위한 컬러웨이 타이츠 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c20cf4a004614fab8d6743012e53a96e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리바이벌  양파의 음악정원 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[언더스테이지 양파 팬 미팅 현장]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/96793b0f5d6d4d3fa501201664c9d011.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
