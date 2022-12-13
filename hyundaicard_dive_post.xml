@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 06:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 07:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[털신을 신고 겨울로 폴짝]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[올겨울 발끝까지 점령한 퍼 슈즈 스타일 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cc7dc4fdb5294be18aeafe92da67d546.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영감의 도시  #1 London]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[다시 찾은 도쿄에서 꼭 가봐야 할 곳 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cc300eb365e345b48772f3751ba2adad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커버 아트 클래식]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 12월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/494d1b9701cc4ecaa0263e9e7cef3d59.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
