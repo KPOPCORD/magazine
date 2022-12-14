@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 05:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 06:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,9 +372,17 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 민호, 시저 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 14 Dec 2022 05:12:33 GMT</pubDate>
+            <pubDate>Wed, 14 Dec 2022 06:17:23 GMT</pubDate>
             <content:encoded><![CDATA[데뷔 이후 첫 번째 솔로 앨범을 발표한 샤이니 민호, 해외 음원 차트를 휩쓸고 있는 시저의 신작까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221213_175/16709170258576E8Vl_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가장 특별한 슈톨렌 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[크리스마스의 설렘을 닮은 슈톨렌]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/62dcc98d67c148bb9589b8f6e6b3d173.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반신욕할 시간 (현대카드 DIVE ─ POST)]]></title>
@@ -439,14 +447,6 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[인테리어 소품이래도 믿을 예쁜 체중계]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ccb4cfdad4a04eeda33779d3a13e199c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 내한 공연 Rush Hour (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[코난 그레이, 드디어 첫 단콘!]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d39fdcaabaf644679d79ae70eb6eefbf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
