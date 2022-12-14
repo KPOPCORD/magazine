@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 08:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 09:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,6 +196,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2OUOL96X6JI08HT47I1J/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어떤 이의 어떤 날들, 정민의 미니앨범 [[  ]DAYS] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12725&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12725&amp;pg=1</guid>
+            <pubDate>Wed, 14 Dec 2022 09:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12725/Mgz_Main_List_20221214174540.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[하늘에 보내는 이동수의 노래 편지 “따뜻한 하늘에 (To Heaven)” 작업... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12709&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12709&amp;pg=1</guid>
+            <pubDate>Wed, 14 Dec 2022 09:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12709/Mgz_Main_List_20221214180146.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[브로콜리너마저, 신곡 ‘너를 업고’와 함께 하는 연말 공연 [2022년의 우리... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12723&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12723&amp;pg=1</guid>
@@ -242,22 +258,6 @@
             <pubDate>Tue, 13 Dec 2022 07:11:49 GMT</pubDate>
             <content:encoded><![CDATA[힙알사전]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12719/Mgz_Main_List_20221213103651.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[모두가 즐거운 건 아니야 – 음악으로 본 겨울의 여러 모습 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12718&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12718&amp;pg=1</guid>
-            <pubDate>Tue, 13 Dec 2022 07:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12718/Mgz_Main_List_20221213104509.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤직테라피 그룹 봉제인간. 싱글 [GAEKKUM / GOOD] 발매 기념 인터... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12717&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12717&amp;pg=1</guid>
-            <pubDate>Tue, 13 Dec 2022 07:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12717/Mgz_Main_List_20221213110454.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #148 
@@ -372,9 +372,17 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 민호, 시저 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 14 Dec 2022 08:16:02 GMT</pubDate>
+            <pubDate>Wed, 14 Dec 2022 09:12:55 GMT</pubDate>
             <content:encoded><![CDATA[데뷔 이후 첫 번째 솔로 앨범을 발표한 샤이니 민호, 해외 음원 차트를 휩쓸고 있는 시저의 신작까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221213_175/16709170258576E8Vl_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이전의 틀을  부수다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드 여지도 #1 CNP 컴퍼니]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d965a3b7eb4a4f1a8e92fd6d20562604.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울의  제주 (현대카드 DIVE ─ POST)]]></title>
@@ -439,14 +447,6 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 아트 라이브러리의 테마 북 컬렉션 3]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f76ad5f23d5e4f82a2d38f898560efac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브랜드 미감 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드의 예술 DNA를 담은 전시 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/85ec333ce22f4f5c9daea21a91f0b82b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
