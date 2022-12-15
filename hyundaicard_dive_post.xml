@@ -4,17 +4,9 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 01:00:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 02:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[와인과 치즈의 마리아주]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[연말 모임을 위한 특별한 치즈 편집숍]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bb03bf9ebda0436e9d3577b0af2d3233.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[책상에  감성 한 스푼]]></title>
             <link>javascript:;</link>
@@ -78,6 +70,14 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[지금 런던에 가야 하는 이유]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bdd91c6dbefc46609ffc1cce94c58670.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테크가  아트를 만났을 때]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[기술과 예술이 어우러진 전시 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/69ee07d238e44291863fd08ef8aef3ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
