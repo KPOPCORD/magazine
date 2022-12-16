@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 00:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 02:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손민수 Curated 02 최형록]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[타고난 예술적 재능을 지닌 클래식계의 신예]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c749137a2d348fdaa62d88d09d79b2c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스마스 마켓  끝판왕]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[크리스마스의 설렘을 닮은 슈톨렌]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/62dcc98d67c148bb9589b8f6e6b3d173.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반신욕할 시간]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[욕실에서도 제 몫을 다하는 스피커 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b24b45bb2fb04aff8ef0d82f23b478cf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
