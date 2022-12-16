@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 02:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 03:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/038f4de0068a4a628579ce4a29a9a6a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[식집사님  어서 오세요]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[식물 덕후를 위한 아이템]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fc8170c860984562b3f6522aee8fb63c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이전의 틀을  부수다]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -78,6 +70,14 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[크리스마스의 설렘을 닮은 슈톨렌]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/62dcc98d67c148bb9589b8f6e6b3d173.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반신욕할 시간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[욕실에서도 제 몫을 다하는 스피커 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b24b45bb2fb04aff8ef0d82f23b478cf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
