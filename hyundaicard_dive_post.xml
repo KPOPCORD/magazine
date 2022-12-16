@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 05:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 06:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주세요 달콤한 크리스마스]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[타입별 크리스마스 케이크 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a557e3fd9a7f4f87be2cb22b828ae0ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식집사님  어서 오세요]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[은근 즐길 것 많은 제주의 겨울]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ecb872837f934b25b7a97895d2bada61.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 특별한 슈톨렌]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[크리스마스의 설렘을 닮은 슈톨렌]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/62dcc98d67c148bb9589b8f6e6b3d173.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
