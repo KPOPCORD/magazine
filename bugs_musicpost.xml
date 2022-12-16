@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 06:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 07:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2022년 12월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/QAR84VP1ULQ4D0NH70KO?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/QAR84VP1ULQ4D0NH70KO?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 16 Dec 2022 07:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[모트(Motte) - 풋풋한 고백송 [좋아하나봐] 앨범 작업 비하인드 공개!]]></title>
             <link>https://music.bugs.co.kr/musicpost/OX3ZT6CYLA4WTKEPBBDG?&amp;wl_ref=list_sp_01_h</link>
@@ -186,14 +193,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/509DEI1UKV8XMDQ7M38A/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우재 (WOOJAE) - 신곡 '우주왈츠 (with 정우)' 앨범 작업 비하인드]]></title>
-            <link>https://music.bugs.co.kr/musicpost/2OUOL96X6JI08HT47I1J?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/2OUOL96X6JI08HT47I1J?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2OUOL96X6JI08HT47I1J/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
