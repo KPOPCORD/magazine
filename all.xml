@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 07:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 08:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 크리스마스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 16 Dec 2022 07:11:09 GMT</pubDate>
+            <pubDate>Fri, 16 Dec 2022 08:15:12 GMT</pubDate>
             <content:encoded><![CDATA[올해 크리스마스도 포근하고 특별하길 바라면서, 캐롤을 찾아 듣기 시작하는 시간이 왔다. 그리고 이번엔 크리스마스 플레이리스트 맨 위에, 존박의 캐롤을 넣어야 한다. 재즈처럼 감미롭고 평소 존박의 스타일처럼 세련된 ‘Love Again’.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221215_76/167106937101352vdJ_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[만들어 앉는 재미가 있다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:1.58 카드 비례 Our Chair3]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f4908860794e4b3098a98ef8b65ac27a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주세요 달콤한 크리스마스 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[브랜드 여지도 #1 CNP 컴퍼니]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d965a3b7eb4a4f1a8e92fd6d20562604.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울의  제주 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[은근 즐길 것 많은 제주의 겨울]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ecb872837f934b25b7a97895d2bada61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

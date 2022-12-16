@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 07:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 08:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만들어 앉는 재미가 있다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:1.58 카드 비례 Our Chair3]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f4908860794e4b3098a98ef8b65ac27a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주세요 달콤한 크리스마스]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[브랜드 여지도 #1 CNP 컴퍼니]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d965a3b7eb4a4f1a8e92fd6d20562604.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울의  제주]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[은근 즐길 것 많은 제주의 겨울]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ecb872837f934b25b7a97895d2bada61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
