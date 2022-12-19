@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 02:07:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 03:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장하은 - [Once again] 앨범 속 소박하지만 특별한 이야기 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/HOMORF83XION1X68JB9W?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/HOMORF83XION1X68JB9W?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 19 Dec 2022 03:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HOMORF83XION1X68JB9W/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2022년 12월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/QAR84VP1ULQ4D0NH70KO?&amp;wl_ref=list_sp_01_h</link>
@@ -187,12 +195,44 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/EAFSHXEYE14HSOGI2HTP/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CRAVITY - 크래비티의 진짜 모습, [NEW WAVE] (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/509DEI1UKV8XMDQ7M38A?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/509DEI1UKV8XMDQ7M38A?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/509DEI1UKV8XMDQ7M38A/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[POP 스튜디오 ＃60 - 연말을 부정하는 12월 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=12738&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=12738&amp;pg=1</guid>
+            <pubDate>Mon, 19 Dec 2022 03:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[POP 컬렉션]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12737/Mgz_Main_List_20221219105851.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 어느 산장의 와 있는 듯 한 전주 웨리단길 핫플레이스 <세인트존> (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=12736&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=12736&amp;pg=1</guid>
+            <pubDate>Mon, 19 Dec 2022 03:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12736/Mgz_Main_List_20221219120421.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[유니버설 크리스마스 주요 앨범을 소개합니다! (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12735&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12735&amp;pg=1</guid>
+            <pubDate>Mon, 19 Dec 2022 03:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12734/Mgz_Main_List_20221219101927.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[독보적인 음악의 소유자, 김법래 (Kimpublae) 첫 번째 디지털 싱글 [... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12734&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12734&amp;pg=1</guid>
+            <pubDate>Mon, 19 Dec 2022 03:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12734/Mgz_Main_List_20221219103413.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울에 피어난 꽃, 장하은의 [Once again] 촬영 비하인드 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12733&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12733&amp;pg=1</guid>
+            <pubDate>Mon, 19 Dec 2022 03:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12733/Mgz_Main_List_20221219110414.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM이 전하는 달콤한 겨울맛 [Candy]! (지니 ─ 매거진)]]></title>
@@ -217,46 +257,6 @@
             <pubDate>Fri, 16 Dec 2022 09:11:47 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12724/Mgz_Main_List_20221216113408.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[KIMKIMPARKKIM's 인생 음반 ＃18 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=12732&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=12732&amp;pg=1</guid>
-            <pubDate>Fri, 16 Dec 2022 04:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[김김박김]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12731/Mgz_Main_List_20221216103706.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[힙합사의 결정적인 순간을 장식한 싱글들 61화 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12731&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12731&amp;pg=1</guid>
-            <pubDate>Fri, 16 Dec 2022 04:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[힙알사전]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12731/Mgz_Main_List_20221216105012.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[지니 컬러 동향 ＃56 – 2022.11.26 ~ 12.09 발매작 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=12730&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=12730&amp;pg=1</guid>
-            <pubDate>Fri, 16 Dec 2022 04:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[지니 컬러 동향]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12729/Mgz_Main_List_20221215170357.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[감성장인 싱어송라이터 범진의 ‘우린 한 편의 소설로 남겠죠’ 녹음 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12727&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12727&amp;pg=1</guid>
-            <pubDate>Fri, 16 Dec 2022 00:55:23 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12727/Mgz_Main_List_20221216091420.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[크로스오버의 정석, 필하모닉스의 [빈 베를린 뮤직 클럽 Vol.3] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12726&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12726&amp;pg=1</guid>
-            <pubDate>Thu, 15 Dec 2022 03:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12726/Mgz_Main_List_20221215104114.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[존박의 
@@ -371,7 +371,7 @@ CLASS:y(클라씨) (VIBE ─ 매거진)]]></title>
 따스한 노래를 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 19 Dec 2022 02:07:02 GMT</pubDate>
+            <pubDate>Mon, 19 Dec 2022 03:13:18 GMT</pubDate>
             <content:encoded><![CDATA[갑자기 부쩍 추워진 12월. 정말 겨울이 찾아와 버린 요즘, 장르 팬들에게 필요한 건 몸을 따뜻하게 만들어 줄 음악이 아닐까 싶다. 특히 최근 11월에서 12월까지 한국 알앤비/소울 씬의 아티스트들이 멋진 앨범을 들고 나오며 음악팬들의 귀를 즐겁게 만들어주고 있다. 이 중에서도 반드시 들었으면 하는 몇 장의 작품들을 소개하려 한다. 순서는 무순 – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221216_69/1671174717103sc93E_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>

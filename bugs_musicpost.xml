@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 02:07:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 03:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장하은 - [Once again] 앨범 속 소박하지만 특별한 이야기]]></title>
+            <link>https://music.bugs.co.kr/musicpost/HOMORF83XION1X68JB9W?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/HOMORF83XION1X68JB9W?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 19 Dec 2022 03:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HOMORF83XION1X68JB9W/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2022년 12월 노래 모음!]]></title>
             <link>https://music.bugs.co.kr/musicpost/QAR84VP1ULQ4D0NH70KO?&amp;wl_ref=list_sp_01_h</link>
@@ -185,14 +193,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
             <content:encoded><![CDATA[공연/페스티벌]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/EAFSHXEYE14HSOGI2HTP/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAVITY - 크래비티의 진짜 모습, [NEW WAVE]]]></title>
-            <link>https://music.bugs.co.kr/musicpost/509DEI1UKV8XMDQ7M38A?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/509DEI1UKV8XMDQ7M38A?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/509DEI1UKV8XMDQ7M38A/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
