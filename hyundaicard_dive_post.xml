@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 04:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 05:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트리가 없어도  괜찮아]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[크리스마스 대표 오브제 오너먼트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d1481be070264fbda53d2a0dd2a2d8d2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그래  이 맛이었어]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[연말 모임을 위한 특별한 치즈 편집숍]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bb03bf9ebda0436e9d3577b0af2d3233.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인바이트  메리 홈]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[연말을 빛내줄 홈 스타일링 위시 리스트 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8faa27f424f44b42993652e8842a9a5c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
