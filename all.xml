@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 08:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 09:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,6 +195,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/EAFSHXEYE14HSOGI2HTP/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[타인을 위해 심장이 뛰는 이들의 가장 뜨거운 팀플레이! 로즈 (ROSE) [소... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12742&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12742&amp;pg=1</guid>
+            <pubDate>Tue, 20 Dec 2022 09:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12742/Mgz_Main_List_20221220103429.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[차분한 분위기 속 내밀한 그녀의 감성, 'Maria Kim' 외 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=12750&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=12750&amp;pg=1</guid>
@@ -249,14 +257,6 @@
             <pubDate>Mon, 19 Dec 2022 03:13:02 GMT</pubDate>
             <content:encoded><![CDATA[POP 컬렉션]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12737/Mgz_Main_List_20221219105851.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 어느 산장의 와 있는 듯 한 전주 웨리단길 핫플레이스 <세인트존> (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=12736&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=12736&amp;pg=1</guid>
-            <pubDate>Mon, 19 Dec 2022 03:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12736/Mgz_Main_List_20221219120421.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[겨울에는 
@@ -371,7 +371,7 @@ RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
 NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 20 Dec 2022 08:15:36 GMT</pubDate>
+            <pubDate>Tue, 20 Dec 2022 09:12:41 GMT</pubDate>
             <content:encoded><![CDATA[무려 27년 전의 H.O.T.를 재해석한 NCT DREAM, &lt;아바타 : 물의 길&gt;의 OST를 부른 위켄드까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221219_273/1671439331896r7O6i_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
