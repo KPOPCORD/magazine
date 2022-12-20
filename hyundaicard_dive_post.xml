@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 03:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 04:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방콕의  새삥]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹 전엔 몰랐다! 방콕의 새 명소 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f74d99fbc7984fbe9048d4d0aa5b9d04.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자연 가까이의  건축]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[식물 덕후를 위한 아이템]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fc8170c860984562b3f6522aee8fb63c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손민수 Curated 02 최형록]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[타고난 예술적 재능을 지닌 클래식계의 신예]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c749137a2d348fdaa62d88d09d79b2c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
