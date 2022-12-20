@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 05:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 06:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
 NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 20 Dec 2022 04:15:58 GMT</pubDate>
+            <pubDate>Tue, 20 Dec 2022 06:16:38 GMT</pubDate>
             <content:encoded><![CDATA[무려 27년 전의 H.O.T.를 재해석한 NCT DREAM, &lt;아바타 : 물의 길&gt;의 OST를 부른 위켄드까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221219_273/1671439331896r7O6i_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여백의  악센트 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[책 &lt;도쿄 큐레이션&gt; 작가 이민경의 집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1fd5e8b8bca74a148af7c73ef0ee7056.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방콕의  새삥 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[타입별 크리스마스 케이크 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a557e3fd9a7f4f87be2cb22b828ae0ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식집사님  어서 오세요 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[식물 덕후를 위한 아이템]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fc8170c860984562b3f6522aee8fb63c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
