@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 07:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 08:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
 크리스마스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 23 Dec 2022 07:12:29 GMT</pubDate>
+            <pubDate>Fri, 23 Dec 2022 08:14:53 GMT</pubDate>
             <content:encoded><![CDATA[어김없이 찾아온 연말 시즌. 한창 거리에서는 크리스마스 음악이 울려 퍼지며 연말 분위기를 물씬 풍기고 있다. 그런 만큼 이번 크리스마스에는 좀 더 다양한 음악가들의 목소리가 담겨 있는 캐럴 곡이나 컴필레이션 앨범을 들어보며 연말 분위기를 내보는 건 어떨까? 이주의 디깅 독자 여러분들 모두 미리 크리스마스! – 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221220_16/1671526271294umwcU_PNG/%C0%CC%C1%D6%C0%C7%B5%F0%B1%EB_%C5%A9%B8%AE%BD%BA%B8%B6%BD%BA2.png?type=w840" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[DJ Soulscape Curated 21 Dvwn (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[새벽을 깨우는 목소리, Dvwn]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/285db6ea7fce48e482e52406a9874127.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가  제일 잘나가 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[NFT를 사면 실물이 따라와요]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d1e2dfef32ac40dbb2e4efd004a227e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어게인  크리스마스 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[12월에 봐야 제맛인 성탄 영화]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/12eee4c8281340d185b03f7d8203cb5a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

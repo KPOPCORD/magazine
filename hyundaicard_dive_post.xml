@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 07:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 08:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DJ Soulscape Curated 21 Dvwn]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[새벽을 깨우는 목소리, Dvwn]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/285db6ea7fce48e482e52406a9874127.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가  제일 잘나가]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[NFT를 사면 실물이 따라와요]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d1e2dfef32ac40dbb2e4efd004a227e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어게인  크리스마스]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[12월에 봐야 제맛인 성탄 영화]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/12eee4c8281340d185b03f7d8203cb5a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
