@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 05:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 06:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가  제일 잘나가]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022 DIVE 콘텐츠 어워즈]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0a659579f1a44589a2e2a2931f2ed540.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 집에  놀러 와]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[12월에 봐야 제맛인 성탄 영화]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/12eee4c8281340d185b03f7d8203cb5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여백의  악센트]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[책 &lt;도쿄 큐레이션&gt; 작가 이민경의 집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1fd5e8b8bca74a148af7c73ef0ee7056.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
