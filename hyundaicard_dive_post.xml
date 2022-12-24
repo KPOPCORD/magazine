@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 03:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 04:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블레저 하러  홍콩으로]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[일과 쉼 다 되는 홍콩의 숙소]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/973bd6de428e4f8aabf962c45d99e4bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DJ Soulscape Curated 21 Dvwn]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[전은경의 ‘디자인 스팟’]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a72b7d58d7a54bbbb060986faa0296a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿩 먹고 알 먹는  NFT]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[NFT를 사면 실물이 따라와요]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d1e2dfef32ac40dbb2e4efd004a227e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
