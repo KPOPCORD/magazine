@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 03:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 04:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI야, 양 한 마리만  그려줘]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[최근 가장 핫한 AI 일러스트 프로그램 3]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8bd9f0596a6445499eb1682683e31402.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블레저 하러  홍콩으로]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #29 부산 민락동]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b698578675b44a4ea73c7c358309ad4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 가구 브랜드의  세컨드 마켓, 무브먼트랩 한남]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[전은경의 ‘디자인 스팟’]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a72b7d58d7a54bbbb060986faa0296a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
