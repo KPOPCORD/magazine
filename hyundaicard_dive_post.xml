@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 05:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 06:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영감의 도시  London #2]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[런던의 아트&amp;컬처 핫 플레이스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c52a4641c4d14e849c54255650a70046.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI야, 양 한 마리만  그려줘]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[데스크테리어를 위하여]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/038f4de0068a4a628579ce4a29a9a6a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광안리의 낮과 밤]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[나만 아는 동네 #29 부산 민락동]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b698578675b44a4ea73c7c358309ad4b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
