@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 07:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 08:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문구 수집가를 위하여]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[연필, 엽서 등 문구가 주인공인 핫플]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/696a1c643c2c46e8b3c7a7108afc216e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영감의 도시  London #2]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[라이프스타일 유튜버들의 성탄절 준비]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6bf343063d4344898cf5401313ef8b19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책상에  감성 한 스푼]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[데스크테리어를 위하여]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/038f4de0068a4a628579ce4a29a9a6a5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
