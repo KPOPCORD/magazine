@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 02:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 03:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손지수 - 한국 가곡의 정취와 한옥의 풍경을 담은 '님이여 그때만을' MV 촬영 현장 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/B55CMN5XK6NPQCOYRPTM?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/B55CMN5XK6NPQCOYRPTM?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 27 Dec 2022 03:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/B55CMN5XK6NPQCOYRPTM/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장하은 - [Once again] 앨범 속 소박하지만 특별한 이야기 (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/HOMORF83XION1X68JB9W?&amp;wl_ref=list_sp_01_h</link>
@@ -187,12 +195,28 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/PL582EGO38OLI2LZ0ADD/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애니밴드 슈퍼콘서트 - RETRO & NEWTRO 컨셉의 콘서트 초대! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/EAFSHXEYE14HSOGI2HTP?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/EAFSHXEYE14HSOGI2HTP?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[공연/페스티벌]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/EAFSHXEYE14HSOGI2HTP/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[진정하지 않아도 좋아 - 헨델의 건반 음악 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12762&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12762&amp;pg=1</guid>
+            <pubDate>Tue, 27 Dec 2022 03:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12762/Mgz_Main_List_20221227110842.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[맑은 목소리의 소유자, 소프라노 손지수의 한국 가곡 앨범 [님이여 그때만을] ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12756&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12756&amp;pg=1</guid>
+            <pubDate>Tue, 27 Dec 2022 03:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12756/Mgz_Main_List_20221226173826.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[roon(룬) 싱글 [lovelylove] MV 촬영 현장 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12755&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12755&amp;pg=1</guid>
+            <pubDate>Tue, 27 Dec 2022 03:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12755/Mgz_Main_List_20221226173707.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[윤수(YoonSoo), 두 번째 싱글 [다음날 (Next Christmas)]... (지니 ─ 매거진)]]></title>
@@ -233,30 +257,6 @@
             <pubDate>Fri, 23 Dec 2022 04:14:00 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12754/Mgz_Main_List_20221223085829.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[천재 프로듀서이자 싱어송라이터 우소연의 반가운 신곡 [I Love You] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12753&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12753&amp;pg=1</guid>
-            <pubDate>Fri, 23 Dec 2022 04:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12753/Mgz_Main_List_20221223085800.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 꼭 알아야 할 헤비메탈의 순간들 60화 – 디스터브드(Disturbed... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=12752&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=12752&amp;pg=1</guid>
-            <pubDate>Fri, 23 Dec 2022 04:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[올댓메탈]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12752/Mgz_Main_List_20221223104155.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[추운 겨울, 따뜻한 음악 선물 <진희네 뮤직테라스 : 세 번째 밤> 현장 비하... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12746&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12746&amp;pg=1</guid>
-            <pubDate>Fri, 23 Dec 2022 04:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12746/Mgz_Main_List_20221222134313.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #149 
@@ -371,7 +371,7 @@ RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
 뉴진스, 에이바 맥스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 27 Dec 2022 02:09:16 GMT</pubDate>
+            <pubDate>Tue, 27 Dec 2022 03:13:16 GMT</pubDate>
             <content:encoded><![CDATA[또 한 번 돌풍을 일으키고 있는 뉴진스, 내년 새 앨범 발표를 앞둔 에이바 맥스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221226_43/167204265590032N6w_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
