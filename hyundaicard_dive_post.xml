@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 08:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 09:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가깝고도  낯선 서울]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[서울을 새롭게 느낄 수 있는 체험 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/46229ac5621946c98aa29ef67f5b6d8c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 올해의 역주행]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[2022 DIVE 콘텐츠 어워즈]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0a659579f1a44589a2e2a2931f2ed540.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 집에  놀러 와]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[홈 파티를 위한 신박템 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ef88968b57424478ab6549d9e776e5dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
