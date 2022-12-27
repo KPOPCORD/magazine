@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 06:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 07:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,6 +195,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/PL582EGO38OLI2LZ0ADD/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[알앤비 따라잡기 ＃60 - 최고의 프로듀서, 인플로의 친구들 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12763&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12763&amp;pg=1</guid>
+            <pubDate>Tue, 27 Dec 2022 07:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12763/Mgz_Main_List_20221227154410.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[진정하지 않아도 좋아 - 헨델의 건반 음악 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12762&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12762&amp;pg=1</guid>
@@ -249,14 +257,6 @@
             <pubDate>Mon, 26 Dec 2022 04:14:05 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12756/Mgz_Main_List_20221226102230.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[따스한 노랫말을 담아 돌아온 파랑새의 겨울 노래 [PARANG BIRD : D... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12754&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12754&amp;pg=1</guid>
-            <pubDate>Fri, 23 Dec 2022 04:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12754/Mgz_Main_List_20221223085829.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #149 
@@ -371,9 +371,17 @@ RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
 뉴진스, 에이바 맥스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 27 Dec 2022 06:15:18 GMT</pubDate>
+            <pubDate>Tue, 27 Dec 2022 07:11:33 GMT</pubDate>
             <content:encoded><![CDATA[또 한 번 돌풍을 일으키고 있는 뉴진스, 내년 새 앨범 발표를 앞둔 에이바 맥스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221226_43/167204265590032N6w_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 올해의 역주행 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[DIVE와 윤하의 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dbc72a8a3ba74a4e9c3a637f09e866a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전통주가  좋아서 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[홈 파티를 위한 신박템 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ef88968b57424478ab6549d9e776e5dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만 알고 싶은 빈티지 숍 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[내 스타일의 부스터, 로컬 빈티지 숍 #2]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f420b7dc7dd54b3ea953ba3c6aa09706.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

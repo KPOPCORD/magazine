@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 06:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 07:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 올해의 역주행]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[DIVE와 윤하의 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dbc72a8a3ba74a4e9c3a637f09e866a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전통주가  좋아서]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[홈 파티를 위한 신박템 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ef88968b57424478ab6549d9e776e5dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만 알고 싶은 빈티지 숍]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[내 스타일의 부스터, 로컬 빈티지 숍 #2]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f420b7dc7dd54b3ea953ba3c6aa09706.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
