@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 06:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 07:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숨 참고 러브 다이브]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[일러스트레이터, 디자이너의 디깅 모멘텀]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5ed6710f1e364cce90951df3df25b337.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악이 곧 콘텐츠, 콩치노 콩크리트]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[일과 쉼 다 되는 홍콩의 숙소]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/973bd6de428e4f8aabf962c45d99e4bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ Soulscape Curated 21 Dvwn]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[새벽을 깨우는 목소리, Dvwn]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/285db6ea7fce48e482e52406a9874127.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
