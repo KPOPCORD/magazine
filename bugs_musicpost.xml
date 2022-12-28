@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 05:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 06:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 65.Johnny Orlando - 'Last Christmas']]></title>
+            <link>https://music.bugs.co.kr/musicpost/YWMWWMAO6FK9R986GIWQ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/YWMWWMAO6FK9R986GIWQ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 28 Dec 2022 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[손지수 - 한국 가곡의 정취와 한옥의 풍경을 담은 '님이여 그때만을' MV 촬영 현장]]></title>
             <link>https://music.bugs.co.kr/musicpost/B55CMN5XK6NPQCOYRPTM?&amp;wl_ref=list_sp_01_h</link>
@@ -185,14 +192,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/T9TCQ5SBUKC3FH1VFG5C/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AB6IX (에이비식스) - 도약의 기회를 잡은 AB6IX의 거침없는 도전 [TAKE A CHANCE]]]></title>
-            <link>https://music.bugs.co.kr/musicpost/PL582EGO38OLI2LZ0ADD?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/PL582EGO38OLI2LZ0ADD?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/PL582EGO38OLI2LZ0ADD/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
