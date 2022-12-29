@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 07:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 08:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[속풀이  해장국 대령이요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[술꾼들을 위한 해장 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3f425df7653c4fc099ec6981471be32c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기묘한 이야기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[런던의 아트&amp;컬처 핫 플레이스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c52a4641c4d14e849c54255650a70046.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI야, 양 한 마리만  그려줘]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[최근 가장 핫한 AI 일러스트 프로그램 3]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8bd9f0596a6445499eb1682683e31402.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
