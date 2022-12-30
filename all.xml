@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 03:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 04:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
 퓨처, 위켄드 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 30 Dec 2022 03:14:07 GMT</pubDate>
+            <pubDate>Fri, 30 Dec 2022 04:15:23 GMT</pubDate>
             <content:encoded><![CDATA[메트로 부민은 묵직한 베이스와 어두운 무드의 멜로디를 도입한 트랩 음악으로 현대 팝에 거대한 영향을 끼친 스타 프로듀서다. 이런 메트로 부민이 두 번째 정규 앨범을 발표했고, 프로듀서의 앨범으로는 드물게 빌보드 앨범 차트 1위를 기록하는 등 각종 기록을 세우고 있다. 과연 그는 이번 앨범에서 어떤 음악가들과 호흡을 맞췄을까? – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221229_299/1672279967694QdJ5W_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[프로 성장러의 구독 리스트 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[끊임없이 도약하는 사람을 위하여]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3d9397697402434ead113740a0ba8216.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[속풀이  해장국 대령이요 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[연필, 엽서 등 문구가 주인공인 핫플]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/696a1c643c2c46e8b3c7a7108afc216e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영감의 도시  London #2 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[런던의 아트&amp;컬처 핫 플레이스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c52a4641c4d14e849c54255650a70046.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
