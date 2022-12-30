@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 05:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 06:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트렌디한 힙합의 기준]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[Artist Inside: 드레이크]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d9aae126632745bda59bab963860513a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프로 성장러의 구독 리스트]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[모임 하기 좋은 전통주 성지 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/38776a0fe1344509afd709ecd77f318b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문구 수집가를 위하여]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[연필, 엽서 등 문구가 주인공인 핫플]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/696a1c643c2c46e8b3c7a7108afc216e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
