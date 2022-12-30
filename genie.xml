@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 08:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 09:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DKZ 두 번째 연말 프로젝트 송 [It’s All Right Part.3] ...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12768&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12768&amp;pg=1</guid>
+            <pubDate>Fri, 30 Dec 2022 09:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12768/Mgz_Main_List_20221229135450.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[지니 컬러 동향 ＃57 – 2022.12.10 ~ 12.23 발매작]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=12771&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 28 Dec 2022 07:10:58 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12766/Mgz_Main_List_20221228113720.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[OST PICK! ＃61 - 존 머피, 긴 공백을 깨고 DC와 마블을 오가며 ...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=12765&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=12765&amp;pg=1</guid>
-            <pubDate>Tue, 27 Dec 2022 09:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[OST PICK]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12765/Mgz_Main_List_20221227175810.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
