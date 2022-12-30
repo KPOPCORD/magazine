@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 06:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 07:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/T9TCQ5SBUKC3FH1VFG5C/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지니 컬러 동향 ＃57 – 2022.12.10 ~ 12.23 발매작 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=12771&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=12771&amp;pg=1</guid>
+            <pubDate>Fri, 30 Dec 2022 07:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[지니 컬러 동향]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12770/Mgz_Main_List_20221229152410.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[정규 2집 [Serenade]로 돌아온 칠리 (chilly) (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12767&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12767&amp;pg=1</guid>
+            <pubDate>Fri, 30 Dec 2022 07:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12767/Mgz_Main_List_20221230091025.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[KIMKIMPARKKIM's 음악가, 함께 ＃5 - Nat King Cole (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=12769&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=12769&amp;pg=1</guid>
@@ -240,22 +256,6 @@
             <pubDate>Tue, 27 Dec 2022 09:11:46 GMT</pubDate>
             <content:encoded><![CDATA[OST PICK]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12765/Mgz_Main_List_20221227175810.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[알앤비 따라잡기 ＃60 - 최고의 프로듀서, 인플로의 친구들 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12763&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12763&amp;pg=1</guid>
-            <pubDate>Tue, 27 Dec 2022 07:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[힙알사전]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12763/Mgz_Main_List_20221227154410.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[진정하지 않아도 좋아 - 헨델의 건반 음악 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12762&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12762&amp;pg=1</guid>
-            <pubDate>Tue, 27 Dec 2022 03:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12762/Mgz_Main_List_20221227110842.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[2023년이 기대되는 
@@ -370,7 +370,7 @@ RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
 퓨처, 위켄드 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 30 Dec 2022 06:16:21 GMT</pubDate>
+            <pubDate>Fri, 30 Dec 2022 07:10:59 GMT</pubDate>
             <content:encoded><![CDATA[메트로 부민은 묵직한 베이스와 어두운 무드의 멜로디를 도입한 트랩 음악으로 현대 팝에 거대한 영향을 끼친 스타 프로듀서다. 이런 메트로 부민이 두 번째 정규 앨범을 발표했고, 프로듀서의 앨범으로는 드물게 빌보드 앨범 차트 1위를 기록하는 등 각종 기록을 세우고 있다. 과연 그는 이번 앨범에서 어떤 음악가들과 호흡을 맞췄을까? – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221229_299/1672279967694QdJ5W_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
         </item>
