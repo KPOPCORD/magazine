@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 03:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 04:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빵!   터지기 일보 직전]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[빵빵한 크림빵 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8d7d8ddc944147e1a5402618eeb92a36.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[존재의  초상]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 1월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8ad8a7adac4249a2855b230c7e34072f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구독과 좋아요!]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[내 스타일에 영감 한 스푼, 해외 패션 매거진]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ea6fb5f49aa54395b38e0843e43848eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
