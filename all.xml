@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 07:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 08:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
 새로운 에피소드 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 02 Jan 2023 07:11:50 GMT</pubDate>
+            <pubDate>Mon, 02 Jan 2023 08:15:42 GMT</pubDate>
             <content:encoded><![CDATA[이미 확고한 세계관과 음악적 방향성을 가진 에이티즈가 데뷔 이래 처음으로 다른 스토리를 이야기한다. 정규 앨범과는 다른 이야기로 새로운 시도들을 자유롭게 해본 만큼, 스핀오프 앨범을 발매됐다. 앨범엔 특히 사랑받은 기존 곡들의 리믹스 버전도 실렸다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20221229_77/1672299546475TOMT4_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[톰 삭스  다시 들여다보기 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 1월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8ad8a7adac4249a2855b230c7e34072f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디어  마이 북 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 1월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ee9b8707d4c5473d825d3c927ede7140.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자, 이제 시작이야 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 쿠킹 라이브러리 1월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/46fa3e01a7b546838edddcbf66e91458.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
