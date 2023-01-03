@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 05:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 06:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
 SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 03 Jan 2023 05:11:21 GMT</pubDate>
+            <pubDate>Tue, 03 Jan 2023 06:15:13 GMT</pubDate>
             <content:encoded><![CDATA[SM엔터테인먼트의 단체 겨울 앨범, 새해를 여는 신곡으로 돌아온 쿠코까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230102_197/1672650843866ChxPF_PNG/smtown.png?type=w840" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[디자인 마이애미의  황금시대 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 디자인 마이애미 리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b4de97d41694403880821421e068ebea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Timeless Albums (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 디자인 라이브러리 1월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c33b82e2f0a44f2b7d074a09a9842a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 우리가 알아야 할 밴드 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 뮤직 라이브러리 1월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/07089fd08e044918a0e0b7cd68666c61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
