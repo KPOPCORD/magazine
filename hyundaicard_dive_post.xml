@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 04:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 05:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Timeless Albums]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 1월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/27a62f6b09274c3e83d07ec1fb5dc3db.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[깡충깡충 토끼야]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 뮤직 라이브러리 1월의 새 음반]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/07089fd08e044918a0e0b7cd68666c61.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Timeless Albums]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 1월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/27a62f6b09274c3e83d07ec1fb5dc3db.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
