@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 02:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 03:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GU317AIFNMUSPQ70TICH/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2023년 새해의 시작, 희망을 주는 클래식과 함께 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12777&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12777&amp;pg=1</guid>
+            <pubDate>Tue, 03 Jan 2023 03:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12777/Mgz_Main_List_20230103101342.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[특별하고 의미 있는 선물을 담아내고 있는 NewJeans의 새 앨범 [OMG] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12775&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12775&amp;pg=1</guid>
+            <pubDate>Tue, 03 Jan 2023 03:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12775/Mgz_Main_List_20230102182735.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[OST PICK! ＃62 - 도전, 그리고 작품 – 윤일상 음악감독의 대작, ... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=12773&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=12773&amp;pg=1</guid>
@@ -240,22 +256,6 @@
             <pubDate>Thu, 29 Dec 2022 05:11:14 GMT</pubDate>
             <content:encoded><![CDATA[김김박김]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12769/Mgz_Main_List_20221229140129.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[가요 탐구생활 ＃49 - 안녕? 올해의 루키들 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=12770&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=12770&amp;pg=1</guid>
-            <pubDate>Thu, 29 Dec 2022 05:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[가요 탐구생활]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12770/Mgz_Main_List_20221229123841.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[마지막이거나 마지막이 아니거나 – 마지막 작품에 대한 오해와 진실 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12764&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12764&amp;pg=1</guid>
-            <pubDate>Thu, 29 Dec 2022 05:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12764/Mgz_Main_List_20221228144639.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[에이티즈의 
@@ -370,7 +370,7 @@ RM, 트로이 시반 (VIBE ─ 매거진)]]></title>
 SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 03 Jan 2023 02:10:05 GMT</pubDate>
+            <pubDate>Tue, 03 Jan 2023 03:13:13 GMT</pubDate>
             <content:encoded><![CDATA[SM엔터테인먼트의 단체 겨울 앨범, 새해를 여는 신곡으로 돌아온 쿠코까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230102_197/1672650843866ChxPF_PNG/smtown.png?type=w840" length="0" type="image/png"/>
         </item>
