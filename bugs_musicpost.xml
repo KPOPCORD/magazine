@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 02:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 03:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세가수[S3GASU] - '그땐 몰랐어요'로 두번째 추억 소환 완료!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/HSFXW3HVK6Q62KOMVW3Q?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/HSFXW3HVK6Q62KOMVW3Q?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 04 Jan 2023 03:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HSFXW3HVK6Q62KOMVW3Q/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비비탄 - K팝 최초의 멀티버스 히어로 뮤비 'SHOCKING ASIA' 컴백 인터뷰]]></title>
             <link>https://music.bugs.co.kr/musicpost/ZSNH7FWGNKET1HO82JFV?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/12S5EY1XBDKNWRTNAWPE/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김반장과 생기복덕 - 김반장이 돌아왔다! 생기가 나고 복덕이 쌓이는 음악 [Sound of Light]]]></title>
-            <link>https://music.bugs.co.kr/musicpost/GU317AIFNMUSPQ70TICH?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/GU317AIFNMUSPQ70TICH?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GU317AIFNMUSPQ70TICH/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
