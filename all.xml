@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 08:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 09:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
 SZA (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 04 Jan 2023 08:15:17 GMT</pubDate>
+            <pubDate>Wed, 04 Jan 2023 09:13:38 GMT</pubDate>
             <content:encoded><![CDATA[5년이라는 공백 끝에 드디어, SZA(시저)가 새 앨범을 발표했다. 2017년, 첫 정규 앨범으로 이미 R&amp;B 씬의 독보적인 존재가 되었지만, 이후 싱글 혹은 피처링 외에 새로운 앨범은 없었기에 이번의 새 앨범은 더욱 반갑지 않을 수 없다. 더 다채롭고 감각적인 음악으로 돌아온 SZA와 함께 올해의 첫 디깅을 시작해 본다. - 파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230103_154/1672709902161kUn8e_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로 쓰는 코미디 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드 여지도 #2 메타코미디]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c9dcbbbcc6044dbcae52830fbcc33990.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자, 이제 시작이야 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ SZA (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 레어 북 들여다보기 #11]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a7660a195d6e4c83a16a317a06d3e538.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예측 불가능한  디자인 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[1월의 디자이너 Snarkitecture]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/33a533a018eb41c284700839828ebb84.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
