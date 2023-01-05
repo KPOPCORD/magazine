@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 02:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 03:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[kursor(커서) - 공허함과 불안함의 경계에서, [니] 비하인드 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/2PQEQVZ4B53SY60YM6NG?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/2PQEQVZ4B53SY60YM6NG?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 05 Jan 2023 03:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2PQEQVZ4B53SY60YM6NG/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세가수[S3GASU] - '그땐 몰랐어요'로 두번째 추억 소환 완료!]]></title>
             <link>https://music.bugs.co.kr/musicpost/HSFXW3HVK6Q62KOMVW3Q?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <guid>https://music.bugs.co.kr/musicpost/6K1KJE6QI1V1P0MAZRMM?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김용준 - '김용준'과 히트곡 제조기 '조영수'의 만남! '어떻게 널 잊어' 녹음 현장]]></title>
-            <link>https://music.bugs.co.kr/musicpost/12S5EY1XBDKNWRTNAWPE?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/12S5EY1XBDKNWRTNAWPE?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/12S5EY1XBDKNWRTNAWPE/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
