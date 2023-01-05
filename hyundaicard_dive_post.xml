@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 04:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 05:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운  맛의 세계로]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[신상 맛집 #28]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/88fcd779277c4bc7af474e8ebbcf2610.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로 쓰는 코미디]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
             <content:encoded><![CDATA[빵빵한 크림빵 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8d7d8ddc944147e1a5402618eeb92a36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존재의  초상]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 레어 북 들여다보기 #11]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a7660a195d6e4c83a16a317a06d3e538.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
