@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 08:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 09:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[아일리원 (ILY:1) 첫 번째 미니 앨범 [A Dream Of ILY:1] ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12780&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12780&amp;pg=1</guid>
+            <pubDate>Thu, 05 Jan 2023 09:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12780/Mgz_Main_List_20230105143156.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[이게 진짜 첫 작품이야 – 작곡가들의 어린 시절 습작 모음 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12779&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12779&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Mon, 02 Jan 2023 03:12:58 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12772/Mgz_Main_List_20230102120115.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[DKZ 두 번째 연말 프로젝트 송 [It’s All Right Part.3] ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12768&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12768&amp;pg=1</guid>
-            <pubDate>Fri, 30 Dec 2022 09:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12768/Mgz_Main_List_20221229135450.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #125 : 
@@ -370,7 +370,7 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
 SZA (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 05 Jan 2023 08:16:27 GMT</pubDate>
+            <pubDate>Thu, 05 Jan 2023 09:12:41 GMT</pubDate>
             <content:encoded><![CDATA[5년이라는 공백 끝에 드디어, SZA(시저)가 새 앨범을 발표했다. 2017년, 첫 정규 앨범으로 이미 R&amp;B 씬의 독보적인 존재가 되었지만, 이후 싱글 혹은 피처링 외에 새로운 앨범은 없었기에 이번의 새 앨범은 더욱 반갑지 않을 수 없다. 더 다채롭고 감각적인 음악으로 돌아온 SZA와 함께 올해의 첫 디깅을 시작해 본다. - 파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230103_154/1672709902161kUn8e_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
