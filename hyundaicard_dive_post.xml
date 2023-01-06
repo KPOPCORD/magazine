@@ -4,15 +4,23 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 07:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 08:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해도 풍성하잖아]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023 넷플릭스 라인업]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dba1a7d0ad5c4fb2829d226b00cd6d97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[압도적 청량감]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[뉴진스 새 앨범 &lt;OMG&gt; 파헤치기]]></content:encoded>
+            <content:encoded><![CDATA[뉴진스 새 앨범 ＜OMG＞ 파헤치기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4cea163aff3744a1a158ab4949de9091.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 1월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/27a62f6b09274c3e83d07ec1fb5dc3db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깡충깡충 토끼야]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[2023년에 어울리는 토끼 라벨 와인]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dc88c48ce97e4016a0439d16f8264904.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
