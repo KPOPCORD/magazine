@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 08:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 09:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱어송라이터 류지수 [살아지더라] 발매 기념 인터뷰]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12783&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12783&amp;pg=1</guid>
+            <pubDate>Fri, 06 Jan 2023 09:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12783/Mgz_Main_List_20230106140014.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[이승윤 [비싼 숙취] MV 촬영 현장]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12781&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12781&amp;pg=1</guid>
+            <pubDate>Fri, 06 Jan 2023 09:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12781/Mgz_Main_List_20230106180226.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[국립국악원 생활음악 시리즈. 싱글 [지하철 환승 음악] 발매 비하인드 스토리]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12782&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 03 Jan 2023 03:12:57 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12777/Mgz_Main_List_20230103101342.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[특별하고 의미 있는 선물을 담아내고 있는 NewJeans의 새 앨범 [OMG]]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12775&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12775&amp;pg=1</guid>
-            <pubDate>Tue, 03 Jan 2023 03:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12775/Mgz_Main_List_20230102182735.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[OST PICK! ＃62 - 도전, 그리고 작품 – 윤일상 음악감독의 대작, ...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=12773&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=12773&amp;pg=1</guid>
-            <pubDate>Mon, 02 Jan 2023 03:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[OST PICK]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12773/Mgz_Main_List_20230102113821.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
