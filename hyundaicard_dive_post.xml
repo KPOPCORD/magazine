@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 09:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 10:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TRIBE Weekend  in 더현대 서울]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[취향 저격, TRIBE만의 프라이빗 클래스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/370bf8df2a324da8a842f97ed42090da.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해도 풍성하잖아]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
             <content:encoded><![CDATA[2022년 디자인 마이애미 리뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b4de97d41694403880821421e068ebea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Timeless Albums]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 1월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/27a62f6b09274c3e83d07ec1fb5dc3db.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
