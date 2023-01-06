@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 05:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 06:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[압도적 청량감]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스 새 앨범 &lt;OMG&gt; 파헤치기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4cea163aff3744a1a158ab4949de9091.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[All That  Jazz]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
             <content:encoded><![CDATA[2023년에 어울리는 토끼 라벨 와인]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dc88c48ce97e4016a0439d16f8264904.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톰 삭스  다시 들여다보기]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 1월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8ad8a7adac4249a2855b230c7e34072f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
