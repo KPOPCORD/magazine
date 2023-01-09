@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 03:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 04:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 우리가 알아야 할 밴드]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 뮤직 라이브러리 1월의 새 음반]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/07089fd08e044918a0e0b7cd68666c61.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오션  리부트]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
             <content:encoded><![CDATA[신상 맛집 #28]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/88fcd779277c4bc7af474e8ebbcf2610.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로 쓰는 코미디]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드 여지도 #2 메타코미디]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c9dcbbbcc6044dbcae52830fbcc33990.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
