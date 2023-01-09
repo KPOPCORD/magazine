@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 05:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 07:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[평온하거나  불온하거나]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[날카로운 시선을 지닌 아티스트의 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2a164cffad8e47f0a2cd3789c9040e99.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 우리가 알아야 할 밴드]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
             <content:encoded><![CDATA[백예린, 넬, 김심야의 1월 1일 새 싱글]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7003bc8929da4e54a85ad71b1e2de3f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운  맛의 세계로]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[신상 맛집 #28]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/88fcd779277c4bc7af474e8ebbcf2610.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
