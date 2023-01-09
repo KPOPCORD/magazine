@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 07:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 08:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찬 바람 불 때, 온천]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[온천으로 입소문 난 전 세계 도시 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e59a475ff6244f7fb37dd8d034d2213b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[평온하거나  불온하거나]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 1월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ee9b8707d4c5473d825d3c927ede7140.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해에는 새 사운드]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[백예린, 넬, 김심야의 1월 1일 새 싱글]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7003bc8929da4e54a85ad71b1e2de3f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
