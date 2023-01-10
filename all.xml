@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 03:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 05:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,22 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[그 남자의 색다른 매력, 브람스의 변주곡을 소개합니다 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12789&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12789&amp;pg=1</guid>
+            <pubDate>Tue, 10 Jan 2023 05:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12789/Mgz_Main_List_20230110110949.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[절대 거부할 수 없는 몬스타엑스 미니 12집 타이틀곡 [Beautiful Li... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12786&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12786&amp;pg=1</guid>
+            <pubDate>Tue, 10 Jan 2023 05:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12786/Mgz_Main_List_20230109153520.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[카페를 겸한 작은 음반 가게 <모스레코즈앤커피> (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=12788&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=12788&amp;pg=1</guid>
@@ -240,22 +256,6 @@
             <pubDate>Fri, 06 Jan 2023 03:13:37 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12782/Mgz_Main_List_20230106093650.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[아일리원 (ILY:1) 첫 번째 미니 앨범 [A Dream Of ILY:1] ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12780&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12780&amp;pg=1</guid>
-            <pubDate>Thu, 05 Jan 2023 09:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12780/Mgz_Main_List_20230105143156.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[이게 진짜 첫 작품이야 – 작곡가들의 어린 시절 습작 모음 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12779&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12779&amp;pg=1</guid>
-            <pubDate>Thu, 05 Jan 2023 03:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12779/Mgz_Main_List_20230105103324.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #150 
@@ -370,9 +370,17 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
 뉴진스, 스크릴렉스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 10 Jan 2023 03:15:42 GMT</pubDate>
+            <pubDate>Tue, 10 Jan 2023 05:11:54 GMT</pubDate>
             <content:encoded><![CDATA[내놓자마자 뜨거운 반응을 얻고 있는 뉴진스의 신곡, 새해 첫 주에 두 곡이나 발표한 스크릴렉스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230109_136/1673246530471PF1Gm_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이제 막 독립한 디자이너에게 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 디자인 라이브러리 1월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c33b82e2f0a44f2b7d074a09a9842a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찬 바람 불 때, 온천 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
             <content:encoded><![CDATA[뉴진스 새 앨범 ＜OMG＞ 파헤치기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4cea163aff3744a1a158ab4949de9091.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[All That  Jazz (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 1월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ee9b8707d4c5473d825d3c927ede7140.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
