@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 06:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 07:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
 뉴진스, 스크릴렉스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 10 Jan 2023 06:16:56 GMT</pubDate>
+            <pubDate>Tue, 10 Jan 2023 07:12:23 GMT</pubDate>
             <content:encoded><![CDATA[내놓자마자 뜨거운 반응을 얻고 있는 뉴진스의 신곡, 새해 첫 주에 두 곡이나 발표한 스크릴렉스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230109_136/1673246530471PF1Gm_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토끼 굴로 들어간 패션계 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[토끼해를 맞이한 패션 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/600f898e0fa045f1bbe795dbda959ebf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이제 막 독립한 디자이너에게 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
             <content:encoded><![CDATA[2023 넷플릭스 라인업]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dba1a7d0ad5c4fb2829d226b00cd6d97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[압도적 청량감 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 05 Jan 2023 20:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[뉴진스 새 앨범 ＜OMG＞ 파헤치기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4cea163aff3744a1a158ab4949de9091.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
