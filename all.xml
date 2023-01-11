@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 08:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 09:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,81 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
 뉴진스, 스크릴렉스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 11 Jan 2023 08:17:36 GMT</pubDate>
+            <pubDate>Wed, 11 Jan 2023 09:15:31 GMT</pubDate>
             <content:encoded><![CDATA[내놓자마자 뜨거운 반응을 얻고 있는 뉴진스의 신곡, 새해 첫 주에 두 곡이나 발표한 스크릴렉스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230109_136/1673246530471PF1Gm_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 것이 좋은 것이여 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[설맞이 이색 한과 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/28e820de11e74029864e2667b3c5697d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해를 물들일 비바 마젠타 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[팬톤이 선정한 2023 올해의 컬러]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3c9a9644945c437e8a2de94ae3e1f322.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[존재의  초상 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 레어 북 들여다보기 #11]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a7660a195d6e4c83a16a317a06d3e538.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영감의 도시  London #3 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[런던의 힙한 카페와 펍]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7c8869a6bf2f4f0a8aa39c13de477787.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토끼 굴로 들어간 패션계 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[토끼해를 맞이한 패션 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/600f898e0fa045f1bbe795dbda959ebf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이제 막 독립한 디자이너에게 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 디자인 라이브러리 1월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c33b82e2f0a44f2b7d074a09a9842a5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬 바람 불 때, 온천 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[온천으로 입소문 난 전 세계 도시 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e59a475ff6244f7fb37dd8d034d2213b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[평온하거나  불온하거나 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[날카로운 시선을 지닌 아티스트의 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2a164cffad8e47f0a2cd3789c9040e99.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 우리가 알아야 할 밴드 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Jan 2023 09:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 뮤직 라이브러리 1월의 새 음반]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/07089fd08e044918a0e0b7cd68666c61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
