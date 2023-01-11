@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 09:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 10:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[별이 그려온, 그려갈 궤적을 담은 정규 6집 [Startrail] 컨셉 포토 ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12796&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12796&amp;pg=1</guid>
+            <pubDate>Wed, 11 Jan 2023 10:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12796/Mgz_Main_List_20230111161150.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[더 가까이 오래 두고 듣고싶은 싱어송라이터 blah EP [더] 프로필 촬영 ... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12794&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12794&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Mon, 09 Jan 2023 08:15:48 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12785/Mgz_Main_List_20230109103857.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[락킷걸 SINGLE 앨범 [Resistance] 뮤비 촬영 현장 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12784&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12784&amp;pg=1</guid>
-            <pubDate>Mon, 09 Jan 2023 08:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12784/Mgz_Main_List_20230109105112.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #150 
@@ -370,9 +370,17 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
 뉴진스, 스크릴렉스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 11 Jan 2023 09:15:31 GMT</pubDate>
+            <pubDate>Wed, 11 Jan 2023 10:16:19 GMT</pubDate>
             <content:encoded><![CDATA[내놓자마자 뜨거운 반응을 얻고 있는 뉴진스의 신곡, 새해 첫 주에 두 곡이나 발표한 스크릴렉스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230109_136/1673246530471PF1Gm_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY NEW LINE UP! (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 1월 What's On]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ba0c27c566eb4efe96b104dc07b30036.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리 것이 좋은 것이여 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
             <content:encoded><![CDATA[날카로운 시선을 지닌 아티스트의 전시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2a164cffad8e47f0a2cd3789c9040e99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 우리가 알아야 할 밴드 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 11 Jan 2023 09:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 뮤직 라이브러리 1월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/07089fd08e044918a0e0b7cd68666c61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

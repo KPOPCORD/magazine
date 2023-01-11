@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 09:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 10:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HAPPY NEW LINE UP!]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 1월 What's On]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ba0c27c566eb4efe96b104dc07b30036.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 것이 좋은 것이여]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
             <content:encoded><![CDATA[날카로운 시선을 지닌 아티스트의 전시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2a164cffad8e47f0a2cd3789c9040e99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 우리가 알아야 할 밴드]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 11 Jan 2023 09:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 뮤직 라이브러리 1월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/07089fd08e044918a0e0b7cd68666c61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
