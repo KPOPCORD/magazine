@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 06:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 07:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
 뉴진스, 스크릴렉스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 12 Jan 2023 06:16:55 GMT</pubDate>
+            <pubDate>Thu, 12 Jan 2023 07:12:41 GMT</pubDate>
             <content:encoded><![CDATA[내놓자마자 뜨거운 반응을 얻고 있는 뉴진스의 신곡, 새해 첫 주에 두 곡이나 발표한 스크릴렉스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230109_136/1673246530471PF1Gm_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동인천의  시간은  거꾸로 간다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[나만 아는 동네 #30 인천 개항로]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4a709bc7b3e54d10a569e6df64d0a856.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위켄드의 OST 모먼트 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 디자인 라이브러리 1월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c33b82e2f0a44f2b7d074a09a9842a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬 바람 불 때, 온천 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[온천으로 입소문 난 전 세계 도시 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e59a475ff6244f7fb37dd8d034d2213b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

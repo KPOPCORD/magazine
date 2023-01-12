@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 06:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 07:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동인천의  시간은  거꾸로 간다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[나만 아는 동네 #30 인천 개항로]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4a709bc7b3e54d10a569e6df64d0a856.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위켄드의 OST 모먼트]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 디자인 라이브러리 1월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c33b82e2f0a44f2b7d074a09a9842a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬 바람 불 때, 온천]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[온천으로 입소문 난 전 세계 도시 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e59a475ff6244f7fb37dd8d034d2213b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
