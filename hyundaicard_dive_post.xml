@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 04:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 05:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위켄드의 OST 모먼트]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;아바타: 물의 길&gt;의 바로 그 엔딩곡]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6bb3e047099f44d284963d1691a11437.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HAPPY NEW LINE UP!]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
             <content:encoded><![CDATA[온천으로 입소문 난 전 세계 도시 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e59a475ff6244f7fb37dd8d034d2213b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평온하거나  불온하거나]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[날카로운 시선을 지닌 아티스트의 전시]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2a164cffad8e47f0a2cd3789c9040e99.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
