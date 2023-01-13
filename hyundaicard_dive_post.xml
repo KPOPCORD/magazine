@@ -4,17 +4,9 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 04:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 12:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[깨어나라,  건축이여]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[중국 여성 건축가 4인의 대표작]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dcc80374f4cc44f69cecbcb6a1b5c405.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[전통주와 함께  해피 뉴 이어]]></title>
             <link>javascript:;</link>
@@ -30,6 +22,14 @@
             <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
             <content:encoded><![CDATA[1월의 디자이너 Snarkitecture]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/33a533a018eb41c284700839828ebb84.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[깨어나라,  건축이여]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 11 Jan 2023 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[중국 여성 건축가 4인의 대표작]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dcc80374f4cc44f69cecbcb6a1b5c405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[옷장부터 비우고 가실게요]]></title>
