@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 03:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 04:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해외 뮤페 2023 라인업]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 13 Jan 2023 14:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[코첼라 헤드라이너는 무려 블랙핑크]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ea9b66e22da940dda2008baa471f2f71.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전통주와 함께  해피 뉴 이어]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 13 Jan 2023 14:14:49 GMT</pubDate>
             <content:encoded><![CDATA[설맞이 이색 한과 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/28e820de11e74029864e2667b3c5697d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해를 물들일 비바 마젠타]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 13 Jan 2023 14:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[팬톤이 선정한 2023 올해의 컬러]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3c9a9644945c437e8a2de94ae3e1f322.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
