@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 03:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 04:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
 바이브 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 15 Jan 2023 03:14:09 GMT</pubDate>
+            <pubDate>Sun, 15 Jan 2023 04:14:28 GMT</pubDate>
             <content:encoded><![CDATA[태양이 돌아왔다. 오래 고민하고 마음에 맴돌던 말과 음을 좋은 바이브로 잘 감싸고 모아서, 온전한 하나의 노래로 만들었다. BTS 지민이 목소리를 보탰고 항상 함께한 음악적 동료들이 곁을 지킨 태양의 새로운 시작.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230113_224/1673578225711yDvqG_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[검은토끼를  잡아라 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 14 Jan 2023 18:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[계묘년 행운을 안겨줄 검은토끼 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3a18b0e997b74b65909041750180db15.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해외 뮤페 2023 라인업 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
             <pubDate>Sat, 14 Jan 2023 18:15:27 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 1월 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ba0c27c566eb4efe96b104dc07b30036.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 것이 좋은 것이여 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 14 Jan 2023 18:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[설맞이 이색 한과 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/28e820de11e74029864e2667b3c5697d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
