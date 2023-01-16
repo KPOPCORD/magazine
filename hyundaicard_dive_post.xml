@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 07:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 08:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 것마저  예쁠 일]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[일상에 깃든 미감을 찾아서]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/630afd70f36348418a2008fe53ebbf8c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해피 뉴 기프트!]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[옷장 정리 온라인 서비스 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/22a9244911664a16be3d9c9ca07b76c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동인천의  시간은  거꾸로 간다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[나만 아는 동네 #30 인천 개항로]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4a709bc7b3e54d10a569e6df64d0a856.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
