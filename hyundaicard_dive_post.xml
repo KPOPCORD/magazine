@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 03:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 04:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[편리미엄을  위하여]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[있으면 삶이 편해지는 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/949aff6077b04ee3a8e1fdfc7c039994.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검은토끼를  잡아라]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[&lt;아바타: 물의 길&gt;의 바로 그 엔딩곡]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6bb3e047099f44d284963d1691a11437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HAPPY NEW LINE UP!]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 1월 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ba0c27c566eb4efe96b104dc07b30036.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

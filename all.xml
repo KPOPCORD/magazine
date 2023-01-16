@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 03:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 04:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
 NSW yoon, 폴로다레드 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 16 Jan 2023 03:13:20 GMT</pubDate>
+            <pubDate>Mon, 16 Jan 2023 04:15:32 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 찾아온 2023년. 많은 이들이 한 해의 계획을 짜느라 분주한 나날을 보내고 있다. 마찬가지로 한국 힙합씬에서는 성인이 된 2004년생 래퍼들이 여러 활동을 보여주면 커리어의 도약을 준비하고 있다. 이들은 작품 단위의 결과물은 물론, 방송과 SNS를 활용해 자신들의 활동 반경을 넓혔다. 성년이 된 2004년생 래퍼들을 알아보도록 하자. - 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230113_290/1673591887493YBgXl_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[편리미엄을  위하여 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[있으면 삶이 편해지는 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/949aff6077b04ee3a8e1fdfc7c039994.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검은토끼를  잡아라 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NSW yoon, 폴로다레드 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[&lt;아바타: 물의 길&gt;의 바로 그 엔딩곡]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6bb3e047099f44d284963d1691a11437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HAPPY NEW LINE UP! (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 1월 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ba0c27c566eb4efe96b104dc07b30036.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
