@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 07:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 08:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2023년 1월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/MM9PL5H00SZXC150HT0Y?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/MM9PL5H00SZXC150HT0Y?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 17 Jan 2023 08:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[kursor(커서) - 공허함과 불안함의 경계에서, [니] 비하인드 공개]]></title>
             <link>https://music.bugs.co.kr/musicpost/2PQEQVZ4B53SY60YM6NG?&amp;wl_ref=list_sp_01_h</link>
@@ -185,13 +192,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/R1XMSR7XGVTEMX4DBA4V/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭘 들을까? - 2022년 10월 노래 모음!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/6K1KJE6QI1V1P0MAZRMM?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/6K1KJE6QI1V1P0MAZRMM?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
