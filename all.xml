@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 11:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 12:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/R1XMSR7XGVTEMX4DBA4V/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Cignature(시그니처) [My Little Aurora] 자켓 촬영 현장 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12806&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12806&amp;pg=1</guid>
+            <pubDate>Tue, 17 Jan 2023 12:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12806/Mgz_Main_List_20230117101033.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[제65회 그래미 어워드 클래식 음악 부문 후보를 소개합니다 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12816&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12816&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Mon, 16 Jan 2023 03:13:05 GMT</pubDate>
             <content:encoded><![CDATA[방송]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12811/Mgz_Main_List_20230116102858.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[한여유 [사랑하는 일] 인터뷰 및 M/V 비하인드 스토리 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12809&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12809&amp;pg=1</guid>
-            <pubDate>Mon, 16 Jan 2023 03:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12809/Mgz_Main_List_20230116105118.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #127 : 
@@ -370,7 +370,7 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
 태양 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 17 Jan 2023 11:11:58 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 12:23:48 GMT</pubDate>
             <content:encoded><![CDATA[새로 시작된 흑묘년에는 여러 장르 씬을 대표하는 아티스트들이 대거 컴백할 예정이다. 한국 알앤비 씬 역시 마찬가지. 특히 2010년대 장르 씬에 주요한 족적을 남긴 태양이 컴백 싱글을 발표해 많은 음악팬을 설레게 하고 있다. 이번 이주의 디깅에서는 태양과 지민을 곁들여 많은 이들이 주목했으면 하는 한국의 보석 같은 장르 음악가들을 소개하려 한다. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230117_14/1673940524411uhH2U_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
