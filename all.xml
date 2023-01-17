@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 04:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 05:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
 태양, 마일리 사일러스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 17 Jan 2023 04:15:52 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 05:11:58 GMT</pubDate>
             <content:encoded><![CDATA[BTS 지민이 피처링한 곡으로 6년 만에 돌아온 태양, 3월에 정규 앨범을 발표하는 마일리 사일러스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230116_263/1673855142892beeN3_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리가  사랑한 플라워 아티스트 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[가장 동시대적인 플로리스트 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fa087677be054c6bb12cbe8c5b8e9b4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이런 것마저  예쁠 일 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NCT DREAM, 위켄드 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[중국 여성 건축가 4인의 대표작]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dcc80374f4cc44f69cecbcb6a1b5c405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷장부터 비우고 가실게요 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[옷장 정리 온라인 서비스 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/22a9244911664a16be3d9c9ca07b76c3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
