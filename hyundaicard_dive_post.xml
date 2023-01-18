@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 03:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 04:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[담대한 사운드 실험]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[Artist Inside: SZA]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/feaa75ada864438bb411fd66e63591a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태어난 김에 오지 일주]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[코첼라 헤드라이너는 무려 블랙핑크]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ea9b66e22da940dda2008baa471f2f71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전통주와 함께  해피 뉴 이어]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[새해 선물하기 좋은 전통주 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d779911dbe2e4a39b63bb582d933c894.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
