@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 03:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 04:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북유럽의 겨울은 의외로 춥지 않다]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12824&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12824&amp;pg=1</guid>
+            <pubDate>Thu, 19 Jan 2023 04:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12824/Mgz_Main_List_20230118163817.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[달콤쌉싸름한 영화 속 음악, 지브리 피아노 트리오 <발렌타인 콘서트>]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=12821&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=12821&amp;pg=1</guid>
+            <pubDate>Thu, 19 Jan 2023 04:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[공연]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12821/Mgz_Main_List_20230118163702.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[진솔한 마음의 벗, 싱어송라이터 조은세 SINGLE [그림자]]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12815&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 17 Jan 2023 04:15:36 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12816/Mgz_Main_List_20230117101542.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[새벽공방이 들려주는 너와 나의 드라마 ‘달과 별’, 소소한 이야기 Part.1...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12814&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12814&amp;pg=1</guid>
-            <pubDate>Tue, 17 Jan 2023 04:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12814/Mgz_Main_List_20230117100808.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[힙합사의 결정적인 순간을 장식한 싱글들 62화]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12813&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12813&amp;pg=1</guid>
-            <pubDate>Mon, 16 Jan 2023 09:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[힙알사전]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12813/Mgz_Main_List_20230116143208.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
