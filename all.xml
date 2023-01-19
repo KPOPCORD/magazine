@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 04:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 05:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
 팬송으로 전한 진심 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 19 Jan 2023 04:16:00 GMT</pubDate>
+            <pubDate>Thu, 19 Jan 2023 05:13:06 GMT</pubDate>
             <content:encoded><![CDATA[꿈은 손에 잡히지 않고 계속 쫒을 수 있어서,  더 아름다운 것이 아닐까. 드림캐쳐는 지금까지 이룬 것들에 대한 고마움과 존재의 이유임을 고백하는 팬송을 발매하며 다시 같은 꿈을 향해 새로이 나아간다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230118_36/1674012193505m9H2Y_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손민수 Curated 03 이택기 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[헤이스팅스 콩쿠르 최연소 우승 피아니스트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd75a53ac8cd4007ad0ae24731be78b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DJ Soulscape Curated 20 Kisnue (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[일상에 깃든 미감을 찾아서]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/630afd70f36348418a2008fe53ebbf8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해피 뉴 기프트! (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[100만 원 이내 럭셔리 설 기프트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0db90fa67d23469198afd32b7e60c4ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
