@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 04:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 05:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
 특별한 이유 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 20 Jan 2023 04:15:05 GMT</pubDate>
+            <pubDate>Fri, 20 Jan 2023 05:12:28 GMT</pubDate>
             <content:encoded><![CDATA[상큼하기만 했던 예나가 달라졌다. 전쟁같은 사랑 속 부서지는 마음을 담은 신곡, ‘Love War’는 분위기만 달라진 게 아니다. 비오가 피처링한 남녀 듀엣도 처음, 콜드가 프로듀싱한 새로운 스타일도 처음, 무대에서 웃지 않는 예나도 처음.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230119_181/1674106177457qYtaN_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 술로 딥 다이브 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[Food Theme 18. 전통주]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3c905afac5554b2ea306b1d7533764b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리  지금 가자,  합천 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[죽기 전에 꼭 가봐야 할 세계 오지 여행지]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6faf07b24b734c1c8688ec74911b12e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 동네 작은 유럽 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[유럽식 빵을 만날 수 있는 동네 빵집 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e32760b22331465fb24987e14eff3d70.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
