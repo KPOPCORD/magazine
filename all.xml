@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 10:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 11:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/R1XMSR7XGVTEMX4DBA4V/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[토이고, 고은이, NSW yoon, 노윤하, XINSAYNE ‘HOP ON T... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12822&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12822&amp;pg=1</guid>
+            <pubDate>Fri, 20 Jan 2023 11:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12822/Mgz_Main_List_20230119154320.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[우리가 꼭 알아야 할 헤비메탈의 순간들 61화 – 인큐버스(Incubus) (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=12828&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=12828&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Wed, 18 Jan 2023 10:13:54 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12815/Mgz_Main_List_20230118163821.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[팔색조 팝 아티스트, Will Jay [Someone On The Intern... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12819&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12819&amp;pg=1</guid>
-            <pubDate>Wed, 18 Jan 2023 03:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12819/Mgz_Main_List_20230118104826.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[드림캐쳐, 
@@ -370,7 +370,7 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
 특별한 이유 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 20 Jan 2023 10:14:23 GMT</pubDate>
+            <pubDate>Fri, 20 Jan 2023 11:11:13 GMT</pubDate>
             <content:encoded><![CDATA[상큼하기만 했던 예나가 달라졌다. 전쟁같은 사랑 속 부서지는 마음을 담은 신곡, ‘Love War’는 분위기만 달라진 게 아니다. 비오가 피처링한 남녀 듀엣도 처음, 콜드가 프로듀싱한 새로운 스타일도 처음, 무대에서 웃지 않는 예나도 처음.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230119_181/1674106177457qYtaN_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
         </item>
