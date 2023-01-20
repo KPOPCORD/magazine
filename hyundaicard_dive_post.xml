@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 06:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 07:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어디까지 가봤니, 국내 여행]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[문체부ｘ한국관광공사 선정 올해의 관광지 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ec3d0419badc4055b1b6c183b3ee031f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 술로 딥 다이브]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[Artist Inside: SZA]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/feaa75ada864438bb411fd66e63591a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태어난 김에 오지 일주]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[죽기 전에 꼭 가봐야 할 세계 오지 여행지]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6faf07b24b734c1c8688ec74911b12e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
