@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Jan 2023 03:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 04:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
 특별한 이유 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 22 Jan 2023 03:13:24 GMT</pubDate>
+            <pubDate>Sun, 22 Jan 2023 04:15:19 GMT</pubDate>
             <content:encoded><![CDATA[상큼하기만 했던 예나가 달라졌다. 전쟁같은 사랑 속 부서지는 마음을 담은 신곡, ‘Love War’는 분위기만 달라진 게 아니다. 비오가 피처링한 남녀 듀엣도 처음, 콜드가 프로듀싱한 새로운 스타일도 처음, 무대에서 웃지 않는 예나도 처음.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230119_181/1674106177457qYtaN_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[순간을  뽑아서 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[똑똑한 포토 프린터 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5b33c3e3af5844d8b0ec613c392e80a6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단정한  새해 인사 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[헤이스팅스 콩쿠르 최연소 우승 피아니스트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd75a53ac8cd4007ad0ae24731be78b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ Soulscape Curated 20 Kisnue (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[지상에서 하늘을 비행하는 날개를 꿈꾸다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e5d31ce0239845e880f6548bd8fdda06.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

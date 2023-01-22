@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Jan 2023 03:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 04:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[순간을  뽑아서]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[똑똑한 포토 프린터 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5b33c3e3af5844d8b0ec613c392e80a6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단정한  새해 인사]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[헤이스팅스 콩쿠르 최연소 우승 피아니스트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd75a53ac8cd4007ad0ae24731be78b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ Soulscape Curated 20 Kisnue]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[지상에서 하늘을 비행하는 날개를 꿈꾸다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e5d31ce0239845e880f6548bd8fdda06.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
