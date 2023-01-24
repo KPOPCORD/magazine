@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 03:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 04:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핑계 없는  무덤]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[사연이 있어 더 흥미로운 범죄 시리즈 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e9a5201022d94d23bebac3dd1d3267e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘부터  어다행다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[별똥별 성지, 합천의 명소 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/83a09db4f4554a16bc0cc5d463662ee2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이거  살 냄새야]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[은은한 향을 자랑하는 세제]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f7970223386f45b3b6adb439bce86f71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

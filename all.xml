@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 03:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 04:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
 특별한 이유 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 24 Jan 2023 03:13:14 GMT</pubDate>
+            <pubDate>Tue, 24 Jan 2023 04:14:59 GMT</pubDate>
             <content:encoded><![CDATA[상큼하기만 했던 예나가 달라졌다. 전쟁같은 사랑 속 부서지는 마음을 담은 신곡, ‘Love War’는 분위기만 달라진 게 아니다. 비오가 피처링한 남녀 듀엣도 처음, 콜드가 프로듀싱한 새로운 스타일도 처음, 무대에서 웃지 않는 예나도 처음.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230119_181/1674106177457qYtaN_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[핑계 없는  무덤 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[사연이 있어 더 흥미로운 범죄 시리즈 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e9a5201022d94d23bebac3dd1d3267e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘부터  어다행다 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[별똥별 성지, 합천의 명소 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/83a09db4f4554a16bc0cc5d463662ee2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이거  살 냄새야 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[은은한 향을 자랑하는 세제]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f7970223386f45b3b6adb439bce86f71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
