@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 03:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 04:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초가집  스테이]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[전래동화 바이브의 초가집 숙소 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ed7c69ed9c3a457f80a5ff55e4af4a9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핑계 없는  무덤]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[Food Theme 18. 전통주]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3c905afac5554b2ea306b1d7533764b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리  지금 가자,  합천]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[별똥별 성지, 합천의 명소 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/83a09db4f4554a16bc0cc5d463662ee2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
