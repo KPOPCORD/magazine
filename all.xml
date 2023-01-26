@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 08:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 09:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/R1XMSR7XGVTEMX4DBA4V/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[(여자)아이들 민니 <모든 게 착각이었다> OST ‘In The Novel’ ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12840&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12840&amp;pg=1</guid>
+            <pubDate>Thu, 26 Jan 2023 09:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12840/Mgz_Main_List_20230126153925.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[재즈덩크 ＃53 - 록 영역 초월한 놀라운 사운드! 독창적 비전으로 이뤄낸 전... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=12838&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=12838&amp;pg=1</guid>
@@ -250,12 +258,13 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12832/Mgz_Main_List_20230125091057.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[싱어송라이터 우예린, ‘꽃처럼 (flor)’ 앨범작업 비하인드 공개 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12830&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12830&amp;pg=1</guid>
-            <pubDate>Wed, 25 Jan 2023 03:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12830/Mgz_Main_List_20230125100134.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+            <title><![CDATA[1월의 느낌, 
+당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62267</link>
+            <guid>https://vibe.naver.com/magazines/62267</guid>
+            <pubDate>Thu, 26 Jan 2023 09:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.01.25]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230125_20/1674631580509buE5M_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예나의 변신이 
@@ -282,7 +291,7 @@
             <guid>https://vibe.naver.com/magazines/62263</guid>
             <pubDate>Wed, 18 Jan 2023 09:14:11 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2023.01.17]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230117_60/1673940522434WebpV_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII="/>
         </item>
         <item>
             <title><![CDATA[New Release #127 : 
@@ -357,22 +366,13 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII="/>
         </item>
         <item>
-            <title><![CDATA[2023년이 기대되는 
-신인 아티스트 (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62254</link>
-            <guid>https://vibe.naver.com/magazines/62254</guid>
-            <pubDate>Thu, 29 Dec 2022 09:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-269b06c8="" class="blind">작성일</span> 2022.12.29]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII="/>
-        </item>
-        <item>
-            <title><![CDATA[1월의 느낌, 
-당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[님아 이 앨범을 놓치지 마오 : 
+나얼, 홀리데이 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 26 Jan 2023 08:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[최근 발매된 수많은 노래 중 VIBE에서 사랑받은 ‘이달의 노래’를 소개합니다. 힙터질때, 신났을때, 우울할때, 사랑할때, 사랑했을때, 파티할때, 멍때릴때, 운동할때, 휴식할때… 느낌별 스테이션이 선정한 ‘1월의 노래’를 여러분도 들어보세요.]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230125_186/1674631582557pL2Kj_JPEG/%C4%BF%B9%F62_%281%29.jpg?type=w840" length="0" type="image/jpg"/>
+            <pubDate>Thu, 26 Jan 2023 09:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[모두가 연초의 계획을 짜느라 정신이 없는 요즘. 어김없이 한국 힙합/알앤비 씬은 바쁘게 돌아가고 있다. 이미 지난 12월부터 현재까지 여러 음악가가 자기 작업물을 발표하며 장르 팬들의 마음을 따뜻하게 만들어 주고 있다. 그중에서도 많은 이들이 반드시 체크했으면 하는 몇 장의 음반들을 소개하고자 한다. – 힙합엘이]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230126_2/1674713837440tTxqC_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무엇에 쓰는 물건인고 (현대카드 DIVE ─ POST)]]></title>
