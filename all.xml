@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 02:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 03:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eagle-Eye Cherry(이글-아이 체리) - 젊은 에너지와 농익은 연륜이 동시에 존재하는 [Back on Track] (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/T023TBEF0RWK89NDV73B?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/T023TBEF0RWK89NDV73B?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 27 Jan 2023 03:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/T023TBEF0RWK89NDV73B/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2023년 1월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/MM9PL5H00SZXC150HT0Y?&amp;wl_ref=list_sp_01_h</link>
@@ -186,14 +194,6 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['SURL(설)' - 정규 1집 [of us] MV 촬영 현장 비하인드 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/R1XMSR7XGVTEMX4DBA4V?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/R1XMSR7XGVTEMX4DBA4V?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/R1XMSR7XGVTEMX4DBA4V/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[(여자)아이들 민니 <모든 게 착각이었다> OST ‘In The Novel’ ... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12840&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12840&amp;pg=1</guid>
@@ -370,7 +370,7 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
 나얼, 홀리데이 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 27 Jan 2023 02:22:01 GMT</pubDate>
+            <pubDate>Fri, 27 Jan 2023 03:14:31 GMT</pubDate>
             <content:encoded><![CDATA[모두가 연초의 계획을 짜느라 정신이 없는 요즘. 어김없이 한국 힙합/알앤비 씬은 바쁘게 돌아가고 있다. 이미 지난 12월부터 현재까지 여러 음악가가 자기 작업물을 발표하며 장르 팬들의 마음을 따뜻하게 만들어 주고 있다. 그중에서도 많은 이들이 반드시 체크했으면 하는 몇 장의 음반들을 소개하고자 한다. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230126_2/1674713837440tTxqC_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>

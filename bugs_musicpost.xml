@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 02:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 03:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eagle-Eye Cherry(이글-아이 체리) - 젊은 에너지와 농익은 연륜이 동시에 존재하는 [Back on Track]]]></title>
+            <link>https://music.bugs.co.kr/musicpost/T023TBEF0RWK89NDV73B?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/T023TBEF0RWK89NDV73B?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 27 Jan 2023 03:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/T023TBEF0RWK89NDV73B/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2023년 1월 노래 모음!]]></title>
             <link>https://music.bugs.co.kr/musicpost/MM9PL5H00SZXC150HT0Y?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <guid>https://music.bugs.co.kr/musicpost/Z9KK8K1QF4JJDMKXCAXE?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['SURL(설)' - 정규 1집 [of us] MV 촬영 현장 비하인드]]></title>
-            <link>https://music.bugs.co.kr/musicpost/R1XMSR7XGVTEMX4DBA4V?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/R1XMSR7XGVTEMX4DBA4V?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/R1XMSR7XGVTEMX4DBA4V/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
