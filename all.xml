@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 05:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 06:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
 나얼, 홀리데이 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 27 Jan 2023 05:12:38 GMT</pubDate>
+            <pubDate>Fri, 27 Jan 2023 06:16:48 GMT</pubDate>
             <content:encoded><![CDATA[모두가 연초의 계획을 짜느라 정신이 없는 요즘. 어김없이 한국 힙합/알앤비 씬은 바쁘게 돌아가고 있다. 이미 지난 12월부터 현재까지 여러 음악가가 자기 작업물을 발표하며 장르 팬들의 마음을 따뜻하게 만들어 주고 있다. 그중에서도 많은 이들이 반드시 체크했으면 하는 몇 장의 음반들을 소개하고자 한다. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230126_2/1674713837440tTxqC_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강남  뉴 카페 로드 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[웨이팅 필수, 강남 신상 카페]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c474f51864c44a2face672f4dbeb716f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무엇에 쓰는 물건인고 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[똑똑한 포토 프린터 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5b33c3e3af5844d8b0ec613c392e80a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단정한  새해 인사 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[격식있는 자리를 위한 깔끔한 포멀웨어 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6037876b4f3c4107937e771d378e0ae8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
