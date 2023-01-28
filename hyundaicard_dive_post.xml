@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 03:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 04:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국제갤러리  파리를 품다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[국제갤러리 송보영 부사장 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f7fc26bfa19446f2b3b1921fa10a8420.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갖고 싶다  자동차 NFT]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[사연이 있어 더 흥미로운 범죄 시리즈 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e9a5201022d94d23bebac3dd1d3267e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘부터  어다행다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[다이어터, 유지어터를 위한 식단 앱]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ee54d72ad1204c8d8ea48e4bd1886ca2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

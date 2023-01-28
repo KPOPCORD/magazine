@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 03:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 04:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
 메이브 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 28 Jan 2023 03:13:19 GMT</pubDate>
+            <pubDate>Sat, 28 Jan 2023 04:15:15 GMT</pubDate>
             <content:encoded><![CDATA[판도라가 열린다. 지금까지 본 적 없는 새로운 아이돌, 가상과 현실을 잇는 버추얼 휴먼 멤버로 이루어진 메이브가 데뷔한다. 가까운 미래, 메타버스를 본격적으로 컨텐츠에 접목한 새로운 문화? 이런 말은 미뤄두고 순수한 팬심으로 이들의 음악을 즐겨보자.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230127_73/1674785477226wQoy7_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국제갤러리  파리를 품다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[국제갤러리 송보영 부사장 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f7fc26bfa19446f2b3b1921fa10a8420.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갖고 싶다  자동차 NFT (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ SMTOWN, 쿠코 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[사연이 있어 더 흥미로운 범죄 시리즈 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e9a5201022d94d23bebac3dd1d3267e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘부터  어다행다 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[다이어터, 유지어터를 위한 식단 앱]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ee54d72ad1204c8d8ea48e4bd1886ca2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
