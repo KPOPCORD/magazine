@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 07:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 08:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 66.Stacey Ryan - 'Fall In Love Alone']]></title>
+            <link>https://music.bugs.co.kr/musicpost/20BV945H44F7M718C1WI?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/20BV945H44F7M718C1WI?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 30 Jan 2023 08:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Eagle-Eye Cherry(이글-아이 체리) - 젊은 에너지와 농익은 연륜이 동시에 존재하는 [Back on Track]]]></title>
             <link>https://music.bugs.co.kr/musicpost/T023TBEF0RWK89NDV73B?&amp;wl_ref=list_sp_01_h</link>
@@ -185,13 +192,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/C8WTMY1MB8NHGEYRW8HO/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝송으로 배우는 영어! 63.Valley - 'The Problem Song']]></title>
-            <link>https://music.bugs.co.kr/musicpost/Z9KK8K1QF4JJDMKXCAXE?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/Z9KK8K1QF4JJDMKXCAXE?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
