@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 02:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 03:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['투모로우바이투게더스러움'의 결정판! [이름의 장: TEMPTATION]]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12843&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12843&amp;pg=1</guid>
+            <pubDate>Mon, 30 Jan 2023 03:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12843/Mgz_Main_List_20230130104617.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[포근히 감싸주는 발라드로 돌아온 거미의 ‘그댈 위한 노래’ MV 촬영 현장]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12837&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 26 Jan 2023 03:13:14 GMT</pubDate>
             <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12838/Mgz_Main_List_20230126102412.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[낭만을 들려주러 돌아온 Hon’z(혼즈) 정규 앨범 [Romance] 발매]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12833&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12833&amp;pg=1</guid>
-            <pubDate>Thu, 26 Jan 2023 03:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12833/Mgz_Main_List_20230126102126.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
