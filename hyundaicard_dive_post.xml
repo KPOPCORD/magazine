@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 03:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 04:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[N차 관람자라면 꼭 한 번쯤은]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[영화 굿즈를 만날 수 있는 공간 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cd781f9fb23e43648951e85a9d9b33fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴노멀  아파트먼트]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[겨울엔 향긋한 짜이 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/21d35b126789458583ad0ab436bcb6ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초가집  스테이]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[전래동화 바이브의 초가집 숙소 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ed7c69ed9c3a457f80a5ff55e4af4a9e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
