@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 05:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 06:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꺾이지 않는 마음으로]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[명작 애니메이션 &lt;슬램덩크&gt;의 화려한 귀환]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/321637e40ab84443b0946c0d76c29009.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오래도록 간직하고 싶으니까]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 2월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0b8e83c51ed44ef598c1c13592c87615.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거장의  피노키오]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕 MoMA에서 만난 영화 &lt;피노키오&gt;]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/20e0af8680a64398b1b396b598892aad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 05:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 06:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ SZA (VIBE ─ 매거진)]]></title>
 케이팝 유행 키워드 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 01 Feb 2023 05:12:04 GMT</pubDate>
+            <pubDate>Wed, 01 Feb 2023 06:16:49 GMT</pubDate>
             <content:encoded><![CDATA[전 세계가 기가 네트워크와 소셜 네트워크를 타고 이어지며 유행의 속도는 전보다 빨라지고 있다. 유행의 최첨단에 있는 케이팝 역시 예외는 아니겠지. 최근에 케이팝 속에서 유행한 키워드는 뭐가 있을까? 같이 알아보자. – 하박국]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230131_190/1675153093939FDWGS_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꺾이지 않는 마음으로 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[명작 애니메이션 &lt;슬램덩크&gt;의 화려한 귀환]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/321637e40ab84443b0946c0d76c29009.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오래도록 간직하고 싶으니까 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ SZA (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 2월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0b8e83c51ed44ef598c1c13592c87615.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거장의  피노키오 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕 MoMA에서 만난 영화 &lt;피노키오&gt;]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/20e0af8680a64398b1b396b598892aad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
