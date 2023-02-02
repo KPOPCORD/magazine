@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 09:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 10:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/C8WTMY1MB8NHGEYRW8HO/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유채훈 <남이 될 수 있을까> OST Part.3 ‘Mi Camino’ 녹음 ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12853&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12853&amp;pg=1</guid>
+            <pubDate>Thu, 02 Feb 2023 10:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12853/Mgz_Main_List_20230202101710.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[라인프렌즈의 특별한 동화 시리즈! [비밀요원 레너드의 미스터리50] (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12857&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12857&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Tue, 31 Jan 2023 06:15:58 GMT</pubDate>
             <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12852/Mgz_Main_List_20230131122021.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[이제는 세계의 합창단 - 빈 소년 합창단을 소개합니다 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12849&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12849&amp;pg=1</guid>
-            <pubDate>Tue, 31 Jan 2023 03:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12849/Mgz_Main_List_20230131085133.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[빠르게 변하는 
@@ -370,7 +370,7 @@ NSW yoon, 폴로다레드 (VIBE ─ 매거진)]]></title>
 현재진행 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 02 Feb 2023 09:13:28 GMT</pubDate>
+            <pubDate>Thu, 02 Feb 2023 10:14:28 GMT</pubDate>
             <content:encoded><![CDATA[에픽하이가 결성 20주년을 맞아 새로운 앨범을 낸다. 20주년인 만큼 아마도 거창한 뭔가를 기대했을지 모르지만, 부담 없이 음악에만 집중해 꽤 산뜻한 앨범이 나왔다. 늘 그래왔듯 에픽하이다운 자유롭고 자기다운 방식으로.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230201_177/1675228563442vSYkP_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
