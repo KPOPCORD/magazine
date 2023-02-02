@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 05:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 06:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크루즈에  몸을 맡겨]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[지금 타보고 싶은 크루즈 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4032a6b4c2324a70a81576e119a78ad0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[체인지  더 월드]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 2월의 새 음반]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eedf78142f08416f9e46bc9cb52b3351.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시  노스탤지어가  흐르고]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 2월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/17709c27f2f34067ad4b7cc2202e6497.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
