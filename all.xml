@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 06:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 07:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NSW yoon, 폴로다레드 (VIBE ─ 매거진)]]></title>
 현재진행 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 03 Feb 2023 06:17:21 GMT</pubDate>
+            <pubDate>Fri, 03 Feb 2023 07:12:21 GMT</pubDate>
             <content:encoded><![CDATA[에픽하이가 결성 20주년을 맞아 새로운 앨범을 낸다. 20주년인 만큼 아마도 거창한 뭔가를 기대했을지 모르지만, 부담 없이 음악에만 집중해 꽤 산뜻한 앨범이 나왔다. 늘 그래왔듯 에픽하이다운 자유롭고 자기다운 방식으로.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230201_177/1675228563442vSYkP_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영감의 도시  London #5 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[런던의 감각적인 쇼핑 스폿]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/35dafdb976b1462e9ee0564d582ad30b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Welcome to the  Realworld (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NSW yoon, 폴로다레드 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 2월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8e5a197e8cbf410a9422f783ef057eec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트  블랙 코미디언 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리의 테마 북 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/45aaf9e445314ca09ea0f7f1ab32317a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
