@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 03:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 04:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가전으로  헤쳐 모여]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[아직도 이 앱 안 깔았어요?]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/60535161805245a49123ba7180c1ae82.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블링블링  뉴웨이브]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 2월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/da86fef5b2a84dbfbe1e591ab8dc3ff2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Teen  Pop  Collection]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 2월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3fed61fb69414a79bc58397f4b2ac5e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
