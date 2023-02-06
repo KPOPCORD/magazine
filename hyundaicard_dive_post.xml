@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 06:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 07:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아트  블랙 코미디언]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리의 테마 북 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/45aaf9e445314ca09ea0f7f1ab32317a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바니바니! 비니비니!]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[마니아를 사로잡은 대세 위스키]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d62a37f096214a0d89a3d7faf45a809b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꺾이지 않는 마음으로]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[명작 애니메이션 &lt;슬램덩크&gt;의 화려한 귀환]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/321637e40ab84443b0946c0d76c29009.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
