@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 07:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 12:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8TURN - 1st Mini Album [8TURNRISE] 자켓 촬영 현장]]></title>
+            <link>https://music.bugs.co.kr/musicpost/08LVGWJ0IQJWDIA3RSDD?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/08LVGWJ0IQJWDIA3RSDD?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 06 Feb 2023 12:26:36 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/08LVGWJ0IQJWDIA3RSDD/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 66.Stacey Ryan - 'Fall In Love Alone']]></title>
             <link>https://music.bugs.co.kr/musicpost/20BV945H44F7M718C1WI?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/59RQD9Z0RHR9AI34VKYA/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나린 - 리메이크 프로젝트 Part 2 'R.P.G shine' M/V 비하인드]]></title>
-            <link>https://music.bugs.co.kr/musicpost/C8WTMY1MB8NHGEYRW8HO?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/C8WTMY1MB8NHGEYRW8HO?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/C8WTMY1MB8NHGEYRW8HO/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

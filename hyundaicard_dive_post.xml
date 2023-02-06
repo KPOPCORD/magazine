@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 07:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 12:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생산과 소비의 궤도에서 벗어나]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드 여지도 #3 원오디너리맨션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/57a3d7070ccd4eb48d888af5f71a44ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트  블랙 코미디언]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[2월의 디자이너 Benjamin Hubert]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/147d4542e4584e3fae67a581bfddce52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위스키에 빠져볼 거야]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[마니아를 사로잡은 대세 위스키]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d62a37f096214a0d89a3d7faf45a809b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
