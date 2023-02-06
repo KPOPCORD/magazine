@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 04:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 05:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NSW yoon, 폴로다레드 (VIBE ─ 매거진)]]></title>
 현재진행 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 06 Feb 2023 04:16:09 GMT</pubDate>
+            <pubDate>Mon, 06 Feb 2023 05:12:15 GMT</pubDate>
             <content:encoded><![CDATA[에픽하이가 결성 20주년을 맞아 새로운 앨범을 낸다. 20주년인 만큼 아마도 거창한 뭔가를 기대했을지 모르지만, 부담 없이 음악에만 집중해 꽤 산뜻한 앨범이 나왔다. 늘 그래왔듯 에픽하이다운 자유롭고 자기다운 방식으로.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230201_177/1675228563442vSYkP_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바니바니! 비니비니! (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[토끼 모자가 불러온 사랑스러운 주의보]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1666529d64f94980a5d5684275663884.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가전으로  헤쳐 모여 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NSW yoon, 폴로다레드 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[명작 애니메이션 &lt;슬램덩크&gt;의 화려한 귀환]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/321637e40ab84443b0946c0d76c29009.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오래도록 간직하고 싶으니까 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 2월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/da86fef5b2a84dbfbe1e591ab8dc3ff2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
