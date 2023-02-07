@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 02:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 03:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오씰 (OSCiiL) - 여행자의 고민이 담긴 [쏟아지는 별] 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/OAGD6RPH6QK6HLCIT35I?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/OAGD6RPH6QK6HLCIT35I?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 07 Feb 2023 03:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OAGD6RPH6QK6HLCIT35I/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[8TURN - 1st Mini Album [8TURNRISE] 자켓 촬영 현장]]></title>
             <link>https://music.bugs.co.kr/musicpost/08LVGWJ0IQJWDIA3RSDD?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/KZ6AS7OIARKFS4EU6XRQ/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정한빈 - 프란츠라는 이름의 두 거장을 담아내다, 피아니스트 정한빈 정규 앨범 [Lieber Franz]]]></title>
-            <link>https://music.bugs.co.kr/musicpost/59RQD9Z0RHR9AI34VKYA?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/59RQD9Z0RHR9AI34VKYA?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/59RQD9Z0RHR9AI34VKYA/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
