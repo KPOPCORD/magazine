@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 06:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 07:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NSW yoon, 폴로다레드 (VIBE ─ 매거진)]]></title>
 샘 스미스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 07 Feb 2023 06:16:38 GMT</pubDate>
+            <pubDate>Tue, 07 Feb 2023 07:12:47 GMT</pubDate>
             <content:encoded><![CDATA[샘 스미스의 네 번째 정규 앨범 &lt;Gloria&gt; 발매! 팝 음악을 중심으로 다양한 스타일을 담아낸 이번 앨범엔 사랑과 정체성, 성장과 해방의 이야기가 담겼다. 2019년, ‘논 바이너리’ 정체성을 밝힌 후 수많은 고통 역시 겪어 왔음을 밝힌 그. 변화의 끝에 온전히 자신을 받아들이고 존중하고자 하는 그의 마음은 이제 음악을 통해 세상을 덥히고 있다. –파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230207_180/1675733286070UuzWv_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장안의  화제 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[핫한 볼거리로 추위를 밀어내는 2월의 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cd941c98abf04a05ad6ee6587337545c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레전드의  귀환 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NSW yoon, 폴로다레드 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 2월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0b8e83c51ed44ef598c1c13592c87615.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크루즈에  몸을 맡겨 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[지금 타보고 싶은 크루즈 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4032a6b4c2324a70a81576e119a78ad0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
