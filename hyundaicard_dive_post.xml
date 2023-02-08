@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 06:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 07:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Teen  Pop  Collection]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[V&amp;P 2월 Monthly Special]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3fed61fb69414a79bc58397f4b2ac5e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영감이 피어나는 순간]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[국내 컨템퍼러리 금속공예 아티스트 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/94f63c03b7b74ea0ab8e4fa01231b587.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영감의 도시  London #5]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[런던의 감각적인 쇼핑 스폿]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/35dafdb976b1462e9ee0564d582ad30b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
