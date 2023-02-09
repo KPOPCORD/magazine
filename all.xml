@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 03:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 04:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/KZ6AS7OIARKFS4EU6XRQ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오케스트라 주자는 합주만 한다? 오케스트라 속 솔로 파트를 소개합니다 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12870&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12870&amp;pg=1</guid>
+            <pubDate>Thu, 09 Feb 2023 04:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12870/Mgz_Main_List_20230208160322.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[VMC LAST CONCERT, ‘9th Wonder’ 멤버들의 콘서트 후기 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12872&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12872&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Mon, 06 Feb 2023 12:26:48 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12863/Mgz_Main_List_20230206103443.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[나를 위한 응원단이 되어 줄 '부석순' 싱글 1집 [SECOND WIND] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12859&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12859&amp;pg=1</guid>
-            <pubDate>Mon, 06 Feb 2023 12:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12859/Mgz_Main_List_20230206140635.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #129 : 
@@ -370,7 +370,7 @@ NSW yoon, 폴로다레드 (VIBE ─ 매거진)]]></title>
 샘 스미스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 09 Feb 2023 03:17:15 GMT</pubDate>
+            <pubDate>Thu, 09 Feb 2023 04:14:56 GMT</pubDate>
             <content:encoded><![CDATA[샘 스미스의 네 번째 정규 앨범 &lt;Gloria&gt; 발매! 팝 음악을 중심으로 다양한 스타일을 담아낸 이번 앨범엔 사랑과 정체성, 성장과 해방의 이야기가 담겼다. 2019년, ‘논 바이너리’ 정체성을 밝힌 후 수많은 고통 역시 겪어 왔음을 밝힌 그. 변화의 끝에 온전히 자신을 받아들이고 존중하고자 하는 그의 마음은 이제 음악을 통해 세상을 덥히고 있다. –파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230207_180/1675733286070UuzWv_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
