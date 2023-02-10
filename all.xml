@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 08:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 09:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NCT 127, 레이 (VIBE ─ 매거진)]]></title>
 <j-hope IN THE BOX> 공개! (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 10 Feb 2023 08:16:01 GMT</pubDate>
+            <pubDate>Fri, 10 Feb 2023 09:13:39 GMT</pubDate>
             <content:encoded><![CDATA[제이홉이 솔로 아티스트로 첫 발을 내딛었던 지난해 여름의 솔로 앨범 ‘Jack In The Box’. 이 앨범을 제작하고 활동한 약 200여 일간의 가장 솔직한 기록, 제이홉의 솔로 다큐멘터리 &lt;j-hope IN THE BOX&gt;가 디즈니 플러스를 통해 2월 17일 마침내 공개된다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230209_30/1675928988889ME5Sf_JPEG/VIBE-%C0%A5%BF%EB_%B8%DE%C0%CE%C0%CC%B9%CC%C1%F6%B8%C5%B0%C5%C1%F8%28%C0%A5%29%B9%E8%B3%CA_964x672_%281%29.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차분함 한 모금 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[겨울에 즐기는 티하우스 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/57221ff0d1044456a4f9a21604162985.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공예의 미래를 한자리에 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NCT 127, 레이 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 2월 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd92610210e64d49b77362e50f8d6279.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장안의  화제 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[핫한 볼거리로 추위를 밀어내는 2월의 전시]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cd941c98abf04a05ad6ee6587337545c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

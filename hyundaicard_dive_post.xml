@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 08:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 09:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차분함 한 모금]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[겨울에 즐기는 티하우스 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/57221ff0d1044456a4f9a21604162985.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공예의 미래를 한자리에]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 2월 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd92610210e64d49b77362e50f8d6279.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장안의  화제]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[핫한 볼거리로 추위를 밀어내는 2월의 전시]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cd941c98abf04a05ad6ee6587337545c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
