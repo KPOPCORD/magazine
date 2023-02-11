@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 03:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 04:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대를 위한  로큰롤]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[이탤리언 밴드 모네스킨의 거침없는 행보]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8c1ade9f34184abfa45645abbf1df906.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차분함 한 모금]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 2월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3fed61fb69414a79bc58397f4b2ac5e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영감이 피어나는 순간]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 2월 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd92610210e64d49b77362e50f8d6279.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
