@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 04:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 05:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NCT 127, 레이 (VIBE ─ 매거진)]]></title>
 <j-hope IN THE BOX> 공개! (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 13 Feb 2023 04:16:39 GMT</pubDate>
+            <pubDate>Mon, 13 Feb 2023 05:13:39 GMT</pubDate>
             <content:encoded><![CDATA[제이홉이 솔로 아티스트로 첫 발을 내딛었던 지난해 여름의 솔로 앨범 ‘Jack In The Box’. 이 앨범을 제작하고 활동한 약 200여 일간의 가장 솔직한 기록, 제이홉의 솔로 다큐멘터리 &lt;j-hope IN THE BOX&gt;가 디즈니 플러스를 통해 2월 17일 마침내 공개된다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230209_30/1675928988889ME5Sf_JPEG/VIBE-%C0%A5%BF%EB_%B8%DE%C0%CE%C0%CC%B9%CC%C1%F6%B8%C5%B0%C5%C1%F8%28%C0%A5%29%B9%E8%B3%CA_964x672_%281%29.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영감의 도시  Paris #1 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[다시 파리, ‘로망’을 실현하는 도시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7dd2335318314cb5a2b3f81857f760de.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리 기술  칭찬해 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NCT 127, 레이 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[전통주 소믈리에와 함께하는 클래스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3364b363b44e4073900e6a9c426c0ba3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달콤 쌉싸름한 초콜릿 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[밸런타인데이를 위한 초콜릿 전문점]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6b2b832f67864abd978835a366fdee9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
