@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 07:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 08:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NCT 127, 레이 (VIBE ─ 매거진)]]></title>
 부석순, M83 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 14 Feb 2023 07:14:01 GMT</pubDate>
+            <pubDate>Tue, 14 Feb 2023 08:17:29 GMT</pubDate>
             <content:encoded><![CDATA[세븐틴 유닛 부석순의 신곡, 앨범 절반을 선공개한 M83까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230213_236/1676274050726kmPEI_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지브리 파크 vs  지브리 미술관 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[지브리 찐팬들의 성지순례]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9fb3786b9b234b1fbf0d93f50090ada7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구해줘!  전통주 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NCT 127, 레이 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 2월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8e5a197e8cbf410a9422f783ef057eec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리, 멀리 가지 말아요 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[짧은 동선의 여행을 즐길 수 있는 숙소 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6c2b7af9d59b4bd3ac421889f01d21a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
