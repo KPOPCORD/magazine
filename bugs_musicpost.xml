@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 02:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 03:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후니용이 - '종천지모'로 해외 진출을 목표로 글로벌하게!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/6PMTNZHLWKUC154QL4EP?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/6PMTNZHLWKUC154QL4EP?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 14 Feb 2023 03:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/6PMTNZHLWKUC154QL4EP/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오씰 (OSCiiL) - 여행자의 고민이 담긴 [쏟아지는 별] 발매 기념 인터뷰]]></title>
             <link>https://music.bugs.co.kr/musicpost/OAGD6RPH6QK6HLCIT35I?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7GMWJWZFDF85Z9R3C2BG/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 리슨 - 가을로 떠난 7인의 음악여행! '더 리슨: 우리가 사랑한 목소리' 속 음악들]]></title>
-            <link>https://music.bugs.co.kr/musicpost/KZ6AS7OIARKFS4EU6XRQ?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/KZ6AS7OIARKFS4EU6XRQ?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/KZ6AS7OIARKFS4EU6XRQ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
