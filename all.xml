@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 08:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 09:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7GMWJWZFDF85Z9R3C2BG/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뜨거운 청춘을 보내고 있는 소년들, TNX ‘Love or Die’ MV 촬영... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12886&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12886&amp;pg=1</guid>
+            <pubDate>Wed, 15 Feb 2023 09:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12886/Mgz_Main_List_20230215105356.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[우린 다 이번 생은 처음이잖아, STAYC (스테이씨) [Teddy Bear] (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12885&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12885&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Mon, 13 Feb 2023 10:14:31 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12878/Mgz_Main_List_20230213151449.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[일타 스캔들 OST Part 5! 하현상 녹음실 비하인드 스토리! (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12879&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12879&amp;pg=1</guid>
-            <pubDate>Mon, 13 Feb 2023 06:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12879/Mgz_Main_List_20230213104943.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #130 : 
@@ -370,7 +370,7 @@ NCT 127, 레이 (VIBE ─ 매거진)]]></title>
 젊은 날의 우린 겁나지 않아 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 15 Feb 2023 08:16:53 GMT</pubDate>
+            <pubDate>Wed, 15 Feb 2023 09:13:43 GMT</pubDate>
             <content:encoded><![CDATA[젊음은 무모하리만큼 겁도 없고 철들지 않아도 아름다운 시절, 트라이비가 신곡으로 컴백하며 누구에게나 있었던 젊은 날의 추억을 현재형으로 재현한다. 쏟아져 나오는 밝은 에너지와 함께 돌아온 영 블러드.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230215_162/1676441526015vfuVr_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
