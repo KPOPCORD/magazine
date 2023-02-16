@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 09:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 10:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2023년 2월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/41KT5YJUYBM6RFQ8Z9FS?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/41KT5YJUYBM6RFQ8Z9FS?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 16 Feb 2023 10:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[후니용이 - '종천지모'로 해외 진출을 목표로 글로벌하게! (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/6PMTNZHLWKUC154QL4EP?&amp;wl_ref=list_sp_01_h</link>
@@ -186,14 +193,6 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/TLQZ3G211XWGTN7SKIWR/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화 '원피스 필름 레드' - 시리즈 사상 가장 화려한 엔터테이닝 무비, OST 공개! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/7GMWJWZFDF85Z9R3C2BG?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/7GMWJWZFDF85Z9R3C2BG?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7GMWJWZFDF85Z9R3C2BG/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[래퍼 코알라 (KOALA)의 새 싱글 [Koalified Feat. pH-1] (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12891&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12891&amp;pg=1</guid>
@@ -370,7 +369,7 @@ NCT 127, 레이 (VIBE ─ 매거진)]]></title>
 당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 16 Feb 2023 09:13:26 GMT</pubDate>
+            <pubDate>Thu, 16 Feb 2023 10:13:50 GMT</pubDate>
             <content:encoded><![CDATA[최근 발매된 수많은 노래 중 VIBE에서 사랑받은 ‘이달의 노래’를 소개합니다. 힙터질때, 신났을때, 우울할때, 사랑할때, 사랑했을때, 파티할때, 멍때릴때, 운동할때, 휴식할때… 느낌별 스테이션이 선정한 ‘2월의 노래’를 여러분도 들어보세요.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230216_147/1676514911271CNUzI_JPEG/%C4%BF%B9%F62_%281%29.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
