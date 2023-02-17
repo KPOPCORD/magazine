@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 03:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 04:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙합사의 결정적인 순간을 장식한 싱글들 63화]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12901&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=12901&amp;pg=1</guid>
+            <pubDate>Fri, 17 Feb 2023 04:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12901/Mgz_Main_List_20230217104139.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[래퍼 코알라 (KOALA)의 새 싱글 [Koalified Feat. pH-1]]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12891&amp;pg=1</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12891/Mgz_Main_List_20230215102542.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[Zior Park 'WHERE DOES SASQUATCH LIVE PART 1...]]></title>
+            <title><![CDATA[Zior Park ''WHERE DOES SASQUATCH LIVE? PART...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12890&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12890&amp;pg=1</guid>
             <pubDate>Thu, 16 Feb 2023 09:13:11 GMT</pubDate>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 15 Feb 2023 03:17:36 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12885/Mgz_Main_List_20230215092440.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[“뭐 어쩔 건데?” 솔직+발칙한 트라이비 [W.A.Y] 자켓 촬영 현장 비하인...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12882&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12882&amp;pg=1</guid>
-            <pubDate>Tue, 14 Feb 2023 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12882/Mgz_Main_List_20230214145043.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
