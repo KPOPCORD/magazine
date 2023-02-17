@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 08:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 09:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘 봐,  여왕의 귀환을]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[Artist Inside: 리한나]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2680b17977d8424bb4cee5ccf5eb72e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이토록 달콤한  호캉스]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[입소문 난 전통주 보틀 숍 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b716863a89774d9cbdb2619e160f8fdd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현실이 꿈이고, 꿈이 현실 같아]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[두 눈을 사로잡을 착시 효과 트렌드 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e9da419e90ad4fdbb46355c83b56721d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
