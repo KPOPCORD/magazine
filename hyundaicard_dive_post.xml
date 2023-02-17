@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 04:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 05:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미래의  유적]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[가장 기대되는 2023년 세계 건축물]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2b8d5defe9b0412cb20b92a16824ff6d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이슬아가 사랑한 노래들]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[다시 파리, ‘로망’을 실현하는 도시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7dd2335318314cb5a2b3f81857f760de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 기술  칭찬해]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[CES 2023을 달군 우리 기술 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e40b35fb3972430a8cad363a0c35d2e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
