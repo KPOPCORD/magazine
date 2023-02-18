@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 03:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 05:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소비 디톡스  도와주는 앱]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[갓성비 챙겨주는 앱 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b6e5df88734e4fc896730da0dab2ff95.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잘 봐,  여왕의 귀환을]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[지브리 찐팬들의 성지순례]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9fb3786b9b234b1fbf0d93f50090ada7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구해줘!  전통주]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[입소문 난 전통주 보틀 숍 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b716863a89774d9cbdb2619e160f8fdd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
