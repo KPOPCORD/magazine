@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 07:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 08:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,9 +368,17 @@ NCT 127, 레이 (VIBE ─ 매거진)]]></title>
 키(KEY), 스크릴렉스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 21 Feb 2023 07:12:47 GMT</pubDate>
+            <pubDate>Tue, 21 Feb 2023 08:17:36 GMT</pubDate>
             <content:encoded><![CDATA[레트로한 감각을 뽐낸 샤이니 키와 새 앨범을 발매한 스크릴렉스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230220_248/1676877473051nUEa3_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인간적인, 너무나 인간적인 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[세밀화 작가 송지혜 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f6c5c60f31134c549567832a528145fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리 술의  내일을 위하여 (현대카드 DIVE ─ POST)]]></title>
@@ -435,14 +443,6 @@ NCT 127, 레이 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[Artist Inside: 리한나]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2680b17977d8424bb4cee5ccf5eb72e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이토록 달콤한  호캉스 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[연인 맞춤 호텔 패키지 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5322153d364e4061b892968ffc6e460a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
