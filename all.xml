@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 02:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 03:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,22 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[신지민 The 1st EP [BOXES] 자켓 촬영 비하인드 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12912&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12912&amp;pg=1</guid>
+            <pubDate>Wed, 22 Feb 2023 03:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12912/Mgz_Main_List_20230222095112.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[소각소각 ‘괜찮지 않아도 돼’ MV 촬영 현장 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12906&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12906&amp;pg=1</guid>
+            <pubDate>Wed, 22 Feb 2023 03:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12906/Mgz_Main_List_20230222104356.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[moonflower 첫 싱글 앨범 [Typing] 작업기 & 인터뷰 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12909&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12909&amp;pg=1</guid>
@@ -238,22 +254,6 @@
             <pubDate>Tue, 21 Feb 2023 06:16:05 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12894/Mgz_Main_List_20230221111518.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[박기영 <사랑이 닿으면> 그 이후의 이야기.. (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12899&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12899&amp;pg=1</guid>
-            <pubDate>Mon, 20 Feb 2023 09:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12899/Mgz_Main_List_20230217155728.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[코요태 ‘빽가’, 프로듀서 그리고 사진작가 ‘by100’, ‘백성현’ 첫 번째... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12895&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12895&amp;pg=1</guid>
-            <pubDate>Mon, 20 Feb 2023 09:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12895/Mgz_Main_List_20230220153531.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #131 : 
@@ -368,7 +368,7 @@ NCT 127, 레이 (VIBE ─ 매거진)]]></title>
 투모로우바이투게더 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 22 Feb 2023 02:23:40 GMT</pubDate>
+            <pubDate>Wed, 22 Feb 2023 03:17:17 GMT</pubDate>
             <content:encoded><![CDATA[최근 빌보드 앨범 차트에서 돌풍을 일으키고 있는 케이팝 그룹이 있으니. 바로 투모로우바이투게더다. 투모로우바이투게더는 청춘의 이모저모를 다룬 음악과 함께 성장 서사를 그려나가고 있는 팀이다. 이들은 어느덧 빌보드 앨범 차트 최상위권에 3주째 이름을 올리고 있다. 이주의 디깅에서는 투모로우바이투게더의 이야기를 사운드로 뒷받침한 음악가를 알아보자. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230221_231/1676945066082klEa5_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
         </item>
