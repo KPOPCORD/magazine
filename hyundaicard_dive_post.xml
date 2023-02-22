@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 07:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 08:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 영광의 시대]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[그 시절 우리가 좋아했던 TV 만화 주제가]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/631819633ec84a92bfbe8e8e414926c4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프리미엄 버거 프롬 아메리카]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[혼밥을 즐겁게 만드는 반상기 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b49e17e6b6e44e9494bda4397a7b1521.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 최애만 골라보기]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[취향 저격 국내 패션 아카이브 계정 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dd97f2e90e4148cbbdde022dadb648b3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
