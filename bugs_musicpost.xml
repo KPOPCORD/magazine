@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 02:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 03:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푸디토리움(Pudditorium) - 정규 3집 [Episode :Hope]로 찾아온 영화 <멋진 하루>의 음악감독]]></title>
+            <link>https://music.bugs.co.kr/musicpost/GLR1A1PNCA924OK9I31Z?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/GLR1A1PNCA924OK9I31Z?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 23 Feb 2023 03:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GLR1A1PNCA924OK9I31Z/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 67.Cian Ducrot - 'I'll Be Waiting']]></title>
             <link>https://music.bugs.co.kr/musicpost/SF6FGBCWRYDSMI9LDWJV?&amp;wl_ref=list_sp_01_h</link>
@@ -183,13 +191,6 @@
             <pubDate>Thu, 23 Feb 2023 00:58:11 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/G0DG9QNJ56CWDL6GKG0R/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭘 들을까? - 2022년 11월 노래 모음!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/C9K0LXW1X0EVS8SR3XVO?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/C9K0LXW1X0EVS8SR3XVO?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 23 Feb 2023 00:58:11 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
