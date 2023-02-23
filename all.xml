@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 05:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 06:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ NCT 127, 레이 (VIBE ─ 매거진)]]></title>
 Love or Die (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 23 Feb 2023 05:13:45 GMT</pubDate>
+            <pubDate>Thu, 23 Feb 2023 06:16:41 GMT</pubDate>
             <content:encoded><![CDATA[작년 데뷔 이후 꾸준히 팬층을 두텁게 하며 다음 세대의 새로운 보이그룹으로 떠오른 TNX가 완전히 새로운 모습으로 컴백한다. 10대들이 느끼는 모든 감정들, 사랑과 이별, 순수함과 불완전함까지 다양한 감성을 담은 앨범을 사랑하지 않을 수 없을 것.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230222_116/1677036338825KJcy5_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 잠자리는  소중하니까 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[이런 텐트 감동 심해]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c8720be8f0ce442da1eb5dd820e19925.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가  기다린  시즌 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ Love or Die (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[하늘 아래 같은 레더 재킷은 없다]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eb3048b682e04eb88b7a062b0853184c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Strange and Familiar (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[포고섬 이야기: 낯설고도 익숙한]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1c8b55128b0e4cf3b1bdc87960029e7f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
