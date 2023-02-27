@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 06:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 07:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프레피 룩의 절대 법칙]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[프레피 룩을 정복할 신학기 법칙 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cff6d56a0a2e40dd8363ec2447c9fcb0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미리 만난  봄]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[이런 텐트 감동 심해]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c8720be8f0ce442da1eb5dd820e19925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가  기다린  시즌]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[홀딱 빠져드는 시즌제 드라마 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/730c879ee9054c73b56a40f0b4a06242.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
