@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 04:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 05:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 만난  봄]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[이른 봄이 오는 그곳 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5d0b49ab64ca4432bdd8576d34f9bf72.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건축이  들려준 얘기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[홀딱 빠져드는 시즌제 드라마 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/730c879ee9054c73b56a40f0b4a06242.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DIVE POP X Storage!]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[스토리지 전시 티켓 100% 증정]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3e5e924bee844194917af617b32763ad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
