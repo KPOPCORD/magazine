@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 05:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 06:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예산이  들썩들썩]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[백종원 손 닿자 힙해진 예산 핫플 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/147ac9af864b42a2b5f2703624f66c16.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프레피 룩의 절대 법칙]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[난방비 걱정 뚝, 블랭킷]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a36868192471462e82b09cec4d9282dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 잠자리는  소중하니까]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[이런 텐트 감동 심해]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c8720be8f0ce442da1eb5dd820e19925.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
