@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 03:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 04:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄  어서오고]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[월간 DIVE 3월 호]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b9c04129bfe8498bab8c94e4392477fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하태하태  업사이클링]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 3월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4f2e8983383143e7810c50cd39868407.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[날 따라 해 봐요 참 쉽죠?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 쿠킹 라이브러리 3월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/73d93e09e0ae494aaa573ec8c1efda40.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
