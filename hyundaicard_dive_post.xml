@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 04:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 06:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영감의 도시  Paris #2]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[감각적인 파리의 갤러리]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0c8da0f135a24069ae535a9d07ec5a7a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맥꾸를 시작해]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[월간 DIVE 3월 호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b9c04129bfe8498bab8c94e4392477fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하태하태  업사이클링]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[이토록 힙한 재활용 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/04eea62e55ac4fc2b63b701290adce9a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
