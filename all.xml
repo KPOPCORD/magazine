@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 08:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 09:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ Love or Die (VIBE ─ 매거진)]]></title>
 황민현, 모건 웰렌 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 06 Mar 2023 08:17:12 GMT</pubDate>
+            <pubDate>Mon, 06 Mar 2023 09:15:11 GMT</pubDate>
             <content:encoded><![CDATA[첫 솔로 앨범을 발표한 황민현, 뜨거운 반응을 얻고 있는 모건 웰렌까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230306_163/1678072534944ulDVe_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먹고  마시고  사랑하라 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[신상 맛집 #30]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8efee195185f416fa8ab2a2865209f8f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대카드  스토리지 어게인 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ Love or Die (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[알록달록한 봄을 위한 아이템 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c9fe14957cd944c28df8a0a25ece472f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대대익선 신상 카페 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[반나절도 모자란 대형 카페 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9f2f1d3f5da948a0bc4cb15352390c51.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
