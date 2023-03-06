@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 09:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 10:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온유 정규 1집 [Circle], 우리 삶에 전하는 따듯한 위로]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12945&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12945&amp;pg=1</guid>
+            <pubDate>Mon, 06 Mar 2023 10:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12945/Mgz_Main_List_20230306153408.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAVITY가 보여줄 완벽한 조각, 미니 5집 [MASTER : PIECE]...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12942&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12942&amp;pg=1</guid>
+            <pubDate>Mon, 06 Mar 2023 10:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12942/Mgz_Main_List_20230306152357.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[OST PICK! ＃64 - 보다 더 현실감 있게, 히로미가 완성한 [BLUE...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=12947&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 02 Mar 2023 06:16:31 GMT</pubDate>
             <content:encoded><![CDATA[김김박김]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12939/Mgz_Main_List_20230302142528.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[유승우 <딜리버리맨> OST Part.1 ‘들러붙었다’ 녹음 현장 공개]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12938&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12938&amp;pg=1</guid>
-            <pubDate>Thu, 02 Mar 2023 05:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12938/Mgz_Main_List_20230302112321.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[베토벤 어디까지 들어봤니? 베토벤의 숨겨진 명곡을 찾아서]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12937&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12937&amp;pg=1</guid>
-            <pubDate>Thu, 02 Mar 2023 05:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12937/Mgz_Main_List_20230302094930.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
