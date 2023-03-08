@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 08:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 09:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -193,6 +193,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/K7FHFZJSJRZPMHWJNJPH/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[라포엠 (LA POEM)의 두 번째 미니앨범 [The Alchemist] 앨범... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12951&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12951&amp;pg=1</guid>
+            <pubDate>Wed, 08 Mar 2023 09:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12951/Mgz_Main_List_20230307143733.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[나비는 미래의 네 모습일 수도 있단다, sooSoo가 말하는 'BUGSLIFE... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12953&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12953&amp;pg=1</guid>
@@ -247,14 +255,6 @@
             <pubDate>Mon, 06 Mar 2023 10:14:20 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12945/Mgz_Main_List_20230306153408.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAVITY가 보여줄 완벽한 조각, 미니 5집 [MASTER : PIECE]... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12942&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12942&amp;pg=1</guid>
-            <pubDate>Mon, 06 Mar 2023 10:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12942/Mgz_Main_List_20230306152357.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #154 
@@ -369,9 +369,17 @@ Love or Die (VIBE ─ 매거진)]]></title>
 솔로라는 새로운 시작 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 08 Mar 2023 08:16:50 GMT</pubDate>
+            <pubDate>Wed, 08 Mar 2023 09:13:53 GMT</pubDate>
             <content:encoded><![CDATA[워너원을 거쳐, AB6IX로, 이번에는 솔로 아티스트로 박우진이 다시 한번 새로워진다. 지난 다양한 활동에서 보여준 그의 다양한 매력과 재능을 넘어, 솔로 앨범에서 또 다른 변화와 가능성을 내보이는 그에게 새 앨범에 대해 물었다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230308_137/1678237537494s7xoU_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄기운이  좋아 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[3월 현대카드 What's On]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a0c0c8eaf45a4caba819d7e6ce2419de.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검색의 시대에서  대화의 시대로 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ Love or Die (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[가보고 싶은 일본 만화 속 그곳 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/149280f8fa8444f5ab5f424736b4d5cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 사랑한  '그 책' (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[라이브러리 3월 신간 몰아 보기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1040bf402c564bb9b886624150dea744.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
