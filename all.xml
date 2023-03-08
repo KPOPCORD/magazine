@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 23:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 01:03:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,7 +369,7 @@ Love or Die (VIBE ─ 매거진)]]></title>
 스크릴렉스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 07 Mar 2023 23:14:24 GMT</pubDate>
+            <pubDate>Wed, 08 Mar 2023 01:03:44 GMT</pubDate>
             <content:encoded><![CDATA[EDM과 팝 음악계에 막대한 영향을 끼친 뮤지션, 스크릴렉스가 9년 만의 정규 앨범을 발표했다. 그러나 놀라운 건 이뿐만이 아니다. 새 앨범 발표 바로 다음날, 한 장의 앨범을 더 공개한 것. 두 앨범의 공개 방식은 물론, 듣는 이를 압도하는 엄청난 퀄리티는 팬들에게 행복한 충격을 안겼다. 이 주의 디깅은 이런 ‘행복한 충격’과 함께 시작해 본다. –파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230307_108/1678151473685iDJOe_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
@@ -380,6 +380,14 @@ Love or Die (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 델리, 배민 포장 서비스 오픈]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/09f4ad175af84c7b86e04866654791e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시대를 초월한  명반 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 3월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a1f9a58074fe47cb8c78a193e7e9c91a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[먹고  마시고  사랑하라 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ Love or Die (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[피스타치오 디저트 맛집 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ec15201cdb66450aa4c85cb94ca4d13e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하트 투 유 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[패션으로 사랑을 전해 봐]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/24bddb8cd50b4c8db6577ad1cba1e8d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
