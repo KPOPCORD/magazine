@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 02:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 03:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -193,6 +193,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/K7FHFZJSJRZPMHWJNJPH/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나비는 미래의 네 모습일 수도 있단다, sooSoo가 말하는 'BUGSLIFE... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12953&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12953&amp;pg=1</guid>
+            <pubDate>Wed, 08 Mar 2023 03:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12953/Mgz_Main_List_20230308101656.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[유주 (YUJU) 두 번째 미니 앨범 [O] 발매 비하인드 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12950&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12950&amp;pg=1</guid>
@@ -247,14 +255,6 @@
             <pubDate>Mon, 06 Mar 2023 10:14:20 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12942/Mgz_Main_List_20230306152357.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[OST PICK! ＃64 - 보다 더 현실감 있게, 히로미가 완성한 [BLUE... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=12947&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=12947&amp;pg=1</guid>
-            <pubDate>Mon, 06 Mar 2023 04:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[OST PICK]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12947/Mgz_Main_List_20230306114711.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #133 : 
@@ -369,7 +369,7 @@ Love or Die (VIBE ─ 매거진)]]></title>
 스크릴렉스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 08 Mar 2023 02:51:29 GMT</pubDate>
+            <pubDate>Wed, 08 Mar 2023 03:20:51 GMT</pubDate>
             <content:encoded><![CDATA[EDM과 팝 음악계에 막대한 영향을 끼친 뮤지션, 스크릴렉스가 9년 만의 정규 앨범을 발표했다. 그러나 놀라운 건 이뿐만이 아니다. 새 앨범 발표 바로 다음날, 한 장의 앨범을 더 공개한 것. 두 앨범의 공개 방식은 물론, 듣는 이를 압도하는 엄청난 퀄리티는 팬들에게 행복한 충격을 안겼다. 이 주의 디깅은 이런 ‘행복한 충격’과 함께 시작해 본다. –파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230307_108/1678151473685iDJOe_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
