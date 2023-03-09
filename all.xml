@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 05:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 06:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ Love or Die (VIBE ─ 매거진)]]></title>
 솔로라는 새로운 시작 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 09 Mar 2023 05:12:43 GMT</pubDate>
+            <pubDate>Thu, 09 Mar 2023 06:18:17 GMT</pubDate>
             <content:encoded><![CDATA[워너원을 거쳐, AB6IX로, 이번에는 솔로 아티스트로 박우진이 다시 한번 새로워진다. 지난 다양한 활동에서 보여준 그의 다양한 매력과 재능을 넘어, 솔로 앨범에서 또 다른 변화와 가능성을 내보이는 그에게 새 앨범에 대해 물었다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230308_137/1678237537494s7xoU_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오브제가 되는  사운드 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[소리, 형태 모두 갓벽]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/595218d26b594ebaa12478f30939b3d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보석보다  영롱해 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ Love or Die (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[감각적인 파리의 갤러리]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0c8da0f135a24069ae535a9d07ec5a7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맥꾸를 시작해 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[마음대로 꾸며 보는 에어팟 맥스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/52d7eceb0b3d40a4a985b3d335ab19ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

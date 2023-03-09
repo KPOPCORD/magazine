@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 05:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 06:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오브제가 되는  사운드]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[소리, 형태 모두 갓벽]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/595218d26b594ebaa12478f30939b3d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보석보다  영롱해]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[감각적인 파리의 갤러리]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0c8da0f135a24069ae535a9d07ec5a7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맥꾸를 시작해]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[마음대로 꾸며 보는 에어팟 맥스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/52d7eceb0b3d40a4a985b3d335ab19ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
