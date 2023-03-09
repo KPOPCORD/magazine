@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 03:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 04:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보석보다  영롱해]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[장인 정신이 빛나는 수제 캔디 숍 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/53c839a1f1a9419c98e3dc70ccf36f84.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄기운이  좋아]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[마음대로 꾸며 보는 에어팟 맥스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/52d7eceb0b3d40a4a985b3d335ab19ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸어서  만화 속으로]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[가보고 싶은 일본 만화 속 그곳 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/149280f8fa8444f5ab5f424736b4d5cc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
