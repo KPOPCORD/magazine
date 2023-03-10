@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 07:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 08:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ Love or Die (VIBE ─ 매거진)]]></title>
 솔로라는 새로운 시작 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 10 Mar 2023 07:12:50 GMT</pubDate>
+            <pubDate>Fri, 10 Mar 2023 08:16:55 GMT</pubDate>
             <content:encoded><![CDATA[워너원을 거쳐, AB6IX로, 이번에는 솔로 아티스트로 박우진이 다시 한번 새로워진다. 지난 다양한 활동에서 보여준 그의 다양한 매력과 재능을 넘어, 솔로 앨범에서 또 다른 변화와 가능성을 내보이는 그에게 새 앨범에 대해 물었다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230308_137/1678237537494s7xoU_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[입안 가득 봄 향기 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리 그린하우스 봄 유로피언 코스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1c1eedbbc7054f849f49892aa1cb7224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영감의 도시  Paris #3 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ Love or Die (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 델리, 배민 포장 서비스 오픈]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/09f4ad175af84c7b86e04866654791e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시대를 초월한  명반 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 15 Jan 2023 23:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 3월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a1f9a58074fe47cb8c78a193e7e9c91a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
