@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 03:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 04:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찬란하고도 날카로운 터치]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[3월의 디자이너 Marianne Brandt]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7cbd54f2187e4f48a18cac5fa3b3a7c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3D 프린터,  어디까지 출력했니]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[장인 정신이 빛나는 수제 캔디 숍 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/748f6a1951774ba696a08093d7a7dafc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄기운이  좋아]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[3월 현대카드 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a0c0c8eaf45a4caba819d7e6ce2419de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
