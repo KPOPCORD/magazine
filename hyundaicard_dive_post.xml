@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 06:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 07:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Band]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[V&amp;P 3월 Monthly Special]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4f2e8983383143e7810c50cd39868407.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올봄, 미술관에도 갈게요]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[파리의 보물 같은 음악 공간과 카페]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6631255dcb01413391fe82c9d4511640.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반가운  새 알람]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 3월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a0331dfe67004cf9b859cf587711bd80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
