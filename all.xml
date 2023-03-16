@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 08:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 09:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Brick(브릭), [PIT A PAT] 발매 기념 인터뷰 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12979&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12979&amp;pg=1</guid>
+            <pubDate>Thu, 16 Mar 2023 09:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12979/Mgz_Main_List_20230316140114.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[오로지 연주만이 할 수 있는 일 - 라파우 블레하츠의 쇼팽 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12978&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12978&amp;pg=1</guid>
@@ -246,14 +254,6 @@
             <pubDate>Tue, 14 Mar 2023 09:14:42 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12970/Mgz_Main_List_20230314164359.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[순간의 장면을 담는 싱어송라이터 연관형 [사랑을 느끼곤 해] 발매 인터뷰 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12966&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12966&amp;pg=1</guid>
-            <pubDate>Tue, 14 Mar 2023 09:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12966/Mgz_Main_List_20230314150809.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[3월의 느낌, 
@@ -368,9 +368,17 @@ Love or Die (VIBE ─ 매거진)]]></title>
 트와이스, 마일리 사이러스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 16 Mar 2023 08:20:37 GMT</pubDate>
+            <pubDate>Thu, 16 Mar 2023 09:13:11 GMT</pubDate>
             <content:encoded><![CDATA[새로운 미니 앨범으로 컴백한 트와이스, 빌보드를 휩쓸고 있는 마일리 사이러스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230313_204/1678695463522GQzAJ_PNG/%C6%AE%BF%CD%C0%CC%BD%BA_%C0%A5.png?type=w840" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[군대 얘기가  꿀잼일 줄이야 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[남녀노소 다 재미있는 군대 콘텐츠 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b4ea94c2528b440fa7ba20a6899a4044.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맛의  소용돌이 (현대카드 DIVE ─ POST)]]></title>
@@ -435,14 +443,6 @@ Love or Die (VIBE ─ 매거진)]]></title>
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[비바 마젠타 시대의 스타일 공식]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/955416ffc7a7492fb31dea1abdcf7b87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영감의 도시  Paris #4 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[맛의 본고장 파리의 파인다이닝]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/55d863edc2ee4f3297f5c3e16ed40c61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
