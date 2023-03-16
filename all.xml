@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 07:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 08:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2023년 3월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/U1N30DSU5SN422PBV0KB?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/U1N30DSU5SN422PBV0KB?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 16 Mar 2023 08:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[msftz (미스피츠) - 그대와 만나는, 기다리던 봄 [초록숲] 비하인드 컷 & 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/X4BR6F7UU9L1SBXCK49H?&amp;wl_ref=list_sp_01_h</link>
@@ -185,14 +192,6 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[젬스톤 - '흔한 이별 (2022)' 녹음 현장 & 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/K7FHFZJSJRZPMHWJNJPH?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/K7FHFZJSJRZPMHWJNJPH?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 15 Mar 2023 04:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/K7FHFZJSJRZPMHWJNJPH/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오로지 연주만이 할 수 있는 일 - 라파우 블레하츠의 쇼팽 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12978&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12978&amp;pg=1</guid>
@@ -369,7 +368,7 @@ Love or Die (VIBE ─ 매거진)]]></title>
 트와이스, 마일리 사이러스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 16 Mar 2023 07:12:39 GMT</pubDate>
+            <pubDate>Thu, 16 Mar 2023 08:20:37 GMT</pubDate>
             <content:encoded><![CDATA[새로운 미니 앨범으로 컴백한 트와이스, 빌보드를 휩쓸고 있는 마일리 사이러스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230313_204/1678695463522GQzAJ_PNG/%C6%AE%BF%CD%C0%CC%BD%BA_%C0%A5.png?type=w840" length="0" type="image/png"/>
         </item>

@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 07:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 08:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2023년 3월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/U1N30DSU5SN422PBV0KB?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/U1N30DSU5SN422PBV0KB?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 16 Mar 2023 08:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[msftz (미스피츠) - 그대와 만나는, 기다리던 봄 [초록숲] 비하인드 컷 & 발매 기념 인터뷰]]></title>
             <link>https://music.bugs.co.kr/musicpost/X4BR6F7UU9L1SBXCK49H?&amp;wl_ref=list_sp_01_h</link>
@@ -183,14 +190,6 @@
             <guid>https://music.bugs.co.kr/musicpost/CN7DX0Y6OS9IJO8DH90R?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Wed, 15 Mar 2023 04:14:52 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[젬스톤 - '흔한 이별 (2022)' 녹음 현장 & 발매 기념 인터뷰]]></title>
-            <link>https://music.bugs.co.kr/musicpost/K7FHFZJSJRZPMHWJNJPH?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/K7FHFZJSJRZPMHWJNJPH?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 15 Mar 2023 04:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/K7FHFZJSJRZPMHWJNJPH/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
