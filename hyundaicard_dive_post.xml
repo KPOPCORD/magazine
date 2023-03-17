@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 05:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 06:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부유하는 이미지]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[가장 동시대적 미감, 노상호]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/626dad0bc16645969989c61dbc5bcaea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[날 따라 해 봐요 참 쉽죠?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 3월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4f2e8983383143e7810c50cd39868407.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올봄, 미술관에도 갈게요]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[영감을 자극할 새로운 전시 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bd3c92b0049d49dd8ed91602e1e7f86a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
