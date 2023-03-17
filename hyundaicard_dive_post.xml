@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 09:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 10:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[물리학으로 바라본 키네틱 아트]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[DRIFT 전시 토크 with 김상욱 교수]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b5a33c5c1bd64267b22fedebfa4429cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부유하는 이미지]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리의 테마 북 컬렉션 3]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d5684895d43b40c89f8735866003a605.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Band]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 3월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4f2e8983383143e7810c50cd39868407.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
