@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 03:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 04:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,9 +368,17 @@ Love or Die (VIBE ─ 매거진)]]></title>
 트와이스, 마일리 사이러스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 18 Mar 2023 03:12:56 GMT</pubDate>
+            <pubDate>Sat, 18 Mar 2023 04:15:24 GMT</pubDate>
             <content:encoded><![CDATA[새로운 미니 앨범으로 컴백한 트와이스, 빌보드를 휩쓸고 있는 마일리 사이러스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230313_204/1678695463522GQzAJ_PNG/%C6%AE%BF%CD%C0%CC%BD%BA_%C0%A5.png?type=w840" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[과몰입 금지 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브 사내뷰공업 김소정 PD 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81bb1fc6d9944d6780376af68582d882.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[물리학으로 바라본 키네틱 아트 (현대카드 DIVE ─ POST)]]></title>
@@ -435,14 +443,6 @@ Love or Die (VIBE ─ 매거진)]]></title>
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[파리의 로컬 브랜드와 스몰 숍]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/113cda380a604d2a9ddcf35e87071621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[익숙하고도 낯선 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리의 테마 북 컬렉션 3]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d5684895d43b40c89f8735866003a605.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
