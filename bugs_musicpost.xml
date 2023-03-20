@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 08:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 09:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 68.Sabrina Carpenter - 'Nonsense']]></title>
+            <link>https://music.bugs.co.kr/musicpost/LXE8L2WSEUBADJ4F99OP?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/LXE8L2WSEUBADJ4F99OP?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 20 Mar 2023 09:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2023년 3월 노래 모음!]]></title>
             <link>https://music.bugs.co.kr/musicpost/U1N30DSU5SN422PBV0KB?&amp;wl_ref=list_sp_01_h</link>
@@ -183,13 +190,6 @@
             <pubDate>Thu, 16 Mar 2023 17:11:27 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7NZB6CG53I8LMIX6O48U/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝송으로 배우는 영어! 64.Taylor Swift - 'Anti-Hero']]></title>
-            <link>https://music.bugs.co.kr/musicpost/CN7DX0Y6OS9IJO8DH90R?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/CN7DX0Y6OS9IJO8DH90R?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 16 Mar 2023 17:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
