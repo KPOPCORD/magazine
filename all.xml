@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 08:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 09:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,9 +368,17 @@ Love or Die (VIBE ─ 매거진)]]></title>
 코드쿤스트 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 22 Mar 2023 08:15:47 GMT</pubDate>
+            <pubDate>Wed, 22 Mar 2023 09:12:08 GMT</pubDate>
             <content:encoded><![CDATA[최근 들어 한국 음악계에서는 프로듀서의 존재가 부각되고 있다. 이 중에서도 코드쿤스트는 탄탄한 음악 실력은 물론, 남다른 예능감을 뽐내며 다양한 매체에 출연하고 있다. 이런 그가 어느덧 다섯 번째 정규 앨범을 발표했다. 이 주의 디깅에서는 새 앨범을 들고 돌아온 코드쿤스트와 함께 개성 뚜렷한 한국의 프로듀서들을 소개하고자 한다. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230321_166/1679364350022iq6Nu_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[지하철 타고 일본 여행 가자 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국의 일본 감성 핫 플레이스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ed7120a79b024fb0a91bed48585cb166.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올모스트홈 스테이  강진 (현대카드 DIVE ─ POST)]]></title>
@@ -435,14 +443,6 @@ Love or Die (VIBE ─ 매거진)]]></title>
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[루이 비통의 남자, 퍼렐 윌리엄스 다시 듣기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/452389a0057446afa4d73dc8acfc610a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과몰입 금지 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브 사내뷰공업 김소정 PD 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81bb1fc6d9944d6780376af68582d882.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
