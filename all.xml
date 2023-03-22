@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 02:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 03:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7NZB6CG53I8LMIX6O48U/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[PYMEL (파이멜) [Sixth Sense] MV & 자켓 촬영 현장 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13000&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13000&amp;pg=1</guid>
+            <pubDate>Wed, 22 Mar 2023 03:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13000/Mgz_Main_List_20230322101939.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[음악으로 만난 미국 친구들 – 유자 왕의 ＜The American Projec... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12996&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=12996&amp;pg=1</guid>
@@ -246,14 +254,6 @@
             <pubDate>Tue, 21 Mar 2023 20:13:01 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12989/Mgz_Main_List_20230320154122.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[지난 추억 그리고 그리움을 담다 ‘김재환’의 Single Album [봄바람] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12987&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12987&amp;pg=1</guid>
-            <pubDate>Tue, 21 Mar 2023 20:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12987/Mgz_Main_List_20230317170249.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #135 : 
@@ -368,7 +368,7 @@ Love or Die (VIBE ─ 매거진)]]></title>
 코드쿤스트 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 22 Mar 2023 02:06:48 GMT</pubDate>
+            <pubDate>Wed, 22 Mar 2023 03:12:34 GMT</pubDate>
             <content:encoded><![CDATA[최근 들어 한국 음악계에서는 프로듀서의 존재가 부각되고 있다. 이 중에서도 코드쿤스트는 탄탄한 음악 실력은 물론, 남다른 예능감을 뽐내며 다양한 매체에 출연하고 있다. 이런 그가 어느덧 다섯 번째 정규 앨범을 발표했다. 이 주의 디깅에서는 새 앨범을 들고 돌아온 코드쿤스트와 함께 개성 뚜렷한 한국의 프로듀서들을 소개하고자 한다. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230321_166/1679364350022iq6Nu_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
         </item>
@@ -386,7 +386,7 @@ Love or Die (VIBE ─ 매거진)]]></title>
             <guid>javascript:;</guid>
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[Apple Pay 사용법 하나부터 열까지]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/23c980c752854698aad0d2b9342f357c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fbcba3690ed34052ba3c64a1a241e50c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마우리치오 카텔란의 다큐멘터리 (현대카드 DIVE ─ POST)]]></title>
