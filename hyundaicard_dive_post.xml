@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 06:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 07:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올모스트홈 스테이  강진]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 '힐링 스팟']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/06d9e32f7624437195b81b32a70dd284.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 바로  이슈메이커]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[유튜브 사내뷰공업 김소정 PD 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81bb1fc6d9944d6780376af68582d882.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물리학으로 바라본 키네틱 아트]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[DRIFT 전시 토크 with 김상욱 교수]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b5a33c5c1bd64267b22fedebfa4429cc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
