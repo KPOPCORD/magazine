@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 04:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 05:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 바로  이슈메이커]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[Artist Inside: 샘 스미스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7658670b6cc84238866e14e8160530f8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청주에 온 걸  환영해]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[DRIFT 전시 토크 with 김상욱 교수]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b5a33c5c1bd64267b22fedebfa4429cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부유하는 이미지]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[가장 동시대적 미감, 노상호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/626dad0bc16645969989c61dbc5bcaea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
