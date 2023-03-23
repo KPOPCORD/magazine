@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 02:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 03:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CRAXY(크랙시) - 미니앨범 [XX] 제작 비하인드와 멤버들의 솔직한 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/4SOKYKLZULS9CBG1FXUG?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/4SOKYKLZULS9CBG1FXUG?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 23 Mar 2023 03:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/4SOKYKLZULS9CBG1FXUG/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 68.Sabrina Carpenter - 'Nonsense']]></title>
             <link>https://music.bugs.co.kr/musicpost/LXE8L2WSEUBADJ4F99OP?&amp;wl_ref=list_sp_01_h</link>
@@ -182,14 +190,6 @@
             <pubDate>Wed, 22 Mar 2023 14:11:02 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/083WXQV5RXHYRJB7ZB9I/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 픽스 (THE FIX) - 데뷔 싱글 [RUSH] 자켓 촬영 현장]]></title>
-            <link>https://music.bugs.co.kr/musicpost/7NZB6CG53I8LMIX6O48U?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/7NZB6CG53I8LMIX6O48U?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 22 Mar 2023 14:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7NZB6CG53I8LMIX6O48U/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 02:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 03:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CRAXY(크랙시) - 미니앨범 [XX] 제작 비하인드와 멤버들의 솔직한 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/4SOKYKLZULS9CBG1FXUG?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/4SOKYKLZULS9CBG1FXUG?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 23 Mar 2023 03:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/4SOKYKLZULS9CBG1FXUG/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 68.Sabrina Carpenter - 'Nonsense' (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/LXE8L2WSEUBADJ4F99OP?&amp;wl_ref=list_sp_01_h</link>
@@ -184,12 +192,36 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/083WXQV5RXHYRJB7ZB9I/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더 픽스 (THE FIX) - 데뷔 싱글 [RUSH] 자켓 촬영 현장 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/7NZB6CG53I8LMIX6O48U?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/7NZB6CG53I8LMIX6O48U?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 22 Mar 2023 14:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7NZB6CG53I8LMIX6O48U/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[힙합 따라잡기 ＃64 - 4인 4색, 프로듀서의 앨범 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13006&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13006&amp;pg=1</guid>
+            <pubDate>Thu, 23 Mar 2023 03:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13006/Mgz_Main_List_20230323120327.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[모두를 위한 클래식 – 서울시향의 ‘아주 특별한 콘서트’ (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13002&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13002&amp;pg=1</guid>
+            <pubDate>Thu, 23 Mar 2023 03:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13002/Mgz_Main_List_20230323105516.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어송라이터 범진의 ‘축하해’ 앨범 작업기 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13001&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13001&amp;pg=1</guid>
+            <pubDate>Thu, 23 Mar 2023 03:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13001/Mgz_Main_List_20230323103747.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[올드 잉글리쉬 쉽독 싱글 [유미] 합주실 인터뷰 현장 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12998&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12998&amp;pg=1</guid>
+            <pubDate>Thu, 23 Mar 2023 03:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12998/Mgz_Main_List_20230322100555.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[PYMEL (파이멜) [Sixth Sense] MV & 자켓 촬영 현장 (지니 ─ 매거진)]]></title>
@@ -222,38 +254,6 @@
             <pubDate>Tue, 21 Mar 2023 20:13:01 GMT</pubDate>
             <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12993/Mgz_Main_List_20230320172948.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[강허달림 [LOVE] 작업기 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12990&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12990&amp;pg=1</guid>
-            <pubDate>Tue, 21 Mar 2023 20:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12990/Mgz_Main_List_20230321091654.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[베이비블루(BABY BLUE) ‘웃어줄래’ 라이브 클립 촬영 현장! (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12981&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12981&amp;pg=1</guid>
-            <pubDate>Tue, 21 Mar 2023 20:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12981/Mgz_Main_List_20230321120028.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[NMIXX [expérgo] 트레일러 & ‘Love Me Like This’ ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12992&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12992&amp;pg=1</guid>
-            <pubDate>Tue, 21 Mar 2023 20:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12992/Mgz_Main_List_20230320154303.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[선물 같은 앨범, 가호 2nd 미니 앨범 [Diamond] 재킷 촬영 현장 비... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12989&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12989&amp;pg=1</guid>
-            <pubDate>Tue, 21 Mar 2023 20:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12989/Mgz_Main_List_20230320154122.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #135 : 
@@ -368,7 +368,7 @@ Love or Die (VIBE ─ 매거진)]]></title>
 코드쿤스트 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 23 Mar 2023 02:06:51 GMT</pubDate>
+            <pubDate>Thu, 23 Mar 2023 03:12:33 GMT</pubDate>
             <content:encoded><![CDATA[최근 들어 한국 음악계에서는 프로듀서의 존재가 부각되고 있다. 이 중에서도 코드쿤스트는 탄탄한 음악 실력은 물론, 남다른 예능감을 뽐내며 다양한 매체에 출연하고 있다. 이런 그가 어느덧 다섯 번째 정규 앨범을 발표했다. 이 주의 디깅에서는 새 앨범을 들고 돌아온 코드쿤스트와 함께 개성 뚜렷한 한국의 프로듀서들을 소개하고자 한다. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230321_166/1679364350022iq6Nu_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
         </item>
