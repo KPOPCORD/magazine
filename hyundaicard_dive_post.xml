@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 08:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 09:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대카드  Curated 83 원슈타인]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[장르를 초월한 재능과 감각, 원슈타인]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b65df0c458ff42ed8c75ef2f9042b7cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공간에  위트 한 점]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 04]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a37f3d64356643ae9b8151c8feaf857e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오운완을 위하여]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[신박한 데일리 운동 아이템 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/31ae2b4694a5433e86e90bb8e7989f69.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
