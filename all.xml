@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 04:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 05:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,9 +368,17 @@ Love or Die (VIBE ─ 매거진)]]></title>
 코드쿤스트 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 23 Mar 2023 04:14:27 GMT</pubDate>
+            <pubDate>Thu, 23 Mar 2023 05:12:43 GMT</pubDate>
             <content:encoded><![CDATA[최근 들어 한국 음악계에서는 프로듀서의 존재가 부각되고 있다. 이 중에서도 코드쿤스트는 탄탄한 음악 실력은 물론, 남다른 예능감을 뽐내며 다양한 매체에 출연하고 있다. 이런 그가 어느덧 다섯 번째 정규 앨범을 발표했다. 이 주의 디깅에서는 새 앨범을 들고 돌아온 코드쿤스트와 함께 개성 뚜렷한 한국의 프로듀서들을 소개하고자 한다. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230321_166/1679364350022iq6Nu_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[어서  오시개 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[에어비앤비의 반려견 동반 가능 숙소 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b64b3019517d421f856a45fe4b116dd0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지하철 타고 일본 여행 가자 (현대카드 DIVE ─ POST)]]></title>
@@ -435,14 +443,6 @@ Love or Die (VIBE ─ 매거진)]]></title>
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[2023 프리츠커상 수상 건축가]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/021883d408cd43e2bb4d971c87b86fcb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼렐의 행보는  Happy (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[루이 비통의 남자, 퍼렐 윌리엄스 다시 듣기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/452389a0057446afa4d73dc8acfc610a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
