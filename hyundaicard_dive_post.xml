@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 06:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 07:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서촌  위스키 아지트]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[뭔가 다른 서촌 위스키 바 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/904f533a3ebb4b9da8f8c323988f58e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대리 만족을 원해?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;더 글로리&gt;에서 본 그곳]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a48e96bf52f9424e958723b8045b7b21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Apple Pay, 시작해 볼까?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[Apple Pay 사용법 하나부터 열까지]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fbcba3690ed34052ba3c64a1a241e50c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

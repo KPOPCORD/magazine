@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 06:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 07:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,9 +368,17 @@ Love or Die (VIBE ─ 매거진)]]></title>
 푹 빠져들 시간 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 24 Mar 2023 06:15:42 GMT</pubDate>
+            <pubDate>Fri, 24 Mar 2023 07:11:41 GMT</pubDate>
             <content:encoded><![CDATA[외적인 변화가 어떻든 오직 본질은 좋아하는 음악을 한다는 마음 하나로, 아이콘의 바비에 앞서 솔로 바비의 싱글 앨범이 나왔다. 이 활동을 시작으로, 여태껏 변함없이 쭉 지켜온 바비의 더 깊고 더 진중한 새로운 음악세계가 열린다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230323_221/1679543499152xfzWv_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서촌  위스키 아지트 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[뭔가 다른 서촌 위스키 바 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/904f533a3ebb4b9da8f8c323988f58e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대리 만족을 원해? (현대카드 DIVE ─ POST)]]></title>
@@ -435,14 +443,6 @@ Love or Die (VIBE ─ 매거진)]]></title>
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;더 글로리&gt;에서 본 그곳]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a48e96bf52f9424e958723b8045b7b21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Apple Pay, 시작해 볼까? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[Apple Pay 사용법 하나부터 열까지]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fbcba3690ed34052ba3c64a1a241e50c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
