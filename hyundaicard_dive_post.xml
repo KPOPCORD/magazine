@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 04:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 05:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대리 만족을 원해?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[상상을 현실로 구현한 대리 만족 룩 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b9a6aad6d58f410889b0a55aae6d6d97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대카드  Curated 83 원슈타인]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[Apple Pay 사용법 하나부터 열까지]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fbcba3690ed34052ba3c64a1a241e50c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마우리치오 카텔란의 다큐멘터리]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 04]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a37f3d64356643ae9b8151c8feaf857e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
