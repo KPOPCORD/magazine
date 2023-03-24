@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 09:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 10:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘라내면 끝날 사랑에 대하여, 음성녹음 (音聲錄音) - 날카롭냐하는데]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13004&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13004&amp;pg=1</guid>
+            <pubDate>Fri, 24 Mar 2023 10:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13004/Mgz_Main_List_20230324095541.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[지니 컬러 동향 ＃63 – 2023.03.04 ~ 03.17 발매작]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=13013&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Mar 2023 09:11:46 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12999/Mgz_Main_List_20230323143426.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[ICHILLIN’(아이칠린) 'Alarm (알람)' 뮤직비디오 촬영 비하인드]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12995&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12995&amp;pg=1</guid>
-            <pubDate>Thu, 23 Mar 2023 09:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12995/Mgz_Main_List_20230323121409.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>

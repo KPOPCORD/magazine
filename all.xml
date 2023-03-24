@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 09:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 10:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/083WXQV5RXHYRJB7ZB9I/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[잘라내면 끝날 사랑에 대하여, 음성녹음 (音聲錄音) - 날카롭냐하는데 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13004&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13004&amp;pg=1</guid>
+            <pubDate>Fri, 24 Mar 2023 10:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13004/Mgz_Main_List_20230324095541.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[지니 컬러 동향 ＃63 – 2023.03.04 ~ 03.17 발매작 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=13013&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=33&amp;mgz_seq=13013&amp;pg=1</guid>
@@ -246,14 +254,6 @@
             <pubDate>Thu, 23 Mar 2023 09:11:46 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12999/Mgz_Main_List_20230323143426.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[ICHILLIN’(아이칠린) 'Alarm (알람)' 뮤직비디오 촬영 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12995&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=12995&amp;pg=1</guid>
-            <pubDate>Thu, 23 Mar 2023 09:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/12995/Mgz_Main_List_20230323121409.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[다시 한번 Bobby에게 
@@ -368,7 +368,7 @@ Love or Die (VIBE ─ 매거진)]]></title>
 바비 칼드웰 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 24 Mar 2023 09:13:35 GMT</pubDate>
+            <pubDate>Fri, 24 Mar 2023 10:13:09 GMT</pubDate>
             <content:encoded><![CDATA[바비 칼드웰이 미국 시각으로 지난 3월 14일 세상을 떠났다. 그는 리틀 리차드의 밴드에서 커리어를 시작해 향후 디스코 시대를 대표하는 레이블인 T.K 레코드의 전신에서 솔로 앨범을 발표해 왔다. 이런 그가 남긴 음악들은 후대의 힙합 뮤지션들에게 재해석되어 생명력을 얻었다. 바비 칼드웰의 노래를 샘플링하거나 커버한 후배 음악가를 확인해 보자. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230324_254/167963769126809CSb_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
