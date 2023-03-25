@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 03:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 04:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[군항제만  볼 거야?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[진해에서 꼭 가 봐야 할 곳 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/de13d810cfb743318e5def3501c14610.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대카드  Curated 84 SMMT]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[전은경의 '힐링 스팟']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/06d9e32f7624437195b81b32a70dd284.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 바로  이슈메이커]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[Artist Inside: 샘 스미스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7658670b6cc84238866e14e8160530f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
