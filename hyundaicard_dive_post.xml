@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 03:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 04:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잃어버린 신발을 찾아서]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[만화에서 튀어나온 슈즈 모음ZIP]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f3d45641e1de4297b76b298bd04cdd08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[군항제만  볼 거야?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[한국의 일본 감성 핫 플레이스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ed7120a79b024fb0a91bed48585cb166.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올모스트홈 스테이  강진]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[전은경의 '힐링 스팟']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/06d9e32f7624437195b81b32a70dd284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
