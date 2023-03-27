@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 02:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 03:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황치열 - '야오키 프로젝트'의 세 번째 곡 '그런 사랑은 없어' 현장 비하인드 공개!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/ZENAXVCQQYLZMK8KKCXT?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/ZENAXVCQQYLZMK8KKCXT?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 27 Mar 2023 03:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ZENAXVCQQYLZMK8KKCXT/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CRAXY(크랙시) - 미니앨범 [XX] 제작 비하인드와 멤버들의 솔직한 인터뷰]]></title>
             <link>https://music.bugs.co.kr/musicpost/4SOKYKLZULS9CBG1FXUG?&amp;wl_ref=list_sp_01_h</link>
@@ -182,14 +190,6 @@
             <pubDate>Wed, 22 Mar 2023 14:11:02 GMT</pubDate>
             <content:encoded><![CDATA[공연/페스티벌]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/DV2I7T8157ZNR3RC7CUR/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최혜빈 - 올 겨울, 모든 이의 마음속에 따듯하게 저장될 최혜빈의 캐롤 [겨울]]]></title>
-            <link>https://music.bugs.co.kr/musicpost/083WXQV5RXHYRJB7ZB9I?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/083WXQV5RXHYRJB7ZB9I?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 22 Mar 2023 14:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/083WXQV5RXHYRJB7ZB9I/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
