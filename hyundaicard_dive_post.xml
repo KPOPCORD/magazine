@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 07:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 08:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키링의 묘미]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[지금 가장 트렌디한 인형 키링 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8edd9042c2934ebd9ac67317fb7642df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손민수 Curated 05 김홍기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[뭔가 다른 서촌 위스키 바 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/904f533a3ebb4b9da8f8c323988f58e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대리 만족을 원해?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[상상을 현실로 구현한 대리 만족 룩 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b9a6aad6d58f410889b0a55aae6d6d97.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
