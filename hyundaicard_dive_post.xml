@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 03:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 04:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[익산 춘포도정공장]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 '시티 서치']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/32b842b505cb4b6e8e7e78ffbdaa066a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[키링의 묘미]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[힙합 신의 슈퍼 루키 프로듀서, SMMT]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9acea20e54ba4b4dbd4cd3f9285965ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서촌  위스키 아지트]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[뭔가 다른 서촌 위스키 바 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/904f533a3ebb4b9da8f8c323988f58e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
