@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 06:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 07:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[챗GPT만  있는 건  아니야]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[본격 AI 시대를 알리는 서비스 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/79d4813167d24f1497831594503701dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[익산 춘포도정공장]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[진해에서 꼭 가 봐야 할 곳 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/de13d810cfb743318e5def3501c14610.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드  Curated 84 SMMT]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[힙합 신의 슈퍼 루키 프로듀서, SMMT]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9acea20e54ba4b4dbd4cd3f9285965ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
