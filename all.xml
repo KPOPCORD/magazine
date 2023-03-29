@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 02:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 03:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이정권 - 무럭무럭 성장 중인 싱어송라이터 이정권의 EP 앨범 라이브 클립 제작기! (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/GFD2Y2X2VF3K5CWDBUIX?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/GFD2Y2X2VF3K5CWDBUIX?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 29 Mar 2023 03:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GFD2Y2X2VF3K5CWDBUIX/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[황치열 - '야오키 프로젝트'의 세 번째 곡 '그런 사랑은 없어' 현장 비하인드 공개! (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/ZENAXVCQQYLZMK8KKCXT?&amp;wl_ref=list_sp_01_h</link>
@@ -184,15 +192,23 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/P5NY3DOMA6JEL9PNHM1W/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공연 초대 - 2022 THE CRY X-MAS (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/DV2I7T8157ZNR3RC7CUR?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/DV2I7T8157ZNR3RC7CUR?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 22 Mar 2023 14:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[공연/페스티벌]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/DV2I7T8157ZNR3RC7CUR/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[재즈덩크 ＃55 - ‘다시 스윙의 시대가 돌아오고 있다’, 재즈 피아니스트 '... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13021&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13021&amp;pg=1</guid>
+            <pubDate>Wed, 29 Mar 2023 03:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13021/Mgz_Main_List_20230329114756.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[Billlie (빌리) 미니 4집 [the Billage of percepti... (지니 ─ 매거진)]]></title>
+            <title><![CDATA[인정받은 보컬리스트에서 차세대 포크 싱어송라이터로! 연어장인 이정권의 EP 앨... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13020&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13020&amp;pg=1</guid>
+            <pubDate>Wed, 29 Mar 2023 03:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13020/Mgz_Main_List_20230328153122.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[Billlie (빌리) [the Billage of perception: ch... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13017&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13017&amp;pg=1</guid>
             <pubDate>Tue, 28 Mar 2023 09:15:05 GMT</pubDate>
@@ -200,7 +216,7 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13017/Mgz_Main_List_20230327162501.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[함부로 맛보다간 빠져! 뱀뱀 (BamBam)의 [Sour & Sweet] 자켓... (지니 ─ 매거진)]]></title>
+            <title><![CDATA[함부로 맛보다간 빠져! 뱀뱀 (BamBam) [Sour & Sweet] 자켓 ... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13011&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13011&amp;pg=1</guid>
             <pubDate>Tue, 28 Mar 2023 09:15:05 GMT</pubDate>
@@ -240,27 +256,11 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13014/Mgz_Main_List_20230327115532.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[박수범의 판소리 세계화 [적벽대전] MV 촬영 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13010&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13010&amp;pg=1</guid>
-            <pubDate>Mon, 27 Mar 2023 09:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13010/Mgz_Main_List_20230327102816.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민이 발표한 첫 번째 공식 솔로 앨범 [FACE] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13012&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13012&amp;pg=1</guid>
-            <pubDate>Mon, 27 Mar 2023 04:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13012/Mgz_Main_List_20230327092136.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[RM이 함께 했어 : 
 이이언, 에픽하이 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 29 Mar 2023 02:22:00 GMT</pubDate>
+            <pubDate>Wed, 29 Mar 2023 03:12:22 GMT</pubDate>
             <content:encoded><![CDATA['젊음, 완벽함에 대한 숭배와 열광은 한국의 문화적 특성인가?'라는 질문에 RM은 '한국은 70년 전만 해도 IMF와 유엔의 도움을 받던 나라다. 지금 한국을 주목하는 건 열심히 노력했기 때문이다. '라고 답했다. RM을 좋아하는 이유는 현명하기 때문일 거다. 또한 한국의 음악을 세계에 알리고 있기도 하다. 그가 함께한 음악가는 누가 있을까? -하박국]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230328_120/1679993639910TStmw_PNG/%B8%DE%C0%CE%C0%CC%B9%CC%C1%F6.png?type=w840" length="0" type="image/png"/>
         </item>
