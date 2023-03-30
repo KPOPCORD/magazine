@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 04:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 05:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여기가 핫해 핫해]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[발 빠르게 접수해야 할 신상 카페 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dc888caf6d0d4c6385bdc9ab901bd9a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[챗GPT만  있는 건  아니야]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[만화에서 튀어나온 슈즈 모음ZIP]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f3d45641e1de4297b76b298bd04cdd08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[군항제만  볼 거야?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[진해에서 꼭 가 봐야 할 곳 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/de13d810cfb743318e5def3501c14610.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
