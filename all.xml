@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 06:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 07:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,9 +260,17 @@
 시온의 취향 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 30 Mar 2023 06:15:35 GMT</pubDate>
+            <pubDate>Thu, 30 Mar 2023 07:11:30 GMT</pubDate>
             <content:encoded><![CDATA[새 EP 앨범 ‘Live’로 돌아온 싱어송라이터 겸 프로듀서 시온. 음악 팬들이라면 다 알만한 잔잔하되 파급력 있는 뮤지션, 새로운 동시에 클래식하기에 많은 미디어와 전문가들에게 주목받고 있는 뮤지션, 하지만 시온은 아무것도 의도하지 않았다. 그저 가장 자기다운 목소리로 자신의 ‘라이브'한 이야기를 꺼낼 뿐.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230329_278/1680060419606k1qyi_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄의 향기 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[코끝을 간질이는 봄 향기 아이템 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8af741bf92084672b255d39afd866d61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여기가 핫해 핫해 (현대카드 DIVE ─ POST)]]></title>
@@ -327,14 +335,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[눈 호강 보장하는 전국 봄꽃 축제 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/356adbdbbd2a4c54a4139281fe2ad53e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잃어버린 신발을 찾아서 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[만화에서 튀어나온 슈즈 모음ZIP]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f3d45641e1de4297b76b298bd04cdd08.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

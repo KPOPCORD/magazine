@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 06:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 07:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄의 향기]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[코끝을 간질이는 봄 향기 아이템 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8af741bf92084672b255d39afd866d61.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여기가 핫해 핫해]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[눈 호강 보장하는 전국 봄꽃 축제 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/356adbdbbd2a4c54a4139281fe2ad53e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잃어버린 신발을 찾아서]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[만화에서 튀어나온 슈즈 모음ZIP]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f3d45641e1de4297b76b298bd04cdd08.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
