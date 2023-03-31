@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 03:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 04:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영감의 도시 Switzerland #1 Zurich]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[취리히, 프라이탁 그리고 도시의 지속 가능성]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c01000c0e97e4ba9b9664d109048164e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄의 향기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[2023 홍콩 아트 바젤 요점 정리]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1132010f53a24756b135c0845754b939.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄이 왔다,  축제가 시작됐다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[눈 호강 보장하는 전국 봄꽃 축제 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/356adbdbbd2a4c54a4139281fe2ad53e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
