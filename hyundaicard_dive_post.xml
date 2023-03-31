@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 05:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 06:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울트라  셀러브리티]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[거국적 유명 인사의 디자인&amp;아트 이슈]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4ad2d4041b5242dfbcc8198e00c47b72.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영감의 도시 Switzerland #1 Zurich]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[수제 막걸리&amp;페어링 쿠킹 클래스 현장]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e7c99cb4fd22448bb3d9559b4457b1d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웰컴백,  홍콩 아트 바젤!]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023 홍콩 아트 바젤 요점 정리]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1132010f53a24756b135c0845754b939.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
