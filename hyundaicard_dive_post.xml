@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 05:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 06:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프랑스식  전자음악 조리법]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[지금 핫한 프렌치 EDM 기수들]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4f9b025ca77948f7a1d9251bd1fceb60.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내공 탄탄 실력파 라인업]]></title>
             <link>javascript:;</link>
@@ -14,6 +22,22 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 쿠킹 라이브러리 4월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cdebccee5496421192a6eac5abdb7dc4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안도 다다오가 온다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[건축 거장 안도 다다오의 국내 개인전]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/32d6086dfb834206a25c03f7d9dafee8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구제주를  아시나요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[나만 아는 동네 #31 제주 원도심]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/029d6dedc90c4d79ac95b12f2c11ee3d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타일보다 아이디어]]></title>
@@ -54,30 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 4월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3a420a448f4d43e884fe95be64154081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄날의  바이닐]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 4월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/65b49bf9fc3246d78bad1a3494ca8eb4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미래에서 온  사운드]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 4월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e2e3417c42f84a4f876ecbfc5117c1e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[압구정에서  만나는  ＜TOKKI BAR＞]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 X 토끼소주 팝업 BAR]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1d7035c41e0145ae9c56565e6faf2769.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
