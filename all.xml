@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 02:31:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 03:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유다빈밴드 - 디지털 싱글 [꿈보다 더] 비하인드 스토리 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/8V1P6849Z5V94KT8DJRZ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/8V1P6849Z5V94KT8DJRZ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 03 Apr 2023 03:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/8V1P6849Z5V94KT8DJRZ/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이정권 - 무럭무럭 성장 중인 싱어송라이터 이정권의 EP 앨범 라이브 클립 제작기! (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/GFD2Y2X2VF3K5CWDBUIX?&amp;wl_ref=list_sp_01_h</link>
@@ -184,12 +192,36 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OX3ZT6CYLA4WTKEPBBDG/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레이나 [애프터스쿨] - 레이나의 힐링음악 프로젝트 '아침향기' PV 촬영 현장 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/P5NY3DOMA6JEL9PNHM1W?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/P5NY3DOMA6JEL9PNHM1W?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 22 Mar 2023 14:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/P5NY3DOMA6JEL9PNHM1W/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[매일 오고 싶은 우리동네 분위기 맛집, 마곡 〈커디〉 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13037&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13037&amp;pg=1</guid>
+            <pubDate>Mon, 03 Apr 2023 03:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13037/Mgz_Main_List_20230403102940.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[지수 (JISOO) '꽃' MV 촬영 현장 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13034&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13034&amp;pg=1</guid>
+            <pubDate>Mon, 03 Apr 2023 03:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13033/Mgz_Main_List_20230331135805.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[OST PICK! ＃65 - 갓파더 오브 할렘, 드라마는 못 봐도 음악은 들어... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=13033&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=13033&amp;pg=1</guid>
+            <pubDate>Mon, 03 Apr 2023 03:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[OST PICK]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13033/Mgz_Main_List_20230403103047.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[유다빈밴드 디지털 싱글 [꿈보다 더] 녹음 비하인드 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13031&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13031&amp;pg=1</guid>
+            <pubDate>Mon, 03 Apr 2023 03:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13031/Mgz_Main_List_20230403114236.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[내 노래를 듣고도.. 아직도 밥투정을 부린다고? 핑크퐁 [국그릇핑크퐁] (지니 ─ 매거진)]]></title>
@@ -224,43 +256,11 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13028/Mgz_Main_List_20230330162318.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[CHEEZE (치즈) <딜리버리맨> OST Part.5 ‘애쓰지 말아요’ 녹음... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13024&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13024&amp;pg=1</guid>
-            <pubDate>Thu, 30 Mar 2023 09:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13024/Mgz_Main_List_20230330143853.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[고전의 이유 – 클라우스 메켈레의 스트라빈스키 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13027&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13027&amp;pg=1</guid>
-            <pubDate>Thu, 30 Mar 2023 04:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13027/Mgz_Main_List_20230330113439.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[한강의 윤슬과 함께한 cotoba [쪽빛물색] 프로필 촬영기 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13026&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13026&amp;pg=1</guid>
-            <pubDate>Thu, 30 Mar 2023 04:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13026/Mgz_Main_List_20230330101407.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[장들레의 첫 정규앨범 [장들레입니다] 코멘터리 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13023&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13023&amp;pg=1</guid>
-            <pubDate>Thu, 30 Mar 2023 04:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13023/Mgz_Main_List_20230330103104.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[함께 만들어 보아요 : 
 DPR, 영앤리치 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 03 Apr 2023 02:31:38 GMT</pubDate>
+            <pubDate>Mon, 03 Apr 2023 03:11:51 GMT</pubDate>
             <content:encoded><![CDATA[최근 들어 한국 장르 씬에서는 협업의 미학을 발휘한 앨범이 여럿 발표되고 있다. 이런 앨범은 다양한 음악가들이 참여한 만큼 저마다의 색을 발휘하기도 하고, 이런 모든 색이 합쳐져 새로운 사운드를 들려주기도 한다. 이에 이번 기사에서는 협업의 진정한 의미가 빛난 여러 앨범을 소개하고자 한다. - 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230331_54/168024712372916wgJ_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>

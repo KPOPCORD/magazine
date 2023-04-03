@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 02:31:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 03:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유다빈밴드 - 디지털 싱글 [꿈보다 더] 비하인드 스토리]]></title>
+            <link>https://music.bugs.co.kr/musicpost/8V1P6849Z5V94KT8DJRZ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/8V1P6849Z5V94KT8DJRZ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 03 Apr 2023 03:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/8V1P6849Z5V94KT8DJRZ/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이정권 - 무럭무럭 성장 중인 싱어송라이터 이정권의 EP 앨범 라이브 클립 제작기!]]></title>
             <link>https://music.bugs.co.kr/musicpost/GFD2Y2X2VF3K5CWDBUIX?&amp;wl_ref=list_sp_01_h</link>
@@ -182,14 +190,6 @@
             <pubDate>Wed, 22 Mar 2023 14:11:02 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OX3ZT6CYLA4WTKEPBBDG/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이나 [애프터스쿨] - 레이나의 힐링음악 프로젝트 '아침향기' PV 촬영 현장]]></title>
-            <link>https://music.bugs.co.kr/musicpost/P5NY3DOMA6JEL9PNHM1W?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/P5NY3DOMA6JEL9PNHM1W?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 22 Mar 2023 14:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/P5NY3DOMA6JEL9PNHM1W/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
