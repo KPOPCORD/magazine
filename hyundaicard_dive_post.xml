@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 00:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 02:01:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e2e3417c42f84a4f876ecbfc5117c1e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[내공 탄탄 실력파 라인업]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 쿠킹 라이브러리 4월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cdebccee5496421192a6eac5abdb7dc4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[압구정에서  만나는  ＜TOKKI BAR＞]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 X 토끼소주 팝업 BAR]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1d7035c41e0145ae9c56565e6faf2769.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[울트라  셀러브리티]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[거국적 유명 인사의 디자인&amp;아트 이슈]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4ad2d4041b5242dfbcc8198e00c47b72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
