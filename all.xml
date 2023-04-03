@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 07:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 08:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,9 +260,17 @@
 DPR, 영앤리치 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 03 Apr 2023 07:11:48 GMT</pubDate>
+            <pubDate>Mon, 03 Apr 2023 08:16:23 GMT</pubDate>
             <content:encoded><![CDATA[최근 들어 한국 장르 씬에서는 협업의 미학을 발휘한 앨범이 여럿 발표되고 있다. 이런 앨범은 다양한 음악가들이 참여한 만큼 저마다의 색을 발휘하기도 하고, 이런 모든 색이 합쳐져 새로운 사운드를 들려주기도 한다. 이에 이번 기사에서는 협업의 진정한 의미가 빛난 여러 앨범을 소개하고자 한다. - 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230331_54/168024712372916wgJ_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소박하고도 풍요로운 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[올드패션 윤시후·우태인 부부의 제주 집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ee9d4892dc6c4ba8ab3695a70ab62ca8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프랑스식  전자음악 조리법 (현대카드 DIVE ─ POST)]]></title>
@@ -327,14 +335,6 @@ DPR, 영앤리치 (VIBE ─ 매거진)]]></title>
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 테마 북 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bdfbaf9f88144af9b51c71309e053536.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미디어의  명암 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 4월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3a420a448f4d43e884fe95be64154081.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

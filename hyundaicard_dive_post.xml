@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 07:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 08:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소박하고도 풍요로운]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[올드패션 윤시후·우태인 부부의 제주 집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ee9d4892dc6c4ba8ab3695a70ab62ca8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프랑스식  전자음악 조리법]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 테마 북 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bdfbaf9f88144af9b51c71309e053536.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미디어의  명암]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 4월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3a420a448f4d43e884fe95be64154081.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
