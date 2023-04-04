@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 02:05:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 03:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RADWIMPS(래드윔프스) - <스즈메의 문단속> OST의 주인공, RADWIMPS(래드윔프스)를 만나다]]></title>
+            <link>https://music.bugs.co.kr/musicpost/C0DYE88ZNYT44Q26HBKY?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/C0DYE88ZNYT44Q26HBKY?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 04 Apr 2023 03:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/C0DYE88ZNYT44Q26HBKY/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유다빈밴드 - 디지털 싱글 [꿈보다 더] 비하인드 스토리]]></title>
             <link>https://music.bugs.co.kr/musicpost/8V1P6849Z5V94KT8DJRZ?&amp;wl_ref=list_sp_01_h</link>
@@ -182,14 +190,6 @@
             <guid>https://music.bugs.co.kr/musicpost/QAR84VP1ULQ4D0NH70KO?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Wed, 22 Mar 2023 14:11:02 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모트(Motte) - 풋풋한 고백송 [좋아하나봐] 앨범 작업 비하인드 공개!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/OX3ZT6CYLA4WTKEPBBDG?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/OX3ZT6CYLA4WTKEPBBDG?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 22 Mar 2023 14:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OX3ZT6CYLA4WTKEPBBDG/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
