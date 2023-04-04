@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 06:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 07:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 입의 예술]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[아트워크에 가까운 디저트 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/06a55ee5c4d0495cb8c31bbd79a52964.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미디어의  명암]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[4월의 디자이너 Seymour Chwast]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ee035fdfe761416eb3dc4395e59bfa1d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영감 두둑한 모노그래프]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 4월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/79b1917a5fd14edeb57db0f0eba2148b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
