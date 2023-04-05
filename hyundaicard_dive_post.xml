@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 03:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 04:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[독립생활자의 방]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[살아 보고 싶은 코리빙 하우스 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4ad2ae07e9624bd08bc6b41d9769485c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유희열 Curated 20  윤석철]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[건축 거장 안도 다다오의 국내 개인전]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/32d6086dfb834206a25c03f7d9dafee8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구제주를  아시나요]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[나만 아는 동네 #31 제주 원도심]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/029d6dedc90c4d79ac95b12f2c11ee3d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
