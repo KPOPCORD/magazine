@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 05:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 06:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄날의  바이닐]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 4월의 새 음반]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/65b49bf9fc3246d78bad1a3494ca8eb4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[독립생활자의 방]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 4월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cdebccee5496421192a6eac5abdb7dc4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안도 다다오가 온다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[건축 거장 안도 다다오의 국내 개인전]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/32d6086dfb834206a25c03f7d9dafee8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
