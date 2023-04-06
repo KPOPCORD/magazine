@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 08:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 09:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[별이 쏟아지는  몽골로 가요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[몽골의 압도적 대자연 스팟 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b39cbf53f58943869715e7e9d8be78af.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코리안 힙을 찾아서]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 4월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3a420a448f4d43e884fe95be64154081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑아 지구해]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[월간 DIVE 4월 호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dedfb1b901764bab968d981815a33641.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
