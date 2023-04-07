@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 03:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 04:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에드워드 호퍼의 미국적 순간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 테마 북 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bdfbaf9f88144af9b51c71309e053536.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생명력을 불어넣는  연금술사, 드리프트]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[실험적 사운드의 재즈 뮤지션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/958f446dd20f4ecd856fc16f1dbd3367.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 입의 예술]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[아트워크에 가까운 디저트 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/06a55ee5c4d0495cb8c31bbd79a52964.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
