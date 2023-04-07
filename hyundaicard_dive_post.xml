@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 09:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 10:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱그러움 한 가득]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[4월 현대카드 What's On]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/abc1e7b2c1cb47edad3ae93fa6719dd3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DJ Soulscape  Curated 22  김뜻돌]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 4월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/141ee092e0ef46abb2a57548ecdc4416.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상을 변화시킨 비디오 아트]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 후원 MoMA 비디오 소장품 전시]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/936b60ee900341969b60cff457a0c18d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
