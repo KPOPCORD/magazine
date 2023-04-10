@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 05:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 06:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[축제 찾아  삼만 리]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[만인이 손꼽아 기다리는 전 세계 봄 축제 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe4ce2d071cb4400b8895df943dae17c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄을  읽고, 듣다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 테마 북 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bdfbaf9f88144af9b51c71309e053536.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생명력을 불어넣는 연금술사, 드리프트]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[DIVE가 직접 만난 드리프트의 비하인드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/39145e9d732341f3a4aa65b8eeda7225.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
