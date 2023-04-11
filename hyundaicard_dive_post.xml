@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 03:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 04:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미래에서 온  사운드]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 4월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e2e3417c42f84a4f876ecbfc5117c1e5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[콘셉트에  진심인 거 인정]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;이름 없는 숲의 돌림노래&gt;]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/705ffe64aa4c451882ce9c99d9cdb07d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레트로  바이브]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[들여놓고 싶은 레트로 아이템 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e49436251b114ba7baf049cae00245ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
