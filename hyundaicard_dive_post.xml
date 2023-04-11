@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 05:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 06:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가벼운 공기처럼]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[환상적인 발레 모티브 아이템 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8f22bf8ed6244036809b86e723c53462.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미래에서 온  사운드]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[4월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/abc1e7b2c1cb47edad3ae93fa6719dd3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ Soulscape  Curated 22  김뜻돌]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;이름 없는 숲의 돌림노래&gt;]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/705ffe64aa4c451882ce9c99d9cdb07d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
