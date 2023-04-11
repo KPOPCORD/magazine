@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 07:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 08:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오감으로 즐기는 일본 전통의 맛]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리 델리 쿡북 신메뉴 4종 출시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2020eec87a6f4f30a161def00ea05f91.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가벼운 공기처럼]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[식물 테라피 하기 좋은 플랜테리어 카페 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/22c99bee03d24d43a2c12d21f4e522ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱그러움 한 가득]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[4월 현대카드 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/abc1e7b2c1cb47edad3ae93fa6719dd3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
