@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 07:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 08:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소금빵 속을 채우면  얼마나 맛있게요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 변주의 소금빵 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1fb26ef428da47c7a4df901952a659c2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타일보다 아이디어]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[라이브러리 4월 신간 몰아 보기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02af1918271443f1bffcd36f640e8eb2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청량하게 청청하게]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Fri, 10 Mar 2023 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[올봄엔 청량미 넘치는 청청 패션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/07ea4f29fe374effbc7a0d3b91fa3f96.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
