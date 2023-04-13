@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 03:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 04:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타인과 나의 경계, 패션]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 13 Apr 2023 02:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 레어 북 들여다보기 #12]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/032034186f4c4d348a7557723b743483.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소금빵 속을 채우면  얼마나 맛있게요]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 13 Apr 2023 02:01:53 GMT</pubDate>
             <content:encoded><![CDATA[만인이 손꼽아 기다리는 전 세계 봄 축제 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe4ce2d071cb4400b8895df943dae17c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄을  읽고, 듣다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 13 Apr 2023 02:01:53 GMT</pubDate>
-            <content:encoded><![CDATA[라이브러리 4월 신간 몰아 보기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02af1918271443f1bffcd36f640e8eb2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

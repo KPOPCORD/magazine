@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 03:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 04:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -261,9 +261,17 @@
 당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 13 Apr 2023 03:12:19 GMT</pubDate>
+            <pubDate>Thu, 13 Apr 2023 04:14:12 GMT</pubDate>
             <content:encoded><![CDATA[최근 발매된 수많은 노래 중 VIBE에서 사랑받은 ‘이달의 노래’를 소개합니다. 힙터질때, 신났을때, 우울할때, 사랑할때, 사랑했을때, 파티할때, 멍때릴때, 운동할때, 휴식할때… 느낌별 스테이션이 선정한 ‘4월의 노래’를 여러분도 들어보세요.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230411_160/1681204911744MeHch_JPEG/%C4%BF%B9%F62_%281%29.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[타인과 나의 경계, 패션 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 13 Apr 2023 02:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 레어 북 들여다보기 #12]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/032034186f4c4d348a7557723b743483.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소금빵 속을 채우면  얼마나 맛있게요 (현대카드 DIVE ─ POST)]]></title>
@@ -328,14 +336,6 @@
             <pubDate>Thu, 13 Apr 2023 02:01:53 GMT</pubDate>
             <content:encoded><![CDATA[만인이 손꼽아 기다리는 전 세계 봄 축제 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe4ce2d071cb4400b8895df943dae17c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄을  읽고, 듣다 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 13 Apr 2023 02:01:53 GMT</pubDate>
-            <content:encoded><![CDATA[라이브러리 4월 신간 몰아 보기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02af1918271443f1bffcd36f640e8eb2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
