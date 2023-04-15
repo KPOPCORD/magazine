@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 03:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 04:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 걸  이런 걸로?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 15 Apr 2023 02:03:42 GMT</pubDate>
+            <content:encoded><![CDATA[무궁무진한 업사이클링의 세계]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/98eef98758cc45798a7ab2fa53d50c19.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백남준의 비디오 유토피아]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 15 Apr 2023 02:03:42 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 델리 쿡북 신메뉴 4종 출시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2020eec87a6f4f30a161def00ea05f91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가벼운 공기처럼]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 15 Apr 2023 02:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[환상적인 발레 모티브 아이템 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8f22bf8ed6244036809b86e723c53462.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
