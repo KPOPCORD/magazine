@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://dive.hyundaicard.com/web/post/post.hdc</id>
-    <title>현대카드 DIVE ─ POST</title>
-    <updated>2023-04-15T14:10:18.079Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dive.hyundaicard.com/web/post/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>현대카드 DIVE ─ POST</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 15 Apr 2023 15:12:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 걸  이런 걸로?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 15 Apr 2023 15:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[무궁무진한 업사이클링의 세계]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/98eef98758cc45798a7ab2fa53d50c19.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백남준의 비디오 유토피아]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 15 Apr 2023 15:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[MoMA의 ‘현대카드 비디오 뷰스’]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f0975853ccaa4c8eb6feb482312b4ae8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄날의 차를  좋아하세요?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 15 Apr 2023 15:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[포근한 봄, 에너지를 충전해 줄 티 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab9579c993d64195921ccd4257573efd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달달한 로맨스  한 편]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 15 Apr 2023 15:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[과몰입하게 되는 연애 이야기 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/225dd731455c4f76b831444eec66a106.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 판타지에 온 걸 환영해]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 15 Apr 2023 15:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[DIVE와 ZIOR PARK의 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/abf6ea6ac5a54a888af44f2fa701e1e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[타인과 나의 경계, 패션]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 15 Apr 2023 15:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 레어 북 들여다보기 #12]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/032034186f4c4d348a7557723b743483.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소금빵 속을 채우면  얼마나 맛있게요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 15 Apr 2023 15:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 변주의 소금빵 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1fb26ef428da47c7a4df901952a659c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타일보다 아이디어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 15 Apr 2023 15:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[4월의 디자이너 Seymour Chwast]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ee035fdfe761416eb3dc4395e59bfa1d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오감으로 즐기는 일본 전통의 맛]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 15 Apr 2023 15:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리 델리 쿡북 신메뉴 4종 출시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2020eec87a6f4f30a161def00ea05f91.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
