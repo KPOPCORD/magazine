@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 03:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 04:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -261,9 +261,17 @@
 아프로비츠 음악가들 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 17 Apr 2023 03:12:37 GMT</pubDate>
+            <pubDate>Mon, 17 Apr 2023 04:14:55 GMT</pubDate>
             <content:encoded><![CDATA[영미권이 아닌 다른 국가, 대륙의 음악이 주목받는 요즘. 아프리카의 주요 국가를 비롯해 전 세계적으로 인기를 끄는 장르가 있다. 바로 아프로비츠다. 아프로비츠는 영국과 미국에서 이미 장르 차트가 만들어질 정도다. 그렇다면 우리가 알아야만 할 아프로비츠 음악가로는 누가 있을까? - 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230414_170/1681439564742tMKMD_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Art Talk with Three Star Books (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 16 Apr 2023 21:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트 퍼블리싱 북]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9667ed99b79b4715843365c8b63811d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내추럴 판타지 (현대카드 DIVE ─ POST)]]></title>
@@ -328,14 +336,6 @@
             <pubDate>Sun, 16 Apr 2023 21:10:35 GMT</pubDate>
             <content:encoded><![CDATA[다양한 변주의 소금빵 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1fb26ef428da47c7a4df901952a659c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타일보다 아이디어 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 16 Apr 2023 21:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[4월의 디자이너 Seymour Chwast]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ee035fdfe761416eb3dc4395e59bfa1d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
