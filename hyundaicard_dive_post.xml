@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 07:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 08:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어머, 이번엔 로즈골드야]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 16 Apr 2023 21:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[스타벅스 현대카드 한정판 플레이트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a48060ac3a7a4879a81bf9f076ddd763.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헬로 퓨처]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 16 Apr 2023 21:10:35 GMT</pubDate>
             <content:encoded><![CDATA[DIVE와 ZIOR PARK의 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/abf6ea6ac5a54a888af44f2fa701e1e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타인과 나의 경계, 패션]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 16 Apr 2023 21:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 레어 북 들여다보기 #12]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/032034186f4c4d348a7557723b743483.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 07:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 08:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2023년 4월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/IA4IYS0WZ8BDDUNOIYAF?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/IA4IYS0WZ8BDDUNOIYAF?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Apr 2023 08:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[박지훈 - 'Blank Effect (무표정)' 뮤직비디오 촬영 현장 공개]]></title>
             <link>https://music.bugs.co.kr/musicpost/V2CGUQTYPVIFV3Y8Z59F?&amp;wl_ref=list_sp_01_h</link>
@@ -183,14 +190,6 @@
             <pubDate>Sun, 09 Apr 2023 10:10:53 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/B55CMN5XK6NPQCOYRPTM/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장하은 - [Once again] 앨범 속 소박하지만 특별한 이야기]]></title>
-            <link>https://music.bugs.co.kr/musicpost/HOMORF83XION1X68JB9W?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/HOMORF83XION1X68JB9W?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sun, 09 Apr 2023 10:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HOMORF83XION1X68JB9W/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
