@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 05:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 06:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/B55CMN5XK6NPQCOYRPTM/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다양한 온도가 공존하는 복합문화공간, 〈공상온도〉 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13085&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13085&amp;pg=1</guid>
+            <pubDate>Tue, 18 Apr 2023 06:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13085/Mgz_Main_List_20230418142220.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[전설을 향한 헌사, 바이올리니스트 다니엘 로자코비치의 [Spirits] (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13079&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13079&amp;pg=1</guid>
@@ -248,22 +256,22 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13073/Mgz_Main_List_20230414114742.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[“평범한 가족의 아슬아슬한 이중생활” tvN 월화드라마 <패밀리> (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=13072&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=13072&amp;pg=1</guid>
-            <pubDate>Mon, 17 Apr 2023 03:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[방송]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13072/Mgz_Main_List_20230414121200.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[싸이와 함께 뛰어 
- 콘서트 라이브 필름 <싸이 흠뻑쇼 2022> 공개! (VIBE ─ 매거진)]]></title>
+콘서트 라이브 필름 <싸이 흠뻑쇼 2022> 공개! (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 18 Apr 2023 05:11:01 GMT</pubDate>
+            <pubDate>Tue, 18 Apr 2023 06:15:17 GMT</pubDate>
             <content:encoded><![CDATA[디즈니+를 통해 단독 공개되는 ‘싸이 흠뻑쇼 SUMMER SWAG 2022’ 콘서트 라이브 필름을 통해 진정 즐길 줄 아는 아티스트 싸이와, 
  미치도록 놀고 싶은 35만 명의 관객이 만들어낸 2022년 ‘흠뻑쇼’ 최고의 순간을 생생하게 즐기자!]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230417_239/1681694496713vVAN8_JPEG/%C0%A5_%BB%F3%B4%DC_964x672.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고민하지 말고 이 전시를 봐 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 16 Apr 2023 21:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[감각이 만개하는 봄 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7fbaf168fb9f42f185e5b306721af21b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[달콤  ‘쑥’싸름한  매력 (현대카드 DIVE ─ POST)]]></title>
@@ -328,14 +336,6 @@
             <pubDate>Sun, 16 Apr 2023 21:10:35 GMT</pubDate>
             <content:encoded><![CDATA[MoMA의 ‘현대카드 비디오 뷰스’]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f0975853ccaa4c8eb6feb482312b4ae8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄날의 차를  좋아하세요? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 16 Apr 2023 21:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[포근한 봄, 에너지를 충전해 줄 티 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab9579c993d64195921ccd4257573efd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
