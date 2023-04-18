@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 03:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 04:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달콤  ‘쑥’싸름한  매력]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 16 Apr 2023 21:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[제철 맞은 쑥 디저트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cbf9996862064c9691688d9781e36b62.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[난  박지윤이야]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 16 Apr 2023 21:10:35 GMT</pubDate>
             <content:encoded><![CDATA[포근한 봄, 에너지를 충전해 줄 티 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab9579c993d64195921ccd4257573efd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달달한 로맨스  한 편]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 16 Apr 2023 21:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[과몰입하게 되는 연애 이야기 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/225dd731455c4f76b831444eec66a106.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
