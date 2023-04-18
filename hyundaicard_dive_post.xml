@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 07:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 08:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나만 아는 기쁨]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 16 Apr 2023 21:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[디자인, 기능 모두 만족스러운 타월 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/42b001444ebb4441bf4d848a10b1ba9b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고민하지 말고 이 전시를 봐]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 16 Apr 2023 21:10:35 GMT</pubDate>
             <content:encoded><![CDATA[무궁무진한 업사이클링의 세계]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/98eef98758cc45798a7ab2fa53d50c19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백남준의 비디오 유토피아]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 16 Apr 2023 21:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[MoMA의 ‘현대카드 비디오 뷰스’]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f0975853ccaa4c8eb6feb482312b4ae8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
