@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 05:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 09:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손끝의 세상은 넓다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Tue, 18 Apr 2023 21:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[상상력을 자극하는 네일 아트 트렌드]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3b5b3d4839ad40a99a2d95826f235a60.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손민수 Curated 06 김동현]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 18 Apr 2023 21:18:04 GMT</pubDate>
             <content:encoded><![CDATA[아티스트 퍼블리싱 북]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9667ed99b79b4715843365c8b63811d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내추럴 판타지]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Tue, 18 Apr 2023 21:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 기술로 완성한 자연 아트워크 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4ea5f36ccad5405882c41ca7a3b44e47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
