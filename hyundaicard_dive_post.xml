@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 06:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 07:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[골프템도  귀여움이 되나요?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 19 Apr 2023 19:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[소장욕 자극하는 귀여운 골프 아이템 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/106e3bc236174153af6a75bdee72ff76.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웰컴. 브루노.]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 19 Apr 2023 19:10:05 GMT</pubDate>
             <content:encoded><![CDATA[스타벅스 현대카드 한정판 플레이트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a48060ac3a7a4879a81bf9f076ddd763.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헬로 퓨처]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 19 Apr 2023 19:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[패션 브랜드를 새롭게 빛낼 수장들]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bd61763e63e144caa3096aa2419b06df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
