@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 05:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 06:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,9 +260,17 @@
 이마세 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 21 Apr 2023 05:11:39 GMT</pubDate>
+            <pubDate>Fri, 21 Apr 2023 06:15:49 GMT</pubDate>
             <content:encoded><![CDATA[한창 바이브 차트에서 갑자기 돌풍을 일으키고 있는 뮤지션이 있으니. 바로 이마세다. 이마세는 틱톡과 쇼츠를 비롯한 숏폼 형식의 플랫폼에서 주목을 받기 시작했고 끝내 차트에서도 괄목할 성과를 얻고 있다. 이주의 디깅에서는 이마세를 비롯해 많은 이들의 관심을 얻은 아시아 음악가들을 알아보도록 하자. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230418_108/1681782378619K5WAT_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[이렇게 힙한 전통주 바 봤니? (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 19 Apr 2023 19:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리 × 토끼소주 팝업 현장]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4876eb830b074b4b8314e3aaa878cfd8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제물포에  갈 시간 (현대카드 DIVE ─ POST)]]></title>
@@ -327,14 +335,6 @@
             <pubDate>Wed, 19 Apr 2023 19:10:05 GMT</pubDate>
             <content:encoded><![CDATA[감각이 만개하는 봄 전시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7fbaf168fb9f42f185e5b306721af21b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달콤  ‘쑥’싸름한  매력 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 19 Apr 2023 19:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[제철 맞은 쑥 디저트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cbf9996862064c9691688d9781e36b62.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
