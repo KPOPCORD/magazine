@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 11:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 12:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 69.Mina Okabe - 'Talk To Me' (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/HB8T9MROXIEWAI2PHNEJ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/HB8T9MROXIEWAI2PHNEJ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 24 Apr 2023 12:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[블리처스 (BLITZERS) - 서울에서 WORLD로! 블리처스 마카레나 독점 B컷 공개! (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/ZLD2YAWTU7YIK8N0OE0F?&amp;wl_ref=list_sp_01_h</link>
@@ -185,14 +192,6 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HSFXW3HVK6Q62KOMVW3Q/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비비탄 - K팝 최초의 멀티버스 히어로 뮤비 'SHOCKING ASIA' 컴백 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/ZSNH7FWGNKET1HO82JFV?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/ZSNH7FWGNKET1HO82JFV?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 19 Apr 2023 21:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ZSNH7FWGNKET1HO82JFV/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[블리처스 (BLITZERS) 2ND SINGLE [마카레나] MV 비하인드 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13102&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13102&amp;pg=1</guid>
@@ -261,7 +260,7 @@
 Agust D, 킴 페트라 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 24 Apr 2023 11:10:36 GMT</pubDate>
+            <pubDate>Mon, 24 Apr 2023 12:21:03 GMT</pubDate>
             <content:encoded><![CDATA[Agust D로 새 앨범을 발표한 방탄소년단 슈가, 'Unholy'로 세계 정상에 올랐던 킴 페트라의 신곡까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230424_274/1682319490216oCseC_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
