@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 05:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 06:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 사이에 피어난 장미]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[장미 모티브의 패션 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c44982efdd8c4655bab87a61037524a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그때그때 인쇄해  타투 프린터]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[상상력을 자극하는 네일 아트 트렌드]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3b5b3d4839ad40a99a2d95826f235a60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손민수 Curated 06 김동현]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[정통적 해석과 깊은 음색의 바이올리니스트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0d46da65388e43dca6ababeac617e4bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
