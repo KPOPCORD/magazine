@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 08:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 09:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼포먼스도 역시 브루노]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[브루노 마스 라이브 무대 모아 보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4dd72ae622b94604be4ffaa8b6df4c41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Our Tools, 1:1.58 카드 비례의 꿈]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[바다가 코앞인 숙소 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7822bbb2226841ce9b9b8116bf197f05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골프템도  귀여움이 되나요?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[소장욕 자극하는 귀여운 골프 아이템 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/106e3bc236174153af6a75bdee72ff76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
