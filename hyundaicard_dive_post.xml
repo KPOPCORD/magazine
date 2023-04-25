@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 03:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 04:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 맛에  발리 가지]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[아드레날린 뿜뿜! 발리 인기 액티비티]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b5d4cea409b44e65ac921b40c50cb3fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퍼포먼스도 역시 브루노]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[제물포 필수 발 도장 코스 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c684b92b6a24d2e8fe6be117b5dbd7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다까지  1분 컷]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[바다가 코앞인 숙소 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7822bbb2226841ce9b9b8116bf197f05.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

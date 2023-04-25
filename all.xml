@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 03:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 04:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,46 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HSFXW3HVK6Q62KOMVW3Q/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[과거가 아닌 현재, 어쩌면 미래 – 네오클래식의 세계 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13110&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13110&amp;pg=1</guid>
+            <pubDate>Tue, 25 Apr 2023 04:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13110/Mgz_Main_List_20230425102206.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[힙합 따라잡기 ＃65 - 별은 빛을 남기고 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13107&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13107&amp;pg=1</guid>
+            <pubDate>Tue, 25 Apr 2023 04:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13107/Mgz_Main_List_20230425103900.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 인디 최초 트랜스미디어 앨범 네버랜드(NEVERLAND) 콜라보레이션 w... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13104&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13104&amp;pg=1</guid>
+            <pubDate>Tue, 25 Apr 2023 04:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13104/Mgz_Main_List_20230424112105.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[전곡 프로듀싱 참여! 3년 만의 앨범 Agust D [D-DAY] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13103&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13103&amp;pg=1</guid>
+            <pubDate>Tue, 25 Apr 2023 04:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13102/Mgz_Main_List_20230424091609.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[Yohan.D (요한디) [Love or Obsession] MV 촬영 현장 ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13099&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13099&amp;pg=1</guid>
+            <pubDate>Tue, 25 Apr 2023 04:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13099/Mgz_Main_List_20230425103659.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[블리처스 (BLITZERS) 2ND SINGLE [마카레나] MV 비하인드 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13102&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13102&amp;pg=1</guid>
@@ -216,53 +256,21 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13095/Mgz_Main_List_20230424163746.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[가요 탐구생활 ＃53 - 영어로 부르는 가요 시대 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=13106&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=13106&amp;pg=1</guid>
-            <pubDate>Mon, 24 Apr 2023 09:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[가요 탐구생활]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13106/Mgz_Main_List_20230424172250.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[전철민 ‘한강을 보다가 니 생각이 났어’ 타이틀 곡 라이브 촬영 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13101&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13101&amp;pg=1</guid>
-            <pubDate>Mon, 24 Apr 2023 03:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13101/Mgz_Main_List_20230424104748.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[몽림 ‘꺾인 꽃은 말이 없다’ MV 촬영 현장 공개! (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13097&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13097&amp;pg=1</guid>
-            <pubDate>Mon, 24 Apr 2023 03:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13097/Mgz_Main_List_20230421151929.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[부활 김태원X다나카(TANAKA) 콜라보레이션 [이곳에 추억이 있다] 오피셜 ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13090&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13090&amp;pg=1</guid>
-            <pubDate>Fri, 21 Apr 2023 09:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13090/Mgz_Main_List_20230421165853.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[이지적인 선율과 사운드 통해 내부로 응축된 에너지, '홍선미' 외 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13096&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13096&amp;pg=1</guid>
-            <pubDate>Fri, 21 Apr 2023 04:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13096/Mgz_Main_List_20230421101301.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[New Release #140 : 
 Agust D, 킴 페트라 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 25 Apr 2023 03:13:36 GMT</pubDate>
+            <pubDate>Tue, 25 Apr 2023 04:13:41 GMT</pubDate>
             <content:encoded><![CDATA[Agust D로 새 앨범을 발표한 방탄소년단 슈가, 'Unholy'로 세계 정상에 올랐던 킴 페트라의 신곡까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230424_274/1682319490216oCseC_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 맛에  발리 가지 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[아드레날린 뿜뿜! 발리 인기 액티비티]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b5d4cea409b44e65ac921b40c50cb3fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퍼포먼스도 역시 브루노 (현대카드 DIVE ─ POST)]]></title>
@@ -327,14 +335,6 @@ Agust D, 킴 페트라 (VIBE ─ 매거진)]]></title>
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[제물포 필수 발 도장 코스 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c684b92b6a24d2e8fe6be117b5dbd7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다까지  1분 컷 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[바다가 코앞인 숙소 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7822bbb2226841ce9b9b8116bf197f05.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
