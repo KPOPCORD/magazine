@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 07:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 08:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이런 것도 가능해 Apple Pay]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[Apple Watch로 결제하는 재미있는 방법]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/92f3ebb30e8f499dae5b26c5e780e3d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삶에 숨은 정답을 찾아가는 무인양품]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[여행의 시작과 끝, 공항 건축]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/16889a6902084f588a0e04d471ac4bbb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 힙한 전통주 바 봤니?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 × 토끼소주 팝업 현장]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4876eb830b074b4b8314e3aaa878cfd8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
