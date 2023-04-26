@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 04:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 05:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브루노 마스가  부르네]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[브루노 마스 ‘슈콘’에 가야하는 이유]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/156220b0e7874e589933aaccadf23bf6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이런 것도 가능해 Apple Pay]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[스치기만 해도 타투 완성]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/966eff4370554f3797661f5448e7fbd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경계의 공간]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[여행의 시작과 끝, 공항 건축]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/16889a6902084f588a0e04d471ac4bbb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
