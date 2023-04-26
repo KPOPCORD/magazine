@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 08:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 09:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왕들도 부러워할걸]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[경주 능 뷰 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aabce22da2c741abbafe47d42794a7a1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[물처럼  부드럽고 여리게]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 04]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e77955f58a0e48868f44e113c3df346e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 사이에 피어난 장미]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[장미 모티브의 패션 아이템]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c44982efdd8c4655bab87a61037524a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
