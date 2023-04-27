@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 03:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 04:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펫테크로  키워요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[반려동물 어떻게 키워요? 펫테크로 키워요!]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/837fe5f1ae274b19b954b52bcaee955f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왕들도 부러워할걸]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[iF 디자인 어워드 금상 수상]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2bb023f68ea54c2aafcd27de85f7ca08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Be Right Back]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 04]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e77955f58a0e48868f44e113c3df346e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
