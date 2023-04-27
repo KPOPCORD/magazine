@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 05:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 06:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,9 +260,17 @@
 끝내주는 음악 모음집 공개 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 27 Apr 2023 05:11:36 GMT</pubDate>
+            <pubDate>Thu, 27 Apr 2023 06:15:08 GMT</pubDate>
             <content:encoded><![CDATA[Team '가디언즈'의 폭발적인 케미와 다채로운 매력으로 시리즈의 화려한 귀환을 알리는 &lt;가디언즈 오브 갤럭시: Volume 3&gt;가 관객들의 귀를 즐겁게 해줄 끝내주는 음악 모음집 3탄을 공개했다. 이 느낌 그대로, 5월 3일 다시 한번 볼륨 업!]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230426_105/1682496307978XKoUw_JPEG/964x672.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위 아  더 퓨처 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[밀라노 가구 박람회 리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dc19fbc3e8b24b4c90962831e3d0c5e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[펫테크로  키워요 (현대카드 DIVE ─ POST)]]></title>
@@ -327,14 +335,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[브루노 마스 라이브 무대 모아 보기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4dd72ae622b94604be4ffaa8b6df4c41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Our Tools, 1:1.58 카드 비례의 꿈 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[iF 디자인 어워드 금상 수상]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2bb023f68ea54c2aafcd27de85f7ca08.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
