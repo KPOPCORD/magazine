@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 10:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 11:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,9 +260,17 @@
 끝내주는 음악 모음집 공개 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 28 Apr 2023 10:12:10 GMT</pubDate>
+            <pubDate>Fri, 28 Apr 2023 11:10:30 GMT</pubDate>
             <content:encoded><![CDATA[Team '가디언즈'의 폭발적인 케미와 다채로운 매력으로 시리즈의 화려한 귀환을 알리는 &lt;가디언즈 오브 갤럭시: Volume 3&gt;가 관객들의 귀를 즐겁게 해줄 끝내주는 음악 모음집 3탄을 공개했다. 이 느낌 그대로, 5월 3일 다시 한번 볼륨 업!]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230426_105/1682496307978XKoUw_JPEG/964x672.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도심 속 장터로 봄나들이 가요 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리 Saturday Market]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6664cbd5762a4d438a0debe724530f64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대카드  Curated 85 윤지영 (현대카드 DIVE ─ POST)]]></title>
@@ -327,14 +335,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[브루노 마스 ‘슈콘’에 가야하는 이유]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/156220b0e7874e589933aaccadf23bf6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이런 것도 가능해 Apple Pay (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[Apple Watch로 결제하는 재미있는 방법]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/92f3ebb30e8f499dae5b26c5e780e3d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
