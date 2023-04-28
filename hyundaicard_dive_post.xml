@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 06:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 07:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 필요한 게  없는 세계]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[레어로우와 선우정아가 만났을 때]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/da3d259f285d46858a274401bc077eee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌돌한 여행]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[최태혁의 ‘브랜드 이야기’]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ba3e36469d304fedb1d0a523b7c062a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 맛에  발리 가지]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[아드레날린 뿜뿜! 발리 인기 액티비티]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b5d4cea409b44e65ac921b40c50cb3fb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
