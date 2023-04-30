@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 03:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 04:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,9 +260,17 @@
 끝내주는 음악 모음집 공개 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 30 Apr 2023 03:11:34 GMT</pubDate>
+            <pubDate>Sun, 30 Apr 2023 04:13:57 GMT</pubDate>
             <content:encoded><![CDATA[Team '가디언즈'의 폭발적인 케미와 다채로운 매력으로 시리즈의 화려한 귀환을 알리는 &lt;가디언즈 오브 갤럭시: Volume 3&gt;가 관객들의 귀를 즐겁게 해줄 끝내주는 음악 모음집 3탄을 공개했다. 이 느낌 그대로, 5월 3일 다시 한번 볼륨 업!]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230426_105/1682496307978XKoUw_JPEG/964x672.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숨겨진   플레이그라운드 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[초록 기운이 꿈틀대는 초원 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/763e09118363402cb1d1e366646ab8a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예측 불허 글로벌 아티스트 (현대카드 DIVE ─ POST)]]></title>
@@ -327,14 +335,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[경주 능 뷰 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aabce22da2c741abbafe47d42794a7a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물처럼  부드럽고 여리게 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[2023 광주비엔날레 하이라이트 리뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6dfbb0c7c160430e815b79bc31a731dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
