@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 14:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 15:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,9 +260,65 @@
 끝내주는 음악 모음집 공개 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 30 Apr 2023 14:10:13 GMT</pubDate>
+            <pubDate>Sun, 30 Apr 2023 15:10:48 GMT</pubDate>
             <content:encoded><![CDATA[Team '가디언즈'의 폭발적인 케미와 다채로운 매력으로 시리즈의 화려한 귀환을 알리는 &lt;가디언즈 오브 갤럭시: Volume 3&gt;가 관객들의 귀를 즐겁게 해줄 끝내주는 음악 모음집 3탄을 공개했다. 이 느낌 그대로, 5월 3일 다시 한번 볼륨 업!]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230426_105/1682496307978XKoUw_JPEG/964x672.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cosmic World  of Music (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[V&amp;P 5월 Monthly Special]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/561eff54aae745c4a527869a3b48034e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A better  Life (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 5월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab854d3665b54334b0f34c325e68c74a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타일보다 아이디어 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[5월의 디자이너 Robert Massin]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ea34228db41b417eb1a29662904fa1ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울에서  우주까지 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 5월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61164e5863464082a45449ec586b0ac3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[희망의  세계로! (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 뮤직 라이브러리 5월의 새 음반]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e3195d90d9b84f5b84e11cd910bbf0c3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[따뜻한 위로의 레시피 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리 5월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f1fc2ece867544169fdaf83b4cb71bf9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상의 비일상성 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 5월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9e378ec188a24d08b131f52ea56359f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숨겨진   플레이그라운드 (현대카드 DIVE ─ POST)]]></title>
@@ -279,62 +335,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[DIVE와 예지의 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0d02c09cc83e472a9739f6bc6f6b29dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도심 속 장터로 봄나들이 가요 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 Saturday Market]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6664cbd5762a4d438a0debe724530f64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드  Curated 85 윤지영 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[첫 정규 앨범 &lt;나의 정원에서&gt; 쇼케이스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/24850ff299ff41ada3e98327ff060c7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 필요한 게  없는 세계 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[레어로우와 선우정아가 만났을 때]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/da3d259f285d46858a274401bc077eee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌돌한 여행 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[돌 보러 갈 만한 곳 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b71da8df3bdd475b95c1fd99052918f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위 아  더 퓨처 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[밀라노 가구 박람회 리뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dc19fbc3e8b24b4c90962831e3d0c5e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펫테크로  키워요 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[반려동물 어떻게 키워요? 펫테크로 키워요!]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/837fe5f1ae274b19b954b52bcaee955f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왕들도 부러워할걸 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[경주 능 뷰 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aabce22da2c741abbafe47d42794a7a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
