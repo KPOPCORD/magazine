@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 04:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 05:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A better  Life]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 5월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab854d3665b54334b0f34c325e68c74a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그들만의  키치!]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[초록 기운이 꿈틀대는 초원 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/763e09118363402cb1d1e366646ab8a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예측 불허 글로벌 아티스트]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[DIVE와 예지의 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0d02c09cc83e472a9739f6bc6f6b29dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
