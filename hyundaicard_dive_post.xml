@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 06:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 07:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 컨트리의 왕자야]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[Artist Inside: 모건 월렌]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/be001790c55b4f3c843559d641b87920.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A better  Life]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 5월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9e378ec188a24d08b131f52ea56359f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숨겨진   플레이그라운드]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[초록 기운이 꿈틀대는 초원 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/763e09118363402cb1d1e366646ab8a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
