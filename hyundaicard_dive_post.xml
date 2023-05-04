@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 03:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 04:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아티스트 북의  찬란한 세계]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[Three Star Books Art Talk]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ef34cc72a7949658587f8a2eac658ef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과정의 집약]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[5월의 디자이너 Robert Massin]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ea34228db41b417eb1a29662904fa1ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울에서  우주까지]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 5월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61164e5863464082a45449ec586b0ac3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
