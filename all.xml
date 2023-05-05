@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 03:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 04:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,9 +368,17 @@ Agust D, Labrinth (VIBE ─ 매거진)]]></title>
 베트남 힙합 아티스트 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 05 May 2023 03:12:43 GMT</pubDate>
+            <pubDate>Fri, 05 May 2023 04:14:01 GMT</pubDate>
             <content:encoded><![CDATA[일본의 제이팝 못지않게 한국에서도 점차 인기를 얻는 음악이 있으니. 바로 베트남의 브이팝이다. 대표적으로는 제로투댄스 열풍을 일으킨 ‘Hai Phút Hơn’, 띵띵땅땅 챌린지로 유명한 ‘See Tình’이 있다. 그렇다면 베트남의 힙합 씬은 어떠할까? 한국의 장르 팬들이 알아 두면 좋을 베트남의 힙합 아티스트를 소개한다. - 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230504_165/16831732796174N0FX_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족은  나의 힘 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[사연 있는 가족 스토리 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0e17a3cf85b64fe2a37c5ab1a32aff29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[초여름의 다채로움 (현대카드 DIVE ─ POST)]]></title>
@@ -435,14 +443,6 @@ Agust D, Labrinth (VIBE ─ 매거진)]]></title>
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[Artist Inside: 모건 월렌]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/be001790c55b4f3c843559d641b87920.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A better  Life (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 5월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab854d3665b54334b0f34c325e68c74a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
