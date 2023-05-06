@@ -1,8 +1,195 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://music.bugs.co.kr/musicpost</id>
-    <title>벅스 ─ 뮤직포스트</title>
-    <updated>2023-05-06T08:13:05.824Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://file.bugsm.co.kr/wbugs/common/faviconBugs.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>벅스 ─ 뮤직포스트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 06 May 2023 09:11:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커맨더맨 - '얼레리꼴레리(Already go ready)' 녹음 현장]]></title>
+            <link>https://music.bugs.co.kr/musicpost/D1WAMCVU9AHJCUP15ZIJ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/D1WAMCVU9AHJCUP15ZIJ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/D1WAMCVU9AHJCUP15ZIJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 69.Mina Okabe - 'Talk To Me']]></title>
+            <link>https://music.bugs.co.kr/musicpost/HB8T9MROXIEWAI2PHNEJ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/HB8T9MROXIEWAI2PHNEJ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블리처스 (BLITZERS) - 서울에서 WORLD로! 블리처스 마카레나 독점 B컷 공개!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/ZLD2YAWTU7YIK8N0OE0F?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/ZLD2YAWTU7YIK8N0OE0F?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ZLD2YAWTU7YIK8N0OE0F/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모트(Motte) - 'After Sunset' 녹음 비하인드 공개!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/XV6OVVUH9XY4KFBAM1SB?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/XV6OVVUH9XY4KFBAM1SB?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XV6OVVUH9XY4KFBAM1SB/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2023년 4월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/IA4IYS0WZ8BDDUNOIYAF?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/IA4IYS0WZ8BDDUNOIYAF?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박지훈 - 'Blank Effect (무표정)' 뮤직비디오 촬영 현장 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/V2CGUQTYPVIFV3Y8Z59F?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/V2CGUQTYPVIFV3Y8Z59F?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/V2CGUQTYPVIFV3Y8Z59F/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RADWIMPS(래드윔프스) - <스즈메의 문단속> OST의 주인공, RADWIMPS(래드윔프스)를 만나다]]></title>
+            <link>https://music.bugs.co.kr/musicpost/C0DYE88ZNYT44Q26HBKY?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/C0DYE88ZNYT44Q26HBKY?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/C0DYE88ZNYT44Q26HBKY/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유다빈밴드 - 디지털 싱글 [꿈보다 더] 비하인드 스토리]]></title>
+            <link>https://music.bugs.co.kr/musicpost/8V1P6849Z5V94KT8DJRZ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/8V1P6849Z5V94KT8DJRZ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/8V1P6849Z5V94KT8DJRZ/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정권 - 무럭무럭 성장 중인 싱어송라이터 이정권의 EP 앨범 라이브 클립 제작기!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/GFD2Y2X2VF3K5CWDBUIX?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/GFD2Y2X2VF3K5CWDBUIX?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GFD2Y2X2VF3K5CWDBUIX/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황치열 - '야오키 프로젝트'의 세 번째 곡 '그런 사랑은 없어' 현장 비하인드 공개!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/ZENAXVCQQYLZMK8KKCXT?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/ZENAXVCQQYLZMK8KKCXT?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ZENAXVCQQYLZMK8KKCXT/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAXY(크랙시) - 미니앨범 [XX] 제작 비하인드와 멤버들의 솔직한 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/4SOKYKLZULS9CBG1FXUG?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/4SOKYKLZULS9CBG1FXUG?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/4SOKYKLZULS9CBG1FXUG/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 68.Sabrina Carpenter - 'Nonsense']]></title>
+            <link>https://music.bugs.co.kr/musicpost/LXE8L2WSEUBADJ4F99OP?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/LXE8L2WSEUBADJ4F99OP?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2023년 3월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/U1N30DSU5SN422PBV0KB?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/U1N30DSU5SN422PBV0KB?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[msftz (미스피츠) - 그대와 만나는, 기다리던 봄 [초록숲] 비하인드 컷 & 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/X4BR6F7UU9L1SBXCK49H?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/X4BR6F7UU9L1SBXCK49H?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/X4BR6F7UU9L1SBXCK49H/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸디토리움(Pudditorium) - 정규 3집 [Episode :Hope]로 찾아온 영화 <멋진 하루>의 음악감독]]></title>
+            <link>https://music.bugs.co.kr/musicpost/GLR1A1PNCA924OK9I31Z?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/GLR1A1PNCA924OK9I31Z?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GLR1A1PNCA924OK9I31Z/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 67.Cian Ducrot - 'I'll Be Waiting']]></title>
+            <link>https://music.bugs.co.kr/musicpost/SF6FGBCWRYDSMI9LDWJV?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/SF6FGBCWRYDSMI9LDWJV?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2023년 2월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/41KT5YJUYBM6RFQ8Z9FS?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/41KT5YJUYBM6RFQ8Z9FS?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[후니용이 - '종천지모'로 해외 진출을 목표로 글로벌하게!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/6PMTNZHLWKUC154QL4EP?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/6PMTNZHLWKUC154QL4EP?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/6PMTNZHLWKUC154QL4EP/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오씰 (OSCiiL) - 여행자의 고민이 담긴 [쏟아지는 별] 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/OAGD6RPH6QK6HLCIT35I?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/OAGD6RPH6QK6HLCIT35I?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OAGD6RPH6QK6HLCIT35I/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8TURN - 1st Mini Album [8TURNRISE] 자켓 촬영 현장]]></title>
+            <link>https://music.bugs.co.kr/musicpost/08LVGWJ0IQJWDIA3RSDD?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/08LVGWJ0IQJWDIA3RSDD?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/08LVGWJ0IQJWDIA3RSDD/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 66.Stacey Ryan - 'Fall In Love Alone']]></title>
+            <link>https://music.bugs.co.kr/musicpost/20BV945H44F7M718C1WI?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/20BV945H44F7M718C1WI?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Eagle-Eye Cherry(이글-아이 체리) - 젊은 에너지와 농익은 연륜이 동시에 존재하는 [Back on Track]]]></title>
+            <link>https://music.bugs.co.kr/musicpost/T023TBEF0RWK89NDV73B?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/T023TBEF0RWK89NDV73B?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/T023TBEF0RWK89NDV73B/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2023년 1월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/MM9PL5H00SZXC150HT0Y?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/MM9PL5H00SZXC150HT0Y?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[kursor(커서) - 공허함과 불안함의 경계에서, [니] 비하인드 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/2PQEQVZ4B53SY60YM6NG?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/2PQEQVZ4B53SY60YM6NG?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2PQEQVZ4B53SY60YM6NG/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
