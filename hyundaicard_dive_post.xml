@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 03:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 04:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캘리포니아를 꿈꾸며]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[랄프 로렌 뮤직 라운지 in 바이닐앤플라스틱]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ed8880bc385e46f1a2175ad410fd054a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가족은  나의 힘]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[잠이 솔솔 오게 만드는 기술 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2f514077baa74897a365c57005a9e231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 컨트리의 왕자야]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[Artist Inside: 모건 월렌]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/be001790c55b4f3c843559d641b87920.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
