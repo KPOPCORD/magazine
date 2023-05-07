@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 03:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 04:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류이치 사카모토의  위대한 유산]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[세계적 음악 거장을 떠나보내며]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/30d2ea9d053b441ba5c3be1e4cc3f895.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캘리포니아를 꿈꾸며]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 5월의 새 음반]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e3195d90d9b84f5b84e11cd910bbf0c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀잠 보장  슬립테크]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[잠이 솔솔 오게 만드는 기술 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2f514077baa74897a365c57005a9e231.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
