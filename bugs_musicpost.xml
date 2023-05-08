@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 08:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 09:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성민제 - '너에게 하지 못한 이야기' 첫 LIVE CLIP 촬영 현장]]></title>
+            <link>https://music.bugs.co.kr/musicpost/CC1SEKB328QAWHA5O7UD?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/CC1SEKB328QAWHA5O7UD?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 08 May 2023 09:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/CC1SEKB328QAWHA5O7UD/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[처럼 (CHURUM) - '오늘을 태워' 비하인드 컷 & 첫 곡 발매 기념 인터뷰!]]></title>
             <link>https://music.bugs.co.kr/musicpost/KFD7O9RTPXMOSUVAPNYJ?&amp;wl_ref=list_sp_01_h</link>
@@ -183,13 +191,6 @@
             <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/T023TBEF0RWK89NDV73B/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭘 들을까? - 2023년 1월 노래 모음!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/MM9PL5H00SZXC150HT0Y?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/MM9PL5H00SZXC150HT0Y?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
