@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 03:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 04:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cosmic World  of Music]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[V&amp;P 5월 Monthly Special]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/561eff54aae745c4a527869a3b48034e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류이치 사카모토의  위대한 유산]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[헤리티지를 담은 타이포그래피 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d02e112f63dd4e9b8fbf581b19284406.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[희망의  세계로!]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 5월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e3195d90d9b84f5b84e11cd910bbf0c3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
