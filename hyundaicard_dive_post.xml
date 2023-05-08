@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 05:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 06:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 나은 오늘은 위하여]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[라이브러리 5월 신간 몰아 보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3621e17f20984ff9bc8d90b5a6b573e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cosmic World  of Music]]></title>
             <link>javascript:;</link>
@@ -64,20 +72,12 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7b218555903c4ad8954ae1a252bd0441.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아티스트 북의  찬란한 세계]]></title>
+            <title><![CDATA[스윙  마이 베이비]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[Three Star Books Art Talk]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ef34cc72a7949658587f8a2eac658ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과정의 집약]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[헤리티지를 담은 타이포그래피 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d02e112f63dd4e9b8fbf581b19284406.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[신상 골프 스페이스 IRON &amp; WOOD]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a9f6649363894b15b3fe96d83d233a15.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
