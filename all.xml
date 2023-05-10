@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 04:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 05:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ Agust D, 킴 페트라 (VIBE ─ 매거진)]]></title>
 유쾌한 컴백 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 10 May 2023 04:13:26 GMT</pubDate>
+            <pubDate>Wed, 10 May 2023 05:11:41 GMT</pubDate>
             <content:encoded><![CDATA[아이콘이 돌아왔다. 새로운 마음가짐과 새로운 시도로 새로운 레이블에서. 변하지 않은 멤버들의 케미와 아이콘다운 장난과 에너지를 결코 가볍지 않은 고민 끝에 내놓은 새 앨범 &lt;Take Off&gt;는 말그대로 새 출발이다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230508_197/168352842914901UQ2_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신성한, 도시 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[세계문화유산으로 지정된 도시 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a8bb1192eeee48f9a438bbb61b3215db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 취향에 맞는 전통주 Pick! (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ Agust D, 킴 페트라 (VIBE ─ 매거진)]]></title>
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[5월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/554f200f54994429822859fc877d70f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신상 출시  <조Pay> (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[Apple Pay가 궁금해? 조세호가 알려줄게]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d92731d0a3594ee29e7f9193f3241cdc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
