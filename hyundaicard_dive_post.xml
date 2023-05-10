@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 07:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 08:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[필드 위의 한 끗 차이]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[IRON &amp; WOOD의 골프 굿즈 6]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b388bfbcbf384d49b589433ff3c4f78f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크로셰로 여름 나기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 5월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/561eff54aae745c4a527869a3b48034e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[류이치 사카모토의  위대한 유산]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[세계적 음악 거장을 떠나보내며]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/30d2ea9d053b441ba5c3be1e4cc3f895.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
