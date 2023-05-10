@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 06:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 07:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크로셰로 여름 나기]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[여름 치트키, 크로셰 소재 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/43c63b48beff49f4b88cd134d1b760c4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신성한, 도시]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[세계적 음악 거장을 떠나보내며]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/30d2ea9d053b441ba5c3be1e4cc3f895.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캘리포니아를 꿈꾸며]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[랄프 로렌 뮤직 라운지 in 바이닐앤플라스틱]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ed8880bc385e46f1a2175ad410fd054a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
