@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 09:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 10:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[＃INFP ＃밴드타쿠 ＃신입사원 '리베' 편]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=40&amp;mgz_seq=13154&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=40&amp;mgz_seq=13154&amp;pg=1</guid>
+            <pubDate>Wed, 10 May 2023 10:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[#왓_인_플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13154/Mgz_Main_List_20230510142852.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[힙합 따라잡기 ＃66 - 스프레이의 친구들은?]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13157&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 09 May 2023 09:12:00 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13145/Mgz_Main_List_20230509171830.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑스러운 러버보이에서 타인의 감정을 살피는 뮤지션으로, Phum Viphur...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13150&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13150&amp;pg=1</guid>
-            <pubDate>Tue, 09 May 2023 03:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13150/Mgz_Main_List_20230509100949.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
