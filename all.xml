@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 05:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 06:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -193,6 +193,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/T023TBEF0RWK89NDV73B/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KIMKIMPARKKIM's 음악가, 함께 ＃10 - George Michae... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13161&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13161&amp;pg=1</guid>
+            <pubDate>Thu, 11 May 2023 06:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[김김박김]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13161/Mgz_Main_List_20230511141217.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[영화 음악가가 작곡한 클래식은 무슨 느낌일까? (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13158&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13158&amp;pg=1</guid>
@@ -247,14 +255,6 @@
             <pubDate>Wed, 10 May 2023 03:12:05 GMT</pubDate>
             <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13151/Mgz_Main_List_20230510104037.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[만능엔터테이너 유준상과 엘라스트(E'LAST)의 [아이마미따(Ay Mamita... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13149&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13149&amp;pg=1</guid>
-            <pubDate>Wed, 10 May 2023 03:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13149/Mgz_Main_List_20230510090848.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[딴따라 아이콘의 
@@ -369,9 +369,17 @@ Agust D, 킴 페트라 (VIBE ─ 매거진)]]></title>
 로맨스 <남은 인생 10년> (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 11 May 2023 05:10:43 GMT</pubDate>
+            <pubDate>Thu, 11 May 2023 06:15:21 GMT</pubDate>
             <content:encoded><![CDATA[2022년 일본에서 가장 사랑받은 흥행 로맨스로 역대급 비주얼 로맨스 탄생을 예고하는 고마츠 나나, 사카구치 켄타로 주연, 감동의 베스트셀러 원작, 래드윔프스(RADWIMPS)의 OST까지 눈과 귀를 사로잡을 올봄 단 하나의 로맨스가 5월 24일 국내 개봉한다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230509_126/1683601506185NwvwD_JPEG/%B3%B2%C0%BA%C0%CE%BB%FD10%B3%E2_%B3%D7%C0%CC%B9%F6%B9%D9%C0%CC%BA%EA_%C1%F7%BB%E7%B0%A2%C7%FC%B9%E8%B3%CA2%28964x672%29.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이토록 뜨거운 부산 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[아트부산 2023 리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3d05aa9a47934bf6972c815734b5e7f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[따뜻한 위로의 레시피 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ Agust D, 킴 페트라 (VIBE ─ 매거진)]]></title>
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 전통주 시음 이벤트 #03]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/97ff459e52cc4cfc93cc6b2a26bf4f69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악도 패션도  스타일리시 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[브루노 마스 음악의 마지막 퍼즐, 레트로 패션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/76780f4e2c3b4c86b16d6171476f0228.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
