@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 04:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 05:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울에서  우주까지]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 5월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61164e5863464082a45449ec586b0ac3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안목의 급이 다르다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[세계문화유산으로 지정된 도시 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a8bb1192eeee48f9a438bbb61b3215db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신상 클럽이 가득해]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[IRON &amp; WOOD 클럽 커스터마이징 서비스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f7260ab1f5da47009784feab20aa05d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
