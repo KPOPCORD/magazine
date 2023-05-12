@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 06:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 07:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ Agust D, 킴 페트라 (VIBE ─ 매거진)]]></title>
 다프트 펑크 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 12 May 2023 06:14:50 GMT</pubDate>
+            <pubDate>Fri, 12 May 2023 07:10:57 GMT</pubDate>
             <content:encoded><![CDATA[일렉트로닉 음악의 역사에 전설로 남을 프랑스의 듀오, 다프트 펑크가 28년의 활동 끝에 해체를 선언한 지 어느덧 2년이 흘렀다. 그들은 최근 자신들의 마지막 정규 앨범 &lt;Random Access Memories&gt;의 발매 10주년을 맞아 당시 앨범에 실리지 못한 곡을 공개하며 관심을 모았다. 해체는 확정이지만, 그들의 이야기는 여전히 현재진행형이다. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230509_12/16835960085095AHRv_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내가 있는 이곳이 한강 맛집 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[망원한강공원 테이크아웃 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1b1bc653c2cd4bbfac5538d48516ff78.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울에서  우주까지 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ Agust D, 킴 페트라 (VIBE ─ 매거진)]]></title>
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[여름 치트키, 크로셰 소재 아이템]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/43c63b48beff49f4b88cd134d1b760c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신성한, 도시 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[세계문화유산으로 지정된 도시 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a8bb1192eeee48f9a438bbb61b3215db.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
