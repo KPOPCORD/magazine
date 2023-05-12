@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 08:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 09:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션과 의자가 만났을 때]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[패션 브랜드가 선보인 의자 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ff42016a29d2457f86539abf428b8293.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 있는 이곳이 한강 맛집]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[IRON &amp; WOOD의 골프 굿즈 6]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b388bfbcbf384d49b589433ff3c4f78f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크로셰로 여름 나기]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[여름 치트키, 크로셰 소재 아이템]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/43c63b48beff49f4b88cd134d1b760c4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
