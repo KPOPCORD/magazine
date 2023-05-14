@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 03:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 04:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명사들의  사적 공간으로]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[piknic, 프랑수아 알라르 사진전]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f26c6f6f338248d9986f167a542b401e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우주를  줄게]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 5월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f1fc2ece867544169fdaf83b4cb71bf9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BONUS TRACK 10.  THAMA]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 22 Apr 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[진솔한 보이스, THAMA의 보너스 트랙]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d8325649fc814e3da3a888135a206534.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
