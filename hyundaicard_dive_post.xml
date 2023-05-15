@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 05:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 06:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리가 사랑한  슈퍼스타의 귀환]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[그래미를 휩쓴 브루노 마스 대표곡]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dc98ef35f321460699376422a33a794e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일상의 비일상성]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[전은경의 '신간']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cb54f5b2099942ee8a79a10f4a01a520.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름날 필드 솔루션]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[IRON &amp; WOOD에서 준비하는 여름 라운드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2cb707d9074642ad9c7d5a1833ca6cd8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
