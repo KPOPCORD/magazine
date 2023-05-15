@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 02:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 03:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스티(STi) - 4년만의 미니앨범 [ride out], 트랙별 작업 후기 & 미공개 B컷 사진 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/PCA3LERJ8JC91JUPJ0SS?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/PCA3LERJ8JC91JUPJ0SS?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 15 May 2023 03:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/PCA3LERJ8JC91JUPJ0SS/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성민제 - '너에게 하지 못한 이야기' 첫 LIVE CLIP 촬영 현장]]></title>
             <link>https://music.bugs.co.kr/musicpost/CC1SEKB328QAWHA5O7UD?&amp;wl_ref=list_sp_01_h</link>
@@ -32,19 +40,19 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/D1WAMCVU9AHJCUP15ZIJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팝송으로 배우는 영어! 69.Mina Okabe - 'Talk To Me']]></title>
-            <link>https://music.bugs.co.kr/musicpost/HB8T9MROXIEWAI2PHNEJ?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/HB8T9MROXIEWAI2PHNEJ?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[블리처스 (BLITZERS) - 서울에서 WORLD로! 블리처스 마카레나 독점 B컷 공개!]]></title>
             <link>https://music.bugs.co.kr/musicpost/ZLD2YAWTU7YIK8N0OE0F?&amp;wl_ref=list_sp_01_h</link>
             <guid>https://music.bugs.co.kr/musicpost/ZLD2YAWTU7YIK8N0OE0F?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ZLD2YAWTU7YIK8N0OE0F/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 69.Mina Okabe - 'Talk To Me']]></title>
+            <link>https://music.bugs.co.kr/musicpost/HB8T9MROXIEWAI2PHNEJ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/HB8T9MROXIEWAI2PHNEJ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[모트(Motte) - 'After Sunset' 녹음 비하인드 공개!]]></title>
@@ -183,14 +191,6 @@
             <guid>https://music.bugs.co.kr/musicpost/20BV945H44F7M718C1WI?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Eagle-Eye Cherry(이글-아이 체리) - 젊은 에너지와 농익은 연륜이 동시에 존재하는 [Back on Track]]]></title>
-            <link>https://music.bugs.co.kr/musicpost/T023TBEF0RWK89NDV73B?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/T023TBEF0RWK89NDV73B?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/T023TBEF0RWK89NDV73B/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
