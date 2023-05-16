@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 02:06:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 03:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -193,6 +193,30 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘도 무사히 잘 지내보자!, 나히 (Nahee) – 안녕(H!) (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13167&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13167&amp;pg=1</guid>
+            <pubDate>Tue, 16 May 2023 03:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13167/Mgz_Main_List_20230516085737.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[그럼에도 변하지 않는 것 – 이루마 [non è la fine] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13166&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13166&amp;pg=1</guid>
+            <pubDate>Tue, 16 May 2023 03:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13166/Mgz_Main_List_20230516100933.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[미국으로 건너온 프랑스맛의 향연! 혼성 듀오 Pearl & The Oyster... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13162&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13162&amp;pg=1</guid>
+            <pubDate>Tue, 16 May 2023 03:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13162/Mgz_Main_List_20230516120127.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[재즈의 새로운 고전 ＃37 - 남성 재즈보컬의 현대적 모범이자 미래까지 담보한... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13169&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13169&amp;pg=1</guid>
@@ -231,30 +255,6 @@
             <pubDate>Mon, 15 May 2023 03:11:56 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13163/Mgz_Main_List_20230515092854.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[터져버린 꿈도 사랑으로 껴안는, ‘문없는집’의 [Alchemist] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13160&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13160&amp;pg=1</guid>
-            <pubDate>Fri, 12 May 2023 03:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13160/Mgz_Main_List_20230512101536.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[Suitz (슈츠) [Wing] Ready Set Go! (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13159&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13159&amp;pg=1</guid>
-            <pubDate>Fri, 12 May 2023 03:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13159/Mgz_Main_List_20230512095827.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[VIVIZ (비비지), <보라! 데보라 OST> 녹음 비하인드 스토리 독점 공... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13153&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13153&amp;pg=1</guid>
-            <pubDate>Thu, 11 May 2023 09:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13153/Mgz_Main_List_20230511161338.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[한국 힙합 여기요 : 
@@ -369,7 +369,7 @@ Agust D, 킴 페트라 (VIBE ─ 매거진)]]></title>
 에스파, 조나스 브라더스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 16 May 2023 02:05:51 GMT</pubDate>
+            <pubDate>Tue, 16 May 2023 03:12:36 GMT</pubDate>
             <content:encoded><![CDATA[스파이시한 매력으로 돌아온 에스파, 6집 정규 앨범으로 돌아온 조나스 브라더스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230515_83/1684136837737Dc5hy_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
