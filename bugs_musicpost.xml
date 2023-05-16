@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 08:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 09:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레인보우 노트(Rainbow note) - 'I wanna be free' MV 비하인드 공개!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/G3LHQTRSNZVS0A1LDEEU?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/G3LHQTRSNZVS0A1LDEEU?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 16 May 2023 09:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/G3LHQTRSNZVS0A1LDEEU/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스티(STi) - 4년만의 미니앨범 [ride out], 트랙별 작업 후기 & 미공개 B컷 사진 공개]]></title>
             <link>https://music.bugs.co.kr/musicpost/PCA3LERJ8JC91JUPJ0SS?&amp;wl_ref=list_sp_01_h</link>
@@ -184,13 +192,6 @@
             <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/08LVGWJ0IQJWDIA3RSDD/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝송으로 배우는 영어! 66.Stacey Ryan - 'Fall In Love Alone']]></title>
-            <link>https://music.bugs.co.kr/musicpost/20BV945H44F7M718C1WI?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/20BV945H44F7M718C1WI?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
