@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 23:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 00:55:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재즈의 새로운 고전 ＃37 - 남성 재즈보컬의 현대적 모범이자 미래까지 담보한...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13169&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13169&amp;pg=1</guid>
+            <pubDate>Tue, 16 May 2023 00:55:18 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13169/Mgz_Main_List_20230515110602.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[꿈을 향해 비상하는 소년들의 힘찬 메시지, 더윈드 (The Wind) [Beg...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13164&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 May 2023 09:11:50 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13153/Mgz_Main_List_20230511161338.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[KIMKIMPARKKIM's 음악가, 함께 ＃10 - George Michae...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13161&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13161&amp;pg=1</guid>
-            <pubDate>Thu, 11 May 2023 06:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[김김박김]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13161/Mgz_Main_List_20230511141217.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
