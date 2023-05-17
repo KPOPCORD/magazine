@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 06:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 07:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 맛을 향한  여정은 끝이 없지]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[신상 맛집 #32]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dde8da7842a049ccb077dd2e8da903a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코드명: 기록 보관소]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[패션 브랜드가 선보인 의자 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ff42016a29d2457f86539abf428b8293.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 있는 이곳이 한강 맛집]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[망원한강공원 테이크아웃 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1b1bc653c2cd4bbfac5538d48516ff78.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

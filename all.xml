@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 06:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 07:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ Agust D, 킴 페트라 (VIBE ─ 매거진)]]></title>
 에스파, 조나스 브라더스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 17 May 2023 06:25:26 GMT</pubDate>
+            <pubDate>Wed, 17 May 2023 07:14:22 GMT</pubDate>
             <content:encoded><![CDATA[스파이시한 매력으로 돌아온 에스파, 6집 정규 앨범으로 돌아온 조나스 브라더스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230515_83/1684136837737Dc5hy_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 맛을 향한  여정은 끝이 없지 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[신상 맛집 #32]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dde8da7842a049ccb077dd2e8da903a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코드명: 기록 보관소 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ Agust D, 킴 페트라 (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[패션 브랜드가 선보인 의자 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ff42016a29d2457f86539abf428b8293.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 있는 이곳이 한강 맛집 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[망원한강공원 테이크아웃 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1b1bc653c2cd4bbfac5538d48516ff78.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
