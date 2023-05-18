@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 11:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 12:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -193,6 +193,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OAGD6RPH6QK6HLCIT35I/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비상해 날아올라 우린 Fly to next new place! ATBO [Th... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13176&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13176&amp;pg=1</guid>
+            <pubDate>Thu, 18 May 2023 12:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13176/Mgz_Main_List_20230518100133.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[진화해서 돌아온 마이 앤트 메리의 EP 앨범 [RIGHT NOW] 작업 비하인... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13181&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13181&amp;pg=1</guid>
@@ -247,14 +255,6 @@
             <pubDate>Wed, 17 May 2023 04:13:47 GMT</pubDate>
             <content:encoded><![CDATA[공연]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13174/Mgz_Main_List_20230517111505.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[황상준 음악감독 X 바이올리니스트 대니 구 이 시대를 위한 위로 [Goodby... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13173&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13173&amp;pg=1</guid>
-            <pubDate>Wed, 17 May 2023 04:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13173/Mgz_Main_List_20230517112308.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #143 : 
@@ -369,7 +369,7 @@
 소녀들은 영원히 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 18 May 2023 11:10:57 GMT</pubDate>
+            <pubDate>Thu, 18 May 2023 12:20:42 GMT</pubDate>
             <content:encoded><![CDATA[&lt;소녀 리버스&gt;에서 최종 멤버로 선발된 다섯 명의 소녀 캐릭터가 ‘피버스'로 데뷔한다. 베일에 가려진 진짜 걸그룹 멤버들이 이 소녀들로 다시 태어나 새롭게 데뷔하는 지금, 가상과 실제를 오가며 우리를 즐거운 혼란에 빠뜨린다. 가상세계에서 하고 싶은 모든 엉뚱한 상상을 다 이룬 소녀들과의 근본 없이 해맑고 은은하게 솔직한 인터뷰.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230517_94/1684285523184iJTc2_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
