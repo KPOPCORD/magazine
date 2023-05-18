@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 06:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 07:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2023년 5월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/JDO7DGPBQAQLCH4TUNTD?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/JDO7DGPBQAQLCH4TUNTD?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 18 May 2023 07:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[레인보우 노트(Rainbow note) - 'I wanna be free' MV 비하인드 공개!]]></title>
             <link>https://music.bugs.co.kr/musicpost/G3LHQTRSNZVS0A1LDEEU?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +191,6 @@
             <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OAGD6RPH6QK6HLCIT35I/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8TURN - 1st Mini Album [8TURNRISE] 자켓 촬영 현장]]></title>
-            <link>https://music.bugs.co.kr/musicpost/08LVGWJ0IQJWDIA3RSDD?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/08LVGWJ0IQJWDIA3RSDD?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 06 May 2023 09:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/08LVGWJ0IQJWDIA3RSDD/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
