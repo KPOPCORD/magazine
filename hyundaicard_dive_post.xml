@@ -4,17 +4,9 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 12:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 13:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[A Journey to  Return Home]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[스토리지 최초 한국 작가 전시, 이헌정 개인전]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02e7a35bf61f4805b33379ed2b99303a.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[우주 별종들의  완벽한 피날레]]></title>
             <link>javascript:;</link>
@@ -78,6 +70,14 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 5월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9e378ec188a24d08b131f52ea56359f6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명사들의  사적 공간으로]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[piknic, 프랑수아 알라르 사진전]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f26c6f6f338248d9986f167a542b401e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
