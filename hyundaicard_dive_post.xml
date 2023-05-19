@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 06:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 07:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캘리포니아의  칠한 사운드]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[랄프 로렌 뮤직 라운지, 캘리포니아 in 한남]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aece5654217f4d349c1543ebfe1167bb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고수는 고수를 알아보는 법]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[그래미를 휩쓴 브루노 마스 대표곡]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dc98ef35f321460699376422a33a794e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일상의 비일상성]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 5월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9e378ec188a24d08b131f52ea56359f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

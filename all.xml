@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 06:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 07:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
 소녀들은 영원히 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 19 May 2023 06:15:48 GMT</pubDate>
+            <pubDate>Fri, 19 May 2023 07:11:42 GMT</pubDate>
             <content:encoded><![CDATA[&lt;소녀 리버스&gt;에서 최종 멤버로 선발된 다섯 명의 소녀 캐릭터가 ‘피버스'로 데뷔한다. 베일에 가려진 진짜 걸그룹 멤버들이 이 소녀들로 다시 태어나 새롭게 데뷔하는 지금, 가상과 실제를 오가며 우리를 즐거운 혼란에 빠뜨린다. 가상세계에서 하고 싶은 모든 엉뚱한 상상을 다 이룬 소녀들과의 근본 없이 해맑고 은은하게 솔직한 인터뷰.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230517_94/1684285523184iJTc2_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캘리포니아의  칠한 사운드 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[랄프 로렌 뮤직 라운지, 캘리포니아 in 한남]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aece5654217f4d349c1543ebfe1167bb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고수는 고수를 알아보는 법 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[그래미를 휩쓴 브루노 마스 대표곡]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dc98ef35f321460699376422a33a794e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일상의 비일상성 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 5월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9e378ec188a24d08b131f52ea56359f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
