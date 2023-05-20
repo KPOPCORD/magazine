@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 03:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 04:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초미니멀  홈 파밍]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[안녕! 나의 초소형 텃밭]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b545d06f0cad49709b38eb51c18e8345.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A Journey to  Return Home]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[최태혁의 ‘브랜드 이야기’]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3ab457615eab496d98764f703f236418.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상은 넓고 오마카세는 다양하지]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[개성 있는 이색 오마카세]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f85212902552411b9db56ed7ba907dc7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
