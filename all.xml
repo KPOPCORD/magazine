@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 04:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 05:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
 당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 22 May 2023 04:14:09 GMT</pubDate>
+            <pubDate>Mon, 22 May 2023 05:11:39 GMT</pubDate>
             <content:encoded><![CDATA[최근 발매된 수많은 노래 중 VIBE에서 사랑받은 ‘이달의 노래’를 소개합니다. 힙터질때, 신났을때, 우울할때, 사랑할때, 사랑했을때, 파티할때, 멍때릴때, 운동할때, 휴식할때… 느낌별 스테이션이 선정한 ‘5월의 노래’를 여러분도 들어보세요.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230519_42/1684476023965JIOFW_JPEG/%C4%BF%B9%F62_%281%29.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A컷에 담긴 패션 스토리 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 영감을 불어넣을 패션 사진집 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5bbe6949cf6b4884a8805a51ae987017.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[큐피드 말고 (현대카드 DIVE ─ POST)]]></title>
@@ -430,20 +438,12 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ec07159fba8243068cf345ea66ee0b63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새로운 맛을 향한  여정은 끝이 없지 (현대카드 DIVE ─ POST)]]></title>
+            <title><![CDATA[디지털 시대의 새로운 예술, 게임 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[신상 맛집 #32]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dde8da7842a049ccb077dd2e8da903a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코드명: 기록 보관소 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[DIVE와 코드 쿤스트의 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fb2966244496471abfb7395224b6f880.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[현대카드 단독 후원 전시 '게임사회']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4a2e6dc07074413fa1b1c518e78e772a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
