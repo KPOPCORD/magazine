@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 02:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 03:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디너프 (DNEIRF) - 여름의 문을 두드리는 시원한 미니 앨범! [4SEASONS] (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/BXN0845CHFHR6O0KBN9M?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/BXN0845CHFHR6O0KBN9M?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 22 May 2023 03:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BXN0845CHFHR6O0KBN9M/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2023년 5월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JDO7DGPBQAQLCH4TUNTD?&amp;wl_ref=list_sp_01_h</link>
@@ -185,14 +193,6 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/6PMTNZHLWKUC154QL4EP/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오씰 (OSCiiL) - 여행자의 고민이 담긴 [쏟아지는 별] 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/OAGD6RPH6QK6HLCIT35I?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/OAGD6RPH6QK6HLCIT35I?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sun, 21 May 2023 08:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OAGD6RPH6QK6HLCIT35I/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[새로운 모습으로 돌아온 블랙스완 [That Karma] 자켓 촬영 현장 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13183&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13183&amp;pg=1</guid>
@@ -369,7 +369,7 @@
 당신의 느낌은 어땠나요? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 22 May 2023 02:11:02 GMT</pubDate>
+            <pubDate>Mon, 22 May 2023 03:13:51 GMT</pubDate>
             <content:encoded><![CDATA[최근 발매된 수많은 노래 중 VIBE에서 사랑받은 ‘이달의 노래’를 소개합니다. 힙터질때, 신났을때, 우울할때, 사랑할때, 사랑했을때, 파티할때, 멍때릴때, 운동할때, 휴식할때… 느낌별 스테이션이 선정한 ‘5월의 노래’를 여러분도 들어보세요.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230519_42/1684476023965JIOFW_JPEG/%C4%BF%B9%F62_%281%29.jpg?type=w840" length="0" type="image/jpg"/>
         </item>

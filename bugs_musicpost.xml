@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 02:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 03:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디너프 (DNEIRF) - 여름의 문을 두드리는 시원한 미니 앨범! [4SEASONS]]]></title>
+            <link>https://music.bugs.co.kr/musicpost/BXN0845CHFHR6O0KBN9M?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/BXN0845CHFHR6O0KBN9M?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 22 May 2023 03:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BXN0845CHFHR6O0KBN9M/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2023년 5월 노래 모음!]]></title>
             <link>https://music.bugs.co.kr/musicpost/JDO7DGPBQAQLCH4TUNTD?&amp;wl_ref=list_sp_01_h</link>
@@ -183,14 +191,6 @@
             <pubDate>Sun, 21 May 2023 08:13:19 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/6PMTNZHLWKUC154QL4EP/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오씰 (OSCiiL) - 여행자의 고민이 담긴 [쏟아지는 별] 발매 기념 인터뷰]]></title>
-            <link>https://music.bugs.co.kr/musicpost/OAGD6RPH6QK6HLCIT35I?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/OAGD6RPH6QK6HLCIT35I?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sun, 21 May 2023 08:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OAGD6RPH6QK6HLCIT35I/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
