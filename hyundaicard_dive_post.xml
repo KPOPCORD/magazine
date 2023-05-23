@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 07:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 08:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙하지  않은 숙소,  유죄]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[에어비앤비가 소개하는 MZ 취향 저격 숙소]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1bf670629f45435dbe69090c5b0f7118.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이토록 뜨거운 부산]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[랄프 로렌 뮤직 라운지, 캘리포니아 in 한남]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aece5654217f4d349c1543ebfe1167bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고수는 고수를 알아보는 법]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[고수 이색 메뉴 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dab4e78b7fae46ac859abb02651f8551.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
