@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 08:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 09:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[여러분을 지키기 위해 돌아온 4명의 히어로, 카드 (KARD)의 자켓 현장 공... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13194&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13194&amp;pg=1</guid>
+            <pubDate>Tue, 23 May 2023 09:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13194/Mgz_Main_List_20230523105259.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[범진의 ‘꽃다발 들고서’ 컨텐츠 촬영기 비하인드 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13193&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13193&amp;pg=1</guid>
@@ -246,14 +254,6 @@
             <pubDate>Mon, 22 May 2023 04:13:52 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13182/Mgz_Main_List_20230519121202.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 모습으로 돌아온 블랙스완 [That Karma] 자켓 촬영 현장 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13183&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13183&amp;pg=1</guid>
-            <pubDate>Fri, 19 May 2023 09:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13183/Mgz_Main_List_20230519153538.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #144 : 
@@ -368,7 +368,7 @@
 엔하이픈의 도발 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 23 May 2023 08:17:16 GMT</pubDate>
+            <pubDate>Tue, 23 May 2023 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[엔하이픈의 컴백은 거의 모든 면에서 도발적이다. 다크섹시를 표방하는 컨셉트와 타이틀곡 ‘Bite Me’의 가사, 신비로운 뮤직비디오로 컴백한 엔하이픈에게 새 앨범에 대해 물었다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230523_161/1684827914593zNHda_PNG/%C0%A5%B8%DE%C0%CE.png?type=w840" length="0" type="image/png"/>
         </item>
