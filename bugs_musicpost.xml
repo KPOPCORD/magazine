@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 00:56:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 02:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 70.Post Malone - 'Chemical']]></title>
+            <link>https://music.bugs.co.kr/musicpost/XWQ5HRLX13Q6EDO3W1BE?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/XWQ5HRLX13Q6EDO3W1BE?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 23 May 2023 02:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[디너프 (DNEIRF) - 여름의 문을 두드리는 시원한 미니 앨범! [4SEASONS]]]></title>
             <link>https://music.bugs.co.kr/musicpost/BXN0845CHFHR6O0KBN9M?&amp;wl_ref=list_sp_01_h</link>
@@ -183,14 +190,6 @@
             <guid>https://music.bugs.co.kr/musicpost/41KT5YJUYBM6RFQ8Z9FS?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Sun, 21 May 2023 08:13:19 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[후니용이 - '종천지모'로 해외 진출을 목표로 글로벌하게!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/6PMTNZHLWKUC154QL4EP?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/6PMTNZHLWKUC154QL4EP?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sun, 21 May 2023 08:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/6PMTNZHLWKUC154QL4EP/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
