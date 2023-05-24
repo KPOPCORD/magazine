@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 04:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 05:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,9 +368,17 @@
 엔하이픈의 도발 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 24 May 2023 04:13:52 GMT</pubDate>
+            <pubDate>Wed, 24 May 2023 05:11:20 GMT</pubDate>
             <content:encoded><![CDATA[엔하이픈의 컴백은 거의 모든 면에서 도발적이다. 다크섹시를 표방하는 컨셉트와 타이틀곡 ‘Bite Me’의 가사, 신비로운 뮤직비디오로 컴백한 엔하이픈에게 새 앨범에 대해 물었다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230523_161/1684827914593zNHda_PNG/%C0%A5%B8%DE%C0%CE.png?type=w840" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[섬세하고도 새로운 시선으로 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[영 건축 포토그래퍼 4인]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/53ebe7384f054216ac7d2e920c19d5f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[힙하지  않은 숙소,  유죄 (현대카드 DIVE ─ POST)]]></title>
@@ -435,14 +443,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[스토리지 최초 한국 작가 전시, 이헌정 개인전]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02e7a35bf61f4805b33379ed2b99303a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캘리포니아의  칠한 사운드 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[랄프 로렌 뮤직 라운지, 캘리포니아 in 한남]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aece5654217f4d349c1543ebfe1167bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

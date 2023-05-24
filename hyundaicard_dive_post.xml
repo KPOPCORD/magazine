@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 04:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 05:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[섬세하고도 새로운 시선으로]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[영 건축 포토그래퍼 4인]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/53ebe7384f054216ac7d2e920c19d5f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힙하지  않은 숙소,  유죄]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[스토리지 최초 한국 작가 전시, 이헌정 개인전]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02e7a35bf61f4805b33379ed2b99303a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캘리포니아의  칠한 사운드]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[랄프 로렌 뮤직 라운지, 캘리포니아 in 한남]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aece5654217f4d349c1543ebfe1167bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
