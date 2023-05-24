@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 08:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 09:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 잘나가는  K-푸드 커뮤니티,  난로회]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 '요즘 커뮤니티']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4f440d91e75247d799448d0bf7c4104e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[섬세하고도 새로운 시선으로]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[안녕! 나의 초소형 텃밭]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b545d06f0cad49709b38eb51c18e8345.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Journey to  Return Home]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[스토리지 최초 한국 작가 전시, 이헌정 개인전]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02e7a35bf61f4805b33379ed2b99303a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
