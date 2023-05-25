@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 07:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 08:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밥 먹으러 왔다가 술 마시고 가지요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[식사만 하기엔 섭섭한 한식 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1eb8dc83a7ef420cb295fcac81a29c30.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뒤피의  계절]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[새로운 영감을 불어넣을 패션 사진집 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5bbe6949cf6b4884a8805a51ae987017.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큐피드 말고]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[빌보드 입성한 피프티 피프티 전부 듣기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e0f5dcb9cc2c4fdd8f0d894c2ad2f330.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

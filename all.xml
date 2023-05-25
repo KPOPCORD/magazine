@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 07:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 08:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
 인어공주 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 25 May 2023 07:11:50 GMT</pubDate>
+            <pubDate>Thu, 25 May 2023 08:14:19 GMT</pubDate>
             <content:encoded><![CDATA[1990년대에 유년 시절을 보낸 이들에게 추억으로 남아 있는 작품이 있으니. 바로 디즈니의 애니메이션 “인어공주”다. 그리고 세월은 흘러 2023년. “인어공주”가 실사영화로 우리 곁에 돌아오게 되었다. 그런 만큼 이주의 디깅에서는 디즈니 OST와 함께 여러 추억들을 되짚어 보도록 하자. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230525_20/1684980022961HzhyW_PNG/%C0%CE%BE%EE%B0%F8%C1%D6_%C0%A5.png?type=w840" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[밥 먹으러 왔다가 술 마시고 가지요 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[식사만 하기엔 섭섭한 한식 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1eb8dc83a7ef420cb295fcac81a29c30.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뒤피의  계절 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[새로운 영감을 불어넣을 패션 사진집 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5bbe6949cf6b4884a8805a51ae987017.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큐피드 말고 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[빌보드 입성한 피프티 피프티 전부 듣기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e0f5dcb9cc2c4fdd8f0d894c2ad2f330.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
