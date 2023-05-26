@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 05:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 06:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여행은 살아 보는 거야]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[현지 주민처럼 살아 볼 수 있는 곳 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/85b7428c24bb4c19b8a62d275d10ace4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄의 생기로  가득했던 토요일]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 04]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a19ab3a9e7534576bc0dfcf5b5342624.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피처링만  했을 뿐인데]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[브루노 마스가 피처링한 히트곡]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3befc1a801d5424881827a292d6448aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

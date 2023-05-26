@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 05:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 06:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
 인어공주 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 26 May 2023 05:12:29 GMT</pubDate>
+            <pubDate>Fri, 26 May 2023 06:14:46 GMT</pubDate>
             <content:encoded><![CDATA[1990년대에 유년 시절을 보낸 이들에게 추억으로 남아 있는 작품이 있으니. 바로 디즈니의 애니메이션 “인어공주”다. 그리고 세월은 흘러 2023년. “인어공주”가 실사영화로 우리 곁에 돌아오게 되었다. 그런 만큼 이주의 디깅에서는 디즈니 OST와 함께 여러 추억들을 되짚어 보도록 하자. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230525_20/1684980022961HzhyW_PNG/%C0%CE%BE%EE%B0%F8%C1%D6_%C0%A5.png?type=w840" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[여행은 살아 보는 거야 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[현지 주민처럼 살아 볼 수 있는 곳 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/85b7428c24bb4c19b8a62d275d10ace4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[봄의 생기로  가득했던 토요일 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 04]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a19ab3a9e7534576bc0dfcf5b5342624.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피처링만  했을 뿐인데 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[브루노 마스가 피처링한 히트곡]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3befc1a801d5424881827a292d6448aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
