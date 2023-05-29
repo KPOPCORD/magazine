@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 03:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 04:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
 인어공주 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 29 May 2023 03:12:33 GMT</pubDate>
+            <pubDate>Mon, 29 May 2023 04:13:57 GMT</pubDate>
             <content:encoded><![CDATA[1990년대에 유년 시절을 보낸 이들에게 추억으로 남아 있는 작품이 있으니. 바로 디즈니의 애니메이션 “인어공주”다. 그리고 세월은 흘러 2023년. “인어공주”가 실사영화로 우리 곁에 돌아오게 되었다. 그런 만큼 이주의 디깅에서는 디즈니 OST와 함께 여러 추억들을 되짚어 보도록 하자. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230525_20/1684980022961HzhyW_PNG/%C0%CE%BE%EE%B0%F8%C1%D6_%C0%A5.png?type=w840" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[브루노의 완벽한 파트너들 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[그들이 함께 만든 황홀한 음악]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2dac43c7dc9c4ee19c892e9e77b1b78a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오렌지 룩이 피었습니다 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[영 건축 포토그래퍼 4인]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/53ebe7384f054216ac7d2e920c19d5f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙하지  않은 숙소,  유죄 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[에어비앤비가 소개하는 MZ 취향 저격 숙소]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1bf670629f45435dbe69090c5b0f7118.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
