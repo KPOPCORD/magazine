@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 08:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 09:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑의 양면성, 꿈과 현실을 담은 안희수 EP 2집 [그림에 갇히다] 발매 인...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13213&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13213&amp;pg=1</guid>
+            <pubDate>Tue, 30 May 2023 09:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13213/Mgz_Main_List_20230530123056.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[BOYNEXTDOOR, 데뷔 앨범 ‘WHO!’ 발매!  지금 이 시기의 청춘들...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13210&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13210&amp;pg=1</guid>
+            <pubDate>Tue, 30 May 2023 09:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13210/Mgz_Main_List_20230530173814.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[가요 탐구생활 ＃54 - 피프티 피프티의 Cupid는 Stupid 하지 않아!]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=13217&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 30 May 2023 03:12:54 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13206/Mgz_Main_List_20230530094833.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 꼭 알아야 할 헤비메탈의 순간들 65화 – 나인 인치 네일스(Nine ...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=13211&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=13211&amp;pg=1</guid>
-            <pubDate>Fri, 26 May 2023 03:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[올댓메탈]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13211/Mgz_Main_List_20230526112121.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[UK 네오 소울을 대표하는 새로운 세대의 정직한 자화상, 'Arlo Parks...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13209&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13209&amp;pg=1</guid>
-            <pubDate>Fri, 26 May 2023 03:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13209/Mgz_Main_List_20230526103612.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
