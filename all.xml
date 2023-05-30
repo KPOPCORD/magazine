@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 07:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 08:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
 '넥스트'는 누구? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 30 May 2023 07:10:42 GMT</pubDate>
+            <pubDate>Tue, 30 May 2023 08:14:26 GMT</pubDate>
             <content:encoded><![CDATA[지금 차트는 에스파, (여자)아이들, 아이브, 르세라핌, 뉴진스 등 4세대 걸그룹으로 가득 차 있다. 이들 이후를 차지할 '넥스트'는 누가 될까? 같이 살펴보자.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230530_45/1685417781361TAWga_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세계 최고의  디자인 행사,  밀라노 디자인 위크 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 ??????]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7dad0b6a619f4660993e618db9d0a5ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리 사랑  푸르게 푸르게 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[식사만 하기엔 섭섭한 한식 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1eb8dc83a7ef420cb295fcac81a29c30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뒤피의  계절 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[기쁨의 화가 라울 뒤피 개인전]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a46b9d9969ae4c1b9cddd688bf6bdd2e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
