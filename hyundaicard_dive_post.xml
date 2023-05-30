@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 05:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 06:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 사랑  푸르게 푸르게]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[DIVE와 콜드의 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/27403f4f73d844c7adfa87d101cdd821.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브루노의 완벽한 파트너들]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[기쁨의 화가 라울 뒤피 개인전]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a46b9d9969ae4c1b9cddd688bf6bdd2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 잘나가는  K-푸드 커뮤니티,  난로회]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[전은경의 '요즘 커뮤니티']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4f440d91e75247d799448d0bf7c4104e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
