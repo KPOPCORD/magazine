@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 02:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 03:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Maaya Sakamoto(사카모토 마아야/坂本 真綾) - 정규 11집 [記憶の図書館(Kioku no Toshokan)] 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/H70SRLDR1QAUA3WP2VRG?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/H70SRLDR1QAUA3WP2VRG?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 31 May 2023 03:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/H70SRLDR1QAUA3WP2VRG/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SECRET NUMBER (시크릿넘버) - 독보다 더 독한 모습으로 돌아온 싱글 6집 [독사 (DOXA)]]]></title>
             <link>https://music.bugs.co.kr/musicpost/D5PY4N0YBRKSPGJ5RRPJ?&amp;wl_ref=list_sp_01_h</link>
@@ -184,13 +192,6 @@
             <pubDate>Fri, 26 May 2023 05:11:00 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GLR1A1PNCA924OK9I31Z/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝송으로 배우는 영어! 67.Cian Ducrot - 'I'll Be Waiting']]></title>
-            <link>https://music.bugs.co.kr/musicpost/SF6FGBCWRYDSMI9LDWJV?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/SF6FGBCWRYDSMI9LDWJV?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 26 May 2023 05:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
