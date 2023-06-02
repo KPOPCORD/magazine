@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 08:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 09:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GLR1A1PNCA924OK9I31Z/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크리에이터에서 아티스트로, 장지수 (Sou) [have] 발매 인터뷰 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13218&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13218&amp;pg=1</guid>
+            <pubDate>Fri, 02 Jun 2023 09:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13218/Mgz_Main_List_20230602112227.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[하나의 종착지에 머물지 않고 날아가는 비행사 파일랫 (pylat) [사라질 거... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13227&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13227&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Wed, 31 May 2023 03:15:47 GMT</pubDate>
             <content:encoded><![CDATA[영화/전시]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13221/Mgz_Main_List_20230530152935.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[너드커넥션 싱글 ‘I Robbed a Bank’ 녹음실 스케치 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13220&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13220&amp;pg=1</guid>
-            <pubDate>Wed, 31 May 2023 03:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13220/Mgz_Main_List_20230531105512.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[NINE to SIX, 
@@ -370,7 +370,7 @@
 발칙한 아싸들의 핑크빛 반란 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 02 Jun 2023 08:15:04 GMT</pubDate>
+            <pubDate>Fri, 02 Jun 2023 09:11:57 GMT</pubDate>
             <content:encoded><![CDATA[“우정은 신중히, 사고는 거침없이!” 4명의 아싸들이 모여 핑크빛 반란을 일으킨다! 리듬을 타지 않고 배길 수 없는 사운드트랙의 향연! 전 세계적인 신드롬을 불러일으켰던 레전드 뮤지컬 영화 &lt;그리스&gt; 그 이전의 이야기, 파라마운트+ 오리지널 시리즈 &lt;그리스: 라이즈 오브 핑크레이디스&gt; 지금 바로 티빙 ‘파라마운트+ 브랜드관’에서!]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230602_232/1685671891982CcBmt_JPEG/0530_P%2B_%B1%D7%B8%AE%BD%BA_VIBE%B9%E8%B3%CA%28964x672%29_PC.jpg?type=w840" length="0" type="image/jpg"/>
         </item>

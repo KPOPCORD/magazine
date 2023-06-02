@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 08:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 09:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리에이터에서 아티스트로, 장지수 (Sou) [have] 발매 인터뷰]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13218&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13218&amp;pg=1</guid>
+            <pubDate>Fri, 02 Jun 2023 09:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13218/Mgz_Main_List_20230602112227.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[하나의 종착지에 머물지 않고 날아가는 비행사 파일랫 (pylat) [사라질 거...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13227&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 31 May 2023 03:15:47 GMT</pubDate>
             <content:encoded><![CDATA[영화/전시]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13221/Mgz_Main_List_20230530152935.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[너드커넥션 싱글 ‘I Robbed a Bank’ 녹음실 스케치]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13220&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13220&amp;pg=1</guid>
-            <pubDate>Wed, 31 May 2023 03:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13220/Mgz_Main_List_20230531105512.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
