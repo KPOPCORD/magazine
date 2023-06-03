@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Jun 2023 03:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 04:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탱화라는  정체성]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[불교예술을 기반으로 활동하는 작가 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e090cd8d6b374d92b13363dc47a85975.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나도  펫셔니스타]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 테마 북 컬렉션 2]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/259c57daeb59474e9a0e3d682ec59fc4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Future Sound  of Pop]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 6월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/728611abb5a74a01b4d6f0b2608153e1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
