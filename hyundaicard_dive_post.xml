@@ -4,11 +4,19 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 08:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 09:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[유희열 Curated 21  PEPPERTONES]]></title>
+            <title><![CDATA[우리가 기다린]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[6월 현대카드 What's On]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/47fc3eadb2454589af6818a382bea17c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유희열 Curated 21 PEPPERTONES]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[여의도한강공원 테이크아웃 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6618741d987c464ba1c2a31adeb31f3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[색다른 흥을  원해?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 핫한 라틴 아티스트들]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ac075d605f8d4102986686dd598de7c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
