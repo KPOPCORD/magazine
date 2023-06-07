@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 10:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 11:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[90년대로 돌아간 듯한 THE NEW SIX (TNX) The 3rd Mini...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13238&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13238&amp;pg=1</guid>
+            <pubDate>Wed, 07 Jun 2023 11:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13238/Mgz_Main_List_20230607091833.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[＃K-POP_짱 ＃로코_매니아 ＃홈파티_러버 '네티' 편]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=40&amp;mgz_seq=13237&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=40&amp;mgz_seq=13237&amp;pg=1</guid>
+            <pubDate>Wed, 07 Jun 2023 11:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[#왓_인_플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13237/Mgz_Main_List_20230607114820.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[재즈 하는 하프 – 브랜디 영거의 [Brand New Life]]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13240&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 05 Jun 2023 11:10:28 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13228/Mgz_Main_List_20230605145205.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[밥과 재방문을 부르는 신기한 술집, <금호 미주리>]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13235&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13235&amp;pg=1</guid>
-            <pubDate>Mon, 05 Jun 2023 03:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13234/Mgz_Main_List_20230605113845.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕 브루클린 인디 씬을 자유롭게 유영하는 로파이 드림팝 밴드, Beach F...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13231&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13231&amp;pg=1</guid>
-            <pubDate>Mon, 05 Jun 2023 03:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13231/Mgz_Main_List_20230605091639.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
