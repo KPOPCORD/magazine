@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 05:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 06:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GLR1A1PNCA924OK9I31Z/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[음악으로 바라본 우주 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13244&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13244&amp;pg=1</guid>
+            <pubDate>Thu, 08 Jun 2023 06:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13244/Mgz_Main_List_20230608090212.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[알앤비 따라잡기 ＃65 - 여름이 오기 전 꼭 들어야 할 앨범은? (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13233&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13233&amp;pg=1</guid>
+            <pubDate>Thu, 08 Jun 2023 06:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13233/Mgz_Main_List_20230608102259.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[90년대로 돌아간 듯한 THE NEW SIX (TNX) The 3rd Mini... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13238&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13238&amp;pg=1</guid>
@@ -240,22 +256,6 @@
             <pubDate>Mon, 05 Jun 2023 11:10:28 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13234/Mgz_Main_List_20230607141053.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[EK [I was bad vibin'] MV 촬영 현장 공개 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13232&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13232&amp;pg=1</guid>
-            <pubDate>Mon, 05 Jun 2023 11:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13232/Mgz_Main_List_20230605152006.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[당당하고 솔직한 매력! 프로미스나인 첫 정규 앨범 [Unlock My Worl... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13228&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13228&amp;pg=1</guid>
-            <pubDate>Mon, 05 Jun 2023 11:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13228/Mgz_Main_List_20230605145205.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #146 : 
@@ -370,9 +370,17 @@
 #menow (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 08 Jun 2023 05:11:57 GMT</pubDate>
+            <pubDate>Thu, 08 Jun 2023 06:14:37 GMT</pubDate>
             <content:encoded><![CDATA[프로미스나인이 지난 6년간의 활동의 결실과도 같은 정규 앨범을 발매했다. 다양한 활동을 통해 늘 새로운 모습으로 변신해왔지만, 그 긴 여정을 통해 찾고 싶었던 건 가장 본연의 나다움을 드러낸 진짜 내 모습이라 말하는 프로미스나인과의 인터뷰.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230607_170/1686107151734Bpd8i_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브랜드, 일상에 침투하다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 6월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f8a0ce3292d94bc1b0cd5e520ca859ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리가 기다린 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[산책이 기다려지는 반려동물 패션 아이템 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4476443a987e4b5bb25d324e31aee95b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이게 바로  내가 원하던 한강 피크닉 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[여의도한강공원 테이크아웃 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6618741d987c464ba1c2a31adeb31f3a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
