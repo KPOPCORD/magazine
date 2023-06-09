@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 03:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 04:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전설의  모험]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 6월의 새 음반]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bb5ff72b0f0e4bc286f15ead330239f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울, 그리고  이솝 우먼스 라이브러리]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[그래미를 제패한 브루노 마스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7ce972a0c6e449b68f84801805295da1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카페 찾아  갤러리]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[커피 마시러 가는 갤러리는 어디?]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6fd6bbf29d144dc09bd935062d004d89.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
