@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 03:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 04:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울,  까르띠에  워치메이킹의 여정]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[까르띠에 &lt;타임 언리미티드&gt; 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b322d5bd1dd54f78a0ee03e07c84ad7c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선을 넘으면 펼쳐지는 나만의 요리 세계]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[2023 CLUB TOUR - 서울]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d49caeb6c9e24ae388074eb1c48db64c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흙이라는 물성]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 테마 북 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/829f20a557b64c19ae453d5f1263ddc7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
