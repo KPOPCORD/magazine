@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 08:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 09:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나만의 리듬으로  진입하다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[버번위스키 메이커스마크의 ‘독주 스튜디오’]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/70bb56ed7ad34bec85ba40e9edac4c5a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리의 완벽한  피크닉을 위하여!]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[이솝 한남 그리고 가로수길 스토어의 라이브러리]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81164b60f96840f4ac67d69ddb57b335.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이슈메이커! 그 이름은 데님]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[데님은 변함없는 패션의 주인공]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0204a5a8ef6444f0befb2217b1b697bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
