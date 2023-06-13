@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 02:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 03:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한살차이 - 정규앨범 타이틀 곡 '그리워했나요' MV 촬영 스케치!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/EJ968J2T73NYBCCF2YTG?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/EJ968J2T73NYBCCF2YTG?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 13 Jun 2023 03:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/EJ968J2T73NYBCCF2YTG/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Maaya Sakamoto(사카모토 마아야/坂本 真綾) - 정규 11집 [記憶の図書館(Kioku no Toshokan)] 발매 기념 인터뷰]]></title>
             <link>https://music.bugs.co.kr/musicpost/H70SRLDR1QAUA3WP2VRG?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <pubDate>Sat, 03 Jun 2023 06:13:41 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/X4BR6F7UU9L1SBXCK49H/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸디토리움(Pudditorium) - 정규 3집 [Episode :Hope]로 찾아온 영화 <멋진 하루>의 음악감독]]></title>
-            <link>https://music.bugs.co.kr/musicpost/GLR1A1PNCA924OK9I31Z?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/GLR1A1PNCA924OK9I31Z?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 03 Jun 2023 06:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GLR1A1PNCA924OK9I31Z/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
