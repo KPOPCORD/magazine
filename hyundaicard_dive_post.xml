@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 04:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 05:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[M카드야, 스무 살을 축하해]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[M BOOST 한정판 플레이트 디자인]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/653e67619a1f48e0a71ebdfa663ad6c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나만의 리듬으로  진입하다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 6월의 새 음반]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bb5ff72b0f0e4bc286f15ead330239f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울, 그리고  이솝 우먼스 라이브러리]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[이솝 한남 그리고 가로수길 스토어의 라이브러리]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81164b60f96840f4ac67d69ddb57b335.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
