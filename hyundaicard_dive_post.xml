@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 03:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 04:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Future Sound  of Pop]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[V&amp;P 6월 Monthly Special]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/728611abb5a74a01b4d6f0b2608153e1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운  세계로 진입]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[까르띠에 &lt;타임 언리미티드&gt; 전시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b322d5bd1dd54f78a0ee03e07c84ad7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선을 넘으면 펼쳐지는 나만의 요리 세계]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[박준우 셰프 X 휘슬러 쿠킹 클래스 현장]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2937a0e5e11142dd8466c2f87d2572de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
