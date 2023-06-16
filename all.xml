@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 08:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 09:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/X4BR6F7UU9L1SBXCK49H/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[ATEEZ (에이티즈) [THE WORLD EP.2 : OUTLAW] 자켓 촬... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13270&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13270&amp;pg=1</guid>
+            <pubDate>Fri, 16 Jun 2023 09:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13270/Mgz_Main_List_20230616144959.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[힙합사의 결정적인 순간을 장식한 싱글들 67화 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13271&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13271&amp;pg=1</guid>
@@ -250,21 +258,13 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13264/Mgz_Main_List_20230614145459.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[외로운 순간 힘이 되어주는 사랑의 메시지❤ 다크비 (DKB) the 6th M... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13263&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13263&amp;pg=1</guid>
-            <pubDate>Wed, 14 Jun 2023 09:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13263/Mgz_Main_List_20230614163304.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[HIP한 음악으로 돌아온
-스파이더맨: 어크로스 더 유니버스 (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[멤피스, 
+퐁크는 지금?! (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 16 Jun 2023 08:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[독보적인 세계관과 시청각적 향연을 선사할 영화 &lt;스파이더맨: 어크로스 더 유니버스&gt;가 영화가 끝난 후에도 심장을 뛰게 하는 명품 OST를 발매하며 우리의 눈과 귀를 사로잡고 있다.]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20230614_10/16867235481538hovF_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <pubDate>Fri, 16 Jun 2023 09:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 동유럽과 세계 전역에서 인기를 끈 퐁크. 멤피스를 비롯한 남부 힙합에서 유래된 해당 장르는 러시아의 하드 베이스 음악가들은 물론, 한국에서 비프리, 권기백, 킹 사우스 쥐를 비롯한 뉴웨이브 레코즈 소속의 음악가들이 선보이며 음악 팬들의 눈길을 끌고 있다. - 힙합엘이]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20230616_151/16868793391660JJvN_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[귀여운 게  최고야 (현대카드 DIVE ─ POST)]]></title>
