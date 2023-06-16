@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 04:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 05:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상상 이상의  음악]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 6월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b945abde0f2245ff9e7acb6a21bcf896.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[룩 앳 더  소프트 컬러]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[M BOOST 한정판 플레이트 디자인]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/653e67619a1f48e0a71ebdfa663ad6c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만의 리듬으로  진입하다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[버번위스키 메이커스마크의 ‘독주 스튜디오’]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/70bb56ed7ad34bec85ba40e9edac4c5a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
