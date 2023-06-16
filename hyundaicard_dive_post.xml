@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 05:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 06:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[곧 브루노를 부르러 갑니다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 다가온 슈퍼콘서트 백배 즐기기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/71aa9ed8b9dd4934a1ca53e99c95af51.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상상 이상의  음악]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[천장이 근사한 세계의 건축물]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b1ed4e831a7f427cbca4d6fb47c4c304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[M카드야, 스무 살을 축하해]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[M BOOST 한정판 플레이트 디자인]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/653e67619a1f48e0a71ebdfa663ad6c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
