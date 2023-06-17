@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 03:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 04:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,9 +262,17 @@
 퐁크는 지금?! (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 17 Jun 2023 03:13:02 GMT</pubDate>
+            <pubDate>Sat, 17 Jun 2023 04:13:32 GMT</pubDate>
             <content:encoded><![CDATA[2022년 동유럽과 세계 전역에서 인기를 끈 퐁크. 멤피스를 비롯한 남부 힙합에서 유래된 해당 장르는 러시아의 하드 베이스 음악가들은 물론, 한국에서 비프리, 권기백, 킹 사우스 쥐를 비롯한 뉴웨이브 레코즈 소속의 음악가들이 선보이며 음악 팬들의 눈길을 끌고 있다. - 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230616_151/16868793391660JJvN_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기술에  속지 않으려면 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[AI의 속임수를 막기 위한 노력 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd4ac596027f47d988d53f659199c00f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[귀여운 게  최고야 (현대카드 DIVE ─ POST)]]></title>
@@ -329,14 +337,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 6월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/728611abb5a74a01b4d6f0b2608153e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운  세계로 진입 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 테마 북 컬렉션 2]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/259c57daeb59474e9a0e3d682ec59fc4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
