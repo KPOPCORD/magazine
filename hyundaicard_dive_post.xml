@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 04:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 05:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셜리에 관한 모든 것]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 05]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b3f3619734844cc6a5071906964bd9b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매거진의 죽음 그리고 <뽀빠이>]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[자연스러운 음악성의 피아니스트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2cdd3f25fcd2486f8bef2c7628d34bcf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미래의  실험실]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[‘베니스 건축 비엔날레 2023’ 요점 정리]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/50d3b8a685e84122a0a73df8da833613.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
