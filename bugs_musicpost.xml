@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 01:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 02:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2023년 6월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/24WD6BOO2GXXKI9E5EYV?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/24WD6BOO2GXXKI9E5EYV?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 19 Jun 2023 02:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[한살차이 - 정규앨범 타이틀 곡 '그리워했나요' MV 촬영 스케치!]]></title>
             <link>https://music.bugs.co.kr/musicpost/EJ968J2T73NYBCCF2YTG?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +191,6 @@
             <guid>https://music.bugs.co.kr/musicpost/U1N30DSU5SN422PBV0KB?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Sat, 03 Jun 2023 06:13:41 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[msftz (미스피츠) - 그대와 만나는, 기다리던 봄 [초록숲] 비하인드 컷 & 발매 기념 인터뷰]]></title>
-            <link>https://music.bugs.co.kr/musicpost/X4BR6F7UU9L1SBXCK49H?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/X4BR6F7UU9L1SBXCK49H?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 03 Jun 2023 06:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/X4BR6F7UU9L1SBXCK49H/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
