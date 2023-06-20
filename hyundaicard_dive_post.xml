@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 07:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 09:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아주 구체적인  시즈오카]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[키워드로 살펴보는 일본 소도시, 시즈오카]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/214a4a44d0cd4ed890f3d23809817759.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동화적  상상력을 찾아서]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[드디어 다가온 슈퍼콘서트 백배 즐기기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/71aa9ed8b9dd4934a1ca53e99c95af51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상상 이상의  음악]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 6월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b945abde0f2245ff9e7acb6a21bcf896.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
