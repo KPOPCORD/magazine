@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 09:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 10:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘김재환’의 새로운 꿈을 위해 떠나는 재밌는 음악 여정 J.A.M (Journ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13274&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13274&amp;pg=1</guid>
+            <pubDate>Tue, 20 Jun 2023 10:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13274/Mgz_Main_List_20230620121533.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[데뷔 36주년, 발라드의 전설 변진섭이 응답하다! (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13280&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13280&amp;pg=1</guid>
@@ -250,19 +258,11 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13277/Mgz_Main_List_20230619110928.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[당신이 꿈꾸던 무대! 지금까지와는 다른 무대 <쇼퀸> 방청 이벤트 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=13273&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=13273&amp;pg=1</guid>
-            <pubDate>Mon, 19 Jun 2023 03:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[방송]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13273/Mgz_Main_List_20230619110706.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
             <title><![CDATA[New Release #148 : 
 에이티즈, 도자 캣 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 20 Jun 2023 09:12:35 GMT</pubDate>
+            <pubDate>Tue, 20 Jun 2023 10:12:28 GMT</pubDate>
             <content:encoded><![CDATA[새로운 EP로 컴백한 에이티즈, 화제의 신곡을 발표한 도자 캣까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230619_224/1687159785254hwDcM_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
