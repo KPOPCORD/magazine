@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 04:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 05:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여기까지 와서 이거 안 사요?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 여행 기념품, 버터샌드]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8439895369dd44a68435518e5d81d2f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아주 구체적인  시즈오카]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[귀여움으로 무장한 메뉴가 있는 곳들]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bc6342724c28415c88de8ac7a5592d57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곧 브루노를 부르러 갑니다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 다가온 슈퍼콘서트 백배 즐기기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/71aa9ed8b9dd4934a1ca53e99c95af51.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
