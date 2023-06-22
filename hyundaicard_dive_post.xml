@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 04:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 05:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에어팟  옷 갈아입힐 때]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[갈아 끼우고 싶은 에어팟 케이스 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5457ac358bb84c7091457fb2d5731279.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<하우스 오브 구찌>의 그 집, 빌라 네키]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[최태혁의 ‘브랜드 이야기’]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0e258524eda1490b802b0c916fae2b35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기술에  속지 않으려면]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[AI의 속임수를 막기 위한 노력 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd4ac596027f47d988d53f659199c00f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

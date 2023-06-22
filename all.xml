@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 04:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 05:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,9 +262,17 @@
 에이티즈 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 22 Jun 2023 04:14:43 GMT</pubDate>
+            <pubDate>Thu, 22 Jun 2023 05:12:22 GMT</pubDate>
             <content:encoded><![CDATA[에이티즈의 세계는 확장 중이다. 음악과 퍼포먼스가 성장하는 만큼, 글로벌 팬들이 열광하는 만큼, 그리고 색다르고 유머러스한 변신도 호기롭게 시도하는 만큼. 풋풋한 소년으로부터 한 걸음 나아가 더 새로워질 에이티즈의 세계를 만날 시간.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230621_174/16873261797892EdJK_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에어팟  옷 갈아입힐 때 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[갈아 끼우고 싶은 에어팟 케이스 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5457ac358bb84c7091457fb2d5731279.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<하우스 오브 구찌>의 그 집, 빌라 네키 (현대카드 DIVE ─ POST)]]></title>
@@ -329,14 +337,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[최태혁의 ‘브랜드 이야기’]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0e258524eda1490b802b0c916fae2b35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기술에  속지 않으려면 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[AI의 속임수를 막기 위한 노력 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd4ac596027f47d988d53f659199c00f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
