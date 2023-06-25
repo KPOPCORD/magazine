@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 03:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 04:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름날의 스포츠]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[골프&amp;테니스 러버를 위한 뉴 브랜드]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9cab3c13b4784950940c4520c6d80dd3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루이 비통이  서울과 만났을 때]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[요즘 여행 기념품, 버터샌드]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8439895369dd44a68435518e5d81d2f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아주 구체적인  시즈오카]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[키워드로 살펴보는 일본 소도시, 시즈오카]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/214a4a44d0cd4ed890f3d23809817759.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
