@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 06:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 07:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,9 +262,17 @@
 에이티즈 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 26 Jun 2023 06:17:29 GMT</pubDate>
+            <pubDate>Mon, 26 Jun 2023 07:14:40 GMT</pubDate>
             <content:encoded><![CDATA[에이티즈의 세계는 확장 중이다. 음악과 퍼포먼스가 성장하는 만큼, 글로벌 팬들이 열광하는 만큼, 그리고 색다르고 유머러스한 변신도 호기롭게 시도하는 만큼. 풋풋한 소년으로부터 한 걸음 나아가 더 새로워질 에이티즈의 세계를 만날 시간.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230621_174/16873261797892EdJK_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘의  경주 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[지금 가야 할 경주의 신상 핫플 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/06641b4e2cba42f08f22f32d074bf6ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름날의 스포츠 (현대카드 DIVE ─ POST)]]></title>
@@ -329,14 +337,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[전은경의 '시티 터치']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/14ea1c641c78497ba2ef8ccda9feec5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여기까지 와서 이거 안 사요? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 여행 기념품, 버터샌드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8439895369dd44a68435518e5d81d2f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
