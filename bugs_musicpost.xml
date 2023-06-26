@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 08:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 09:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8TURN - 익숙함에 물든 세상을 깨울 8TURN(에잇턴)의 한여름 밤의 소동 [UNCHARTED DRIFT]]]></title>
+            <link>https://music.bugs.co.kr/musicpost/SGE80P2SDWBVESVRZOMC?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/SGE80P2SDWBVESVRZOMC?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 26 Jun 2023 09:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/SGE80P2SDWBVESVRZOMC/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 71.Jeremy Zucker - 'OK']]></title>
             <link>https://music.bugs.co.kr/musicpost/L3OLE42L0D90620W909A?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <pubDate>Sat, 03 Jun 2023 06:13:41 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GFD2Y2X2VF3K5CWDBUIX/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황치열 - '야오키 프로젝트'의 세 번째 곡 '그런 사랑은 없어' 현장 비하인드 공개!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/ZENAXVCQQYLZMK8KKCXT?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/ZENAXVCQQYLZMK8KKCXT?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 03 Jun 2023 06:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ZENAXVCQQYLZMK8KKCXT/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
