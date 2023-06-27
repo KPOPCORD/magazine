@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 03:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 04:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초여름의  맛]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[제철 과일을 품은 디저트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/990168e5fa97442d8fbc1754ab5df7c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스위스  르네상스]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼콘서트, 천배 즐긴 후기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/499435b03e274501a40b555e89c750ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에어팟  옷 갈아입힐 때]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[갈아 끼우고 싶은 에어팟 케이스 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/366d3106542644a88155ce07186e0954.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
