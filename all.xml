@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 06:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 07:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,9 +262,17 @@
 NCT DREAM, 킴 페트라 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 27 Jun 2023 06:17:49 GMT</pubDate>
+            <pubDate>Tue, 27 Jun 2023 07:12:41 GMT</pubDate>
             <content:encoded><![CDATA[정규 3집 수록곡을 선공개한 NCT DREAM, 킴 페트라의 정규 앨범까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230626_10/16877645866700BdCs_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예측 불허 AI 패션 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능이 패션 하는 시대]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fa2b022bc0e14616b78ee4bcc582ef0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[초여름의  맛 (현대카드 DIVE ─ POST)]]></title>
@@ -329,14 +337,6 @@ NCT DREAM, 킴 페트라 (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 그린하우스 여름 신메뉴]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1800f8a8fffd4abe97e2b7c272a3b576.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생애 최고의 공연 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼콘서트, 천배 즐긴 후기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/499435b03e274501a40b555e89c750ff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
