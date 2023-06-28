@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 07:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 08:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양손  두둑하게]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[만년 집들이 선물, 휴지의 재발견]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6e507b6ee8ca489ca0cd82b8df9ca19e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웰컴  빠지의 계절]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[에어비앤비 광고에 등장한 그곳 3]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/98cc9d4054e141ad84b6c5ab20fd4a3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 이상 무슨  설명이 필요해요?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 데이터로 검증된 확신의 핫플]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/96f9b4ba5f564dd99d83bd9d3e15e8ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
