@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 05:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 08:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜  가지가지 하네]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[지금 제철, 가지 요리 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a193dd15e91d4b269ba4d1d91642fcc1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양손  두둑하게]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[루이 비통 패션 아이 &lt;서울&gt; 편 전시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f2532807d25a4dcf9a22c07f9e6ac0b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에어비앤비's  PICK]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[에어비앤비 광고에 등장한 그곳 3]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/98cc9d4054e141ad84b6c5ab20fd4a3a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
