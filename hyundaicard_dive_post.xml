@@ -4,9 +4,25 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 07:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 08:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[속 보이는 패션]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[얼음처럼 맑고 투명한 패션 아이템 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/badf6029b017413a8d10c0a088d7b5b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언플러그드적 삶]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 방해 없이 쉴 수 있는 스팟 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/af5dd63557b743149553682e531463af.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대카드 Curated 87  SuperBlue]]></title>
             <link>javascript:;</link>
@@ -62,22 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[‘아트 바젤 2023’ 다시 보기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b64a2d7e1f794bf89168e7a9d861a621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의  경주]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[지금 가야 할 경주의 신상 핫플 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/06641b4e2cba42f08f22f32d074bf6ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름날의 스포츠]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[골프&amp;테니스 러버를 위한 뉴 브랜드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9cab3c13b4784950940c4520c6d80dd3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
