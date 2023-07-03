@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 08:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 09:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,9 +262,17 @@
 샤이니 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 03 Jul 2023 08:16:32 GMT</pubDate>
+            <pubDate>Mon, 03 Jul 2023 09:13:54 GMT</pubDate>
             <content:encoded><![CDATA[오랜 시간 동안 ‘늘 그 자리‘에서 ‘한마디’를 건네며 많은 이들의 마음속 ‘빈칸’을 채워줬던 그룹 샤이니. 어느덧 데뷔 15주년을 맞이한 샤이니가 정규 8집을 들고 완전체로 돌아왔다. 이주의 디깅에서는 샤이니의 여러 순간을 되짚어보며 ‘셀 수 없는’ 추억들을 다시 한번 ‘리플레이’ 해보자. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230630_237/1688085237889kWJ8d_PNG/%C0%CC%C1%D6%C0%C7%B5%F0%B1%EB_%BB%FE%C0%CC%B4%CF.png?type=w840" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[피서 갈  결심 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;월간 DIVE&gt; 7월 호]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/93fa1313764244e7ac1a1ab85ce6926c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[셀럽 셰프의 라이브 푸드 클래스 (현대카드 DIVE ─ POST)]]></title>
@@ -329,14 +337,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[7월의 디자이너 Wes Anderson]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dee1376e6c03402ea00ab55f148f7e8e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경험의 총체, 디자인 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 7월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a91532db86044cc4887fc2b2c6f3cbc2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
