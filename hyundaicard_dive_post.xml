@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 06:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 07:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀럽 셰프의 라이브 푸드 클래스]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리 X 우리의식탁]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e51e63edcea24c199f631ea1181ca73d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빵빵한 게 귀여워]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 7월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a91532db86044cc4887fc2b2c6f3cbc2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오게임의 재발견]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 스페셜 테마 북 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5679ec8e637843dc82fd04acd2e5ed73.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
