@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 08:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 09:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전진희 정규 3집 [아무도 모르게] 발매 기념 인터뷰]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13332&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13332&amp;pg=1</guid>
+            <pubDate>Tue, 04 Jul 2023 09:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13332/Mgz_Main_List_20230704153602.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[“지금 넌 쉼표가 필요해” 지친 일상의 스트레스를 ‘휙’ 날려버릴 TEEN T...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13328&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13328&amp;pg=1</guid>
+            <pubDate>Tue, 04 Jul 2023 09:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13328/Mgz_Main_List_20230703171617.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[음악으로 완전해지는 세계 – 히사이시 조의 [A Symphonic Celebr...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13331&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 03 Jul 2023 03:22:47 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13326/Mgz_Main_List_20230630134001.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[OST PICK! ＃68 - 좋은 음악가이자 좋은 음악감독 연리목의 사운드트랙...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=13322&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=13322&amp;pg=1</guid>
-            <pubDate>Mon, 03 Jul 2023 03:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[OST PICK]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13322/Mgz_Main_List_20230703111037.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[투썸플레이스X워니버스가 제안하는 감미로운 캠크닉(Camping+Picnic)의...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13321&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13321&amp;pg=1</guid>
-            <pubDate>Mon, 03 Jul 2023 03:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13321/Mgz_Main_List_20230630091016.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
