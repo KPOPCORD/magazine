@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 08:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 09:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[＃덕질하이에나 ＃인프피콜렉터 ＃고막펀치 '라미' 편]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=40&amp;mgz_seq=13335&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=40&amp;mgz_seq=13335&amp;pg=1</guid>
+            <pubDate>Wed, 05 Jul 2023 09:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[#왓_인_플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13335/Mgz_Main_List_20230705112147.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈덩크 ＃58 - 정교하면서도 화려하게, 즐거움과 행복을 노래하는 여성 보컬...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13325&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13325&amp;pg=1</guid>
+            <pubDate>Wed, 05 Jul 2023 09:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13325/Mgz_Main_List_20230705171029.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[틱톡 챌린지 열풍 Yuka의 싱글 [Darling Darling] 비하인드 스...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13333&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 04 Jul 2023 04:15:47 GMT</pubDate>
             <content:encoded><![CDATA[힙알사전]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13324/Mgz_Main_List_20230703145540.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[힙합 따라잡기 ＃67 - 스파이더맨의 친구들은?]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13323&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13323&amp;pg=1</guid>
-            <pubDate>Tue, 04 Jul 2023 04:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[힙알사전]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13323/Mgz_Main_List_20230703154252.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[여행의 즐거움을 전하는 공간, 〈RTTC〉]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13329&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13329&amp;pg=1</guid>
-            <pubDate>Mon, 03 Jul 2023 03:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13329/Mgz_Main_List_20230703120106.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
