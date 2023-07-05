@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 07:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 08:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름  초입에서]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 7월의 새 음반]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c3a3bfaa90f94ccb91a1007b6ed03465.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안도 다다오의 푼타 델라 도가나]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[청량감 톡톡 터뜨리는 플레이리스트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c4c241e3ca534b498394d2a567b59752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Self-Produced]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 7월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/87443564d42b4467b5ea15442aac0965.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
