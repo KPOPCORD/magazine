@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 06:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 07:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/8V1P6849Z5V94KT8DJRZ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[바흐의 아들을 연주하다 - 키스 자렛이 연주하는 C. P. E. 바흐 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13334&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13334&amp;pg=1</guid>
+            <pubDate>Thu, 06 Jul 2023 07:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13334/Mgz_Main_List_20230706103455.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[＃덕질하이에나 ＃인프피콜렉터 ＃고막펀치 '라미' 편 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=40&amp;mgz_seq=13335&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=40&amp;mgz_seq=13335&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Tue, 04 Jul 2023 04:15:47 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13327/Mgz_Main_List_20230703145028.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[알앤비 따라잡기 ＃66 - 상반기를 장식한 세 장의 알앤비 앨범은? (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13324&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13324&amp;pg=1</guid>
-            <pubDate>Tue, 04 Jul 2023 04:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[힙알사전]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13324/Mgz_Main_List_20230703145540.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #150 : 
@@ -370,7 +370,7 @@ NCT DREAM, 킴 페트라 (VIBE ─ 매거진)]]></title>
 갈래! (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 06 Jul 2023 06:19:31 GMT</pubDate>
+            <pubDate>Thu, 06 Jul 2023 07:14:13 GMT</pubDate>
             <content:encoded><![CDATA[데뷔로부터는 15주년, 공백기가 무색하게도 변함없는 모습으로 유키스가 돌아왔다. 팬들은 물론 알만한 사람은 다 아는 마성의 유키스만의 음악적 스타일을, 멤버들의 더 끈끈해진 합으로 만만하지 않게 선보인다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230705_256/1688522742807LLSaC_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
