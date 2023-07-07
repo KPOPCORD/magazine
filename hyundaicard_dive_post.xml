@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 05:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 06:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[놀수록 놀라워]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[NOL 카드 디자인이 쏙 담긴 굿즈까지!]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5a20876ac01d4db8826a319133487d08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한여름 밤의 우리]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 X 우리의식탁]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e51e63edcea24c199f631ea1181ca73d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빵빵한 게 귀여워]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[홈 베이커를 위한 아이템 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3cfccf1233b84b10a26a47e915914c34.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
