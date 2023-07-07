@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 09:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 10:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대카드 Curated 86 모니카]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;스우파&gt; 댄서 모니카의 첫 단독 공연]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a44674b4fa174bbab88e630fc44cf420.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도예  너머의 도예]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 라이브러리 7월 신간 몰아 보기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3ea4b4377c3643cab4c9459d864790c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피서 갈  결심]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;월간 DIVE&gt; 7월 호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/93fa1313764244e7ac1a1ab85ce6926c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
