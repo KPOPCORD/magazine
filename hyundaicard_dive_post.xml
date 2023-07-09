@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 03:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 04:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날씨야 더워 봐라 식욕이 사라지나]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[신상 맛집 #33]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f0fe46e2837143f4ba828a1e09dfd0c0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Self-Produced]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[전은경의 ‘시티 터치’]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/57e37ee95909442faa40a5dafb8500e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안목 키워 주는  NFT]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[NFT 작품을 만날 수 있는 스팟 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9bed2863f5884a47aaec58d11c43047c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
