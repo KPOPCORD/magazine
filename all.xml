@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 04:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 05:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NCT DREAM, 킴 페트라 (VIBE ─ 매거진)]]></title>
 Valley (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 10 Jul 2023 04:15:42 GMT</pubDate>
+            <pubDate>Mon, 10 Jul 2023 05:12:49 GMT</pubDate>
             <content:encoded><![CDATA[캐나다 인디 팝 밴드 밸리는 몇 년 전 틱톡에서 입소문을 타며 글로벌 음악 신에 혜성처럼 나타났다. 이후 내는 곡마다 꾸준히 성공한 그들의 솔직한 심정부터, 지금 느끼는 감정들을 음악으로 표현해온 밸리. 이번 앨범에서도 밴드로서 갖게 되는 고민과 즐거움을 새 앨범에 담았다. 더 반가운 소식은 곧 내한하는 밸리의 라이브를 한국에서도 볼 수 있다는 사실!]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230707_86/16887085969402lbee_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피부를 지켜라! (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[여름 자외선에 맞설 피부 지킴 솔루션 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/38d693def15b45e896730cd652548a84.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손민수 Curated 09 임주희 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ Valley (VIBE ─ 매거진)]]></title>
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 7월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a91532db86044cc4887fc2b2c6f3cbc2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름  초입에서 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 7월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c3a3bfaa90f94ccb91a1007b6ed03465.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
