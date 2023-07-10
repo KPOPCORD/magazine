@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 07:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 08:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울로 다이브한 갤러리들]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[해외 갤러리의 서울 진출 소식]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d441bbd1940b4dec994880815cb6d6c2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피부를 지켜라!]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[7월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/27bbfd1c01a04fefa6e7345fcaff2f67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경험의 총체, 디자인]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 7월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a91532db86044cc4887fc2b2c6f3cbc2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
