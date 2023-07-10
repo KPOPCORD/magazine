@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 01:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 02:59:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손민수 Curated 09 임주희]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;포브스&gt;가 인정한 차세대 피아니스트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/19cfce3c3dda4e36b18ca2ce52b51245.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[날씨야 더워 봐라 식욕이 사라지나]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 7월의 새 음반]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c3a3bfaa90f94ccb91a1007b6ed03465.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안도 다다오의 푼타 델라 도가나]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Mon, 15 May 2023 05:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[전은경의 ‘시티 터치’]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/57e37ee95909442faa40a5dafb8500e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
