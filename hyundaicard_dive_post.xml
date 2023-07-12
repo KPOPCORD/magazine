@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 03:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 05:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광주비엔날레 속  작가들]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 7월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ba6041d7c9934a10926298168b2f24d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바다 보러  왔다가]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[&lt;스우파&gt; 댄서 모니카의 첫 단독 공연]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a44674b4fa174bbab88e630fc44cf420.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도예  너머의 도예]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[스토리지 개인전 작가 이헌정 인터뷰 #1]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ef90efed357e4c96acc3bdd43d8b1c6f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
