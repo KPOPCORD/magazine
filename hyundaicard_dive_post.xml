@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 07:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 08:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[K-미감을 찾아서]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[한국적 아름다움을 지닌 브랜드 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9a3bafbe4882440a8c31906a167881ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정호영 셰프의 여름 별미]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[여름 자외선에 맞설 피부 지킴 솔루션 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/38d693def15b45e896730cd652548a84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손민수 Curated 09 임주희]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;포브스&gt;가 인정한 차세대 피아니스트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/19cfce3c3dda4e36b18ca2ce52b51245.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
