@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 03:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 04:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비디오게임의 재발견]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 스페셜 테마 북 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5679ec8e637843dc82fd04acd2e5ed73.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[K-미감을 찾아서]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[해외 갤러리의 서울 진출 소식]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d441bbd1940b4dec994880815cb6d6c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피부를 지켜라!]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[여름 자외선에 맞설 피부 지킴 솔루션 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/38d693def15b45e896730cd652548a84.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
