@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 02:58:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 03:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙합사의 결정적인 순간을 장식한 싱글들 68화]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13357&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13357&amp;pg=1</guid>
+            <pubDate>Fri, 14 Jul 2023 03:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13357/Mgz_Main_List_20230714101713.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[“남”이 되고 싶지만 “남”이 될 수 없는 우리! ENA 월화드라마 <남남>]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=13356&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=13356&amp;pg=1</guid>
+            <pubDate>Fri, 14 Jul 2023 03:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[방송]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13356/Mgz_Main_List_20230714101358.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[오케스트라의 숨겨진 주인공, 타악기의 매력을 찾아서]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13353&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 11 Jul 2023 09:12:55 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13348/Mgz_Main_List_20230711141700.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[KIMKIMPARKKIM's 인생 음반 ＃25]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13350&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13350&amp;pg=1</guid>
-            <pubDate>Tue, 11 Jul 2023 04:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[김김박김]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13350/Mgz_Main_List_20230711112934.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[변화는 즐거워 – 변주곡이라는 세계]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13347&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13347&amp;pg=1</guid>
-            <pubDate>Tue, 11 Jul 2023 04:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13347/Mgz_Main_List_20230711091100.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
