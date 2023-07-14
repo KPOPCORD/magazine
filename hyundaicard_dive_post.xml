@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 05:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 06:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바퀴가  있는 집]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[에어비앤비에서 만나는 카라반 캠핑장 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e2e6ed99c0334305a53ecc928af99e95.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비디오게임의 재발견]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 쿠킹 라이브러리 7월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e3ec8412cd4b4424bf8c8a816fc646a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울로 다이브한 갤러리들]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[해외 갤러리의 서울 진출 소식]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d441bbd1940b4dec994880815cb6d6c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
