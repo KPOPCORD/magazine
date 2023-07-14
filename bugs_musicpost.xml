@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 08:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 09:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모트(Motte) - ‘쉿’ 일본 공연 비하인드 공개!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/D12SQMXRVWJ3A5TWW0XB?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/D12SQMXRVWJ3A5TWW0XB?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 14 Jul 2023 09:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/D12SQMXRVWJ3A5TWW0XB/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Leo (리오) - 달달한 사랑에 빠진 Leo (리오)의 [Vanilla]]]></title>
             <link>https://music.bugs.co.kr/musicpost/E7FL4LTGKW6X1H0GHK5Y?&amp;wl_ref=list_sp_01_h</link>
@@ -32,11 +40,12 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/SGE80P2SDWBVESVRZOMC/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팝송으로 배우는 영어! 71.Jeremy Zucker - 'OK']]></title>
-            <link>https://music.bugs.co.kr/musicpost/L3OLE42L0D90620W909A?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/L3OLE42L0D90620W909A?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 26 Jun 2023 21:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+            <title><![CDATA[Lapillus(라필루스) - 올 여름 시즌을 물들일 [GIRL's ROUND Part. 2] 자켓 촬영 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/KS6LZFNSS2EYSDJE68FB?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/KS6LZFNSS2EYSDJE68FB?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 14 Jul 2023 09:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/KS6LZFNSS2EYSDJE68FB/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 71.Jeremy Zucker - 'OK']]></title>
@@ -183,14 +192,6 @@
             <pubDate>Mon, 26 Jun 2023 21:11:20 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/V2CGUQTYPVIFV3Y8Z59F/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RADWIMPS(래드윔프스) - <스즈메의 문단속> OST의 주인공, RADWIMPS(래드윔프스)를 만나다]]></title>
-            <link>https://music.bugs.co.kr/musicpost/C0DYE88ZNYT44Q26HBKY?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/C0DYE88ZNYT44Q26HBKY?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 26 Jun 2023 21:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/C0DYE88ZNYT44Q26HBKY/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
