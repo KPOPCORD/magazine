@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 03:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 04:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첨벙 빠지고 싶은 날]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[여름 물놀이를 위한 서머 슈즈 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4dc19734afc042ae8f1a029c472dbc0b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI 거르는 AI]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 7월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ba6041d7c9934a10926298168b2f24d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다 보러  왔다가]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[나만 아는 동네 #32 강릉 명주동]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e4ddb718e33e475883de74772bc13191.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
