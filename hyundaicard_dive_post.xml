@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 03:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 04:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신디 셔먼과  함께한 하루]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[에스파스 루이 비통 서울의 신디 셔먼 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/21ad26d436c2473cae3d1e96a88d8545.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[첨벙 빠지고 싶은 날]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[서핑 스폿 근처 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/37ada98444614f2785ceae7f9a334bec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광주비엔날레 속  작가들]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 7월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ba6041d7c9934a10926298168b2f24d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
