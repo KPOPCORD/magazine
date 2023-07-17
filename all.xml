@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 05:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 06:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/V2CGUQTYPVIFV3Y8Z59F/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[힙하고 편안한 와인 바의 고유명사, 삼각지 〈컴피〉 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13360&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13360&amp;pg=1</guid>
+            <pubDate>Mon, 17 Jul 2023 06:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13360/Mgz_Main_List_20230717142529.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[밴드 '돌연한 출발'의 싱글 앨범 [재회] 발매 기념 인터뷰 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13358&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13358&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Wed, 12 Jul 2023 10:13:34 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13351/Mgz_Main_List_20230711154545.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[ODD EYE CIRCLE ‘Air Force One’ MV 촬영 현장 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13346&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13346&amp;pg=1</guid>
-            <pubDate>Wed, 12 Jul 2023 10:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13346/Mgz_Main_List_20230711182219.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #162 
@@ -370,9 +370,17 @@ NCT DREAM, 킴 페트라 (VIBE ─ 매거진)]]></title>
 화제의 알앤비 앨범 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 17 Jul 2023 05:12:57 GMT</pubDate>
+            <pubDate>Mon, 17 Jul 2023 06:17:26 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 시작된 장마. 쏟아져 내리는 비처럼 지난 한 달간 알앤비/소울 장르 음악가들의 신보가 연달아 발매되었다. 이 중에서도 많은 이들이 들었으면 하는 몇 장의 앨범을 소개한다. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230716_247/1689435189655UrPRS_PNG/%B8%C5%B0%C5%C1%F8.png?type=w840" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[가방으로 변신한 아워워터 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[한정판 리사이클링 백, 현대카드 Our Bag]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/23ae25a4d57042fcab044269aada2a73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찰나 혹은  영원의 미학 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NCT DREAM, 킴 페트라 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[&lt;미(味)라클&gt; 시즌 2 첫 번째 레시피]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c0bcba79bc104f439a16989fc9ee4548.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대중음악  그리고 프로듀서 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 7월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0c65d97078814814895c539ad7f59f9f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
