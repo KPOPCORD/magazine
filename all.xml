@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 01:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 03:02:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/V2CGUQTYPVIFV3Y8Z59F/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[밴드 '돌연한 출발'의 싱글 앨범 [재회] 발매 기념 인터뷰 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13358&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13358&amp;pg=1</guid>
+            <pubDate>Mon, 17 Jul 2023 03:01:38 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13358/Mgz_Main_List_20230717090855.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[POP 스튜디오 ＃67 - 꿉꿉함을 견뎌야 하는 날들 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=13355&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=13355&amp;pg=1</guid>
+            <pubDate>Mon, 17 Jul 2023 03:01:38 GMT</pubDate>
+            <content:encoded><![CDATA[POP 컬렉션]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13355/Mgz_Main_List_20230717113616.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[모트의 시선으로 작성 된 [쉿] 앨범 작업 비하인드 공개 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13354&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13354&amp;pg=1</guid>
@@ -240,22 +256,6 @@
             <pubDate>Wed, 12 Jul 2023 10:13:34 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13346/Mgz_Main_List_20230711182219.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔 25주년을 맞이해 가장 코요태스러운 곡으로 컴백한 코요태 [바람] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13352&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13352&amp;pg=1</guid>
-            <pubDate>Wed, 12 Jul 2023 03:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13352/Mgz_Main_List_20230712104710.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[락킷걸 EP 앨범 [짜릿해 ★ Rock] 뮤비 촬영 현장 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13349&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13349&amp;pg=1</guid>
-            <pubDate>Wed, 12 Jul 2023 03:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13349/Mgz_Main_List_20230711154205.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #162 
@@ -370,7 +370,7 @@ NCT DREAM, 킴 페트라 (VIBE ─ 매거진)]]></title>
 화제의 알앤비 앨범 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 17 Jul 2023 01:12:30 GMT</pubDate>
+            <pubDate>Mon, 17 Jul 2023 03:01:55 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 시작된 장마. 쏟아져 내리는 비처럼 지난 한 달간 알앤비/소울 장르 음악가들의 신보가 연달아 발매되었다. 이 중에서도 많은 이들이 들었으면 하는 몇 장의 앨범을 소개한다. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230716_247/1689435189655UrPRS_PNG/%B8%C5%B0%C5%C1%F8.png?type=w840" length="0" type="image/png"/>
         </item>
