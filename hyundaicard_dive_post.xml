@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 07:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 08:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이것이 우리의 미쉐린 알고리즘]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 데이터로 검증된 미쉐린 레스토랑]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/00bdfe017a4841f2bcbfa5ecfbf65f68.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가방으로 변신한 아워워터]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[한국적 아름다움을 지닌 브랜드 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9a3bafbe4882440a8c31906a167881ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정호영 셰프의 여름 별미]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;미(味)라클&gt; 시즌 2 첫 번째 레시피]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c0bcba79bc104f439a16989fc9ee4548.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
