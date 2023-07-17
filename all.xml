@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 08:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 09:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Alan Walker(알렌 워커) - 여름의 뜨거운 더위를 한번에 날려버릴 흥겨운 비트와 환상적인 멜로디 [Endless Summer] (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/XXKFCO637UNYJL60H74K?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/XXKFCO637UNYJL60H74K?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jul 2023 09:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XXKFCO637UNYJL60H74K/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모트(Motte) - '쉿' 일본 공연 비하인드 공개! (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/D12SQMXRVWJ3A5TWW0XB?&amp;wl_ref=list_sp_01_h</link>
@@ -186,14 +194,6 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[박지훈 - 'Blank Effect (무표정)' 뮤직비디오 촬영 현장 공개 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/V2CGUQTYPVIFV3Y8Z59F?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/V2CGUQTYPVIFV3Y8Z59F?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 26 Jun 2023 21:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/V2CGUQTYPVIFV3Y8Z59F/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[힙하고 편안한 와인 바의 고유명사, 삼각지 〈컴피〉 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13360&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13360&amp;pg=1</guid>
@@ -370,7 +370,7 @@ NCT DREAM, 킴 페트라 (VIBE ─ 매거진)]]></title>
 화제의 알앤비 앨범 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 17 Jul 2023 08:18:13 GMT</pubDate>
+            <pubDate>Mon, 17 Jul 2023 09:14:56 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 시작된 장마. 쏟아져 내리는 비처럼 지난 한 달간 알앤비/소울 장르 음악가들의 신보가 연달아 발매되었다. 이 중에서도 많은 이들이 들었으면 하는 몇 장의 앨범을 소개한다. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230716_247/1689435189655UrPRS_PNG/%B8%C5%B0%C5%C1%F8.png?type=w840" length="0" type="image/png"/>
         </item>
