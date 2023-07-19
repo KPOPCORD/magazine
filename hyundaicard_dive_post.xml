@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 02:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 03:54:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앤더슨 판타지]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[7월의 디자이너 Wes Anderson]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dee1376e6c03402ea00ab55f148f7e8e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[월드 베스트의 품격]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[에어비앤비에서 만나는 카라반 캠핑장 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e2e6ed99c0334305a53ecc928af99e95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오게임의 재발견]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 스페셜 테마 북 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5679ec8e637843dc82fd04acd2e5ed73.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
