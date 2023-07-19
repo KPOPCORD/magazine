@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 05:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 06:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NCT DREAM, 킴 페트라 (VIBE ─ 매거진)]]></title>
 정국, 빌리 아일리시 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 19 Jul 2023 05:11:31 GMT</pubDate>
+            <pubDate>Wed, 19 Jul 2023 06:15:49 GMT</pubDate>
             <content:encoded><![CDATA[솔로 데뷔 후 화제를 모으고 있는 정국, 영화 &lt;바비&gt; OST 참여로 이슈몰이 중인 빌리 아일리시까지, 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230717_81/1689582488476eXls7_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이젠 보양식도 Hip하게 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[복날에 먹기 좋은 이색 보양식]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6c41707f9b294cc283e2f5e84f536b5f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앤더슨 판타지 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NCT DREAM, 킴 페트라 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[디텍트GPT 솔루션 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/df3e1b1ece4c409a94976ebc07f07160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바퀴가  있는 집 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[에어비앤비에서 만나는 카라반 캠핑장 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e2e6ed99c0334305a53ecc928af99e95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

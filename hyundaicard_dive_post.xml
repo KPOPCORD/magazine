@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 05:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 06:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이젠 보양식도 Hip하게]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[복날에 먹기 좋은 이색 보양식]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6c41707f9b294cc283e2f5e84f536b5f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앤더슨 판타지]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[디텍트GPT 솔루션 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/df3e1b1ece4c409a94976ebc07f07160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바퀴가  있는 집]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[에어비앤비에서 만나는 카라반 캠핑장 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e2e6ed99c0334305a53ecc928af99e95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
