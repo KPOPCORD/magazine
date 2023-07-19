@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 08:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 09:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 장이면 충분해]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[유니폼 패션의 끝없는 인기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b3f3328bc0ae4504ab624032f64fb37c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이젠 보양식도 Hip하게]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[여름 물놀이를 위한 서머 슈즈 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4dc19734afc042ae8f1a029c472dbc0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 거르는 AI]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[디텍트GPT 솔루션 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/df3e1b1ece4c409a94976ebc07f07160.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

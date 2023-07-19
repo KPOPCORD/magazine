@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 08:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 09:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미래소년 (MIRAE) [Boys will be Boys] 앨범 자켓 비하인드]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13370&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13370&amp;pg=1</guid>
+            <pubDate>Wed, 19 Jul 2023 09:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13370/Mgz_Main_List_20230719112927.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[‘청량+펑키’ 하이틴美 입고 돌아온 ICHILLIN’(아이칠린) 두번째 미니 ...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13369&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13369&amp;pg=1</guid>
+            <pubDate>Wed, 19 Jul 2023 09:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13369/Mgz_Main_List_20230719105101.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[“보사노바의 언어가 된 목소리” 아스트루드 지우베르투(Astrud Gilber...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13373&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 18 Jul 2023 09:12:07 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13364/Mgz_Main_List_20230718111000.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[Fred Hersch 내한 공연 〈Solo Piano〉 초대 이벤트]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=13365&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=13365&amp;pg=1</guid>
-            <pubDate>Tue, 18 Jul 2023 04:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[공연]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13365/Mgz_Main_List_20230718110836.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[살아 숨 쉬는 바흐 일가의 음악, 조성현과 함경의 듀오 프로젝트 ‘바흐’]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13363&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13363&amp;pg=1</guid>
-            <pubDate>Tue, 18 Jul 2023 04:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13363/Mgz_Main_List_20230718112301.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>

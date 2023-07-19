@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 08:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 09:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,22 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[미래소년 (MIRAE) [Boys will be Boys] 앨범 자켓 비하인드 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13370&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13370&amp;pg=1</guid>
+            <pubDate>Wed, 19 Jul 2023 09:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13370/Mgz_Main_List_20230719112927.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[‘청량+펑키’ 하이틴美 입고 돌아온 ICHILLIN’(아이칠린) 두번째 미니 ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13369&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13369&amp;pg=1</guid>
+            <pubDate>Wed, 19 Jul 2023 09:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13369/Mgz_Main_List_20230719105101.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[“보사노바의 언어가 된 목소리” 아스트루드 지우베르투(Astrud Gilber... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13373&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13373&amp;pg=1</guid>
@@ -240,22 +256,6 @@
             <pubDate>Tue, 18 Jul 2023 09:12:07 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13364/Mgz_Main_List_20230718111000.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[Fred Hersch 내한 공연 〈Solo Piano〉 초대 이벤트 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=13365&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=13365&amp;pg=1</guid>
-            <pubDate>Tue, 18 Jul 2023 04:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[공연]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13365/Mgz_Main_List_20230718110836.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[살아 숨 쉬는 바흐 일가의 음악, 조성현과 함경의 듀오 프로젝트 ‘바흐’ (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13363&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13363&amp;pg=1</guid>
-            <pubDate>Tue, 18 Jul 2023 04:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13363/Mgz_Main_List_20230718112301.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[상반기, 
@@ -370,9 +370,17 @@ NCT DREAM, 킴 페트라 (VIBE ─ 매거진)]]></title>
 정국, 빌리 아일리시 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 19 Jul 2023 08:14:36 GMT</pubDate>
+            <pubDate>Wed, 19 Jul 2023 09:12:31 GMT</pubDate>
             <content:encoded><![CDATA[솔로 데뷔 후 화제를 모으고 있는 정국, 영화 &lt;바비&gt; OST 참여로 이슈몰이 중인 빌리 아일리시까지, 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230717_81/1689582488476eXls7_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 장이면 충분해 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[유니폼 패션의 끝없는 인기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b3f3328bc0ae4504ab624032f64fb37c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이젠 보양식도 Hip하게 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NCT DREAM, 킴 페트라 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[여름 물놀이를 위한 서머 슈즈 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4dc19734afc042ae8f1a029c472dbc0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 거르는 AI (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[디텍트GPT 솔루션 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/df3e1b1ece4c409a94976ebc07f07160.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
