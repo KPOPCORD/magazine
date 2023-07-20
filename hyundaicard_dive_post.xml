@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 08:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 09:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손끝에서: 만 개의 달항아리]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[스토리지 개인전 작가 이헌정 인터뷰 #2]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/65f772b1a8804463a1ddba6b2b2498aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홈트의  시작]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[한정판 리사이클링 백, 현대카드 Our Bag]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/23ae25a4d57042fcab044269aada2a73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찰나 혹은  영원의 미학]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 레어 북 들여다보기 #13]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/04b9bf421eec4454bfb2a2b8725dd90b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
