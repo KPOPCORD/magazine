@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 04:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 05:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2023년 7월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/8VMUTVPN46YTQQB9P2SK?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/8VMUTVPN46YTQQB9P2SK?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 20 Jul 2023 05:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Alan Walker(알렌 워커) - 여름의 뜨거운 더위를 한번에 날려버릴 흥겨운 비트와 환상적인 멜로디 [Endless Summer]]]></title>
             <link>https://music.bugs.co.kr/musicpost/XXKFCO637UNYJL60H74K?&amp;wl_ref=list_sp_01_h</link>
@@ -185,13 +192,6 @@
             <pubDate>Mon, 26 Jun 2023 21:11:20 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XV6OVVUH9XY4KFBAM1SB/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭘 들을까? - 2023년 4월 노래 모음!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/IA4IYS0WZ8BDDUNOIYAF?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/IA4IYS0WZ8BDDUNOIYAF?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 26 Jun 2023 21:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>

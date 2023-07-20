@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 04:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 05:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2023년 7월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/8VMUTVPN46YTQQB9P2SK?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/8VMUTVPN46YTQQB9P2SK?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 20 Jul 2023 05:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Alan Walker(알렌 워커) - 여름의 뜨거운 더위를 한번에 날려버릴 흥겨운 비트와 환상적인 멜로디 [Endless Summer] (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/XXKFCO637UNYJL60H74K?&amp;wl_ref=list_sp_01_h</link>
@@ -187,13 +194,6 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XV6OVVUH9XY4KFBAM1SB/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뭘 들을까? - 2023년 4월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/IA4IYS0WZ8BDDUNOIYAF?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/IA4IYS0WZ8BDDUNOIYAF?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 26 Jun 2023 21:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[KIMKIMPARKKIM's 음악가, 함께 ＃12 - 선우정아 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13376&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13376&amp;pg=1</guid>
@@ -370,9 +370,17 @@ NCT DREAM, 킴 페트라 (VIBE ─ 매거진)]]></title>
 정국, 빌리 아일리시 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 20 Jul 2023 04:13:32 GMT</pubDate>
+            <pubDate>Thu, 20 Jul 2023 05:11:52 GMT</pubDate>
             <content:encoded><![CDATA[솔로 데뷔 후 화제를 모으고 있는 정국, 영화 &lt;바비&gt; OST 참여로 이슈몰이 중인 빌리 아일리시까지, 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230717_81/1689582488476eXls7_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장진아 대표의 채식 아침 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[‘미(味)라클’ 시즌 2 두 번째 레시피]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b8e28ecf8b434a0a90eb74a184e9c0ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한 장이면 충분해 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NCT DREAM, 킴 페트라 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[에스파스 루이 비통 서울의 신디 셔먼 전시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/21ad26d436c2473cae3d1e96a88d8545.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첨벙 빠지고 싶은 날 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[여름 물놀이를 위한 서머 슈즈 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4dc19734afc042ae8f1a029c472dbc0b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
