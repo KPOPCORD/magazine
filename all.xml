@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 08:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 09:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -193,6 +193,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘너와 내가 같은 꿈을 꿨다면’ 널디나 (nerdina), [IN MY DRE... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13387&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13387&amp;pg=1</guid>
+            <pubDate>Mon, 24 Jul 2023 09:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13386/Mgz_Main_List_20230724101001.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[가요 탐구생활 ＃56 - 여름 노래 세대교체? (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=13391&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=13391&amp;pg=1</guid>
@@ -247,14 +255,6 @@
             <pubDate>Fri, 21 Jul 2023 09:11:45 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13378/Mgz_Main_List_20230721160500.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[잊지 못할 여름밤의 추억 ＜진희네 뮤직테라스 : 일곱째 밤＞ 현장 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13381&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13381&amp;pg=1</guid>
-            <pubDate>Fri, 21 Jul 2023 03:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13380/Mgz_Main_List_20230720175009.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[진짜는 앨범으로 말한다 : 
