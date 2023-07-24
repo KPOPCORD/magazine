@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 04:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 05:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메탈의 계절]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[메탈릭 인테리어 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0e905da699634ae0813bdaf4f3a90d41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[써 보면 신세계]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[유니폼 패션의 끝없는 인기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b3f3328bc0ae4504ab624032f64fb37c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이젠 보양식도 Hip하게]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[복날에 먹기 좋은 이색 보양식]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6c41707f9b294cc283e2f5e84f536b5f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
