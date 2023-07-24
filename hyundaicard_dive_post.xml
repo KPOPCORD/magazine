@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 09:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 10:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스크리닝을 통해 본 에드워드 호퍼의 작품]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 05]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9154558de58f4dcbb5e5511b40df9fb2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내게 조금  특별한 메밀]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[올여름 내 몸매를 책임질 운동기구 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/191db32aad9f4e5682e4a576992a9822.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장진아 대표의 채식 아침]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[‘미(味)라클’ 시즌 2 두 번째 레시피]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b8e28ecf8b434a0a90eb74a184e9c0ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
