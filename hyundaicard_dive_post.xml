@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 08:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 09:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류이치 사카모토가 남긴 음악들]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[류이치 사카모토 회고록 북토크 신청]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/72c0ff1daf4044ce88c6c94e24fcc570.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 가장 맛있는 하이볼을 찾아서]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[메탈릭 인테리어 아이템]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0e905da699634ae0813bdaf4f3a90d41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[써 보면 신세계]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[가상 세계로 진입시켜 줄 VR 기기 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5508c4de89d345488b9d12348329dd6a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
