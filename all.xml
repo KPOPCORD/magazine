@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 03:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 04:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,30 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ZLD2YAWTU7YIK8N0OE0F/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[믿고 듣는 싱어송라이터 송희란의 정규 2집 [I Heal You, Anothe... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13401&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13401&amp;pg=1</guid>
+            <pubDate>Thu, 27 Jul 2023 04:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13400/Mgz_Main_List_20230727090852.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[폭발하는 음표들! - 존 콜트레인의 [Evenings At The Villag... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13400&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13400&amp;pg=1</guid>
+            <pubDate>Thu, 27 Jul 2023 04:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13400/Mgz_Main_List_20230727102812.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[장마에 대처하는 우리의 자세 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13395&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13395&amp;pg=1</guid>
+            <pubDate>Thu, 27 Jul 2023 04:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13395/Mgz_Main_List_20230727110452.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[잠비노 (Jambino), 빨리 불러줘 119~ [위급!] (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13399&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13399&amp;pg=1</guid>
@@ -232,30 +256,6 @@
             <pubDate>Wed, 26 Jul 2023 03:11:56 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13396/Mgz_Main_List_20230726110616.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[’음악+퍼포먼스+비주얼’ 데뷔 8년 내공이 집약된 셔누X형원 첫 미니 앨범 타... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13390&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13390&amp;pg=1</guid>
-            <pubDate>Tue, 25 Jul 2023 09:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13389/Mgz_Main_List_20230724120237.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[뜨겁고 강렬한 음악의 혁명! 2023 클래식 레볼루션 ＜레너드 번스타인＞ (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13394&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13394&amp;pg=1</guid>
-            <pubDate>Tue, 25 Jul 2023 03:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13394/Mgz_Main_List_20230725103743.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[찰리푸스의 샤라웃! 헌서(Heonseo)의 정식 데뷔 [Onward] MV촬영... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13393&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13393&amp;pg=1</guid>
-            <pubDate>Tue, 25 Jul 2023 03:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13393/Mgz_Main_List_20230725103043.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #163 
@@ -370,7 +370,7 @@ Valley (VIBE ─ 매거진)]]></title>
 오마이걸 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 27 Jul 2023 03:12:47 GMT</pubDate>
+            <pubDate>Thu, 27 Jul 2023 04:12:56 GMT</pubDate>
             <content:encoded><![CDATA[가장 오마이걸다운 모습으로 돌아왔다. 가장 뜨겁고 가장 시원한 여름이 담긴 노래로.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230725_206/1690279050323HAO3q_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
         </item>
