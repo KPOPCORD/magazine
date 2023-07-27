@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 04:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 05:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류태환의 파인다이닝]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;미(味)라클&gt; 시즌 2 세 번째 레시피]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/85b39ba1934b416884c0444e1512e9be.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류이치 사카모토가 남긴 음악들]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[여름의 맛, 메밀 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cc1683b3d3f64a6f85d8c34014d2f17f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메탈의 계절]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[메탈릭 인테리어 아이템]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0e905da699634ae0813bdaf4f3a90d41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
