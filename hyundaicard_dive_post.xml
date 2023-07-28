@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 04:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 05:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맥주 들으며 레게 한잔]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[어깨를 들썩이게 하는 레게 사운드]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3984e2a13fc54af2b4114db166ba70b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[와비사비 라이프를 위하여]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[최태혁의 ‘브랜드 이야기’]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1aacfbacdc094b828f186e60ea6b3414.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스크리닝을 통해 본 에드워드 호퍼의 작품]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 05]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9154558de58f4dcbb5e5511b40df9fb2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
