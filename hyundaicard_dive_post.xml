@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 03:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 04:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찐 맛집은 여기야]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 빅테이터로 확인한 주말의 핫플]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6c4a6cde37a044b2a902e571a9f35808.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퍼렐 다시 보기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[신상으로 꽉 채운 제주 하루 스케줄]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6be5974a84fb4845ade1fdbf33c3ba14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얼굴 위 보석 찾기]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[메이크업과 보석이 만났을 때]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6084e5fdc7ad4e7693a70c9ead7eb4d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
