@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 02:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 03:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몽림(Mongrim) - '술래' MV 촬영 비하인드 공개!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/GK5EZ7R0XPBTI4BCH40V?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/GK5EZ7R0XPBTI4BCH40V?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 31 Jul 2023 03:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GK5EZ7R0XPBTI4BCH40V/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김양 - '엄정화'의 크로스와 Poison을 재탄생시킨 [Kim Yang Cross] 발매 기념 인터뷰]]></title>
             <link>https://music.bugs.co.kr/musicpost/Y7BC0G354XR9KHZ14D7G?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <pubDate>Mon, 26 Jun 2023 21:11:20 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/D1WAMCVU9AHJCUP15ZIJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블리처스 (BLITZERS) - 서울에서 WORLD로! 블리처스 마카레나 독점 B컷 공개!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/ZLD2YAWTU7YIK8N0OE0F?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/ZLD2YAWTU7YIK8N0OE0F?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 26 Jun 2023 21:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ZLD2YAWTU7YIK8N0OE0F/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
