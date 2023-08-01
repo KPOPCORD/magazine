@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 23:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 01:01:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 8월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0173dd57f1d445a69ee4bd411e7a9291.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬란한 아트, 아트, 아트]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 8월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b13b7640559445b3aca6c5b11ca23bba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이비드 살레의 스펙트럼]]></title>
@@ -78,6 +70,14 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[여름철 현명한 쿨링 테라피 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6dcc88d12c96479382e8038507f5993f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[속 보이는 바다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[국내 스노클링 성지 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/86f56e87fb994303b35612508c584f0e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
