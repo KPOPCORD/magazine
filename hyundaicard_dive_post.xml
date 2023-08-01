@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 04:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 05:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그런데 여기 뭐 하는 곳이에요?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[언밸런스한 간판이 매력적인 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fdf5cc397cea4c47ad46d9495520147a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Singer Songwriter]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[여름철 현명한 쿨링 테라피 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6dcc88d12c96479382e8038507f5993f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[속 보이는 바다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[국내 스노클링 성지 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/86f56e87fb994303b35612508c584f0e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
