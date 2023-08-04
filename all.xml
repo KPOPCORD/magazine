@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 02:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 03:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/D1WAMCVU9AHJCUP15ZIJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그래 뭐, 사랑은 말장난 같은 거지, Yellingcat ‘말장난’ 발매 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13424&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13424&amp;pg=1</guid>
+            <pubDate>Fri, 04 Aug 2023 03:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13424/Mgz_Main_List_20230804090309.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[브브걸 (BBGIRLS) [ONE MORE TIME] 자켓, SPECIAL F... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13427&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13427&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Wed, 02 Aug 2023 04:16:34 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13420/Mgz_Main_List_20230802111358.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[알앤비 따라잡기 ＃67 - 여름에도 알앤비 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13419&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13419&amp;pg=1</guid>
-            <pubDate>Wed, 02 Aug 2023 04:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[힙알사전]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13419/Mgz_Main_List_20230802113607.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #154 : 
@@ -370,7 +370,7 @@
 여행 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 04 Aug 2023 02:31:08 GMT</pubDate>
+            <pubDate>Fri, 04 Aug 2023 03:11:37 GMT</pubDate>
             <content:encoded><![CDATA[주목받는 남돌 싸이커스는 마치 게임 속에서 플레이하는 여정을 따라가듯 매 앨범마다 재미를 심어둔다. 더블 타이틀곡으로 무한 매력을 보여온 그대로, 또 한번 에너지 레벨을 꽉 채워 돌아왔다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230802_69/1690957267758f1BDs_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
