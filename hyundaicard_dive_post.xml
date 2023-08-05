@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Aug 2023 03:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 04:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Let’s Sour!]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[올여름은 하이볼 말고 사워]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8e685908fa19421ea78f562a0afd92a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미학이 필요한 시간]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[언밸런스한 간판이 매력적인 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fdf5cc397cea4c47ad46d9495520147a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Singer Songwriter]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 8월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/495da6a71a524220940d8cca9b0ae365.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
