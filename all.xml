@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 03:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2023 04:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
 여행 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 06 Aug 2023 03:11:29 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 04:12:55 GMT</pubDate>
             <content:encoded><![CDATA[주목받는 남돌 싸이커스는 마치 게임 속에서 플레이하는 여정을 따라가듯 매 앨범마다 재미를 심어둔다. 더블 타이틀곡으로 무한 매력을 보여온 그대로, 또 한번 에너지 레벨을 꽉 채워 돌아왔다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230802_69/1690957267758f1BDs_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로큰롤의 계절 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 8월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0173dd57f1d445a69ee4bd411e7a9291.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Let’s Sour! (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 8월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b13b7640559445b3aca6c5b11ca23bba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그런데 여기 뭐 하는 곳이에요? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[언밸런스한 간판이 매력적인 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fdf5cc397cea4c47ad46d9495520147a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
