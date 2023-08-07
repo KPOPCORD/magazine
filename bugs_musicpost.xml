@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 02:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 03:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키썸(Kisum) - '냅두세요 (feat. 보이비)' 녹음 현장 공개!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/S0GSCIMJ29UOC22CWRSM?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/S0GSCIMJ29UOC22CWRSM?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 07 Aug 2023 03:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/S0GSCIMJ29UOC22CWRSM/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몽림(Mongrim) - '술래' MV 촬영 비하인드 공개!]]></title>
             <link>https://music.bugs.co.kr/musicpost/GK5EZ7R0XPBTI4BCH40V?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <pubDate>Mon, 26 Jun 2023 21:11:20 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/KFD7O9RTPXMOSUVAPNYJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커맨더맨 - '얼레리꼴레리(Already go ready)' 녹음 현장]]></title>
-            <link>https://music.bugs.co.kr/musicpost/D1WAMCVU9AHJCUP15ZIJ?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/D1WAMCVU9AHJCUP15ZIJ?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 26 Jun 2023 21:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/D1WAMCVU9AHJCUP15ZIJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
