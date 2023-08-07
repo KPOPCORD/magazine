@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 03:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 05:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
 여행 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 07 Aug 2023 03:12:16 GMT</pubDate>
+            <pubDate>Mon, 07 Aug 2023 05:12:16 GMT</pubDate>
             <content:encoded><![CDATA[주목받는 남돌 싸이커스는 마치 게임 속에서 플레이하는 여정을 따라가듯 매 앨범마다 재미를 심어둔다. 더블 타이틀곡으로 무한 매력을 보여온 그대로, 또 한번 에너지 레벨을 꽉 채워 돌아왔다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230802_69/1690957267758f1BDs_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지엄 뉴 웨이브 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[세계를 뜨겁게 달군 신규 박물관 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/49f5b74b0c104416acc39390ec78a959.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지성과 감성의 컬래버레이션 스테이 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
             <content:encoded><![CDATA[세대를 포용하는 음악과 노랫말]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d4cb29661af94d998cc9dbb08a929acd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프라우드먼 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 12 Jul 2023 01:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[모니카, 립제이를 필두로 무대를 장악하는 크루]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e8bc29adfdbf4ca6ad3fe6aec37da1d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
