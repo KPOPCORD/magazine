@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 08:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 09:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김성재, 그를 기억하는 저마다의 방식]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[듀스 30주년 기념 사진집 북토크 신청]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/71be4424ac774e04b8c59f883f13af54.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기억해 우리의 Y2K를]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[세계를 뜨겁게 달군 신규 박물관 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/49f5b74b0c104416acc39390ec78a959.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지성과 감성의 컬래버레이션 스테이]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[2023 현대카드 다빈치모텔]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/77c22975a53446e1af487d869bedc05c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
