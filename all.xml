@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 08:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 09:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
 사랑스럽게 직진 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 11 Aug 2023 08:13:43 GMT</pubDate>
+            <pubDate>Fri, 11 Aug 2023 09:12:28 GMT</pubDate>
             <content:encoded><![CDATA[조유리답게 사랑하는 법. 운전 면허가 없다면 택시타고 간다! 사랑의 다양한 면면, 때론 달콤하고 때론 설레이는 감정들이 좀 더 성숙해진 조유리의 음색에 담겼다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230811_96/1691731990230JtyM6_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DJ Soulscape Curated 23 허회경 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[솔직하고 담담한 위로를 전하는 뮤지션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6cc12c886ce44dcbb63c130524bf391e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제주는 카름스테이 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[힘이 솟아나는 Workout Playlist]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/406bbf7bce444e8d805afdcc5b7069dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지속 가능한 채소 친화적 마인드 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 8월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bb62cd2302ef4ea09c9ad8f510ffada2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
