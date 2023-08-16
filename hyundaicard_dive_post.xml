@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 04:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 05:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피지털 패션을 위하여]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[NFT와 결합한 스니커즈 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bf5fb75f39074c7ba2232fc1130c5abb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Singer Songwriter]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[&lt;월간 DIVE&gt; 8월 호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1fdc2c25ecaa4d28985c8ef6931ef00b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김성재, 그를 기억하는 저마다의 방식]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[듀스 30주년 기념 사진집 북토크 신청]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/71be4424ac774e04b8c59f883f13af54.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
