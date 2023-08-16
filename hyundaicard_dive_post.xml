@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 07:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 08:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강아지 가방에 들어가신다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[반려견 외출 걱정 끝! 이동 가방 &amp; 카 시트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/662dbf504ec740409c58d7bafa0284ef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피지털 패션을 위하여]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[재미 백배 제주 체험 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/338f76f9674044ceaf92286021e55a70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뜨거운 안녕]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;월간 DIVE&gt; 8월 호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1fdc2c25ecaa4d28985c8ef6931ef00b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
