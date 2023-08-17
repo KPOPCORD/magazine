@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 07:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 08:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
 확장되는 음악세계 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 17 Aug 2023 07:10:19 GMT</pubDate>
+            <pubDate>Thu, 17 Aug 2023 08:17:18 GMT</pubDate>
             <content:encoded><![CDATA[음악을 제외한 매개에서 쉽게 만나기 어렵지만, 누구보다 꾸준하고 성실하게 작업에 매진하는 뮤지션을 말한다면 그 중 가장 먼저 떠오를 사람은 나얼이다. 시리즈 작업물 &lt;Soul Pop City&gt;의 두 번째 싱글 ‘Words’를 내는 나얼에게 유튜브와 꾸준함과 잠행과 80년대 음악에 대해 물었더니 모든 질문의 답은 하나로 일맥상통했다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230816_104/169215122323491Sn7_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매우 사적이고도 역사적인 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[목욕을 콘셉트로 한 프로젝트 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/593b27eae5944221ad3cbced7391f77b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[선재 스님의 약이 되는 여름 밥상 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[계곡 품은 에어비앤비 스테이 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bf980d6ff3ea411d9df1f1a5cde389f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ Soulscape Curated 23 허회경 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[솔직하고 담담한 위로를 전하는 뮤지션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6cc12c886ce44dcbb63c130524bf391e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
