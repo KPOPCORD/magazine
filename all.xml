@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 03:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 04:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/CC1SEKB328QAWHA5O7UD/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지효만의 음악 세계에 빠질 시간, 지효(Z)의 첫 번째(ONE) 앨범 [ZON... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13467&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13467&amp;pg=1</guid>
+            <pubDate>Fri, 18 Aug 2023 04:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13467/Mgz_Main_List_20230818095109.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[tripleS (트리플에스) LOVElution <ↀ> 자켓 촬영 비하인드 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13463&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13463&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Wed, 16 Aug 2023 09:11:41 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13462/Mgz_Main_List_20230816170546.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[로시 (Rothy) <남남> OST Part 6 ‘Alive’ 녹음 현장 공개 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13461&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13461&amp;pg=1</guid>
-            <pubDate>Wed, 16 Aug 2023 09:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13461/Mgz_Main_List_20230816143328.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #156 : 
@@ -370,7 +370,7 @@
 확장되는 음악세계 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 18 Aug 2023 03:12:26 GMT</pubDate>
+            <pubDate>Fri, 18 Aug 2023 04:13:39 GMT</pubDate>
             <content:encoded><![CDATA[음악을 제외한 매개에서 쉽게 만나기 어렵지만, 누구보다 꾸준하고 성실하게 작업에 매진하는 뮤지션을 말한다면 그 중 가장 먼저 떠오를 사람은 나얼이다. 시리즈 작업물 &lt;Soul Pop City&gt;의 두 번째 싱글 ‘Words’를 내는 나얼에게 유튜브와 꾸준함과 잠행과 80년대 음악에 대해 물었더니 모든 질문의 답은 하나로 일맥상통했다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230816_104/169215122323491Sn7_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
