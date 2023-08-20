@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 03:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 04:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한남, 성수 어디로 갈까?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 데이터로 확인한 패션 핫플]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/614a9c72e7574bf6a007350a48d3d35b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안도 다다오와 청사과, 그리고 빛의 공간]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 8월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/495da6a71a524220940d8cca9b0ae365.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내면의 이야기를 포착하다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[8월의 디자이너 Richard Avedon]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2d1444e07daa4164a17a5ab87253f266.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
