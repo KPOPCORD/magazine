@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 03:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 04:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
 확장되는 음악세계 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 21 Aug 2023 03:12:10 GMT</pubDate>
+            <pubDate>Mon, 21 Aug 2023 04:13:30 GMT</pubDate>
             <content:encoded><![CDATA[음악을 제외한 매개에서 쉽게 만나기 어렵지만, 누구보다 꾸준하고 성실하게 작업에 매진하는 뮤지션을 말한다면 그 중 가장 먼저 떠오를 사람은 나얼이다. 시리즈 작업물 &lt;Soul Pop City&gt;의 두 번째 싱글 ‘Words’를 내는 나얼에게 유튜브와 꾸준함과 잠행과 80년대 음악에 대해 물었더니 모든 질문의 답은 하나로 일맥상통했다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230816_104/169215122323491Sn7_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[압구정이 돌아왔다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[믿고 가는 압구정 요즘 핫플 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7b0d70c90feb4613917d5968a8d8c4ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한남, 성수 어디로 갈까? (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[NFT와 결합한 스니커즈 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bf5fb75f39074c7ba2232fc1130c5abb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Singer Songwriter (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 8월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/495da6a71a524220940d8cca9b0ae365.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
