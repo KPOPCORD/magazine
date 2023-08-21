@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 01:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 02:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2023년 8월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/A2LVLBM0BBCW1HHI3TSZ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/A2LVLBM0BBCW1HHI3TSZ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 21 Aug 2023 02:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[우예린 - 새 싱글 'let it go! (daisy)' MV 촬영기 공개]]></title>
             <link>https://music.bugs.co.kr/musicpost/PBF7UNR45NR51VNN24LZ?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +191,6 @@
             <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/PCA3LERJ8JC91JUPJ0SS/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성민제 - '너에게 하지 못한 이야기' 첫 LIVE CLIP 촬영 현장]]></title>
-            <link>https://music.bugs.co.kr/musicpost/CC1SEKB328QAWHA5O7UD?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/CC1SEKB328QAWHA5O7UD?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/CC1SEKB328QAWHA5O7UD/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
