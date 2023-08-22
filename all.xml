@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 07:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 08:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
 지효, 찰리푸스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 22 Aug 2023 07:11:15 GMT</pubDate>
+            <pubDate>Tue, 22 Aug 2023 08:16:57 GMT</pubDate>
             <content:encoded><![CDATA[첫 솔로 앨범을 발매한 트와이스의 지효부터 신곡을 발표한 찰리 푸스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230821_292/16926073353895nDqI_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[또 물보라를 일으켜 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[해변에서 영감을 받은 포토그래퍼 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e8fbfa0594ea4d0eb36f5d69fb3d7ef4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름 기억 조작 송 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[내 골프 실력의 비기, IRON &amp; WOOD]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/44ce38910dea47baa2cfc357d345be34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매우 사적이고도 역사적인 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[목욕을 콘셉트로 한 프로젝트 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/593b27eae5944221ad3cbced7391f77b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
