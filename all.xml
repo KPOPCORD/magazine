@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 02:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 03:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -193,6 +193,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/PCA3LERJ8JC91JUPJ0SS/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OurR(아월) 다섯 번째 싱글 ‘틈’ 뮤직비디오와 아트워크 촬영 현장 비하인... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13485&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13485&amp;pg=1</guid>
+            <pubDate>Wed, 23 Aug 2023 03:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13485/Mgz_Main_List_20230823104106.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[작곡가로서의 성과 조명하기 위한 첫 번째 시도! '김준 헌정 앨범' 외 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13483&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13483&amp;pg=1</guid>
@@ -247,14 +255,6 @@
             <pubDate>Mon, 21 Aug 2023 09:11:44 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13477/Mgz_Main_List_20230821165224.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈을 향해 거침없이 항해하는 배너의 자켓 촬영 현장 공개 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13475&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13475&amp;pg=1</guid>
-            <pubDate>Mon, 21 Aug 2023 09:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13475/Mgz_Main_List_20230821141108.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #157 : 
@@ -369,7 +369,7 @@
 20년의 약속 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 23 Aug 2023 02:15:53 GMT</pubDate>
+            <pubDate>Wed, 23 Aug 2023 03:11:30 GMT</pubDate>
             <content:encoded><![CDATA[XIA(준수)가 가수로, 뮤지컬 배우로 전방위적 활동을 해온 지도 벌써 20년. 팬들을 위해 준비한 특별한 선물은 한국과 일본에서 깜짝 동시 발매되는 신곡이다. 팬미팅에서 공개된다는 것만으로도 그의 남다른 팬사랑을 느낄 수 있다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230822_138/1692682542655PCPhH_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
