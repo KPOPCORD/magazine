@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 07:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 08:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가파도 AiR 입주 작가 아카이브전]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 신규 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/30d1b8db6ea44caba306f1b1e2e8253c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무적의 베이스]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[안도 다다오의 두 번째 공간, '빛의 공간']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bb207e2729f94089b14ff0fe11451ac9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몰라봐서 미안했다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[세상 힙한 ‘우리 것’ 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/14b9dc923b7e453bad09fc7a27cb3013.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
