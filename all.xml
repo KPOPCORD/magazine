@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 04:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 05:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BXN0845CHFHR6O0KBN9M/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나를 음악으로 설명하기 – 커셔스 클레이의 [KARPEH] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13491&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13491&amp;pg=1</guid>
+            <pubDate>Thu, 24 Aug 2023 05:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13491/Mgz_Main_List_20230824110333.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[티아이오티 (TIOT), ‘백전무패’ 녹음실 비하인드 현장 스케치! (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13487&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13487&amp;pg=1</guid>
+            <pubDate>Thu, 24 Aug 2023 05:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13487/Mgz_Main_List_20230824103027.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[iKON의 특별하고 진솔한 스토리, SPECIAL SINGLE [PANORAM... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13488&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13488&amp;pg=1</guid>
@@ -240,22 +256,6 @@
             <pubDate>Tue, 22 Aug 2023 09:10:55 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13480/Mgz_Main_List_20230822153523.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[영원히 기억에 남을 효연의 중독적인 [Picture] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13473&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13473&amp;pg=1</guid>
-            <pubDate>Tue, 22 Aug 2023 09:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13473/Mgz_Main_List_20230822172627.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[음악을 통한 세계여행, 존 바티스트의 ‘World Music Radio’ (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13479&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13479&amp;pg=1</guid>
-            <pubDate>Tue, 22 Aug 2023 03:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13479/Mgz_Main_List_20230822111923.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #157 : 
@@ -370,9 +370,17 @@
 20년의 약속 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 24 Aug 2023 04:13:55 GMT</pubDate>
+            <pubDate>Thu, 24 Aug 2023 05:10:48 GMT</pubDate>
             <content:encoded><![CDATA[XIA(준수)가 가수로, 뮤지컬 배우로 전방위적 활동을 해온 지도 벌써 20년. 팬들을 위해 준비한 특별한 선물은 한국과 일본에서 깜짝 동시 발매되는 신곡이다. 팬미팅에서 공개된다는 것만으로도 그의 남다른 팬사랑을 느낄 수 있다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230822_138/1692682542655PCPhH_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김정은 요리 연구가의 도시락 메뉴 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;미(味)라클&gt; 시즌 2 여섯 번째 레시피]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3f04a41c0d304803a6f42be6f35b568d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[작품이 된 배달 용기 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 05]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/694b0cac4a3245c9bd92bd4b6ff5c105.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[압구정이 돌아왔다 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[믿고 가는 압구정 요즘 핫플 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7b0d70c90feb4613917d5968a8d8c4ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
