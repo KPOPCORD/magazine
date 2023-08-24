@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 02:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 03:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SECRET NUMBER(시크릿넘버) - 7th Single [STARLIGHT] 촬영 비하인드 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/Z8QHQRA4RBTP2QUWRWNT?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/Z8QHQRA4RBTP2QUWRWNT?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 24 Aug 2023 03:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/Z8QHQRA4RBTP2QUWRWNT/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예린 (YERIN) - The 2nd Mini Album [Ready, Set, LOVE] 자켓/MV 촬영 비하인드 공개!]]></title>
             <link>https://music.bugs.co.kr/musicpost/L05VL47XR3JMRZ9DI5GX?&amp;wl_ref=list_sp_01_h</link>
@@ -184,13 +192,6 @@
             <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BXN0845CHFHR6O0KBN9M/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭘 들을까? - 2023년 5월 노래 모음!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/JDO7DGPBQAQLCH4TUNTD?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/JDO7DGPBQAQLCH4TUNTD?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
