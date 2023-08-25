@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 05:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 06:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여백의 아름다움]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[이케바나의 멋을 품은 화병 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/989a7092919f4d47a373f2f2665c00e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장 미셸 바스키아와 앤디 워홀 두 거장의 전설적인 만남]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[행복했던 기억만 떠올리게 하는 서머 송]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4dd56a91dc224c47aea05e66de7592b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결코 졸업하지 않는 올드스쿨, 스레드]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[최태혁의 ‘브랜드 이야기’]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e72d685f4538442cb320d97d2f8e9cf8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
