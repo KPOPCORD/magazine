@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 03:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 04:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
 오펜하이머 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 25 Aug 2023 03:11:32 GMT</pubDate>
+            <pubDate>Fri, 25 Aug 2023 04:14:03 GMT</pubDate>
             <content:encoded><![CDATA[초전도체를 비롯한 과학 기술 관련 소식으로 인해 인터넷 커뮤니티가 후끈 달아오른 요즘. 이런 열기가 가시기 전에 또 하나의 과학자가 대대적인 주목을 받고 있으니. 바로 미국의 과학자 오펜하이머다. 실제 인물의 일대기를 다룬 해당 영화는 한국에서 박스오피스 1위를 달성하며 흥행을 이어가고 있다. 때를 맞아 이주의 디깅은 이공계 특집으로 준비했다. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230823_126/1692778968242Qeo8u_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장 미셸 바스키아와 앤디 워홀 두 거장의 전설적인 만남 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 스토리지 특별 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2603a7a98fbd4ff192bfa0b9548a51fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김정은 요리 연구가의 도시락 메뉴 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[최태혁의 ‘브랜드 이야기’]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e72d685f4538442cb320d97d2f8e9cf8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shirley: Visions of Reality (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 05]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/694b0cac4a3245c9bd92bd4b6ff5c105.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
