@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 07:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 08:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주와 북유럽에서 온 오래된 것들의 만남, 탈로 제주]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 '요즘 괜찮은 공간']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/060ab8bbef33488b9da861bf57772f0f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여백의 아름다움]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[해변에서 영감을 받은 포토그래퍼 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e8fbfa0594ea4d0eb36f5d69fb3d7ef4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 기억 조작 송]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[행복했던 기억만 떠올리게 하는 서머 송]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4dd56a91dc224c47aea05e66de7592b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
