@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 03:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 04:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
 MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 26 Aug 2023 03:11:22 GMT</pubDate>
+            <pubDate>Sat, 26 Aug 2023 04:12:27 GMT</pubDate>
             <content:encoded><![CDATA[어느덧 50주년을 맞이하게 된 힙합. 힙합은 음악을 넘어 문화, 움직임이 되어 전 세계에 변화를 일으켰다. 한국 역시 마찬가지. 한국 힙합도 마찬가지로 여러 인물의 꾸준한 노력이 모여 독자적인 씬을 이루는 건 물론, 아시아 지역의 많은 음악가에게 영감을 주고 있다. 이번 기사에서는 한국 힙합의 대표적인 게임 체인저를 이야기해 보고자 한다. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230825_236/1692926331434aQweY_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이왕 열난 김에 화끈하게 열 내 보자 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[이열치열족을 위한 매운 음식 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d0e57e168af94f829ae768e0f3728286.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제주와 북유럽에서 온 오래된 것들의 만남, 탈로 제주 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[여름 베이스 메이크업 치트키 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9a27481118654129928b43c0ea3affa4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 물보라를 일으켜 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[해변에서 영감을 받은 포토그래퍼 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e8fbfa0594ea4d0eb36f5d69fb3d7ef4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
