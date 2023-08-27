@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Aug 2023 03:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 04:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이메 아욘의 디자인 테마파크, 더현대 대구]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[전은경의 '디자인 스팟']]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c5c98f379fa248139efecc56ecbb2548.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이왕 열난 김에 화끈하게 열 내 보자]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 신규 전시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d02ca26d51584ced8576508f0e80b8e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무적의 베이스]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[여름 베이스 메이크업 치트키 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9a27481118654129928b43c0ea3affa4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
