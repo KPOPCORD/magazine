@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 05:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 06:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 73.Post Malone - 'Enough Is Enough']]></title>
+            <link>https://music.bugs.co.kr/musicpost/2LK714OHLMFE1FBTFTUA?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/2LK714OHLMFE1FBTFTUA?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 28 Aug 2023 06:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[SECRET NUMBER(시크릿넘버) - 7th Single [STARLIGHT] 촬영 비하인드 공개]]></title>
             <link>https://music.bugs.co.kr/musicpost/Z8QHQRA4RBTP2QUWRWNT?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +191,6 @@
             <guid>https://music.bugs.co.kr/musicpost/XWQ5HRLX13Q6EDO3W1BE?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디너프 (DNEIRF) - 여름의 문을 두드리는 시원한 미니 앨범! [4SEASONS]]]></title>
-            <link>https://music.bugs.co.kr/musicpost/BXN0845CHFHR6O0KBN9M?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/BXN0845CHFHR6O0KBN9M?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BXN0845CHFHR6O0KBN9M/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
