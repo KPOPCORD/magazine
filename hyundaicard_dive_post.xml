@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 07:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 08:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어느새 힙합은 넘 멋져]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[힙합 50주년을 기념하는 뉴욕의 전시들]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dee5fd53c9204dc19bbb954d6f40ffbe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[게임으로 인생 2회차]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[전은경의 '요즘 괜찮은 공간']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/060ab8bbef33488b9da861bf57772f0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여백의 아름다움]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[이케바나의 멋을 품은 화병 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/989a7092919f4d47a373f2f2665c00e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
