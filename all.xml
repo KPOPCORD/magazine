@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 04:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 05:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 악뮤, 셀레나 고메즈 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 30 Aug 2023 04:13:07 GMT</pubDate>
+            <pubDate>Wed, 30 Aug 2023 05:12:10 GMT</pubDate>
             <content:encoded><![CDATA[그들다운 사랑스런 감성으로 돌아온 악뮤, 오랜만에 신곡을 발표한 셀레나 고메즈까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230828_50/1693208614593ohftA_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[게임으로 인생 2회차 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[새 인생 체험할 수 있는 게임 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2aab63cabbe845d187b90154187512ec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도쿄 리빙 핫플은 여기야 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[이케바나의 멋을 품은 화병 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/989a7092919f4d47a373f2f2665c00e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장 미셸 바스키아와 앤디 워홀 두 거장의 전설적인 만남 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 스토리지 특별 전시]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/351fe72aec804963b1c3cb78668633b2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
