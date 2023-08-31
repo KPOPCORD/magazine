@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 04:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 05:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 예린 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 31 Aug 2023 04:13:14 GMT</pubDate>
+            <pubDate>Thu, 31 Aug 2023 05:10:57 GMT</pubDate>
             <content:encoded><![CDATA[예린이 다시 출발선에 선다. 우리 곁의 친근한 여자친구에서 중독성 강한 멜로디에 아련함 몇 방울을 얹은 신선하고 세련된 모습으로.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230829_268/1693297588960R8fqN_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[엄태준, 엄현정 셰프의 싱그러운 여름 디시 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;미(味)라클&gt; 시즌 2 일곱 번째 레시피]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ff1901aa969b4b26882c04f1bd8a0cdf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어느새 힙합은 넘 멋져 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[이열치열족을 위한 매운 음식 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d0e57e168af94f829ae768e0f3728286.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주와 북유럽에서 온 오래된 것들의 만남, 탈로 제주 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[전은경의 '요즘 괜찮은 공간']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/060ab8bbef33488b9da861bf57772f0f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
