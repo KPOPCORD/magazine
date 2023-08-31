@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 06:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 07:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 예린 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 31 Aug 2023 06:14:27 GMT</pubDate>
+            <pubDate>Thu, 31 Aug 2023 07:10:51 GMT</pubDate>
             <content:encoded><![CDATA[예린이 다시 출발선에 선다. 우리 곁의 친근한 여자친구에서 중독성 강한 멜로디에 아련함 몇 방울을 얹은 신선하고 세련된 모습으로.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230829_268/1693297588960R8fqN_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Art Talk with David Salle (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[데이비드 살레 아트 토크]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/06cc5216f0c445e8b779b7c0f7720801.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엄태준, 엄현정 셰프의 싱그러운 여름 디시 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[전은경의 '디자인 스팟']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c5c98f379fa248139efecc56ecbb2548.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이왕 열난 김에 화끈하게 열 내 보자 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[이열치열족을 위한 매운 음식 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d0e57e168af94f829ae768e0f3728286.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

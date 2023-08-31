@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 06:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 07:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Art Talk with David Salle]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[데이비드 살레 아트 토크]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/06cc5216f0c445e8b779b7c0f7720801.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엄태준, 엄현정 셰프의 싱그러운 여름 디시]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[전은경의 '디자인 스팟']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c5c98f379fa248139efecc56ecbb2548.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이왕 열난 김에 화끈하게 열 내 보자]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[이열치열족을 위한 매운 음식 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d0e57e168af94f829ae768e0f3728286.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
