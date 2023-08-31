@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 02:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 04:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -193,6 +193,22 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[쿠바를 좋아하세요? - 해럴드 로페스 누사 ＜Timba a la America... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13519&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13519&amp;pg=1</guid>
+            <pubDate>Thu, 31 Aug 2023 04:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13519/Mgz_Main_List_20230831103221.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[프랑스 영화 같은 하루를 위한 플레이리스트 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13515&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13515&amp;pg=1</guid>
+            <pubDate>Thu, 31 Aug 2023 04:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13515/Mgz_Main_List_20230831110716.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[가요 탐구생활 ＃58 - 다시 불어오는 록 밴드의 붐 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=13513&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=13513&amp;pg=1</guid>
@@ -239,22 +255,6 @@
             <pubDate>Tue, 29 Aug 2023 10:12:10 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13498/Mgz_Main_List_20230829113953.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[재즈덩크 ＃60 - 크루너를 넘어서, 위대한 재즈 스탠더드 해석자! 토니 베넷... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13509&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13509&amp;pg=1</guid>
-            <pubDate>Tue, 29 Aug 2023 03:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13509/Mgz_Main_List_20230829114433.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[소개해 드리고 싶어요, 카를 닐센이라는 사람을 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13508&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13508&amp;pg=1</guid>
-            <pubDate>Tue, 29 Aug 2023 03:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13508/Mgz_Main_List_20230829103442.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #158 : 
@@ -369,7 +369,7 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 예린 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 31 Aug 2023 02:17:23 GMT</pubDate>
+            <pubDate>Thu, 31 Aug 2023 04:13:14 GMT</pubDate>
             <content:encoded><![CDATA[예린이 다시 출발선에 선다. 우리 곁의 친근한 여자친구에서 중독성 강한 멜로디에 아련함 몇 방울을 얹은 신선하고 세련된 모습으로.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230829_268/1693297588960R8fqN_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
         </item>
