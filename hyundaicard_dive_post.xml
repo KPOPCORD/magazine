@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 07:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 08:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현실과 상상의 컬래버레이션]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[Meta X 현대카드 MR/AR 체험 프로그램]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/48dce34af6a148d89c534e54c1a6cee7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Art Talk with David Salle]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[바비가 이끄는 핑크빛 세상]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/17935889acb64dcfad5ee1686928dd05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이메 아욘의 디자인 테마파크, 더현대 대구]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[전은경의 '디자인 스팟']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c5c98f379fa248139efecc56ecbb2548.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
