@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 02:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 03:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또 뭐가 있더라... 요새 잊고 살던 건? cott(콧), onthedal의 ...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13518&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13518&amp;pg=1</guid>
+            <pubDate>Fri, 01 Sep 2023 03:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13518/Mgz_Main_List_20230901112703.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[납작한 카드 세상에서 펼쳐질 쿠키들의 모험 <쿠키런: 브레이버스>]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13517&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13517&amp;pg=1</guid>
+            <pubDate>Fri, 01 Sep 2023 03:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13517/Mgz_Main_List_20230901114255.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[우리가 쌓아온 그 기쁨들, ADOY [PLEASURES] MV 비하인드 공개]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13521&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 30 Aug 2023 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[가요 탐구생활]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13513/Mgz_Main_List_20230830155959.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[김우진 미니 2집 [The moment : 美成年, Bounce.] 자켓 촬영...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13512&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13512&amp;pg=1</guid>
-            <pubDate>Wed, 30 Aug 2023 09:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13512/Mgz_Main_List_20230830162437.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[＃낭만드러머 ＃아티스트그잡채 ＃제주랑인디 'DK' 편]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=40&amp;mgz_seq=13511&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=40&amp;mgz_seq=13511&amp;pg=1</guid>
-            <pubDate>Wed, 30 Aug 2023 09:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[#왓_인_플]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13511/Mgz_Main_List_20230830150132.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
