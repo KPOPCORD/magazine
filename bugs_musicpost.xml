@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 08:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 09:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eian, Merende - 버킷리스트를 하나씩 이룰 수 있는 힘이 되었으면 좋겠어, 신곡 [Bucket Lost]]]></title>
+            <link>https://music.bugs.co.kr/musicpost/2MXSJOQI1CQZJ26OG11O?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/2MXSJOQI1CQZJ26OG11O?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 04 Sep 2023 09:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2MXSJOQI1CQZJ26OG11O/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 73.Post Malone - 'Enough Is Enough']]></title>
             <link>https://music.bugs.co.kr/musicpost/2LK714OHLMFE1FBTFTUA?&amp;wl_ref=list_sp_01_h</link>
@@ -184,13 +192,6 @@
             <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/D5PY4N0YBRKSPGJ5RRPJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝송으로 배우는 영어! 70.Post Malone - 'Chemical']]></title>
-            <link>https://music.bugs.co.kr/musicpost/XWQ5HRLX13Q6EDO3W1BE?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/XWQ5HRLX13Q6EDO3W1BE?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
