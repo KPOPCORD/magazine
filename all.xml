@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 04:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 05:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 NCT, 니키 미나즈 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 04 Sep 2023 04:13:09 GMT</pubDate>
+            <pubDate>Mon, 04 Sep 2023 05:11:09 GMT</pubDate>
             <content:encoded><![CDATA[정규 4집을 발표한 NCT부터 정규 5집 선공개곡을 내놓은 니키 미나즈까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230904_159/1693792178120rYxWp_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금, 여기 나로 사는 법 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[다빈치모텔의 양재웅]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b656a8960c6e4543a1b93bec10f1b27d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요리가 즐거워지는 나의 쿠킹 메이트 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ NCT, 니키 미나즈 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 9월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a71fa69fd1884874821db66be643d228.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장인과 신예들 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 뮤직 라이브러리 9월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/243d7ad0e61048089c97c20c1c571d21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
