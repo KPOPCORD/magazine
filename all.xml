@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 07:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 08:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,16 +369,24 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 NCT, 니키 미나즈 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 04 Sep 2023 07:11:15 GMT</pubDate>
+            <pubDate>Mon, 04 Sep 2023 08:16:48 GMT</pubDate>
             <content:encoded><![CDATA[정규 4집을 발표한 NCT부터 정규 5집 선공개곡을 내놓은 니키 미나즈까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230904_159/1693792178120rYxWp_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컬러풀 타건감 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[예쁘기도 한 키보드 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/25001942c9cb47228cb8f5f8c36ba5a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금, 여기 나로 사는 법 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[다빈치모텔의 양재웅]]></content:encoded>
+            <content:encoded><![CDATA[양재웅, 다빈치모텔에 체크인하다]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b656a8960c6e4543a1b93bec10f1b27d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -394,7 +402,7 @@ NCT, 니키 미나즈 (VIBE ─ 매거진)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[다빈치모텔의 장윤주]]></content:encoded>
+            <content:encoded><![CDATA[장윤주, 다빈치모텔에 체크인하다]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cc0e282d3bda44099ef585ab6500030d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -436,14 +444,6 @@ NCT, 니키 미나즈 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 9월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5a05986356414d32b58c1a1ac6722692.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 진보적인 시도들 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 9월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a71fa69fd1884874821db66be643d228.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
