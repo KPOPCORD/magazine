@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 04:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 05:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 정식 데뷔와 함께 라이징 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 06 Sep 2023 04:13:34 GMT</pubDate>
+            <pubDate>Wed, 06 Sep 2023 05:11:31 GMT</pubDate>
             <content:encoded><![CDATA[프롤로그 트랙 ‘Memories’로 화제를 모았던 SM 신인 그룹 RIIZE가 드디어 정식 데뷔했다. 청량감을 가득 담았던 ‘Memories’에 이어 펑키 팝스타로 변신한 신곡 ‘Get A Guitar’까지. 함께 성장하고 꿈을 실현해 나갈 ‘어나더급’ 신인 RIIZE가 정식 데뷔와 함께 VIBE를 위해 이야기와 선물까지 준비했다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230904_26/16938034062981OJSI_PNG/RIIZE_%B8%C5%B0%C5%C1%F8_%28%C0%A5%B9%E8%B3%CA%29.png?type=w840" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[신… 신… 신! 기한 장기하 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[장기하, 다빈치모텔에 체크인하다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c5cce29e75a042358de38d84f300549f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[런던, 컨템퍼러리 아트의 중심 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[고기 구워 주는 고깃집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f853e13fd6ad4c5ca7e4a5738de71070.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풍요로운 가을을 품은 제철 요리 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 9월 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0e6a254e1a3f40e99dfa72dba0522cd2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
