@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 05:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 06:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 두번째 비상 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 07 Sep 2023 05:10:41 GMT</pubDate>
+            <pubDate>Thu, 07 Sep 2023 06:14:07 GMT</pubDate>
             <content:encoded><![CDATA[데이식스 영케이의 군 제대 이후 첫 활동은 솔로 2집 앨범이다. 그가 보낸 공백기에 어떤 생각을 하고, 어떤 음악을 만들고, 어떤 시간을 보냈는지 상세히 묻는 대신 이 앨범을 경청할 것.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230906_105/1693963591913dTzsg_JPEG/%B8%DE%C0%CE2.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장인과 신예들 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 뮤직 라이브러리 9월의 새 음반]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/243d7ad0e61048089c97c20c1c571d21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가을이 오면 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[양재웅, 다빈치모텔에 체크인하다]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b656a8960c6e4543a1b93bec10f1b27d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요리가 즐거워지는 나의 쿠킹 메이트 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 9월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/19623f760da247a690284649cc111f14.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
