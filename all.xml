@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 06:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 07:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 옆집의 음악천재들 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 08 Sep 2023 06:14:44 GMT</pubDate>
+            <pubDate>Fri, 08 Sep 2023 07:10:54 GMT</pubDate>
             <content:encoded><![CDATA[데뷔한지 100일여, 신인보이그룹 보이넥스트도어는 데뷔 싱글의 열기가 채 식기도 전에 미니 앨범으로 활동을 이어간다. 보여줄 게 너무 많은 이 패기의 아이돌은 익숙한 감정들을 노래하되 새롭고도 강렬한 스타일을 제시한다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230908_298/1694136811002IXjsI_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인플카 성수 상륙 대작전 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[성수에서 완벽한 하루를 보내는 법]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bfae9538fb3f4bf89f5df6a6375a2d6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[톰 삭스의 우주 나들이 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 MoMA 테마 북 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/79f7e0a58b7344118eb5e7890fdc5f84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컬러풀 타건감 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[예쁘기도 한 키보드 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/25001942c9cb47228cb8f5f8c36ba5a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
