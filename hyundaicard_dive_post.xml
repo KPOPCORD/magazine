@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 04:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 05:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[톰 삭스의 우주 나들이]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[톰 삭스, 다빈치모텔에 체크인하다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f5a8bf9925d44226b46c515049916aa8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장인과 신예들]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[예쁘기도 한 키보드 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/25001942c9cb47228cb8f5f8c36ba5a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금, 여기 나로 사는 법]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[양재웅, 다빈치모텔에 체크인하다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b656a8960c6e4543a1b93bec10f1b27d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
