@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 03:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 04:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[평범했던 일상도 특별해지는 이 순간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[멜로망스의 정동환, 다빈치모텔에 체크인하다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a78935684f2e4390a359fc4078b224ce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[향을 입은 패션]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[프리즈 서울 2023 프리뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/56dbf78618cd46f89eb52fc22c74115e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신… 신… 신! 기한 장기하]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[장기하, 다빈치모텔에 체크인하다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c5cce29e75a042358de38d84f300549f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
