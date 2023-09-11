@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 03:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 05:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 옆집의 음악천재들 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 11 Sep 2023 03:11:59 GMT</pubDate>
+            <pubDate>Mon, 11 Sep 2023 05:11:37 GMT</pubDate>
             <content:encoded><![CDATA[데뷔한지 100일여, 신인보이그룹 보이넥스트도어는 데뷔 싱글의 열기가 채 식기도 전에 미니 앨범으로 활동을 이어간다. 보여줄 게 너무 많은 이 패기의 아이돌은 익숙한 감정들을 노래하되 새롭고도 강렬한 스타일을 제시한다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230908_298/1694136811002IXjsI_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[풍요로운 가을을 품은 제철 요리 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리 9월 먼슬리 스페셜]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0e6a254e1a3f40e99dfa72dba0522cd2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[평범했던 일상도 특별해지는 이 순간 (현대카드 DIVE ─ POST)]]></title>
@@ -431,20 +439,12 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7e2ced6cebfe4c2c819dd8d96f380920.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[두바이 뉴 버킷 리스트 (현대카드 DIVE ─ POST)]]></title>
+            <title><![CDATA[가을 밤에 든 생각 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[두바이 신상 핫 스팟 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/539eb98641e84e5fbab75c6f742512f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 서울은 프리즈(Frieze) (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[프리즈 서울 2023 프리뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/56dbf78618cd46f89eb52fc22c74115e.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[9월 현대카드 What's On]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/290ee604f0034e518b196c0653973322.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
