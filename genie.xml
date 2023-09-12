@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 02:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 03:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ONLEE (이승환) ‘그 영화처럼 우린 (Be with you)’ 뮤비 촬영...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13552&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13552&amp;pg=1</guid>
+            <pubDate>Tue, 12 Sep 2023 03:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13552/Mgz_Main_List_20230912104925.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[베를린 필하모닉 오보에 수석 알브레히트 마이어 10년 만의 조우, 그리고 청각...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13551&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13551&amp;pg=1</guid>
+            <pubDate>Tue, 12 Sep 2023 03:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13551/Mgz_Main_List_20230912105750.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[크래비티, 자유를 향한 질주 [SUN SEEKER]]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13550&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 11 Sep 2023 03:11:45 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13543/Mgz_Main_List_20230911113748.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[한 면의 초록, 주의보의 단면 “초록 주의보”]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13542&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13542&amp;pg=1</guid>
-            <pubDate>Thu, 07 Sep 2023 03:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13542/Mgz_Main_List_20230907110259.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[10년을 돌아보다, 재즈의 명수 그레고리 포터의 ‘Liquid Spirit’ ...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13541&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13541&amp;pg=1</guid>
-            <pubDate>Thu, 07 Sep 2023 03:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13541/Mgz_Main_List_20230907112812.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>

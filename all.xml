@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 02:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 03:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Leo (리오) - 새 싱글 앨범 [IZAKAYA] 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/8WIAGMYEG7I056WYJ0TB?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/8WIAGMYEG7I056WYJ0TB?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 12 Sep 2023 03:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/8WIAGMYEG7I056WYJ0TB/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TRENDZ (트렌드지) - The 3rd Single Album [STILL ON MY WAY] 자켓 촬영 비하인드 공개! (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/XXSM7IXSM0R6LFEL9XRD?&amp;wl_ref=list_sp_01_h</link>
@@ -186,12 +194,20 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/EJ968J2T73NYBCCF2YTG/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Maaya Sakamoto(사카모토 마아야/坂本 真綾) - 정규 11집 [記憶の図書館(Kioku no Toshokan)] 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/H70SRLDR1QAUA3WP2VRG?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/H70SRLDR1QAUA3WP2VRG?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/H70SRLDR1QAUA3WP2VRG/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ONLEE (이승환) ‘그 영화처럼 우린 (Be with you)’ 뮤비 촬영... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13552&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13552&amp;pg=1</guid>
+            <pubDate>Tue, 12 Sep 2023 03:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13552/Mgz_Main_List_20230912104925.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[베를린 필하모닉 오보에 수석 알브레히트 마이어 10년 만의 조우, 그리고 청각... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13551&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13551&amp;pg=1</guid>
+            <pubDate>Tue, 12 Sep 2023 03:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13551/Mgz_Main_List_20230912105750.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[크래비티, 자유를 향한 질주 [SUN SEEKER] (지니 ─ 매거진)]]></title>
@@ -240,22 +256,6 @@
             <pubDate>Mon, 11 Sep 2023 03:11:45 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13543/Mgz_Main_List_20230911113748.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[한 면의 초록, 주의보의 단면 “초록 주의보” (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13542&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13542&amp;pg=1</guid>
-            <pubDate>Thu, 07 Sep 2023 03:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13542/Mgz_Main_List_20230907110259.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[10년을 돌아보다, 재즈의 명수 그레고리 포터의 ‘Liquid Spirit’ ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13541&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13541&amp;pg=1</guid>
-            <pubDate>Thu, 07 Sep 2023 03:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13541/Mgz_Main_List_20230907112812.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[BOYNEXTDOOR, 
@@ -370,7 +370,7 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 뷔, 올리비아 로드리고 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 12 Sep 2023 02:17:25 GMT</pubDate>
+            <pubDate>Tue, 12 Sep 2023 03:12:28 GMT</pubDate>
             <content:encoded><![CDATA[민희진 총괄 프로듀서와 협업해 관심을 모으고 있는 뷔의 솔로 앨범, 해외 음원 차트를 줄 세우고 있는 올리비아 로드리고의 2집까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230911_7/1694412447928cl24H_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
