@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 04:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 05:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 뷔, 올리비아 로드리고 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 12 Sep 2023 04:14:30 GMT</pubDate>
+            <pubDate>Tue, 12 Sep 2023 05:10:46 GMT</pubDate>
             <content:encoded><![CDATA[민희진 총괄 프로듀서와 협업해 관심을 모으고 있는 뷔의 솔로 앨범, 해외 음원 차트를 줄 세우고 있는 올리비아 로드리고의 2집까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230911_7/1694412447928cl24H_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그 누구도 아닌 이적 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[이적, 다빈치모텔에 체크인하다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/595f5eac0279465db54a3522493efb92.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손민수 Curated 10 일리야 라쉬코프스키 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[톰 삭스, 다빈치모텔에 체크인하다]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f5a8bf9925d44226b46c515049916aa8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장인과 신예들 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 뮤직 라이브러리 9월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/243d7ad0e61048089c97c20c1c571d21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
