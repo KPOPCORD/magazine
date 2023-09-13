@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 07:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 09:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CHERISH (체리쉬) - 데뷔 싱글! 'Can't you see me?' LIVE 촬영기 공개 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/BVAXCZHESZVGI78E8ZWS?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/BVAXCZHESZVGI78E8ZWS?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 13 Sep 2023 09:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BVAXCZHESZVGI78E8ZWS/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Leo (리오) - 새 싱글 앨범 [IZAKAYA] 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/8WIAGMYEG7I056WYJ0TB?&amp;wl_ref=list_sp_01_h</link>
@@ -186,14 +194,6 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한살차이 - 정규앨범 타이틀 곡 '그리워했나요' MV 촬영 스케치! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/EJ968J2T73NYBCCF2YTG?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/EJ968J2T73NYBCCF2YTG?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/EJ968J2T73NYBCCF2YTG/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뻔하고 재미없는 일상에서 벗어나 리프레시 하는 곳, <콜트 클럽> (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13561&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13561&amp;pg=1</guid>
@@ -370,9 +370,17 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 저스트 러브 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 13 Sep 2023 07:11:41 GMT</pubDate>
+            <pubDate>Wed, 13 Sep 2023 09:12:27 GMT</pubDate>
             <content:encoded><![CDATA[뭐가 맞는 건지 머리가 복잡해져 올 때, 정답은 딱 한 가지. 있는 그대로의 나를 사랑하며 즐기고 또 즐길 것. 화사가 진언과도 같은 굵직한 메시지를, 가볍고 신나고 생기 가득하게 우릴 향해 훅 던진다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230913_114/16945706249903elrX_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤상의 완벽한 사운드를 향한 여정 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[바이닐앤플라스틱 윤상 ＜CLICHE＞ 음감회]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d9a94d95c7ce470ea3658b15f883e96d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어쩌면 일어날지도 몰라 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 9월 먼슬리 스페셜]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0e6a254e1a3f40e99dfa72dba0522cd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평범했던 일상도 특별해지는 이 순간 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[멜로망스의 정동환, 다빈치모텔에 체크인하다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a78935684f2e4390a359fc4078b224ce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

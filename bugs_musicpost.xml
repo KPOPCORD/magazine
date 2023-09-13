@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 07:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 09:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CHERISH (체리쉬) - 데뷔 싱글! 'Can't you see me?' LIVE 촬영기 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/BVAXCZHESZVGI78E8ZWS?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/BVAXCZHESZVGI78E8ZWS?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 13 Sep 2023 09:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BVAXCZHESZVGI78E8ZWS/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Leo (리오) - 새 싱글 앨범 [IZAKAYA] 발매 기념 인터뷰]]></title>
             <link>https://music.bugs.co.kr/musicpost/8WIAGMYEG7I056WYJ0TB?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <guid>https://music.bugs.co.kr/musicpost/24WD6BOO2GXXKI9E5EYV?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한살차이 - 정규앨범 타이틀 곡 '그리워했나요' MV 촬영 스케치!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/EJ968J2T73NYBCCF2YTG?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/EJ968J2T73NYBCCF2YTG?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/EJ968J2T73NYBCCF2YTG/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
