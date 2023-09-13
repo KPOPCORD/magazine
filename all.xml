@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 13:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 14:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,30 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[문수진 (Moon Sujin) [My Time] 제작 비하인드 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13559&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13559&amp;pg=1</guid>
+            <pubDate>Wed, 13 Sep 2023 14:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13559/Mgz_Main_List_20230913162315.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[POW (파우) Pre-Release Single [Favorite] M/V ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13555&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13555&amp;pg=1</guid>
+            <pubDate>Wed, 13 Sep 2023 14:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13555/Mgz_Main_List_20230913172729.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[도시에 사는 사람들의 감정과 이야기, 이진아 정규 3집 [도시의 속마음] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13549&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13549&amp;pg=1</guid>
+            <pubDate>Wed, 13 Sep 2023 14:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13549/Mgz_Main_List_20230913172921.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[뻔하고 재미없는 일상에서 벗어나 리프레시 하는 곳, <콜트 클럽> (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13561&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13561&amp;pg=1</guid>
@@ -232,30 +256,6 @@
             <pubDate>Tue, 12 Sep 2023 10:11:54 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13548/Mgz_Main_List_20230912172738.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[ONLEE (이승환) ‘그 영화처럼 우린 (Be with you)’ 뮤비 촬영... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13552&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13552&amp;pg=1</guid>
-            <pubDate>Tue, 12 Sep 2023 03:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13552/Mgz_Main_List_20230912104925.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[베를린 필하모닉 오보에 수석 알브레히트 마이어 10년 만의 조우, 그리고 청각... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13551&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13551&amp;pg=1</guid>
-            <pubDate>Tue, 12 Sep 2023 03:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13551/Mgz_Main_List_20230912105750.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[크래비티, 자유를 향한 질주 [SUN SEEKER] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13550&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13550&amp;pg=1</guid>
-            <pubDate>Mon, 11 Sep 2023 09:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13550/Mgz_Main_List_20230911180140.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #160 : 
@@ -370,7 +370,7 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 저스트 러브 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 13 Sep 2023 13:15:41 GMT</pubDate>
+            <pubDate>Wed, 13 Sep 2023 14:10:39 GMT</pubDate>
             <content:encoded><![CDATA[뭐가 맞는 건지 머리가 복잡해져 올 때, 정답은 딱 한 가지. 있는 그대로의 나를 사랑하며 즐기고 또 즐길 것. 화사가 진언과도 같은 굵직한 메시지를, 가볍고 신나고 생기 가득하게 우릴 향해 훅 던진다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230913_114/16945706249903elrX_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
