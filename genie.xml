@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 08:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 09:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레전드 보컬리스트 이영현 X 신예 GREEN과의 만남! '아직 너를 사랑하고 ...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13560&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13560&amp;pg=1</guid>
+            <pubDate>Thu, 14 Sep 2023 09:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13560/Mgz_Main_List_20230914164537.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[엘즈업 (EL7Z UP) 1st Mini Album [7+UP] MV 촬영 현...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13557&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13557&amp;pg=1</guid>
+            <pubDate>Thu, 14 Sep 2023 09:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13557/Mgz_Main_List_20230914145426.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[클라라를 위하여 - 엘렌 그리모가 연주하는 슈만과 브람스]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13562&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 13 Sep 2023 05:11:07 GMT</pubDate>
             <content:encoded><![CDATA[핫플힙플]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13561/Mgz_Main_List_20230913135940.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[Daileee들을 위한 포부와 메시지를 담아낸 Weeekly (위클리) [Go...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13558&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13558&amp;pg=1</guid>
-            <pubDate>Wed, 13 Sep 2023 03:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13558/Mgz_Main_List_20230913105938.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[윤인영 3rd Single Album [사루비아] 어른이 되어가는 날들의 단상...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13554&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13554&amp;pg=1</guid>
-            <pubDate>Wed, 13 Sep 2023 03:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13554/Mgz_Main_List_20230913110619.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
