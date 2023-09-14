@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 06:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 07:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조회 수 보장! 기차 여행]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 기차 여행 톱티어 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eb436e9de4e14bf591c3eefc60902d69.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밉상 아니고 대상 맞습니다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[다채로운 연주를 펼치는 러시아 피아니스트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2d080a4a10674a41835a083bdca48a85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[즐거움의 기술]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 라이브러리 9월 신간 몰아 보기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/999e868439dd4b1c98f32df7982fc5c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
