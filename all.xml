@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 07:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 08:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 Hello (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 15 Sep 2023 07:11:45 GMT</pubDate>
+            <pubDate>Fri, 15 Sep 2023 08:15:22 GMT</pubDate>
             <content:encoded><![CDATA[DKZ의 멤버 재찬이 솔로로 데뷔한다. 있는 그대로의 재찬을 담는다는 건 어쩌면 생각보다 많이 어려운 일이지만 재찬은 오히려 마음을 비웠다. 팀 내에서도 다재다능하게 음악 작업을 해온 재찬답게, 하고 싶은 것들을 아낌없이 담은 앨범은 그렇게 나왔다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230915_268/1694741930151TzVAV_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한식의 미래 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리 그린하우스 가을 신메뉴]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cf183a02044642f2a1ac325a429d13f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전설의 세션들 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ Hello (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[초전도체 이론이 등장한 영화 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/93b9566977fa4d30808b1a9fac902e43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예술가의 표현, 초상, 궤적 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 아트 라이브러리 레어 북 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/679d6493a44b4785910f52a1ba3e8936.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
