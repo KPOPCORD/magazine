@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 08:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 09:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Loossemble (루셈블) - 새로운 서사의 시작인 첫 데뷔 앨범 재킷 촬영 현장 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/7CDVAPS5Z3T1I79DD0XH?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/7CDVAPS5Z3T1I79DD0XH?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 15 Sep 2023 09:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7CDVAPS5Z3T1I79DD0XH/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CHERISH (체리쉬) - 데뷔 싱글! 'Can't you see me?' LIVE 촬영기 공개 (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/BVAXCZHESZVGI78E8ZWS?&amp;wl_ref=list_sp_01_h</link>
@@ -187,11 +195,20 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9FUH8YLTL2DTYMBL5FCV/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뭘 들을까? - 2023년 6월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/24WD6BOO2GXXKI9E5EYV?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/24WD6BOO2GXXKI9E5EYV?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+            <title><![CDATA[Loossemble, 너의 Sensitive한 감각은 틀림이 없어 perfec... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13567&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13567&amp;pg=1</guid>
+            <pubDate>Fri, 15 Sep 2023 09:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13567/Mgz_Main_List_20230915111225.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[청량미 가득한 딘딘 (DINDIN)의 [속는 중이야] MV 비하인드 현장 공개 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13565&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13565&amp;pg=1</guid>
+            <pubDate>Fri, 15 Sep 2023 09:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13565/Mgz_Main_List_20230915163311.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[힙합사의 결정적인 순간을 장식한 싱글들 70화 (지니 ─ 매거진)]]></title>
@@ -240,22 +257,6 @@
             <pubDate>Thu, 14 Sep 2023 03:11:32 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13556/Mgz_Main_List_20230913174235.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[문수진 (Moon Sujin) [My Time] 제작 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13559&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13559&amp;pg=1</guid>
-            <pubDate>Wed, 13 Sep 2023 14:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13559/Mgz_Main_List_20230913162315.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[POW (파우) Pre-Release Single [Favorite] M/V ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13555&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13555&amp;pg=1</guid>
-            <pubDate>Wed, 13 Sep 2023 14:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13555/Mgz_Main_List_20230913172729.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[화사, 
@@ -370,7 +371,7 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 Hello (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 15 Sep 2023 08:15:22 GMT</pubDate>
+            <pubDate>Fri, 15 Sep 2023 09:11:43 GMT</pubDate>
             <content:encoded><![CDATA[DKZ의 멤버 재찬이 솔로로 데뷔한다. 있는 그대로의 재찬을 담는다는 건 어쩌면 생각보다 많이 어려운 일이지만 재찬은 오히려 마음을 비웠다. 팀 내에서도 다재다능하게 음악 작업을 해온 재찬답게, 하고 싶은 것들을 아낌없이 담은 앨범은 그렇게 나왔다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230915_268/1694741930151TzVAV_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>

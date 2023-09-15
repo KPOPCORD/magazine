@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 08:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 09:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Loossemble (루셈블) - 새로운 서사의 시작인 첫 데뷔 앨범 재킷 촬영 현장]]></title>
+            <link>https://music.bugs.co.kr/musicpost/7CDVAPS5Z3T1I79DD0XH?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/7CDVAPS5Z3T1I79DD0XH?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 15 Sep 2023 09:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7CDVAPS5Z3T1I79DD0XH/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CHERISH (체리쉬) - 데뷔 싱글! 'Can't you see me?' LIVE 촬영기 공개]]></title>
             <link>https://music.bugs.co.kr/musicpost/BVAXCZHESZVGI78E8ZWS?&amp;wl_ref=list_sp_01_h</link>
@@ -185,13 +193,6 @@
             <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9FUH8YLTL2DTYMBL5FCV/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭘 들을까? - 2023년 6월 노래 모음!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/24WD6BOO2GXXKI9E5EYV?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/24WD6BOO2GXXKI9E5EYV?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
