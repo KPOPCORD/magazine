@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 00:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 01:46:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 저스트 러브 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 15 Sep 2023 00:47:39 GMT</pubDate>
+            <pubDate>Fri, 15 Sep 2023 01:46:18 GMT</pubDate>
             <content:encoded><![CDATA[뭐가 맞는 건지 머리가 복잡해져 올 때, 정답은 딱 한 가지. 있는 그대로의 나를 사랑하며 즐기고 또 즐길 것. 화사가 진언과도 같은 굵직한 메시지를, 가볍고 신나고 생기 가득하게 우릴 향해 훅 던진다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230913_114/16945706249903elrX_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이토록 놀라운 화면 속 세상 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[다빈치모텔 in AR, Meta X 현대카드]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b4e84cf9b61d4bf08f4a9c120826a768.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대카드 Curated 88 DeVita (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 9월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a71fa69fd1884874821db66be643d228.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 누구도 아닌 이적 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[이적, 다빈치모텔에 체크인하다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/595f5eac0279465db54a3522493efb92.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
