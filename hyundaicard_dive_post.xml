@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 03:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 04:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타임머신을 타고]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[패션 브랜드를 사로잡은 추억의 애니]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f16863e4c5b14262ba7b4740bbb2c0aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한식의 미래]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[바이닐앤플라스틱 윤상 ＜CLICHE＞ 음감회]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d9a94d95c7ce470ea3658b15f883e96d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어쩌면 일어날지도 몰라]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[초전도체 이론이 등장한 영화 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/93b9566977fa4d30808b1a9fac902e43.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
