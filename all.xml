@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 03:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 04:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 Hello (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 17 Sep 2023 03:11:33 GMT</pubDate>
+            <pubDate>Sun, 17 Sep 2023 04:13:31 GMT</pubDate>
             <content:encoded><![CDATA[DKZ의 멤버 재찬이 솔로로 데뷔한다. 있는 그대로의 재찬을 담는다는 건 어쩌면 생각보다 많이 어려운 일이지만 재찬은 오히려 마음을 비웠다. 팀 내에서도 다재다능하게 음악 작업을 해온 재찬답게, 하고 싶은 것들을 아낌없이 담은 앨범은 그렇게 나왔다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230915_268/1694741930151TzVAV_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예술가의 유일무이한 세계 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 아트 라이브러리 9월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/abb0733ef8f549ceae76cfea6ed6bdc0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타임머신을 타고 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ Hello (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[전현무, 다빈치모텔에 체크인하다]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fb953b98e3ab452594a4623e5b8430fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤상의 완벽한 사운드를 향한 여정 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[바이닐앤플라스틱 윤상 ＜CLICHE＞ 음감회]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d9a94d95c7ce470ea3658b15f883e96d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
