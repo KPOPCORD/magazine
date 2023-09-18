@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 02:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 03:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2023년 9월 노래 모음!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/MNTDJLZ338YIU8V7E9RB?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/MNTDJLZ338YIU8V7E9RB?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 18 Sep 2023 03:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Loossemble (루셈블) - 새로운 서사의 시작인 첫 데뷔 앨범 재킷 촬영 현장]]></title>
             <link>https://music.bugs.co.kr/musicpost/7CDVAPS5Z3T1I79DD0XH?&amp;wl_ref=list_sp_01_h</link>
@@ -185,14 +192,6 @@
             <guid>https://music.bugs.co.kr/musicpost/L3OLE42L0D90620W909A?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[레인보우 노트(Rainbow note) - 'Summer party' MV 비하인드 공개!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/9FUH8YLTL2DTYMBL5FCV?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/9FUH8YLTL2DTYMBL5FCV?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9FUH8YLTL2DTYMBL5FCV/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
