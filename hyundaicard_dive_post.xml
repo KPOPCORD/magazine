@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 03:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 04:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보편적 재즈로의 초대]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[재즈의 경계를 허무는 존 바티스트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8c5f9c4c1303473da4f6d28147bbddfe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이렇게 쉬운 명절 요리라니]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[&lt;월간 DIVE&gt; 9월 호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/60ab009cce62479f9d753f440c49d585.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이토록 놀라운 화면 속 세상]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[다빈치모텔 in AR, Meta X 현대카드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b4e84cf9b61d4bf08f4a9c120826a768.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
