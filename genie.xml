@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 09:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 10:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[악동으로 나타난, EVNNE (이븐) 데뷔곡 ‘TROUBLE’ 뮤직비디오 현장...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13579&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13579&amp;pg=1</guid>
+            <pubDate>Tue, 19 Sep 2023 10:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13579/Mgz_Main_List_20230919165241.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA['포기따윈 모르는 나야' 박현호의 美친 에너지 [1,2,3 go!]]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13577&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13577&amp;pg=1</guid>
+            <pubDate>Tue, 19 Sep 2023 10:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13577/Mgz_Main_List_20230919154441.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[선우예권, 라흐마니노프로 돌아오다 
                                 
@@ -62,22 +78,6 @@
             <pubDate>Mon, 18 Sep 2023 09:11:45 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13571/Mgz_Main_List_20230918180238.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[피아니스트 후지타 마오의 모차르트 피아노 소나타 전집]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13572&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13572&amp;pg=1</guid>
-            <pubDate>Mon, 18 Sep 2023 06:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13572/Mgz_Main_List_20230918103913.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[POP 스튜디오 ＃69 - 이런 날이 돌아올 줄 알았지]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=13569&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=13569&amp;pg=1</guid>
-            <pubDate>Mon, 18 Sep 2023 06:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[POP 컬렉션]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13569/Mgz_Main_List_20230918110435.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
