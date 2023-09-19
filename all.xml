@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 05:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 06:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,9 +378,17 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 키, Sia (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 19 Sep 2023 05:11:48 GMT</pubDate>
+            <pubDate>Tue, 19 Sep 2023 06:15:16 GMT</pubDate>
             <content:encoded><![CDATA[두 번째 미니 앨범을 발표한 키부터 정규 앨범 발매를 알린 시아까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230918_129/1695020135782txayX_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한평생 시각적 언어를 만드는 일 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[Art Talk with David Salle]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1821d2bf73cb43c89cce73a869c87beb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보편적 재즈로의 초대 (현대카드 DIVE ─ POST)]]></title>
@@ -445,14 +453,6 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 9월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5a05986356414d32b58c1a1ac6722692.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을이 오면 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;월간 DIVE&gt; 9월 호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/60ab009cce62479f9d753f440c49d585.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
