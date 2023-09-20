@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 04:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 05:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,9 +378,17 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
 스트릿 우먼 파이터2 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 20 Sep 2023 04:13:50 GMT</pubDate>
+            <pubDate>Wed, 20 Sep 2023 05:11:06 GMT</pubDate>
             <content:encoded><![CDATA[“스트릿 우먼 파이터”가 마침내 두 번째 시즌으로 돌아왔다. 해당 프로그램은 한국뿐만 아니라 일본과 세계의 댄서들을 한 자리에 불러 모으는 건 물론, 장르의 영역을 확장한 음악으로 다양한 챌린지를 파생시키며 많은 이슈를 모으고 있다. 그렇다면 “스트릿 우먼 파이터 2”  화제의 장면 속 음악과 함께 이주의 디깅을 떠나보자. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230919_83/1695085424849hvQza_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안도 타다오 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 06]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9c74b28130b444a7ae732c6644b7900a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 맛집 지도에 저장 (현대카드 DIVE ─ POST)]]></title>
@@ -445,14 +453,6 @@ MC 메타, 드렁큰 타이거 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[패션 브랜드를 사로잡은 추억의 애니]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f16863e4c5b14262ba7b4740bbb2c0aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한식의 미래 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 그린하우스 가을 신메뉴]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cf183a02044642f2a1ac325a429d13f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
