@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 07:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 08:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팜유 따라 목포 간다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[목포 로컬이 인증한 핫플에서의 하루]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8b33906317004a308b9116b27e0b45c5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안도 타다오]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 아트 라이브러리 9월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/abb0733ef8f549ceae76cfea6ed6bdc0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타임머신을 타고]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[패션 브랜드를 사로잡은 추억의 애니]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f16863e4c5b14262ba7b4740bbb2c0aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
