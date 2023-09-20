@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 08:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 09:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유주(YUJU) - '따라랏' MV/자켓 촬영 현장]]></title>
+            <link>https://music.bugs.co.kr/musicpost/J6YNB1KCCMJIW8JAALHD?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/J6YNB1KCCMJIW8JAALHD?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 20 Sep 2023 09:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/J6YNB1KCCMJIW8JAALHD/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2023년 9월 노래 모음!]]></title>
             <link>https://music.bugs.co.kr/musicpost/MNTDJLZ338YIU8V7E9RB?&amp;wl_ref=list_sp_01_h</link>
@@ -185,13 +193,6 @@
             <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/KS6LZFNSS2EYSDJE68FB/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝송으로 배우는 영어! 71.Jeremy Zucker - 'OK']]></title>
-            <link>https://music.bugs.co.kr/musicpost/L3OLE42L0D90620W909A?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/L3OLE42L0D90620W909A?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 09 Aug 2023 21:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
