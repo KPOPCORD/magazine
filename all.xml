@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 03:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 04:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ NCT, 니키 미나즈 (VIBE ─ 매거진)]]></title>
 Loossemble (루셈블) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 21 Sep 2023 03:12:15 GMT</pubDate>
+            <pubDate>Thu, 21 Sep 2023 04:14:33 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 매거진! 이번에는 Loossemble (루셈블)이 함께 했습니다. 멤버 각각의 솔직함을 담아낸 답변과 함께 하는 ‘무엇이든 물어보세요’ 매거진. 지금 함께 만나보시죠.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230920_135/1695178868152FhlXQ_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파리 볼로뉴 숲, 아트의 중심 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[루이 비통 재단 미술관]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/edfe3f0ce85a4cd7b51f466548443434.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팜유 따라 목포 간다 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ Loossemble (루셈블) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[에어비앤비가 소개하는 자쿠지 있는 펜션 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ad6ed9d90bc49fda7ad91186757741b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예술가의 유일무이한 세계 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 아트 라이브러리 9월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/abb0733ef8f549ceae76cfea6ed6bdc0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
