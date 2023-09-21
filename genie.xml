@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 08:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 09:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[준코코 x 초아 콜라보 싱글 ‘Butterfly’ 녹음기 & 카스쿨 페스티벌 ...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13592&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13592&amp;pg=1</guid>
+            <pubDate>Thu, 21 Sep 2023 09:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13592/Mgz_Main_List_20230921165049.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[한풀 꺾인 무더위, 선선해진 밤바람~🍃 <진희네 뮤직테라스 : 여덟째 밤> ...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13589&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13589&amp;pg=1</guid>
+            <pubDate>Thu, 21 Sep 2023 09:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13588/Mgz_Main_List_20230920140756.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[KIMKIMPARKKIM's 음악가, 함께 ＃14 - 듀스 (DEUX)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13595&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 20 Sep 2023 09:11:18 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13587/Mgz_Main_List_20230920110746.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[1ST SINGLE ALBUM [폭풍 속으로]로 돌아온 TEMPEST!]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13581&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13581&amp;pg=1</guid>
-            <pubDate>Wed, 20 Sep 2023 09:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13581/Mgz_Main_List_20230920143718.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer Soul, 오랜만에 발매하는 싱글 [Dear.R] 비하인드]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13575&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13575&amp;pg=1</guid>
-            <pubDate>Wed, 20 Sep 2023 09:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13575/Mgz_Main_List_20230920151432.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
