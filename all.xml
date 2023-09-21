@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 05:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 06:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ NCT, 니키 미나즈 (VIBE ─ 매거진)]]></title>
 Loossemble (루셈블) (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 21 Sep 2023 05:10:41 GMT</pubDate>
+            <pubDate>Thu, 21 Sep 2023 06:14:54 GMT</pubDate>
             <content:encoded><![CDATA[VIBE 사용자들에게 직접 질문을 받아 전달하는 ‘무엇이든 물어보세요’ 매거진! 이번에는 Loossemble (루셈블)이 함께 했습니다. 멤버 각각의 솔직함을 담아낸 답변과 함께 하는 ‘무엇이든 물어보세요’ 매거진. 지금 함께 만나보시죠.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230920_135/1695178868152FhlXQ_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘도 여기 들렀다 갑니다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[재료, 동네, 사람이 주인공인 동네 슈퍼]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/89cfff8b0c7e440086200718451fdc43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파리 볼로뉴 숲, 아트의 중심 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ Loossemble (루셈블) (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 9월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/613e8d30e73743f0a0e09d1d687aa6e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자쿠지에 쏙 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[에어비앤비가 소개하는 자쿠지 있는 펜션 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ad6ed9d90bc49fda7ad91186757741b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
