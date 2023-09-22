@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 04:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 05:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오너만 아는 내 차의 비밀]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[꼭꼭 숨은 자동차 기능 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a93daa2514d94c75a5bf4808cd0b29ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바스키아와 워홀이 다시 만난 세계]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[재즈의 경계를 허무는 존 바티스트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8c5f9c4c1303473da4f6d28147bbddfe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 쉬운 명절 요리라니]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[홍신애 셰프 X 휘슬러 쿠킹 클래스 현장]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b868ad0ee5fe47828250bfd6c659f42f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
