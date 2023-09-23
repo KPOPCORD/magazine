@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 03:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 04:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바다라는 가능성]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[바다에서 이어지는 건축 &amp; 테크 프로젝트 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3688cafd3e1b49a2b05b2b10c1447e3c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[군침 싹 도는 패션]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[신상 맛집 #34]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a0551ac022434c54865d52bcdbfbb123.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한평생 시각적 언어를 만드는 일]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[Art Talk with David Salle]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1821d2bf73cb43c89cce73a869c87beb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
