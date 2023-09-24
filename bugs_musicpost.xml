@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 17:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 18:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 74.LANY - 'XXL']]></title>
+            <link>https://music.bugs.co.kr/musicpost/PPFJ9MKTEN3UM17MP2VC?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/PPFJ9MKTEN3UM17MP2VC?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sun, 24 Sep 2023 18:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[안신애 - 내추럴하고 솔직한 모습을 담아낸 자켓 촬영 현장]]></title>
             <link>https://music.bugs.co.kr/musicpost/PXO0O2TTY74SRWEASQDV?&amp;wl_ref=list_sp_01_h</link>
@@ -185,14 +192,6 @@
             <pubDate>Fri, 22 Sep 2023 21:09:35 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/UR7DS3IJ57W31V4XZG3R/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8TURN - 익숙함에 물든 세상을 깨울 8TURN(에잇턴)의 한여름 밤의 소동 [UNCHARTED DRIFT]]]></title>
-            <link>https://music.bugs.co.kr/musicpost/SGE80P2SDWBVESVRZOMC?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/SGE80P2SDWBVESVRZOMC?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 22 Sep 2023 21:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/SGE80P2SDWBVESVRZOMC/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
