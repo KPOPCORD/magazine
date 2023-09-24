@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 03:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 04:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리의 취향이 바로 아트]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 데이터가 인정한 국내 지역 미술관]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9f162c687dad41848f1d748c9c7b0b23.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바다라는 가능성]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 06]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9c74b28130b444a7ae732c6644b7900a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 맛집 지도에 저장]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[신상 맛집 #34]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a0551ac022434c54865d52bcdbfbb123.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
