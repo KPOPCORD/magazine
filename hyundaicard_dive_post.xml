@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 04:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 05:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호텔 말고 마을 호텔]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[호텔이 된 전국의 마을 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b3e1965c51bd48f39f3aa90680a9cb22.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리의 취향이 바로 아트]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[목포 로컬이 인증한 핫플에서의 하루]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8b33906317004a308b9116b27e0b45c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안도 타다오]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 06]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9c74b28130b444a7ae732c6644b7900a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
