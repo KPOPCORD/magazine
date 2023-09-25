@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 07:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 08:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NCT, 니키 미나즈 (VIBE ─ 매거진)]]></title>
 태국 알앤비 아티스트 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 25 Sep 2023 07:11:59 GMT</pubDate>
+            <pubDate>Mon, 25 Sep 2023 08:15:11 GMT</pubDate>
             <content:encoded><![CDATA[베트남에는 브이팝이 있듯이 태국에는 티팝이라 불리우는 시장이 존재한다. 이미 많은 한국의 장르 팬들이 알고리즘 등을 통해 근사한 태국의 팝 밴드, 싱어송라이터의 음악을 접했을 거다. 이 중에서도 꼭 이름을 알았으면 하는 태국의 알앤비/소울 아티스트를 소개하고자 한다. - 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230925_219/1695603654372l41NW_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전율이란 이런 것 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023 현대카드 다빈치모텔 공연 하이라이트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a25fea759be8437dac456ec9bc7f0a0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호텔 말고 마을 호텔 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NCT, 니키 미나즈 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[루이 비통 재단 미술관]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/edfe3f0ce85a4cd7b51f466548443434.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팜유 따라 목포 간다 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[목포 로컬이 인증한 핫플에서의 하루]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8b33906317004a308b9116b27e0b45c5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
