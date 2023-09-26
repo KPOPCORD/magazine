@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 07:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 08:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현실과 상상의 컬래버레이션]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[다빈치모텔 MR &amp; AR 하이라이트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2d704f6fe3cd4b5180a25a4f2c4dbeab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[직접 만들어 보고 싶어질 걸?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[꼭꼭 숨은 자동차 기능 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a93daa2514d94c75a5bf4808cd0b29ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바스키아와 워홀이 다시 만난 세계]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 스토리지 특별 전시 리뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dff289de986f4d68b8fdb0e2725af5d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
