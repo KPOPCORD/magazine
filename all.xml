@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 08:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 09:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/E7FL4LTGKW6X1H0GHK5Y/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유성은 리메이크 싱글 ‘이 별’ 발매 기념 인터뷰 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13604&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13604&amp;pg=1</guid>
+            <pubDate>Tue, 26 Sep 2023 09:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13604/Mgz_Main_List_20230926171508.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[가요 탐구생활 ＃59 - K팝 걸그룹은 글로벌 그룹으로 형태 변화하는 중 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=13608&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=13608&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Mon, 25 Sep 2023 03:11:41 GMT</pubDate>
             <content:encoded><![CDATA[핫플힙플]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13600/Mgz_Main_List_20230925105948.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[별 다섯도 부족한 재즈 뮤직의 슬램덩크 ＜블루 자이언트＞ (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13598&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13598&amp;pg=1</guid>
-            <pubDate>Mon, 25 Sep 2023 03:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13598/Mgz_Main_List_20230925113807.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[반드시 들어야 할 
@@ -370,7 +370,7 @@ NCT (VIBE ─ 매거진)]]></title>
 디오, 도자 캣 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 26 Sep 2023 08:15:08 GMT</pubDate>
+            <pubDate>Tue, 26 Sep 2023 09:12:04 GMT</pubDate>
             <content:encoded><![CDATA[엑소 디오의 새로운 솔로 앨범, 정규 앨범으로 화제를 모으고 있는 도자 캣까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230925_284/1695622770329CYJlO_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
