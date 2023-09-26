@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 02:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 03:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[터치드(TOUCHED) - [Yellow Supernova Remnant] 앨범 작업기 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/Z79LZBGHDDNK8TDRQHBX?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/Z79LZBGHDDNK8TDRQHBX?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 26 Sep 2023 03:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/Z79LZBGHDDNK8TDRQHBX/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 74.LANY - 'XXL' (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/PPFJ9MKTEN3UM17MP2VC?&amp;wl_ref=list_sp_01_h</link>
@@ -186,14 +194,6 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/E7FL4LTGKW6X1H0GHK5Y/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유다빈밴드 - 청춘을 노래하는 밴드의 학창 시절 대공개! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/UR7DS3IJ57W31V4XZG3R?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/UR7DS3IJ57W31V4XZG3R?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 22 Sep 2023 21:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/UR7DS3IJ57W31V4XZG3R/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Kep1er (케플러) The 5th Mini Album [Magic Hour... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13597&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13597&amp;pg=1</guid>
@@ -370,7 +370,7 @@ NCT (VIBE ─ 매거진)]]></title>
 디오, 도자 캣 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 26 Sep 2023 02:19:15 GMT</pubDate>
+            <pubDate>Tue, 26 Sep 2023 03:13:02 GMT</pubDate>
             <content:encoded><![CDATA[엑소 디오의 새로운 솔로 앨범, 정규 앨범으로 화제를 모으고 있는 도자 캣까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230925_284/1695622770329CYJlO_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
