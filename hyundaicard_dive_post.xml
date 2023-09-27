@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 04:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 05:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유행은 돌고 돌고]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 디톡스, 탐나는 폴더 폰 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c8f6dcf498d741dc8379ecda4effcdf0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현실과 상상의 컬래버레이션]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[패션과 미식의 낯선 조합]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/613444807c6a4fd39cc648c11c4359f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오너만 아는 내 차의 비밀]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[꼭꼭 숨은 자동차 기능 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a93daa2514d94c75a5bf4808cd0b29ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
