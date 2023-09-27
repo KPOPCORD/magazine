@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 07:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 08:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NCT (VIBE ─ 매거진)]]></title>
 디오, 도자 캣 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 27 Sep 2023 07:11:50 GMT</pubDate>
+            <pubDate>Wed, 27 Sep 2023 08:14:38 GMT</pubDate>
             <content:encoded><![CDATA[엑소 디오의 새로운 솔로 앨범, 정규 앨범으로 화제를 모으고 있는 도자 캣까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20230925_284/1695622770329CYJlO_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘나가는 브랜드, 오직 다빈치모텔에서 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[다빈치모텔 팝업 스토어 하이라이트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/72ec950423c346ba8c4e166a30496b33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유행은 돌고 돌고 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ NCT (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[바다에서 이어지는 건축 &amp; 테크 프로젝트 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3688cafd3e1b49a2b05b2b10c1447e3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[군침 싹 도는 패션 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[패션과 미식의 낯선 조합]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/613444807c6a4fd39cc648c11c4359f3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
