@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 03:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 04:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 제법 잘 어울려요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[지금껏 본 적 없는 이색 페어링]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c442e8cabdd1458c88f77581137fe206.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모두가 행복해, 다빈치모텔]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[호텔이 된 전국의 마을 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b3e1965c51bd48f39f3aa90680a9cb22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 취향이 바로 아트]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 데이터가 인정한 국내 지역 미술관]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9f162c687dad41848f1d748c9c7b0b23.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
