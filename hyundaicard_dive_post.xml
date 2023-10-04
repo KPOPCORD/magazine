@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 04:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 05:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024년까지는, 파리의 시대]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[영감의 도시  Paris #6]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61346c762bc6445c975979598158fe2f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Falling in Books]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 10월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f5396610421742c1b6ce1736f628c79e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을엔 이 노래지]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 10월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0dd591d75c8643eeb91b5fc94810a16a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
