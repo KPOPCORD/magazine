@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 10:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 11:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대카드 Curated 89 민수]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[민수는 참을 수 없어!]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2ea9810b6e704a1bbcc9c1fa909b5f9f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[테킬라를 즐기는 새로운 방법]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[일러스트를 곁들인 컵 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eb103f9c5b884c82b7406285db7ca1df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[론 뮤익을 만나다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[까르띠에 현대미술재단]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9b6d6f28ed52460ebb658f15da74eb75.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
