@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 00:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 01:47:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ NCT (VIBE ─ 매거진)]]></title>
 정국, 에드 시런 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 11 Oct 2023 00:47:36 GMT</pubDate>
+            <pubDate>Wed, 11 Oct 2023 01:46:58 GMT</pubDate>
             <content:encoded><![CDATA[개성 강한 곡으로 컴백한 아이브부터 새 앨범을 발표한 에드 시런까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231010_51/1696918644289OjCMt_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현카는 맛에 진심이니까 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 고메위크 25]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7d9c84f6c6a34a948010094fe528213c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[책 속에 풍덩 (현대카드 DIVE ─ POST)]]></title>
@@ -389,6 +397,14 @@ NCT (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[2023 프리즈 서울 리뷰 #1]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2be33cdaae9748c584489c5aa3b0bf37.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을을 거닐다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[10월 현대카드 What's On]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81fc806fb7fd40f8aea8c929b2ee96e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가을엔 이 노래지 (현대카드 DIVE ─ POST)]]></title>
@@ -429,22 +445,6 @@ NCT (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 테킬라 클래스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab26485b4c1b46a6bf544e838f545872.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커피 In 카페인 Out (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[카페인 없이 즐기는 커피]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d3c138cb5707466d8f9fa741c13c859a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Our Planet, Our Water (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드가 만든 친환경 종이팩 아워워터]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f743937ab9a249c0a9a8abeb52557383.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
