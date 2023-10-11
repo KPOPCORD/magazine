@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 05:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 06:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/E7FL4LTGKW6X1H0GHK5Y/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST PICK! ＃71 - 넷플릭스의 두 OST, [너의 시간 속으로] 그리... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=13623&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=26&amp;mgz_seq=13623&amp;pg=1</guid>
+            <pubDate>Wed, 11 Oct 2023 06:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[OST PICK]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13623/Mgz_Main_List_20231011144905.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[카즈미 타테이시 트리오의 5년만의 정규앨범 [Kazumi Tateishi Tr... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13634&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13634&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Fri, 06 Oct 2023 09:11:35 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13620/Mgz_Main_List_20231006173838.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127만의 가치를 [Fact Check]할 정규 5집 대공개! (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13619&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13619&amp;pg=1</guid>
-            <pubDate>Fri, 06 Oct 2023 05:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13619/Mgz_Main_List_20231006101817.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[온앤오프, 
@@ -370,7 +370,7 @@ NCT (VIBE ─ 매거진)]]></title>
 정국, 에드 시런 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 11 Oct 2023 05:10:54 GMT</pubDate>
+            <pubDate>Wed, 11 Oct 2023 06:16:05 GMT</pubDate>
             <content:encoded><![CDATA[개성 강한 곡으로 컴백한 아이브부터 새 앨범을 발표한 에드 시런까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231010_51/1696918644289OjCMt_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
