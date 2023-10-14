@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 03:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 04:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호사로운 한 끼]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[New 파인다이닝 in 고메위크 25]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2a709f1ab0e34966a8e623c215e08410.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서정적 태도, 시적 디자인]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[10월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81fc806fb7fd40f8aea8c929b2ee96e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현카는 맛에 진심이니까]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 고메위크 25]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7d9c84f6c6a34a948010094fe528213c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
