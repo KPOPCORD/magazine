@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 04:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 05:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ Hello (VIBE ─ 매거진)]]></title>
 현실로 활강하다 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 16 Oct 2023 04:14:17 GMT</pubDate>
+            <pubDate>Mon, 16 Oct 2023 05:13:04 GMT</pubDate>
             <content:encoded><![CDATA[정규 3집 ‘이름의 장 : 프리폴(FREEFALL)’을 내는 투바투는 이번 앨범에서 비로소 ‘네버랜드'를 떠나 현실 세계로 진입하는 소년들의 여행을 그린다. 인위적인 세계를 떠나 현실로 접어드는 스토리인 만큼, 가장 인간적인 감정들이 가장 에너제틱하게 담겼다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231013_150/1697164349783f1F4k_JPEG/%C4%BF%B9%F6.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스벅 찾으러 여행 갔습니다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[세상 특별한 세계의 별다방 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f09e12d26c814e9b8d85c5fb2568f616.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호캉스 갈 결심 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ Hello (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[카테리어를 완성해 줄 아이템 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/88825f419ede449baf1434e3faa44ad1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어서 와, 고메위크는 처음이지? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[실패가 없는 호텔 다이닝 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/41c04cb99ed54834907473dd5d25c17d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
