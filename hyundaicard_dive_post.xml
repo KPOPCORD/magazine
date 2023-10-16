@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 00:49:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 01:51:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호캉스 갈 결심]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 호텔위크 07]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/841e154f76be486b950b5770d1e74c18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악 레이블의 유산]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[실패가 없는 호텔 다이닝 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/41c04cb99ed54834907473dd5d25c17d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거침없이, 때론 무모하게]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[패션 포토그래퍼 최나랑]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0919857e01c74c3ca6ae98088e7df9c1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
