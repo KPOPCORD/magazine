@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 04:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 06:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사물 속 녹아든 이야기]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 스페셜 테마 존]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/90ff0554edc0489894eb9d257dd92170.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호텔위크로 체크인할래?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 10월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0e80b229717e4bbf8eaacb89d9793c5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산의 맛 아인교]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[부산의 미식을 확인할 수 있는 레스토랑 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab5ced8563ec47aa921b0c4651dc988e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

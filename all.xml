@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 04:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 06:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2023년 10월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/U1DF97NL7IY9SMNV24OR?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/U1DF97NL7IY9SMNV24OR?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 17 Oct 2023 06:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[터치드(TOUCHED) - [Yellow Supernova Remnant] 앨범 작업기 (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/Z79LZBGHDDNK8TDRQHBX?&amp;wl_ref=list_sp_01_h</link>
@@ -186,14 +193,6 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/D12SQMXRVWJ3A5TWW0XB/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Leo (리오) - 달달한 사랑에 빠진 Leo (리오)의 [Vanilla] (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/E7FL4LTGKW6X1H0GHK5Y?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/E7FL4LTGKW6X1H0GHK5Y?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 22 Sep 2023 21:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/E7FL4LTGKW6X1H0GHK5Y/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[언제나 음악이 필요해요 – 일상을 함께할 요즈음의 앨범들 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13657&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13657&amp;pg=1</guid>
@@ -370,9 +369,17 @@ Hello (VIBE ─ 매거진)]]></title>
 아이브, 배드 버니 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 17 Oct 2023 04:13:36 GMT</pubDate>
+            <pubDate>Tue, 17 Oct 2023 06:16:45 GMT</pubDate>
             <content:encoded><![CDATA[첫 번째 미니 앨범을 발표한 아이브, 폭발적 관심을 받고 있는 배드 버니의 새 앨범까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231016_153/1697441003499VMFbz_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사물 속 녹아든 이야기 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 스페셜 테마 존]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/90ff0554edc0489894eb9d257dd92170.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호텔위크로 체크인할래? (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +444,6 @@ Hello (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 10월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0e80b229717e4bbf8eaacb89d9793c5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산의 맛 아인교 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[부산의 미식을 확인할 수 있는 레스토랑 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab5ced8563ec47aa921b0c4651dc988e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
