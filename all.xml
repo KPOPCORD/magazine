@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 04:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 05:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ Hello (VIBE ─ 매거진)]]></title>
 무드 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 19 Oct 2023 04:13:36 GMT</pubDate>
+            <pubDate>Thu, 19 Oct 2023 05:12:05 GMT</pubDate>
             <content:encoded><![CDATA[포장하고 꾸미기보다는 휘인 그 자체로 돌아오기까지, 앨범에는 지금 휘인이 생각하고 고민해온 모든 시간들이 담겼다. 누군가를 이해하기에 그가 만들고 부른 음악만큼 진정한 게 있을까? 휘인의 목소리에 빛이 가득하다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231018_186/1697612297079PoiRi_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단풍 보며 일어날 결심 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[단풍 구경에 최적인 숙소 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a8ef1e9210a94d1a9b5f866350b7104c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시간이 선물한 가을의 맛 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ Hello (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 호텔위크 07]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/841e154f76be486b950b5770d1e74c18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악 레이블의 유산 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 10월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f5396610421742c1b6ce1736f628c79e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
