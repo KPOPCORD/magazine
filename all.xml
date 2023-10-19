@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 08:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 09:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -193,6 +193,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/D12SQMXRVWJ3A5TWW0XB/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Balming Tiger (바밍타이거)의 첫 번째 정규 앨범 [January ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13667&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13667&amp;pg=1</guid>
+            <pubDate>Thu, 19 Oct 2023 09:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13667/Mgz_Main_List_20231019171152.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[도마뱀의 꼬리가 다시 자라날 때까지, 루이드 (Llwyd)의 두 번째 EP [... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13663&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13663&amp;pg=1</guid>
+            <pubDate>Thu, 19 Oct 2023 09:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13663/Mgz_Main_List_20231019170927.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[KIMKIMPARKKIM's 인생 음반 ＃28 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13668&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13668&amp;pg=1</guid>
@@ -239,22 +255,6 @@
             <pubDate>Wed, 18 Oct 2023 03:12:01 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13659/Mgz_Main_List_20231018111136.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[이로빈의 여덟번째 싱글 앨범 [예쁜말] 발매 인터뷰 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13658&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13658&amp;pg=1</guid>
-            <pubDate>Wed, 18 Oct 2023 03:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13658/Mgz_Main_List_20231017162845.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[정새벽 EP [Love, hope and youth] 프로필 촬영 현장&인터뷰 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13655&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13655&amp;pg=1</guid>
-            <pubDate>Wed, 18 Oct 2023 03:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13655/Mgz_Main_List_20231018114729.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #164 : 
@@ -369,7 +369,7 @@ Hello (VIBE ─ 매거진)]]></title>
 무드 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 19 Oct 2023 08:15:22 GMT</pubDate>
+            <pubDate>Thu, 19 Oct 2023 09:12:10 GMT</pubDate>
             <content:encoded><![CDATA[포장하고 꾸미기보다는 휘인 그 자체로 돌아오기까지, 앨범에는 지금 휘인이 생각하고 고민해온 모든 시간들이 담겼다. 누군가를 이해하기에 그가 만들고 부른 음악만큼 진정한 게 있을까? 휘인의 목소리에 빛이 가득하다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231018_186/1697612297079PoiRi_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
