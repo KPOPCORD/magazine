@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 02:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 03:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CHERISH (체리쉬) - 새 싱글 [To.Youth] 앨범 작업 비하인드 공개 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/OP2X6LLHX3CA64SSYKWG?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/OP2X6LLHX3CA64SSYKWG?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 20 Oct 2023 03:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OP2X6LLHX3CA64SSYKWG/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2023년 10월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/U1DF97NL7IY9SMNV24OR?&amp;wl_ref=list_sp_01_h</link>
@@ -185,12 +193,28 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XXKFCO637UNYJL60H74K/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모트(Motte) - '쉿' 일본 공연 비하인드 공개! (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/D12SQMXRVWJ3A5TWW0XB?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/D12SQMXRVWJ3A5TWW0XB?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 22 Sep 2023 21:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/D12SQMXRVWJ3A5TWW0XB/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[힙합사의 결정적인 순간을 장식한 싱글들 71화 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13672&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13672&amp;pg=1</guid>
+            <pubDate>Fri, 20 Oct 2023 03:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13672/Mgz_Main_List_20231020114316.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[사라 (SARA) 발매 인터뷰, 가을냄새 물씬나는 새 싱글 ‘기다려 (Stay... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13670&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13670&amp;pg=1</guid>
+            <pubDate>Fri, 20 Oct 2023 03:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13670/Mgz_Main_List_20231020104752.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[켄드릭 라마, 비욘세의 콜라보레이터, 삼파의 6년만의 복귀작 Sampha - ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13664&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13664&amp;pg=1</guid>
+            <pubDate>Fri, 20 Oct 2023 03:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13664/Mgz_Main_List_20231020101359.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[Balming Tiger (바밍타이거)의 첫 번째 정규 앨범 [January ... (지니 ─ 매거진)]]></title>
@@ -231,30 +255,6 @@
             <pubDate>Thu, 19 Oct 2023 04:13:21 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13661/Mgz_Main_List_20231019104301.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[YOUNG POSSE (영파씨) [“MACARONI CHEESE”] 자켓 촬영... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13660&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13660&amp;pg=1</guid>
-            <pubDate>Wed, 18 Oct 2023 09:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13660/Mgz_Main_List_20231018140620.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[츄 (CHUU) 1ST MINI ALBUM [Howl] 자켓 촬영 현장 비하인... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13653&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13653&amp;pg=1</guid>
-            <pubDate>Wed, 18 Oct 2023 09:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13653/Mgz_Main_List_20231018110817.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[KINGDOM (킹덤) 미니 7집 [History Of Kingdom : Pa... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13659&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13659&amp;pg=1</guid>
-            <pubDate>Wed, 18 Oct 2023 03:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13659/Mgz_Main_List_20231018111136.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #164 : 
@@ -369,7 +369,7 @@ Hello (VIBE ─ 매거진)]]></title>
 무드 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 20 Oct 2023 02:19:19 GMT</pubDate>
+            <pubDate>Fri, 20 Oct 2023 03:11:47 GMT</pubDate>
             <content:encoded><![CDATA[포장하고 꾸미기보다는 휘인 그 자체로 돌아오기까지, 앨범에는 지금 휘인이 생각하고 고민해온 모든 시간들이 담겼다. 누군가를 이해하기에 그가 만들고 부른 음악만큼 진정한 게 있을까? 휘인의 목소리에 빛이 가득하다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231018_186/1697612297079PoiRi_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
