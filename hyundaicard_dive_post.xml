@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 03:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 04:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멘탈 챙기기]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[지친 멘탈을 위로하는 콘텐츠 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a1758cdb87bb418db11c7f877cef0a4c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요리의 치트 키, 향신료]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[인센스, 스머지 리추얼템 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/891ab15e49f548a4b160157d7012898a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스벅 찾으러 여행 갔습니다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[세상 특별한 세계의 별다방 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f09e12d26c814e9b8d85c5fb2568f616.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
