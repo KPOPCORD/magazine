@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 07:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 08:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김수로 Curated 16 연극 <갈매기>]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[안톤 체호프의 위대한 예술 정신]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f002a203462b4a93840c9e838413ee72.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울과 아트를 사랑한 패션 하우스]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 스페셜 테마 존]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/90ff0554edc0489894eb9d257dd92170.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호텔위크로 체크인할래?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 호텔위크 07 부산·제주 편]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8d770778e7ec4f6d9e0219ecfffa1b0b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
