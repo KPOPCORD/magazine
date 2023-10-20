@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 05:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 06:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울과 아트를 사랑한 패션 하우스]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023 프리즈 서울 리뷰 #2]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c5b673d6c3cf4b8b9266b56a357a4261.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멘탈 챙기기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 호텔위크 07 부산·제주 편]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8d770778e7ec4f6d9e0219ecfffa1b0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평온의 감각]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[인센스, 스머지 리추얼템 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/891ab15e49f548a4b160157d7012898a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
