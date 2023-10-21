@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 03:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 04:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스트리트 파워]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[전혀 새로운 뉴 스트리트 브랜드 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c0d528fba3844ab1882b1038d9ea60aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김수로 Curated 16 연극 <갈매기>]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 호텔위크 07 서울·인천 편]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5e20b48353524d61812d6c2dd6833b4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사물 속 녹아든 이야기]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 스페셜 테마 존]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/90ff0554edc0489894eb9d257dd92170.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
