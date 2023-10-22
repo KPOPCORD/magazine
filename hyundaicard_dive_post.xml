@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 03:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 04:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[착각은 자유]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[실체가 궁금해지는 가전 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d68f3592f387404fa2d82c4c62f7f3da.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스트리트 파워]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[인생 스코어에 도달하기 위한 숏 게임 노하우]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fb7b09a1d223418aad08bd2a0381ccb7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호텔위크로 체크인할래?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 호텔위크 07 서울·인천 편]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5e20b48353524d61812d6c2dd6833b4f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
