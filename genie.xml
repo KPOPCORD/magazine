@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 09:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 10:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재즈의 새로운 고전 ＃41 - 현대적 재즈 비브라폰의 첫 출발점]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13684&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13684&amp;pg=1</guid>
+            <pubDate>Tue, 24 Oct 2023 10:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13684/Mgz_Main_List_20231024174204.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[리엘 (Liel) [닐라] 스토리 ＆ 발매 인터뷰]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13682&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13682&amp;pg=1</guid>
+            <pubDate>Tue, 24 Oct 2023 10:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13682/Mgz_Main_List_20231024171212.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[끝없는 외로움을 향해 – 크리스 보티의 블루 노트 레코드 데뷔 앨범 ＜Vol....]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13683&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 23 Oct 2023 09:12:44 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13675/Mgz_Main_List_20231023165606.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[미니 11집 [SEVENTEENTH HEAVEN], 세븐틴이 선물하는 행복의 ...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13669&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13669&amp;pg=1</guid>
-            <pubDate>Mon, 23 Oct 2023 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13669/Mgz_Main_List_20231023155759.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[POP 스튜디오 ＃70 - 이렇게 싱숭생숭해지는 마음을 안고 있지만]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=13678&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=13678&amp;pg=1</guid>
-            <pubDate>Mon, 23 Oct 2023 03:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[POP 컬렉션]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13678/Mgz_Main_List_20231023110406.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
