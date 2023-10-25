@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 02:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 03:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨더보트 - 첫 번째 정규앨범 [Escape from the] MV 촬영 현장 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/CBFHGGS0NN18LQ66A1XS?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/CBFHGGS0NN18LQ66A1XS?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 25 Oct 2023 03:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/CBFHGGS0NN18LQ66A1XS/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CHERISH (체리쉬) - 새 싱글 [To.Youth] 앨범 작업 비하인드 공개]]></title>
             <link>https://music.bugs.co.kr/musicpost/OP2X6LLHX3CA64SSYKWG?&amp;wl_ref=list_sp_01_h</link>
@@ -183,14 +191,6 @@
             <guid>https://music.bugs.co.kr/musicpost/8VMUTVPN46YTQQB9P2SK?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Fri, 22 Sep 2023 21:09:35 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Alan Walker(알렌 워커) - 여름의 뜨거운 더위를 한번에 날려버릴 흥겨운 비트와 환상적인 멜로디 [Endless Summer]]]></title>
-            <link>https://music.bugs.co.kr/musicpost/XXKFCO637UNYJL60H74K?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/XXKFCO637UNYJL60H74K?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 22 Sep 2023 21:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XXKFCO637UNYJL60H74K/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
