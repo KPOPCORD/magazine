@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 00:46:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 01:44:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 75.Olivia Rodrigo - 'get him back!']]></title>
+            <link>https://music.bugs.co.kr/musicpost/3J2ME05AMNH6O42WAXMA?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/3J2ME05AMNH6O42WAXMA?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 26 Oct 2023 01:43:54 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[GHOST9(고스트나인) - [ARCADE : O] 자켓 촬영 현장 공개]]></title>
             <link>https://music.bugs.co.kr/musicpost/UFHTM350EPQRZBTM2C0V?&amp;wl_ref=list_sp_01_h</link>
@@ -185,13 +192,6 @@
             <pubDate>Fri, 22 Sep 2023 21:09:35 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/Y7BC0G354XR9KHZ14D7G/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝송으로 배우는 영어! 72.Lauv - 'Steal The Show']]></title>
-            <link>https://music.bugs.co.kr/musicpost/PAXCJCO7QFGO2HTHBFVS?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/PAXCJCO7QFGO2HTHBFVS?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 22 Sep 2023 21:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
