@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 04:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 05:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대한민국 산업 디자인의 역사]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[＜The Chemical Reaction＞]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bcafe3d2b3e7437fa110e34d76274c47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손민수 Curated 11 손민수]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[전혀 새로운 뉴 스트리트 브랜드 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c0d528fba3844ab1882b1038d9ea60aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김수로 Curated 16 연극 <갈매기>]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[안톤 체호프의 위대한 예술 정신]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f002a203462b4a93840c9e838413ee72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
