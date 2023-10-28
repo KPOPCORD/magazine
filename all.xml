@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Oct 2023 03:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 04:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
  – 시저, 제이 콜, 이트 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 28 Oct 2023 03:12:01 GMT</pubDate>
+            <pubDate>Sat, 28 Oct 2023 04:14:14 GMT</pubDate>
             <content:encoded><![CDATA[오래전부터 많은 이의 관심을 끌었던 드레이크의 여덟 번째 스튜디오 앨범 &lt;For The All Dogs&gt;가 마침내 발매되었다. 다양한 참여진과 함께 한 이번 앨범은 여러 의미에서 드레이크의 기존 작품을 떠올리게 한다. 이번 기사에서는 피처링 진을 통해 앨범 속 드레이크의 의도를 파악해 보자. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231026_74/1698289840038sf2Fk_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아트 데스티네이션 in 도쿄 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[도쿄의 예술을 음미하는 여행자를 위하여]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4d1856b626b54deda53b90dcc1bd1709.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테킬라에 빠지다 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 06]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/87ab3e07f95843de9190abc3ef5b7eb4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고즈넉한 북촌 산책하기 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[행복작당 2023 프리뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f73d6db3d7c4424c946fe9ddd72459ff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
