@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 03:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 04:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 가을, 음악 한 모금]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[음악 중심의 펍 &amp; 바]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6a76c0b501454284812e414ef9048f16.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트 데스티네이션 in 도쿄]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[단풍 뷰 직관 카페 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c6e54f59144c4657a74e7815eb414619.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안도 타다오]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 06]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/87ab3e07f95843de9190abc3ef5b7eb4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
