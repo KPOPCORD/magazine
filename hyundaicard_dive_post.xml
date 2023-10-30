@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 04:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 05:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 시절의 밤처럼 은밀하게 위대하게]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[비밀스러운 아지트, 스피크이지 바]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f9b2e5b782284a48abc21977ea3f958a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 가을, 음악 한 모금]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[AI가 만나게 해 준 반가운 얼굴]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/21e6102a34b64583b9f6960b6478d189.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커피 한 모금 가을 한 조각]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[단풍 뷰 직관 카페 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c6e54f59144c4657a74e7815eb414619.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
