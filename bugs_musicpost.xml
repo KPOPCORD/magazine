@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 02:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 03:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유다빈밴드 - 싱글 [ONCE] 'CALLING' 라이브 클립 촬영기]]></title>
+            <link>https://music.bugs.co.kr/musicpost/79ZYWWFF6V0DGQQEEJXJ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/79ZYWWFF6V0DGQQEEJXJ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 30 Oct 2023 03:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/79ZYWWFF6V0DGQQEEJXJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 75.Olivia Rodrigo - 'get him back!']]></title>
             <link>https://music.bugs.co.kr/musicpost/3J2ME05AMNH6O42WAXMA?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <pubDate>Fri, 22 Sep 2023 21:09:35 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GK5EZ7R0XPBTI4BCH40V/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김양 - '엄정화'의 크로스와 Poison을 재탄생시킨 [Kim Yang Cross] 발매 기념 인터뷰]]></title>
-            <link>https://music.bugs.co.kr/musicpost/Y7BC0G354XR9KHZ14D7G?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/Y7BC0G354XR9KHZ14D7G?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 22 Sep 2023 21:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/Y7BC0G354XR9KHZ14D7G/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
