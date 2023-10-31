@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 07:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 08:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아날로그지만 괜찮아]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[나만 아는 동네 #34 대전 대흥동]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dc99a0828a66471a9f16cfe5bf1922eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퍼시먼 이즈 뉴 블랙]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[발 넣고 싶은 뮬을 찾아서]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0ad9c3a2b7544cc8948bcaaefa9c6ddc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국 산업 디자인의 역사]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[＜The Chemical Reaction＞]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bcafe3d2b3e7437fa110e34d76274c47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
