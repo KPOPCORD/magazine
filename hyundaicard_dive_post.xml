@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 22:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 23:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9d0c6bc09d8c4751b72d88e73e47d529.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현대미술의 지표, 갤러리]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 11월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/66fe1f13b8b54e80a39eca46f380f0c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[고백하는 가수들]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -78,6 +70,14 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[주홍빛, 감색을 머금은 인테리어 오브제들]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d940a3865c1742608ea5049aa1facf3d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집이라는 취향]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 데이터로 추천하는 라이프스타일 숍 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0e8213606828418793aded1b0164a5a3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
