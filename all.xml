@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 23:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 00:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,7 +370,7 @@
 위클리 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 01 Nov 2023 23:12:30 GMT</pubDate>
+            <pubDate>Thu, 02 Nov 2023 00:48:09 GMT</pubDate>
             <content:encoded><![CDATA[새 앨범엔 위클리의 다음 챕터를 향해 시동을 거는 듯한 타이틀곡 ‘Vroom Vroom’ 외에도 유닛곡들과 새로운 장르에의 도전까지, 다양한 컬러로 채운 성숙한 변신이 가득하다. 팬덤 ‘데일리'를 생각하며 항상 엔진을 켜두는 위클리의 또 다른 출발.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231031_126/1698731113072iMlxW_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
         </item>
@@ -423,14 +423,6 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9d0c6bc09d8c4751b72d88e73e47d529.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고백하는 가수들 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 11월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0d6413ce51cf4ae08b5cfa4136ef403f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우리의 다채로운 미식 취향을 위하여 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -445,6 +437,14 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #34 대전 대흥동]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dc99a0828a66471a9f16cfe5bf1922eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼시먼 이즈 뉴 블랙 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[주홍빛, 감색을 머금은 인테리어 오브제들]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d940a3865c1742608ea5049aa1facf3d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
