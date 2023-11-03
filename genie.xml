@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 03:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 04:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 정국, 첫 솔로 앨범 [GOLDEN]에 담아낸 ‘황금빛 순간들’]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13721&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13721&amp;pg=1</guid>
+            <pubDate>Fri, 03 Nov 2023 04:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13721/Mgz_Main_List_20231103105858.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[Erøtic Wørms Exhibitiøn EP [아나토미] 발매]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13724&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 02 Nov 2023 04:12:55 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13717/Mgz_Main_List_20231102102614.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[WayV의 깊은 감성과 색다름이 담긴 정규 2집 [On My Youth]]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13716&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13716&amp;pg=1</guid>
-            <pubDate>Wed, 01 Nov 2023 09:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13716/Mgz_Main_List_20231101170451.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
