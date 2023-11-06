@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 05:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 06:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[취향의 발견]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;월간 DIVE&gt; 11월호]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8526323e92e44d1fb574d56b3285fdbf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낭만적 디자인과 기능이 만났을 때]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 11월의 새 음반]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0d6413ce51cf4ae08b5cfa4136ef403f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초콜릿의 변신은 무죄]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[초콜릿으로 만든 아트 워크 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e70b266c1d2244da8a9bc3a3b876d524.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
