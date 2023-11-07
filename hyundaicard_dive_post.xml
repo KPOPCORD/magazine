@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 08:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 09:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일상의 발견]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[11월 현대카드 What's On]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4e1bb86bb2e0439bbee4e8b0535d3164.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리의 다채로운 미식 취향을 위하여]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[셀프로 건강 챙길 수 있는 앱 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/071678c5669345f799a1da4fc9470326.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[놀수록 놀라운 뮤지컬 혜택]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[NOL 카드의 &lt;뮤지컬 레미제라블&gt; 이벤트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/628c8475ffaf4fb99c533ecdae4857e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
