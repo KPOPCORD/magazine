@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 04:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 05:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,7 +194,7 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/S0GSCIMJ29UOC22CWRSM/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[낮과 밤의 편안함과 안락함, <데이엔나잇> (지니 ─ 매거진)]]></title>
+            <title><![CDATA[낮과 밤의 편안함과 안락함, <나이트엔데이> (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13740&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13740&amp;pg=1</guid>
             <pubDate>Tue, 07 Nov 2023 03:11:56 GMT</pubDate>
@@ -370,9 +370,17 @@
 바밍 타이거 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 07 Nov 2023 04:13:55 GMT</pubDate>
+            <pubDate>Tue, 07 Nov 2023 05:11:10 GMT</pubDate>
             <content:encoded><![CDATA[‘얼터너티브 케이팝 그룹’ 바밍 타이거가 그들의 첫 번째 정규 앨범 &lt;January Never Dies&gt;를 발표했다. 아시아 문화를 기반으로 넘치는 개성을 표출해온 그들은 각종 매거진과 해외 페스티벌의 러브콜을 받은 바 있다. 현재는 세계 투어에 나서며 더 큰 도약을 준비중인 그들의 이야기를 이주의 디깅을 통해 알아가 보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231107_171/1699319396384TQcqX_JPEG/%C4%BF%B9%F61.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언제나 우리 곁에 디즈니 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[주옥같은 디즈니 애니메이션 OST]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cdfeebe93557420aa01c76c3d2e0d0e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 취향으로 DIVE (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[100년 역사의 BBC Proms]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/22c2c283304c455fa3a4938fd80b41a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얼른 다녀오세요 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[미쉐린 가이드 서울 2024 선공개]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c8ec2e4dc82c4106b88303813acb4659.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
