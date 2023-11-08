@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 04:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 05:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캠퍼스 탐험자]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[여행의 목적이 되는 캠퍼스 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0c086043138c4009bf2eb29d0b29f426.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일상의 발견]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[서울에서 가장 핫한 편집 숍 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6c39ac8a245f41ca8cc5ea9ca80cfe80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀프 메디케이션을 위하여]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[셀프로 건강 챙길 수 있는 앱 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/071678c5669345f799a1da4fc9470326.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
