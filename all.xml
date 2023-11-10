@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 07:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 08:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
 바밍 타이거 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 10 Nov 2023 07:10:28 GMT</pubDate>
+            <pubDate>Fri, 10 Nov 2023 08:13:59 GMT</pubDate>
             <content:encoded><![CDATA[‘얼터너티브 케이팝 그룹’ 바밍 타이거가 그들의 첫 번째 정규 앨범 &lt;January Never Dies&gt;를 발표했다. 아시아 문화를 기반으로 넘치는 개성을 표출해온 그들은 각종 매거진과 해외 페스티벌의 러브콜을 받은 바 있다. 현재는 세계 투어에 나서며 더 큰 도약을 준비중인 그들의 이야기를 이주의 디깅을 통해 알아가 보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231107_171/1699319396384TQcqX_JPEG/%C4%BF%B9%F61.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울의 새로운 흐름 LP (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[뉴 웨이브 #2 서울]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a2474b4c5d674911b39c5d0e1f626ff0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디자인적 태도 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[주옥같은 디즈니 애니메이션 OST]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cdfeebe93557420aa01c76c3d2e0d0e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 취향으로 DIVE (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[DIVER 원 픽 아이템 투표 이벤트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dc40730c2d6d4937ad627c51dd59f136.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
