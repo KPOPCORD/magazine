@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 03:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 04:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BONUS TRACK 11. 구원찬]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[섬세한 감성 보이스, 구원찬의 보너스 트랙]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eb70239b673945c3b401e055e5c9aba1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화롯가에서]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[따뜻하고 다정한 심야 식당]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/98e601cf060e44a0bc9fbe0f86beef64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모던재즈의 톱 레이블]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 11월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/382b87898d564fac866f3527fa7ca2d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
