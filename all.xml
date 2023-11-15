@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 04:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 05:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
 에스파, 두아리파 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 15 Nov 2023 04:13:35 GMT</pubDate>
+            <pubDate>Wed, 15 Nov 2023 05:11:20 GMT</pubDate>
             <content:encoded><![CDATA[네 번째 미니 앨범을 발표한 에스파, 새 앨범 활동을 시작한 두아 리파까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231113_70/1699852696730tm18y_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[게임과 예술이 만났을 때 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[게임의 예술성을 소개하는 프로젝트 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/16ddf5921a0a484ea2c468371c14c110.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손민수 Curated 12 박규희 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[뉴 웨이브 #2 서울]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a2474b4c5d674911b39c5d0e1f626ff0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디자인적 태도 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 11월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/20a40312ee0049289c626844f90a99a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
