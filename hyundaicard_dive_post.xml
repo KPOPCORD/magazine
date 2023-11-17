@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 04:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 05:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[책 익는 밤]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[책과 쉼이 있는 에어비앤비 숙소 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1c38fb660dc6470297484c1d39556347.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한옥 그리고 가구]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[특별한 맛과 퍼포먼스의 원시 구이]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/acce1bd6573c40139ac1eb5f3e1159c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온천! 맛대맛]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[올겨울 가고 싶은 국내 온천 vs 일본 온천]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f86ba9685c7d41289f25987563bac7e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 04:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 05:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
 에스파, 두아리파 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 17 Nov 2023 04:13:51 GMT</pubDate>
+            <pubDate>Fri, 17 Nov 2023 05:11:09 GMT</pubDate>
             <content:encoded><![CDATA[네 번째 미니 앨범을 발표한 에스파, 새 앨범 활동을 시작한 두아 리파까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231113_70/1699852696730tm18y_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[책 익는 밤 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[책과 쉼이 있는 에어비앤비 숙소 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1c38fb660dc6470297484c1d39556347.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한옥 그리고 가구 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[특별한 맛과 퍼포먼스의 원시 구이]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/acce1bd6573c40139ac1eb5f3e1159c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온천! 맛대맛 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[올겨울 가고 싶은 국내 온천 vs 일본 온천]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f86ba9685c7d41289f25987563bac7e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
