@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 00:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 01:54:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 76.Johnny Orlando - 'someone will love you better']]></title>
+            <link>https://music.bugs.co.kr/musicpost/PHHTGRG260PXZ01QH1UU?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/PHHTGRG260PXZ01QH1UU?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 17 Nov 2023 01:53:50 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뭘 들을까? - 2023년 11월 노래 모음!]]></title>
             <link>https://music.bugs.co.kr/musicpost/LE8ONPWBJW6YNTT7OYZI?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +191,6 @@
             <pubDate>Wed, 15 Nov 2023 21:10:12 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/0B85E58B0Z0N7T8EGD9Z/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예린 (YERIN) - The 2nd Mini Album [Ready, Set, LOVE] 자켓/MV 촬영 비하인드 공개!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/L05VL47XR3JMRZ9DI5GX?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/L05VL47XR3JMRZ9DI5GX?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 15 Nov 2023 21:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/L05VL47XR3JMRZ9DI5GX/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
