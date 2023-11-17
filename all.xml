@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 07:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 08:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
 달콤한 독배 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 17 Nov 2023 07:10:37 GMT</pubDate>
+            <pubDate>Fri, 17 Nov 2023 08:14:43 GMT</pubDate>
             <content:encoded><![CDATA[정원, 희승, 제이, 제이크, 성훈, 선우, 니키, 여섯 멤버가 엔하이픈의 또다른 세계로 다시 한번 치명적인 초대를 한다. 달콤하지만 위험한, 오렌지 블러드가 풍기는 강렬하고 몽환적인 매력.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231116_249/17001114085624avTO_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방콕  미식 여행 #1 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[아시아 50 베스트 레스토랑 1위, 르 두]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c9e0a41b9d0a4e5eafbed2ded40f0e91.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[책 익는 밤 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[섬세한 감성 보이스, 구원찬의 보너스 트랙]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eb70239b673945c3b401e055e5c9aba1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화롯가에서 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[특별한 맛과 퍼포먼스의 원시 구이]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/acce1bd6573c40139ac1eb5f3e1159c1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
