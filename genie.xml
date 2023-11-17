@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 02:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 03:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오랜시간 이어온 변치않는 아름다움, 대자연 그리고 클래식 ‘레이어스 클래식’의...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13772&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13772&amp;pg=1</guid>
+            <pubDate>Fri, 17 Nov 2023 03:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13772/Mgz_Main_List_20231117112437.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[Big Thief의 리드 기타리스트 Buck Meek의 내한 공연 그가 들려주...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13771&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13771&amp;pg=1</guid>
+            <pubDate>Fri, 17 Nov 2023 03:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13771/Mgz_Main_List_20231117093520.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[감각적 그루브 사운드 속 진중한 음악적 단상, 'Yussef Dayes' 외]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13768&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 15 Nov 2023 03:11:48 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13763/Mgz_Main_List_20231115095432.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[독보적인 음색 싱어송라이터 한이서의 자작곡 싱글 앨범 [버려진 인형] 발매]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13762&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13762&amp;pg=1</guid>
-            <pubDate>Wed, 15 Nov 2023 03:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13762/Mgz_Main_List_20231115095522.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[그녀만이 가지고 있는 soul , 디바의 데뷔! Thia [Spinning]]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13758&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13758&amp;pg=1</guid>
-            <pubDate>Wed, 15 Nov 2023 03:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13758/Mgz_Main_List_20231115101128.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
