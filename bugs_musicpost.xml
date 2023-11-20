@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 08:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 09:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모트(Motte) - 새 더블 싱글 [Night Waves] MV 촬영 현장 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/FXE2MDLVO02M1CODRNIA?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/FXE2MDLVO02M1CODRNIA?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 20 Nov 2023 09:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/FXE2MDLVO02M1CODRNIA/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 76.Johnny Orlando - 'someone will love you better']]></title>
             <link>https://music.bugs.co.kr/musicpost/PHHTGRG260PXZ01QH1UU?&amp;wl_ref=list_sp_01_h</link>
@@ -183,14 +191,6 @@
             <pubDate>Wed, 15 Nov 2023 21:10:12 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/Z8QHQRA4RBTP2QUWRWNT/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티아이오티 (TIOT) - 프리 데뷔 타이틀 '백전무패' 뮤직비디오 촬영 현장]]></title>
-            <link>https://music.bugs.co.kr/musicpost/0B85E58B0Z0N7T8EGD9Z?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/0B85E58B0Z0N7T8EGD9Z?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 15 Nov 2023 21:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/0B85E58B0Z0N7T8EGD9Z/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
