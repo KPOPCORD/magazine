@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 05:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 06:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬은 계속된다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;뮤지컬 레미제라블&gt; 김문정 음악 감독 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/24f42be3e9e449fbbf37e5b009a48683.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박서보의 유산]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[시간을 다룬 콘텐츠 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/de1ac1011c3a4d3d826bdf02ef143d68.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임과 예술이 만났을 때]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[게임의 예술성을 소개하는 프로젝트 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/16ddf5921a0a484ea2c468371c14c110.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
