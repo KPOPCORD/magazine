@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 01:55:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 02:26:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박서보의 유산]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리에서 만나는 그의 작품 세계]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9df64266ede14d36b4dccfb734b159f8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자연으로 딥 다이브]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[게임의 예술성을 소개하는 프로젝트 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/16ddf5921a0a484ea2c468371c14c110.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손민수 Curated 12 박규희]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[무대 위 떨림까지 담아 내는 클래식 기타 연주]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/396f1d1d79d6481aa86dd35f530dc1c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

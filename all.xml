@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 01:55:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 02:26:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
 오렌지빛 따뜻한 사랑 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 20 Nov 2023 01:54:56 GMT</pubDate>
+            <pubDate>Mon, 20 Nov 2023 02:26:09 GMT</pubDate>
             <content:encoded><![CDATA[정원, 희승, 제이, 제이크, 성훈, 선우, 니키, 여섯 멤버가 엔하이픈의 또다른 세계로 다시 한번 치명적인 초대를 한다. 달콤하지만 위험한, 오렌지 블러드가 풍기는 강렬하고 몽환적인 매력.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231116_249/17001114085624avTO_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박서보의 유산 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리에서 만나는 그의 작품 세계]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9df64266ede14d36b4dccfb734b159f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자연으로 딥 다이브 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[게임의 예술성을 소개하는 프로젝트 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/16ddf5921a0a484ea2c468371c14c110.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손민수 Curated 12 박규희 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[무대 위 떨림까지 담아 내는 클래식 기타 연주]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/396f1d1d79d6481aa86dd35f530dc1c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
