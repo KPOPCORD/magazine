@@ -4,25 +4,9 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 01:58:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 02:29:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[달콤한 크리스마스]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[Saturday Market 파이 클래스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/22c1a09cef8e4a05bc1d7357bc9c36a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 내음 가득]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[Saturday Market 리스 클래스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/98b370f52c8545b388f99b4160f12240.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬은 계속된다]]></title>
             <link>javascript:;</link>
@@ -78,6 +62,22 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[행복작당 2023 스케치 #2]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/009896913bb74199bbe7747e683ef9b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 우리가 잘나가는 이유]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[최전성기를 맞은 팬덤형 브랜드 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/120ef92ab5494b8ca027341bad07036c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어바웃 타임]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[시간을 다룬 콘텐츠 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/de1ac1011c3a4d3d826bdf02ef143d68.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
