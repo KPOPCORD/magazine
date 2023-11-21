@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 06:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 07:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -193,6 +193,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/Z8QHQRA4RBTP2QUWRWNT/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KIMKIMPARKKIM's 인생 음반 ＃29 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13782&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13782&amp;pg=1</guid>
+            <pubDate>Tue, 21 Nov 2023 07:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[김김박김]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13782/Mgz_Main_List_20231121153939.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[레너드 번스타인이라는 사람 – 영화 ＜마에스트로 번스타인＞ (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13787&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13787&amp;pg=1</guid>
@@ -255,14 +263,6 @@
             <pubDate>Mon, 20 Nov 2023 03:12:14 GMT</pubDate>
             <content:encoded><![CDATA[힙알사전]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13780/Mgz_Main_List_20231120105512.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[띵곡 무대를 사수하기 위한 스타들의 고군분투 쇼! ENA 신개념 음악 예능 ＜... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13778&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13778&amp;pg=1</guid>
-            <pubDate>Mon, 20 Nov 2023 03:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13778/Mgz_Main_List_20231120102717.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[엔하이픈, 
@@ -377,7 +377,7 @@
 레드벨벳, 테이트 맥레이 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 21 Nov 2023 06:15:29 GMT</pubDate>
+            <pubDate>Tue, 21 Nov 2023 07:11:10 GMT</pubDate>
             <content:encoded><![CDATA[독특한 무드의 곡으로 컴백한 레드벨벳, 상승세의 테이트 맥레이까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231120_163/1700452537632Sk5sJ_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
