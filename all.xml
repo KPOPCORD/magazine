@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 02:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 03:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -193,6 +193,46 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/Z8QHQRA4RBTP2QUWRWNT/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[힙합 따라잡기 ＃72 - 키츠요지와 함께 한 프로듀서는? (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13798&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13798&amp;pg=1</guid>
+            <pubDate>Thu, 23 Nov 2023 03:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13798/Mgz_Main_List_20231123114002.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[인디밴드 cotoba, 독일 초대형 페스티벌에서의 프로필 촬영 현장 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13796&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13796&amp;pg=1</guid>
+            <pubDate>Thu, 23 Nov 2023 03:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13796/Mgz_Main_List_20231123104420.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼플키스(PURPLE KISS) 나고은이 전하는 위로 ‘By Your Side... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13795&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13795&amp;pg=1</guid>
+            <pubDate>Thu, 23 Nov 2023 03:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13795/Mgz_Main_List_20231123103511.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[[지니뮤직x나뚜루] 새로워진 나뚜루, 페스티벌에서 만나요! (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13794&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13794&amp;pg=1</guid>
+            <pubDate>Thu, 23 Nov 2023 03:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13794/Mgz_Main_List_20231123102421.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[포스트 코로나의 시대를 향해가다, DG의 ‘뮤지컬 모먼트’ 시리즈 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13791&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13791&amp;pg=1</guid>
+            <pubDate>Thu, 23 Nov 2023 03:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13791/Mgz_Main_List_20231123103049.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[1년 4개월 만에 돌아온 MCND, 패기로 똘똘 뭉친 [ODD-VENTURE] (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13790&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13790&amp;pg=1</guid>
@@ -215,54 +255,6 @@
             <pubDate>Wed, 22 Nov 2023 03:12:40 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13789/Mgz_Main_List_20231121162527.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[한국을 대표하는 사이키델릭 밴드 사운드 서울전자음악단, 새로운 DS ‘Ghos... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13788&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13788&amp;pg=1</guid>
-            <pubDate>Wed, 22 Nov 2023 03:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13787/Mgz_Main_List_20231121142654.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[빅스의 끊임없이 연결된 무한한 여정 VIXX [5th MINI Album – ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13786&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13786&amp;pg=1</guid>
-            <pubDate>Tue, 21 Nov 2023 09:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13786/Mgz_Main_List_20231121153548.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[KIMKIMPARKKIM's 인생 음반 ＃29 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13782&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13782&amp;pg=1</guid>
-            <pubDate>Tue, 21 Nov 2023 07:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[김김박김]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13782/Mgz_Main_List_20231121153939.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[레너드 번스타인이라는 사람 – 영화 ＜마에스트로 번스타인＞ (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13787&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13787&amp;pg=1</guid>
-            <pubDate>Tue, 21 Nov 2023 03:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13787/Mgz_Main_List_20231121102837.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[맥시 (Magsy), 감성적인 K-Pop을 만들 수 있었던 이유 
-                                
-                                    
-                                        
-                                        
-                                            
-                                        
-                                    
-                                    2023.11.21 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13785&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13785&amp;pg=1</guid>
-            <pubDate>Tue, 21 Nov 2023 03:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13785/Mgz_Main_List_20231121112746.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #171 
@@ -377,7 +369,7 @@
 기억상실? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 23 Nov 2023 02:24:10 GMT</pubDate>
+            <pubDate>Thu, 23 Nov 2023 03:11:57 GMT</pubDate>
             <content:encoded><![CDATA[중요한 것은 빅스로서의 무한한 여정과 가능성. 지금까지 빅스가 만들어 온 추억을 절대 잃고 싶지 않은 건 그 누구보다도 빅스 자신들이다. ‘컨셉돌' 수식어가 빛바래지 않도록, 또한번 새롭게 컴백한 빅스와의 인터뷰.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231122_203/1700615134170l65iq_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
