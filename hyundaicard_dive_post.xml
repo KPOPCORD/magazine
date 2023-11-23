@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 03:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 04:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 번 가고 두 번 가고]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[더현대 프리미엄 익스피리언스 패키지]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bebfe08e411a433cae78ab2aa020b302.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스낵바 전성시대]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[신상 맛집 #35]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0ba0024553ce4dbab59ae4a16ae92d28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방콕  미식 여행 #1]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[아시아 50 베스트 레스토랑 1위, 르 두]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c9e0a41b9d0a4e5eafbed2ded40f0e91.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
