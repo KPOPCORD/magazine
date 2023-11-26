@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 03:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 04:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
 기억상실? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 26 Nov 2023 03:12:04 GMT</pubDate>
+            <pubDate>Sun, 26 Nov 2023 04:13:19 GMT</pubDate>
             <content:encoded><![CDATA[중요한 것은 빅스로서의 무한한 여정과 가능성. 지금까지 빅스가 만들어 온 추억을 절대 잃고 싶지 않은 건 그 누구보다도 빅스 자신들이다. ‘컨셉돌' 수식어가 빛바래지 않도록, 또한번 새롭게 컴백한 빅스와의 인터뷰.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231122_203/1700615134170l65iq_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음악을 위한 공간 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[음질에 취한다, 음악 감상실]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ffd245edfcf4cc68d76f32cef3059ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아티스틱 한남 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 06]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4f3f2f2509084d0688ceee606671dc1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그리웠어 크리스마스 무드 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[미리 만나는 크리스마스 마켓]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cd016f6d5561489fb218bc16acb9e512.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

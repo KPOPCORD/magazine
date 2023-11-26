@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 03:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 04:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악을 위한 공간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[음질에 취한다, 음악 감상실]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ffd245edfcf4cc68d76f32cef3059ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아티스틱 한남]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 06]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4f3f2f2509084d0688ceee606671dc1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그리웠어 크리스마스 무드]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[미리 만나는 크리스마스 마켓]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cd016f6d5561489fb218bc16acb9e512.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
