@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 09:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 10:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
 크러쉬, 폴 블랑코, pH-1 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 28 Nov 2023 09:12:20 GMT</pubDate>
+            <pubDate>Tue, 28 Nov 2023 10:12:42 GMT</pubDate>
             <content:encoded><![CDATA[아직 2023년의 마지막이 한 달 이상 남은 시점이지만, 이미 거리에서는 연말 분위기가 물씬 풍겨져 나오고 있다. 연말을 기념하기 위함일까? 수많은 뮤지션이 앨범을 발표하며 음악팬들의 귀와 마음을 즐겁게 만들어주고 있다. 이 중에서도 많은 장르 팬이 꼭 체크했으면 하는 몇 장의 앨범을 소개하고자 한다. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231128_170/17011333664093aVpM_GIF/%C4%BF%B9%F61.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[The Last Beatles Song (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[비틀즈의 마지막 신곡을 만날 기회]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/77da8ab454204df8ae1e95dd1ab65981.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리추얼을 선물할래 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 그린하우스 스키야키 코스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/410caa4a112a437b91d71b7fa93c0b12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반전을 부른다 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[전쟁 대신 평화를 염원하는 노래들]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7f3d9fc4968e4841abec1d6db0a7e9a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
