@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 02:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 03:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 시작을 향해 노래하는 ‘연경이’에게 듣는 네 번째 싱글 [My Endi...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13818&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13818&amp;pg=1</guid>
+            <pubDate>Wed, 29 Nov 2023 03:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13817/Mgz_Main_List_20231129092621.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[브리티시 포크 록 레전드 ‘Matt Deighton(맷 데이튼)’의 컴백 스토...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13817&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13817&amp;pg=1</guid>
+            <pubDate>Wed, 29 Nov 2023 03:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13817/Mgz_Main_List_20231129115741.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[새로운 마법의 세계로 와요~ 뮤지컬 배우 박강현의 'MAGIC' MV 제작기]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13814&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 27 Nov 2023 10:12:35 GMT</pubDate>
             <content:encoded><![CDATA[가요 탐구생활]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13810/Mgz_Main_List_20231127174002.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[재즈의 새로운 고전 ＃42 - 고정관념, 선입견 따위 안드로메다로 날려버린 호...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13809&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13809&amp;pg=1</guid>
-            <pubDate>Mon, 27 Nov 2023 10:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13809/Mgz_Main_List_20231127175518.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[ATBO와 함께 잊을 수 없는 겨울 Memories! ATBO [MUST HA...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13808&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13808&amp;pg=1</guid>
-            <pubDate>Mon, 27 Nov 2023 10:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13808/Mgz_Main_List_20231127160323.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
