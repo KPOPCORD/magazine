@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 07:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 08:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
 크러쉬, 폴 블랑코, pH-1 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 29 Nov 2023 07:12:15 GMT</pubDate>
+            <pubDate>Wed, 29 Nov 2023 08:15:03 GMT</pubDate>
             <content:encoded><![CDATA[아직 2023년의 마지막이 한 달 이상 남은 시점이지만, 이미 거리에서는 연말 분위기가 물씬 풍겨져 나오고 있다. 연말을 기념하기 위함일까? 수많은 뮤지션이 앨범을 발표하며 음악팬들의 귀와 마음을 즐겁게 만들어주고 있다. 이 중에서도 많은 장르 팬이 꼭 체크했으면 하는 몇 장의 앨범을 소개하고자 한다. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231128_170/17011333664093aVpM_GIF/%C4%BF%B9%F61.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[너 휴먼 그레이드야? (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 대세! 반려동물 프리미엄 사료 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2b7138bc1ef44ab48dc38499bcd81435.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구원찬의 특별한 에필로그 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[한남동 라이프 스타일 숍 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a923067b6bc44653b48c2bfaf5199ac5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[느리게 걷기 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[나만 아는 동네 #35 인천 배다리]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/72168fb4489b4c8b8b095b27e3df3c9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
