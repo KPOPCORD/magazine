@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 03:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 04:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,6 +374,14 @@
             <enclosure url="https://music-phinf.pstatic.net/20231128_170/17011333664093aVpM_GIF/%C4%BF%B9%F61.gif?type=w840" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[마쓰야마로소이다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[나쓰메 소세키가 사랑한 도시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9bc8e5b757e34e3cb51f3c1b8702b21e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Last Beatles Song (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -436,14 +444,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[초보 등산러를 위한 기본템 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0047ffc113814499998e0bfa49f4e427.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스키야키의 모던한 해석 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 그린하우스 스키야키 코스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/410caa4a112a437b91d71b7fa93c0b12.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
