@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 05:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 06:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구원찬의 특별한 에필로그]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[진심을 노래하는 구원찬 ‘보너스 트랙’ 현장]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/88d2463231c845a4bc41a0a7fe325dc6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마쓰야마로소이다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #35 인천 배다리]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/72168fb4489b4c8b8b095b27e3df3c9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[등산 준비는 끝났다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[초보 등산러를 위한 기본템 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0047ffc113814499998e0bfa49f4e427.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
