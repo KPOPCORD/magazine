@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 07:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 08:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
 크러쉬, 폴 블랑코, pH-1 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 30 Nov 2023 07:11:20 GMT</pubDate>
+            <pubDate>Thu, 30 Nov 2023 08:14:30 GMT</pubDate>
             <content:encoded><![CDATA[아직 2023년의 마지막이 한 달 이상 남은 시점이지만, 이미 거리에서는 연말 분위기가 물씬 풍겨져 나오고 있다. 연말을 기념하기 위함일까? 수많은 뮤지션이 앨범을 발표하며 음악팬들의 귀와 마음을 즐겁게 만들어주고 있다. 이 중에서도 많은 장르 팬이 꼭 체크했으면 하는 몇 장의 앨범을 소개하고자 한다. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231128_170/17011333664093aVpM_GIF/%C4%BF%B9%F61.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울엔 확신의 제주 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 데이터로 확인한 제주 여행 스팟]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c7c2d67e6012474c92bae5f7c1d04386.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지붕의 재발견 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[집에서 구워도 맛있는 붕어빵 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/73a13f163a394fc89a5ac83373c30c6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악을 위한 공간 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[음질에 취한다, 음악 감상실]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ffd245edfcf4cc68d76f32cef3059ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
