@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 04:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 05:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찬 바람 불 땐…]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[이 계절, 따뜻한 수프 한 그릇]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0237febe54104954b21c57296a9ce793.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조형과 입체]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 12월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e8477b0218d44b2b87d11393001d1351.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛있는 연말 파티]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 12월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3c8d6fe670124531b33d9272a8c8f54d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
