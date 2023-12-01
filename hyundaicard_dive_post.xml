@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 07:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 08:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대카드 Curated 90 BE’O]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[1st CONCERT IN SEOUL]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4a689281bca846e4b93763df70984fdb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찬 바람 불 땐…]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 12월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ff774819a9eb4cd0a14e1bc845592ec3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션이라는 강력한 서사]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 12월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e8477b0218d44b2b87d11393001d1351.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

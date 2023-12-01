@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 07:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 08:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
 크러쉬, 폴 블랑코, pH-1 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 01 Dec 2023 07:11:05 GMT</pubDate>
+            <pubDate>Fri, 01 Dec 2023 08:14:33 GMT</pubDate>
             <content:encoded><![CDATA[아직 2023년의 마지막이 한 달 이상 남은 시점이지만, 이미 거리에서는 연말 분위기가 물씬 풍겨져 나오고 있다. 연말을 기념하기 위함일까? 수많은 뮤지션이 앨범을 발표하며 음악팬들의 귀와 마음을 즐겁게 만들어주고 있다. 이 중에서도 많은 장르 팬이 꼭 체크했으면 하는 몇 장의 앨범을 소개하고자 한다. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231128_170/17011333664093aVpM_GIF/%C4%BF%B9%F61.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[현대카드 Curated 90 BE’O (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[1st CONCERT IN SEOUL]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4a689281bca846e4b93763df70984fdb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찬 바람 불 땐… (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 12월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ff774819a9eb4cd0a14e1bc845592ec3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션이라는 강력한 서사 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 12월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e8477b0218d44b2b87d11393001d1351.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
