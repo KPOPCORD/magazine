@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 08:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 09:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BVAXCZHESZVGI78E8ZWS/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[강아솔 [아무도 없는 곳에서, 모두가 있는 곳으로] 코멘터리 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13828&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13828&amp;pg=1</guid>
+            <pubDate>Fri, 01 Dec 2023 09:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13828/Mgz_Main_List_20231201180045.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[ATEEZ(에이티즈) [THE WORLD EP.FIN : WILL] 뮤직비디오... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13826&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13826&amp;pg=1</guid>
+            <pubDate>Fri, 01 Dec 2023 09:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13826/Mgz_Main_List_20231201100649.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[한국 소울의 대가 BMK의 데뷔 20주년을 기념하는 정규 4집 앨범 [33.3... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13829&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13829&amp;pg=1</guid>
@@ -240,22 +256,6 @@
             <pubDate>Thu, 30 Nov 2023 03:11:52 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13824/Mgz_Main_List_20231130113908.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[리하 (LIHA)의 [그땐 몰랐었지 (웹드라마 '청춘유랑단' OST)] 발매 ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13821&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13821&amp;pg=1</guid>
-            <pubDate>Thu, 30 Nov 2023 03:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13821/Mgz_Main_List_20231130091252.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[1년만에 디지털 싱글 “RollerCoaster”로 돌아온 SAAY (쎄이),... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13820&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13820&amp;pg=1</guid>
-            <pubDate>Wed, 29 Nov 2023 10:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13820/Mgz_Main_List_20231129174016.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #170 : 
@@ -370,7 +370,7 @@
 크러쉬, 폴 블랑코, pH-1 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 01 Dec 2023 08:14:33 GMT</pubDate>
+            <pubDate>Fri, 01 Dec 2023 09:11:52 GMT</pubDate>
             <content:encoded><![CDATA[아직 2023년의 마지막이 한 달 이상 남은 시점이지만, 이미 거리에서는 연말 분위기가 물씬 풍겨져 나오고 있다. 연말을 기념하기 위함일까? 수많은 뮤지션이 앨범을 발표하며 음악팬들의 귀와 마음을 즐겁게 만들어주고 있다. 이 중에서도 많은 장르 팬이 꼭 체크했으면 하는 몇 장의 앨범을 소개하고자 한다. – 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231128_170/17011333664093aVpM_GIF/%C4%BF%B9%F61.gif?type=w840" length="0" type="image/gif"/>
         </item>
