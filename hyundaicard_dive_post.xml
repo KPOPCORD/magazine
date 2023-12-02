@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 03:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 04:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해가 떠오른다, 가자]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[해피 뉴 이어! 전국 해맞이 명소 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6c3c72ce6ece4bc78fd96d1a65474657.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대카드 Curated 90 BE’O]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 12월의 새 음반]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1957ac4702ea4a85a0d6dae93a5a9d31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘부터 캐럴이다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 12월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ff774819a9eb4cd0a14e1bc845592ec3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
