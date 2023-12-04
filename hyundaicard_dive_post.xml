@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 09:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 10:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울은 골프 재정비의 시간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[IRON &amp; WOOD 동계 집중 트레이닝]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f695be47d24f46938a35b651eef48b41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컨템포러리 미디어 & 퍼포먼스 아트의 원형]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 레어 북 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b79644752514479cb615940992e5b827.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blue Note Classics]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[V&amp;P 12월 Monthly Special]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/883f1a22cb7a46ce9312cd3946d596d0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
