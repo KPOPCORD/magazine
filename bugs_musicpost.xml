@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 08:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 09:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리하 (LIHA) - Single Album [그땐 몰랐었지 (웹드라마 '청춘유랑단' OST)] M/V 촬영 현장 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/MNKSJJB21U6AO8I1E39I?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/MNKSJJB21U6AO8I1E39I?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 05 Dec 2023 09:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/MNKSJJB21U6AO8I1E39I/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이지카이트 (Izykite) - 사랑하는 사람을 향한 편지, '눈맞춤' 촬영 비하인드]]></title>
             <link>https://music.bugs.co.kr/musicpost/63EV3JEYNNFR1MCAFOJC?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <pubDate>Wed, 15 Nov 2023 21:10:12 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7CDVAPS5Z3T1I79DD0XH/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHERISH (체리쉬) - 데뷔 싱글! 'Can't you see me?' LIVE 촬영기 공개]]></title>
-            <link>https://music.bugs.co.kr/musicpost/BVAXCZHESZVGI78E8ZWS?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/BVAXCZHESZVGI78E8ZWS?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 15 Nov 2023 21:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BVAXCZHESZVGI78E8ZWS/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
