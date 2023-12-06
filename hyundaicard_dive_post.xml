@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 04:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 05:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트리 없는 크리스마스]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[트리 대신 크리스마스 분위기 연출하는 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7fce08ef46f54a09a219bc78ed560e36.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 터너상을 기다리며]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[해피 뉴 이어! 전국 해맞이 명소 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6c3c72ce6ece4bc78fd96d1a65474657.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 90 BE’O]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[1st CONCERT IN SEOUL]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4a689281bca846e4b93763df70984fdb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
