@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 07:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 08:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퍼스널 클렌징 솔루션]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[피부 타입별 인생 클렌징템 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cc3a882fd33346f9ae705a6d6613438d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트리 없는 크리스마스]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[무신사 어스가 큐레이션한 아이템]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5447a2d612604146a0e25bba107cab38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해가 떠오른다, 가자]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[해피 뉴 이어! 전국 해맞이 명소 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6c3c72ce6ece4bc78fd96d1a65474657.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
