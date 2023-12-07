@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 04:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 05:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 책 덕분에 행복했어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 라이브러리 12월 신간 몰아 보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/df5082b334394b16890a9651a356d8aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퍼스널 클렌징 솔루션]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 고메위크 25를 빛낸 레스토랑]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5b71e8c3ba214ef98711dd67ff8410ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지속 가능한 일상을 찾아서]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 어스가 큐레이션한 아이템]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5447a2d612604146a0e25bba107cab38.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
