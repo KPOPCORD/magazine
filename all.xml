@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 08:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 09:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,25 @@
 @zip (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 08 Dec 2023 08:14:55 GMT</pubDate>
+            <pubDate>Fri, 08 Dec 2023 09:11:53 GMT</pubDate>
             <content:encoded><![CDATA[자이언티의 지난 시간이 무려 6년 만의 정규앨범으로 ‘압축’됐다. ‘집'에만 틀어박혀 있었던 건 아니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231206_175/17018469589769btW6_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[따뜻하게 충전하는 연말 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[12월 현대카드 What's On]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/de490bfdaebd44daabf011c379d71d9c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비디오아트가 남긴 즉흥과 영원 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 컬렉션의 재구성]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fc93d6d3ec7642658d0958ba1989bb4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대카드 Curated 91 THAMA (현대카드 DIVE ─ POST)]]></title>
@@ -429,22 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 12월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c85fd97693924875a0665046852fd7dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 이즈 커밍 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[월간 DIVE 12월 호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ad126602b4164bfcbe19ebfea4dbb56a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재미로만 보세요 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[잘 맞기로 소문난 사주 앱 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61be9ca6ebee4145a61b6eec283c81e1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
