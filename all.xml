@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 05:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 06:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
 @zip (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 08 Dec 2023 05:11:35 GMT</pubDate>
+            <pubDate>Fri, 08 Dec 2023 06:15:02 GMT</pubDate>
             <content:encoded><![CDATA[자이언티의 지난 시간이 무려 6년 만의 정규앨범으로 ‘압축’됐다. ‘집'에만 틀어박혀 있었던 건 아니다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231206_175/17018469589769btW6_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대카드 Curated 91 THAMA (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[싱어송라이터 THAMA의 첫 단독 콘서트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/59f144c49917455bb52f93f914c4fc54.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안경 나도 써 볼까? (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[잘 맞기로 소문난 사주 앱 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61be9ca6ebee4145a61b6eec283c81e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울은 골프 재정비의 시간 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[IRON &amp; WOOD 동계 집중 트레이닝]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f695be47d24f46938a35b651eef48b41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
