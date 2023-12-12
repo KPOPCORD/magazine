@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 08:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 09:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초기 미디어 아트의 원형]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 레어 북 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/59f087c80fee45908eb561a0977e96ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밤이면 밤마다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 컬렉션의 재구성]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fc93d6d3ec7642658d0958ba1989bb4d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 91 THAMA]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[싱어송라이터 THAMA의 첫 단독 콘서트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/59f144c49917455bb52f93f914c4fc54.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
