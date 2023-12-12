@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 04:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 05:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
 헤이즈 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 12 Dec 2023 04:14:24 GMT</pubDate>
+            <pubDate>Tue, 12 Dec 2023 05:11:30 GMT</pubDate>
             <content:encoded><![CDATA[언제나처럼 돌아오는 계절일지라도 각자의 시간 속에서 해마다 다르게 기억되는 겨울, 헤이즈가 보낸 시간들이 가장 헤이즈다운 모습으로 차곡차곡 담긴 앨범이 나왔다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231211_148/17022652661876oEc4_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘부터 캐럴이다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 12월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ff774819a9eb4cd0a14e1bc845592ec3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패션이라는 강력한 서사 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[안경 트렌드 대열에 합류해 봐]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/028a86fcd84e4411a278ca7193430c0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말 홈 파티를 책임질 디시 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 X 휘슬러 쿠킹 클래스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dfe2f355a21a4fccb7088b8fe852eea8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
