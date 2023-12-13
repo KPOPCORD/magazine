@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 06:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 07:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
 국내편 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 13 Dec 2023 06:15:10 GMT</pubDate>
+            <pubDate>Wed, 13 Dec 2023 07:11:49 GMT</pubDate>
             <content:encoded><![CDATA[이제는 K팝 대표 그룹이 된 뉴진스부터 놀라운 기록을 써 내려가고 있는 BTS 정국, 소녀들의 우상이 된 아이브, 유쾌하고 따뜻한 시선으로 공감을 얻은 악뮤, 해외에서 큰 호응을 얻고 있는 4세대 보이그룹 스트레이키즈까지. 2023년을 빛낸 K팝 대표 아티스트들을 지금 VIBE에서 만나보세요. 글: 박희아]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231213_17/1702432029336mhgP2_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[완벽한 홀리데이 무드를 위하여 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[크리스마스 소품을 만날 수 있는 숍 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c4ca299fbb1d494984d728bc4f0c5ae8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알렉상드르 에스트렐라의 ＜Flat Bells＞ (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[예약이 필수인 크리스마스 케이크]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d3db915abb9a4a628a39605eb27a2440.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따뜻하게 충전하는 연말 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[12월 현대카드 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/de490bfdaebd44daabf011c379d71d9c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
