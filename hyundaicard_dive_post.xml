@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 04:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 05:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알렉상드르 에스트렐라의 ＜Flat Bells＞]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 단독 후원 MoMA 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b9c1265e28384fe7b6eeb95429ec1a89.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초기 미디어 아트의 원형]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[12월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/de490bfdaebd44daabf011c379d71d9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비디오아트가 남긴 즉흥과 영원]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 컬렉션의 재구성]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fc93d6d3ec7642658d0958ba1989bb4d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
