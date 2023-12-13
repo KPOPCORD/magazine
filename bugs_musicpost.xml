@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 08:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 09:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사운드트랙 #2 - 디즈니+ 단독 공개! 현실 공감 로맨스 <사운드트랙 #2>의 감성을 가득 담은 OST]]></title>
+            <link>https://music.bugs.co.kr/musicpost/H3N16JAA4IA7UX9HWMHI?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/H3N16JAA4IA7UX9HWMHI?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 13 Dec 2023 09:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/H3N16JAA4IA7UX9HWMHI/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리하 (LIHA) - Single Album [그땐 몰랐었지 (웹드라마 '청춘유랑단' OST)] M/V 촬영 현장 공개]]></title>
             <link>https://music.bugs.co.kr/musicpost/MNKSJJB21U6AO8I1E39I?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <guid>https://music.bugs.co.kr/musicpost/MNTDJLZ338YIU8V7E9RB?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Wed, 15 Nov 2023 21:10:12 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Loossemble (루셈블) - 새로운 서사의 시작인 첫 데뷔 앨범 재킷 촬영 현장]]></title>
-            <link>https://music.bugs.co.kr/musicpost/7CDVAPS5Z3T1I79DD0XH?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/7CDVAPS5Z3T1I79DD0XH?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 15 Nov 2023 21:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7CDVAPS5Z3T1I79DD0XH/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
