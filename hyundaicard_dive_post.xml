@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 03:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 04:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blue Note Classics]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[V&amp;P 12월 Monthly Special]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/883f1a22cb7a46ce9312cd3946d596d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맛있는 연말 파티]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[방콕에서 꼭 가 봐야 할 파인다이닝 3]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a6b7b4eb10e245df9a91eec096ad75f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계절이 바뀔 때]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 12월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1957ac4702ea4a85a0d6dae93a5a9d31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
