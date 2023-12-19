@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 04:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 05:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쇼핑 데이트 어때? 뉴 패션 스팟]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[갓 오픈한 국내 쇼핑 플레이스 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a339c5fa409f4400bfda7fb2fea18e99.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낭만에 대하여]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[패션 비하인드가 궁금하다면 드루와!]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3684d38e9f5f4761a324120760a8d5dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리 만난 메리 크리스마스]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[메리 메리 새터데이 마켓에서 생긴 일]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5d2a9820e46d4bc5b6ea59c96550527f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
