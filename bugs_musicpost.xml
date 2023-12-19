@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 02:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 03:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연우주 - 겨울 감성을 담은 발라드 [너를 닮은 겨울을 사랑하고 있어] 라이브 클립 영상 촬영기]]></title>
+            <link>https://music.bugs.co.kr/musicpost/G7BURSP1U4S5BJCHCP2E?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/G7BURSP1U4S5BJCHCP2E?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 19 Dec 2023 03:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/G7BURSP1U4S5BJCHCP2E/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사운드트랙 #2 - 디즈니+ 단독 공개! 현실 공감 로맨스의 감성을 가득 담은 OST]]></title>
             <link>https://music.bugs.co.kr/musicpost/H3N16JAA4IA7UX9HWMHI?&amp;wl_ref=list_sp_01_h</link>
@@ -185,13 +193,6 @@
             <pubDate>Wed, 15 Nov 2023 21:10:12 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/J6YNB1KCCMJIW8JAALHD/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭘 들을까? - 2023년 9월 노래 모음!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/MNTDJLZ338YIU8V7E9RB?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/MNTDJLZ338YIU8V7E9RB?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 15 Nov 2023 21:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
