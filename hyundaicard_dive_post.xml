@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 07:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 08:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사실은 말이야]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[크리스마스 캐럴 비하인드 스토리]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/00a41e7662594da58ab4b1e3a6c1e579.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쇼핑 데이트 어때? 뉴 패션 스팟]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 MoMA 테마 북 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8c78821a26f1413ab40841831d371fad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알쓸별잡 패션 편]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[패션 비하인드가 궁금하다면 드루와!]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3684d38e9f5f4761a324120760a8d5dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
