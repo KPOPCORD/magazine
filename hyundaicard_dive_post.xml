@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 04:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 05:09:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주얼러를 넘어 크리에이터로]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[서울 주얼리 대전 #1 프레드]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/63f02488b3c14adc8fcd0337da9bc082.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사실은 말이야]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[빠르고 쉽게 든든함을 채워 주는 간편식]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e11b77395d2843c39a5798d8420899ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조형과 입체]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 MoMA 테마 북 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8c78821a26f1413ab40841831d371fad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
