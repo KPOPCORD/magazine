@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 02:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 03:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푸른 하늘처럼 청량한 사운드, 혼성 밴드 fhána의 EP [Beautiful...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13884&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13884&amp;pg=1</guid>
+            <pubDate>Wed, 20 Dec 2023 03:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13883/Mgz_Main_List_20231219163540.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[2023 지니뮤직 연말결산 - 올해의 주요 음악 이슈 & 내가 사랑한 음악]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13879&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Dec 2023 03:12:32 GMT</pubDate>
             <content:encoded><![CDATA[방송]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13875/Mgz_Main_List_20231215163416.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[음악 중심, 남산타워 뷰 맛집 <리저브>]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13873&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13873&amp;pg=1</guid>
-            <pubDate>Mon, 18 Dec 2023 03:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13873/Mgz_Main_List_20231218111715.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
