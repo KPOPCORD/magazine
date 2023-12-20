@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 08:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 09:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/PXO0O2TTY74SRWEASQDV/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[관계의 부스러기를 쓸어 담아 만든 하우스키퍼스 EP [Sweepers] 작업 ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13886&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13886&amp;pg=1</guid>
+            <pubDate>Wed, 20 Dec 2023 09:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13886/Mgz_Main_List_20231220173915.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[푸른 하늘처럼 청량한 사운드, 혼성 밴드 fhána의 EP [Beautiful... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13884&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13884&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Mon, 18 Dec 2023 03:12:32 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13877/Mgz_Main_List_20231218103817.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[‘청춘 성장 로맨스’ ENA 수목드라마 <모래에도 꽃이 핀다> (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=13875&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=13875&amp;pg=1</guid>
-            <pubDate>Mon, 18 Dec 2023 03:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[방송]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13875/Mgz_Main_List_20231215163416.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #172 : 
@@ -370,9 +370,17 @@
 방탄소년단 다큐멘터리 공개! (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 20 Dec 2023 08:12:11 GMT</pubDate>
+            <pubDate>Wed, 20 Dec 2023 09:10:07 GMT</pubDate>
             <content:encoded><![CDATA[아무도 가보지 못한 곳. 그곳에 도착하기까지 10년의 여정. 삶의 의미와 목표를 찾기 위해 달리는 방탄소년단 일곱 멤버의 일상과 속마음을 담은 &lt;BTS Monuments: Beyond The Star&gt;가 디즈니+에서 단독 공개된다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231214_46/1702540075977Yvqbi_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백남준: 달은 가장 오래된 TV (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 07]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ef9345466614c96b8ad1e1fa50f12d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주얼러를 넘어 크리에이터로 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[루시의 언더스테이지 음감회]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3a87f9bd09574514a50d80426f8d7886.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바빠도 아침은 거르지 마요 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[빠르고 쉽게 든든함을 채워 주는 간편식]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e11b77395d2843c39a5798d8420899ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
