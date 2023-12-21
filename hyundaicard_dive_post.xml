@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 04:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 05:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로컬이 사랑한 참새 방앗간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[나만 아는 동네 #36 광주 봉선동]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2aa5d2f80c894abebcd1e50ded8d4513.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백남준: 달은 가장 오래된 TV]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[12월의 디자이너 Philip Treacy]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3498f26083714866ab12af59cbb007be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Boogie Man'이 온다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[루시의 언더스테이지 음감회]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3a87f9bd09574514a50d80426f8d7886.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
