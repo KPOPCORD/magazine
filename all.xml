@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 09:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 10:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[NCT 127의 첫 윈터송! ‘Be There For Me’와 따뜻한 겨울나기 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13893&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13893&amp;pg=1</guid>
+            <pubDate>Fri, 22 Dec 2023 10:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13893/Mgz_Main_List_20231222105340.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[[행복은 기본값입니다, 밴드 DEFAULT.] 새로운 앨범, 그리고 지난 단독... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13892&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13892&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Wed, 20 Dec 2023 09:09:53 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13886/Mgz_Main_List_20231220173915.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[푸른 하늘처럼 청량한 사운드, 혼성 밴드 fhána의 EP [Beautiful... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13884&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13884&amp;pg=1</guid>
-            <pubDate>Wed, 20 Dec 2023 03:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13883/Mgz_Main_List_20231219163540.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #172 : 
@@ -370,7 +370,7 @@
 방탄소년단 다큐멘터리 공개! (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 22 Dec 2023 09:12:40 GMT</pubDate>
+            <pubDate>Fri, 22 Dec 2023 10:12:01 GMT</pubDate>
             <content:encoded><![CDATA[아무도 가보지 못한 곳. 그곳에 도착하기까지 10년의 여정. 삶의 의미와 목표를 찾기 위해 달리는 방탄소년단 일곱 멤버의 일상과 속마음을 담은 &lt;BTS Monuments: Beyond The Star&gt;가 디즈니+에서 단독 공개된다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231214_46/1702540075977Yvqbi_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
