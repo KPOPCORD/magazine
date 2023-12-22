@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 07:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 08:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신상의 축복엔 끝이 없지]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[신상 맛집 #36]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3072d555855043a9bfbab19bf7ddab37.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트리보다 눈부셔]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[에어비앤비가 추천하는 연인 취저 숙소 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c1f077fca8184410bb46fb5213956664.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 재질 아이코닉 그린 사이렌]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[스타벅스 현대카드 새로운 한정판 플레이트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d86f8fee847949cd9c3e897f5bc58180.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
