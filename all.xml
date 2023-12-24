@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Dec 2023 03:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Dec 2023 04:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
 방탄소년단 다큐멘터리 공개! (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 24 Dec 2023 03:11:53 GMT</pubDate>
+            <pubDate>Sun, 24 Dec 2023 04:13:23 GMT</pubDate>
             <content:encoded><![CDATA[아무도 가보지 못한 곳. 그곳에 도착하기까지 10년의 여정. 삶의 의미와 목표를 찾기 위해 달리는 방탄소년단 일곱 멤버의 일상과 속마음을 담은 &lt;BTS Monuments: Beyond The Star&gt;가 디즈니+에서 단독 공개된다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231214_46/1702540075977Yvqbi_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산타 이즈 커밍 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[산타클로스를 만날 수 있는 콘텐츠]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2970014237fd40c4a9d40681f7b1b83d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연말에는 서울 한 바퀴 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[크리스마스 캐럴 비하인드 스토리]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/00a41e7662594da58ab4b1e3a6c1e579.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑 데이트 어때? 뉴 패션 스팟 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[갓 오픈한 국내 쇼핑 플레이스 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a339c5fa409f4400bfda7fb2fea18e99.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
