@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Dec 2023 03:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 04:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴욕을 대표하는 주얼리]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[서울 주얼리 대전 #2 티파니]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f3c66e7bb76844fa864d639107b43f91.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산타 이즈 커밍]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[서울 주얼리 대전 #1 프레드]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/63f02488b3c14adc8fcd0337da9bc082.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사실은 말이야]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[크리스마스 캐럴 비하인드 스토리]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/00a41e7662594da58ab4b1e3a6c1e579.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
