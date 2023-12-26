@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 09:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 10:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[데뷔 20주년, 동방신기가 보여줄 ‘Rebel’의 진짜 의미 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13891&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13891&amp;pg=1</guid>
+            <pubDate>Tue, 26 Dec 2023 10:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13891/Mgz_Main_List_20231222111317.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[그 어느 때보다 풍성했네 - 2023년의 클래식 앨범 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13895&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=13895&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Fri, 22 Dec 2023 04:14:04 GMT</pubDate>
             <content:encoded><![CDATA[올댓메탈]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13878/Mgz_Main_List_20231222102919.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[소연 (LABOUM) & 우석 (펜타곤) Single ‘우린 I’ 발매기념 인... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13888&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13888&amp;pg=1</guid>
-            <pubDate>Thu, 21 Dec 2023 10:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13888/Mgz_Main_List_20231221143840.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #172 : 
@@ -370,7 +370,7 @@
 방탄소년단 다큐멘터리 공개! (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 26 Dec 2023 09:12:18 GMT</pubDate>
+            <pubDate>Tue, 26 Dec 2023 10:12:15 GMT</pubDate>
             <content:encoded><![CDATA[아무도 가보지 못한 곳. 그곳에 도착하기까지 10년의 여정. 삶의 의미와 목표를 찾기 위해 달리는 방탄소년단 일곱 멤버의 일상과 속마음을 담은 &lt;BTS Monuments: Beyond The Star&gt;가 디즈니+에서 단독 공개된다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231214_46/1702540075977Yvqbi_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
