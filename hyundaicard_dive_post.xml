@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 07:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 08:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스피레이션 in 서울]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 영감을 찾아 헤매는 사람을 위하여]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5c8494a510ce423b868580a1218b40a7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반려가구를 만나는 다양한 방법]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #36 광주 봉선동]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2aa5d2f80c894abebcd1e50ded8d4513.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백남준: 달은 가장 오래된 TV]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 07]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ef9345466614c96b8ad1e1fa50f12d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
