@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 02:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 03:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[POP 스튜디오 ＃72 - 새로운 시간을 아무렇지 않게 맞는 법 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=13890&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=13890&amp;pg=1</guid>
+            <pubDate>Wed, 27 Dec 2023 03:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[POP 컬렉션]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13890/Mgz_Main_List_20231227115900.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[데뷔 20주년, 동방신기가 보여줄 ‘Rebel’의 진짜 의미 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13891&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13891&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Fri, 22 Dec 2023 04:14:04 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13883/Mgz_Main_List_20231222102755.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 꼭 알아야 할 헤비메탈의 순간들 72화 – 다크 트랭퀼리티(Dark T... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=13878&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=13878&amp;pg=1</guid>
-            <pubDate>Fri, 22 Dec 2023 04:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[올댓메탈]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13878/Mgz_Main_List_20231222102919.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[10년의 여정 그 너머의 이야기 
@@ -370,7 +370,7 @@
 지민, 센트럴 씨 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 27 Dec 2023 02:21:18 GMT</pubDate>
+            <pubDate>Wed, 27 Dec 2023 03:12:48 GMT</pubDate>
             <content:encoded><![CDATA[입대와 함께 팬송을 발표한 BTS 지민, 자전적 성공담이 담긴 싱글을 내놓은 센트럴 씨까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231226_175/1703574811931dacfs_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
         </item>
