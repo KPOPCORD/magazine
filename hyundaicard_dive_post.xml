@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 04:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 05:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[근사한 홈 파티의 완성]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[이재훈 셰프 X 휘슬러 쿠킹 클래스 현장]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b5fafbfa7550408cb3fb4a18650f602e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인스피레이션 in 서울]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[2024년 첫 단독 콘서트 ＜Preview＞]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/30902c628477434ebe89e382b6fc86b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로컬이 사랑한 참새 방앗간]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[나만 아는 동네 #36 광주 봉선동]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2aa5d2f80c894abebcd1e50ded8d4513.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
