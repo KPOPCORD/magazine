@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 04:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 05:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
 지민, 센트럴 씨 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 28 Dec 2023 04:13:55 GMT</pubDate>
+            <pubDate>Thu, 28 Dec 2023 05:11:37 GMT</pubDate>
             <content:encoded><![CDATA[입대와 함께 팬송을 발표한 BTS 지민, 자전적 성공담이 담긴 싱글을 내놓은 센트럴 씨까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231226_175/1703574811931dacfs_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[이 목줄은 불가항력 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[시선 강탈! 반려견 목줄 &amp; 하네스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bcd3464e27134b289328f48223fadbba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보통의 아날로그 사운드 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[신상 맛집 #36]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3072d555855043a9bfbab19bf7ddab37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트리보다 눈부셔 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[반짝반짝 홀리데이 메이크업 판타지]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/83559b72a6f2432fac3bed50e14098f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 04:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 05:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 목줄은 불가항력]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[시선 강탈! 반려견 목줄 &amp; 하네스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bcd3464e27134b289328f48223fadbba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보통의 아날로그 사운드]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[신상 맛집 #36]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3072d555855043a9bfbab19bf7ddab37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트리보다 눈부셔]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[반짝반짝 홀리데이 메이크업 판타지]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/83559b72a6f2432fac3bed50e14098f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
