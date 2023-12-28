@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 07:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 08:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
             <title><![CDATA[2023년을 빛낸 한국 힙합 앨범은? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 28 Dec 2023 07:10:45 GMT</pubDate>
+            <pubDate>Thu, 28 Dec 2023 08:14:43 GMT</pubDate>
             <content:encoded><![CDATA[소위 말하는 포스트 쇼미더머니 시대를 맞이한 한국 힙합. 돌이켜 보면 2023년은 여러 이슈가 잇달아 일어나며 많은 장르 팬의 마음을 움츠러들게 만들었던 해였다. 하지만, 뮤지션들은 이에 아랑곳하지 않고 앨범을 발표하며 저마다의 새로운 활로를 열고자 했다. 여기 어둠 속의 힙합 씬에 한 줄기 빛을 내린 일곱 장의 한국 힙합 앨범을 소개한다. - 힙합엘이]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231228_205/1703740703626vDKeL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023년을 상징하는 목소리 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 최고의 여성 팝 아티스트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/201409958bd54935a6df9e64073df729.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 목줄은 불가항력 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 데이터로 보는 크리스마스 핫플]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bca07396274242589d21a3140578f79a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신상의 축복엔 끝이 없지 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[신상 맛집 #36]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3072d555855043a9bfbab19bf7ddab37.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

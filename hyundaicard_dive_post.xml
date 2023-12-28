@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 07:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 08:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023년을 상징하는 목소리]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 최고의 여성 팝 아티스트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/201409958bd54935a6df9e64073df729.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 목줄은 불가항력]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 데이터로 보는 크리스마스 핫플]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bca07396274242589d21a3140578f79a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신상의 축복엔 끝이 없지]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[신상 맛집 #36]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3072d555855043a9bfbab19bf7ddab37.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
