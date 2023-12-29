@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 04:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 05:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영감의 도시  도쿄 #1]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[녹지를 품은 거대 도시의 진화]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8031cdb4c62341119eb7217f92546ae1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023년을 상징하는 목소리]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[산타클로스를 만날 수 있는 콘텐츠]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2970014237fd40c4a9d40681f7b1b83d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말에는 서울 한 바퀴]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 데이터로 보는 크리스마스 핫플]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bca07396274242589d21a3140578f79a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
