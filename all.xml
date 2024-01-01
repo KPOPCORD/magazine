@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 03:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 04:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
 2024 기대주 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 01 Jan 2024 03:13:19 GMT</pubDate>
+            <pubDate>Mon, 01 Jan 2024 04:14:07 GMT</pubDate>
             <content:encoded><![CDATA[2023년이 얼마 남지 않았다. 음악 업계에서는 연말 시상식을 비롯해 결산 관련 소식이 전해지고 있다. 이렇게 과거를 되짚으며 현재를 정리하는 것도 좋지만, 다가오는 미래를 미리 예측해 보는 것도 좋은 방법이다. 그렇기에 이주의 디깅에서는 2024년에 더욱 주목했으면 하는 장르 음악, 음악가를 소개하고자 한다. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231226_110/17035584333647up7d_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 맛 탐험을 위한 여정 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리 1월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6355e2cc8f914371a30af92a5aad8d20.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백남준과 구보타 시게코의 평행선 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[연말에 보내고 싶은 엽서 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d7fd165021b94fb2af7d5b6e135129b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 메뉴 뭐예요? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[매일 혹은 매주 메뉴가 달라지는 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/28ab6a92544d4dddbf12b6d8313a6eea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
