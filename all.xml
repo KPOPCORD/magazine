@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 07:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 08:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@
 2024 기대주 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 02 Jan 2024 07:10:48 GMT</pubDate>
+            <pubDate>Tue, 02 Jan 2024 08:14:41 GMT</pubDate>
             <content:encoded><![CDATA[2023년이 얼마 남지 않았다. 음악 업계에서는 연말 시상식을 비롯해 결산 관련 소식이 전해지고 있다. 이렇게 과거를 되짚으며 현재를 정리하는 것도 좋지만, 다가오는 미래를 미리 예측해 보는 것도 좋은 방법이다. 그렇기에 이주의 디깅에서는 2024년에 더욱 주목했으면 하는 장르 음악, 음악가를 소개하고자 한다. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231226_110/17035584333647up7d_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[회화 위로 떠오르기 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 1월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9b370e645bad4ef4b2cc688579dddb98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자작나무 유토피아 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[마음 비움이 필요할 때, 템플 스테이]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/26ee919ccce445189ee06513d9c8c60d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아날로그 라이팅 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[연말에 보내고 싶은 엽서 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d7fd165021b94fb2af7d5b6e135129b5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
