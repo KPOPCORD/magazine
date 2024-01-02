@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 23:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 00:49:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/954f8ad52e2341e48453f737a9caeda4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[회화 위로 떠오르기]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 1월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9b370e645bad4ef4b2cc688579dddb98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Love & Peace, The Youth]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -78,6 +70,14 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[연말에 보내고 싶은 엽서 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d7fd165021b94fb2af7d5b6e135129b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 메뉴 뭐예요?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[매일 혹은 매주 메뉴가 달라지는 맛집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/28ab6a92544d4dddbf12b6d8313a6eea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
