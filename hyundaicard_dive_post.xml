@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 01:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 02:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웰컴 투 인스파이어 리조트]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[TRIBE X 인스파이어 리조트 숙박 이벤트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5099b309086b4b9c96ca62e07e6ebc02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[회화 위로 떠오르기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 1월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/557b07da4957417da1d2238803f6eee9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 절로]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[마음 비움이 필요할 때, 템플 스테이]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/26ee919ccce445189ee06513d9c8c60d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
