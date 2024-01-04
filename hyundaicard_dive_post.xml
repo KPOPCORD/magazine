@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 04:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 05:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손민수 Curated 13 김세일]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[탁월한 음악성의 테너가 부르는 슈만의 연가곡]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5f51e0eab832416d930561cc67ac7d75.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영감의 도시 도쿄 #2]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 1월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0fac5a0655bd4800b19780a21acb89f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디자인으로 할 수 있는 모든 것]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 1월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/954f8ad52e2341e48453f737a9caeda4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
