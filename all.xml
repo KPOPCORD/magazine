@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 08:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 09:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,22 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[DJ겸 프로듀서 RELOAD (리로드) 싱글 'ROAD (Feat. Skinn... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13925&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13925&amp;pg=1</guid>
+            <pubDate>Mon, 08 Jan 2024 09:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13925/Mgz_Main_List_20240108153653.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[진실한 낭만을 노래하는, 하현상 4th EP [With All My Heart... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13924&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13924&amp;pg=1</guid>
+            <pubDate>Mon, 08 Jan 2024 09:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13924/Mgz_Main_List_20240108152639.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[Heon Seo(헌서) [Hijack] MV촬영 현장 비하인드 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13923&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13923&amp;pg=1</guid>
@@ -240,22 +256,6 @@
             <pubDate>Fri, 05 Jan 2024 09:11:46 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13916/Mgz_Main_List_20240103162836.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[정세운의 새로운 여정 ‘Quiz’ 자켓 촬영 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13914&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13914&amp;pg=1</guid>
-            <pubDate>Thu, 04 Jan 2024 10:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13914/Mgz_Main_List_20240104112702.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[재즈의 새로운 고전 ＃43 - 진지하면서도 키치한 유머, 엉뚱함과 열정의 반전... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13918&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13918&amp;pg=1</guid>
-            <pubDate>Thu, 04 Jan 2024 03:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13918/Mgz_Main_List_20240104120403.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[2023년을 빛낸 한국 힙합 앨범은? (VIBE ─ 매거진)]]></title>
@@ -369,7 +369,7 @@
 2024 기대주 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 08 Jan 2024 08:15:29 GMT</pubDate>
+            <pubDate>Mon, 08 Jan 2024 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[2023년이 얼마 남지 않았다. 음악 업계에서는 연말 시상식을 비롯해 결산 관련 소식이 전해지고 있다. 이렇게 과거를 되짚으며 현재를 정리하는 것도 좋지만, 다가오는 미래를 미리 예측해 보는 것도 좋은 방법이다. 그렇기에 이주의 디깅에서는 2024년에 더욱 주목했으면 하는 장르 음악, 음악가를 소개하고자 한다. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20231226_110/17035584333647up7d_GIF/%C4%BF%B9%F62.gif?type=w840" length="0" type="image/gif"/>
         </item>
