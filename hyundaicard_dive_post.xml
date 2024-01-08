@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 04:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 05:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가전 주객전도]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[가 보고 싶은 가전 매장 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0d985840076f4109bff52c87ec22b8ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디자인으로 할 수 있는 모든 것]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 1월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9b370e645bad4ef4b2cc688579dddb98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자작나무 유토피아]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[하얗게 물든 전국 자작나무숲 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3b5bff5371634b3286c47d7da6ba5e72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
