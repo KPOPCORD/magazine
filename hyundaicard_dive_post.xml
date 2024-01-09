@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 04:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 05:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백남준과 구보타 시게코의 평행선]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리의 아티스트 하이라이츠]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/acc537f1627047d0b0096acad0a7e401.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영감의 도시 도쿄 #3]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아자부다이 힐스로 완성된 ‘힐스 시리즈']]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7a6a6af54bb74bdb8b9c872d046b5945.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웰컴 투 인스파이어 리조트]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[TRIBE X 인스파이어 리조트 숙박 이벤트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5099b309086b4b9c96ca62e07e6ebc02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
