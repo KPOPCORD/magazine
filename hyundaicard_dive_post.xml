@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 07:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 08:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해 복]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[월간 DIVE 1월 호]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/01d2ee6f438040bf918c2ef1d3024616.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백남준과 구보타 시게코의 평행선]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[탁월한 음악성의 테너가 부르는 슈만의 연가곡]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5f51e0eab832416d930561cc67ac7d75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영감의 도시 도쿄 #2]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[아자부다이 힐스로 완성된 ‘힐스 시리즈']]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7a6a6af54bb74bdb8b9c872d046b5945.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
