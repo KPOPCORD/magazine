@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 00:53:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 01:56:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아주 견고하고도 정교한 세계]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[헤르조그 앤 드 뫼롱 다시 보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5c3196a1f160406293a63377c67249bb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Love & Peace, The Youth]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[다시 찾아온 굴의 계절]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/08bec9b402b04bff95ba3a44c51a3c51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새롭게 맞이하는]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[1월 현대카드 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/41567da0e8354d7e908d7276c86a7992.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
