@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 01:56:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 02:27:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패딩이 착해지면]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[눈길이 머무는 비건 패딩 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/30fb1f496d99473aaa44156f0208bb03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아주 견고하고도 정교한 세계]]></title>
             <link>javascript:;</link>
@@ -61,7 +69,7 @@
             <guid>javascript:;</guid>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 1월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/954f8ad52e2341e48453f737a9caeda4.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3ac93ae79340441abae9409e73a97b80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Welcome to 현카 유니버스]]></title>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 회원의 컬처 혜택 몰아 보기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1d363d0f55cb484581f816251f15b936.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이맘때를 기다렸다’굴’]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[다시 찾아온 굴의 계절]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/08bec9b402b04bff95ba3a44c51a3c51.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
