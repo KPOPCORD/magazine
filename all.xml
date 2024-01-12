@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 08:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 09:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,6 +195,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OP2X6LLHX3CA64SSYKWG/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[AKMU 이찬혁의 새해 첫 싱글 앨범 [1조] 발매 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13930&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13930&amp;pg=1</guid>
+            <pubDate>Fri, 12 Jan 2024 09:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13930/Mgz_Main_List_20240112103700.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[흔한 이별을 부정하고 싶었어요, 남율 [너보단 내가 더] 발매 인터뷰 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13938&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13938&amp;pg=1</guid>
@@ -249,14 +257,6 @@
             <pubDate>Wed, 10 Jan 2024 09:12:08 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13932/Mgz_Main_List_20240110110010.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑이라고 말하지 못하는 것들, OnlyOneOf (온리원오브) [Things... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13927&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13927&amp;pg=1</guid>
-            <pubDate>Wed, 10 Jan 2024 09:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13927/Mgz_Main_List_20240109120721.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #173 
@@ -370,7 +370,7 @@
 실리카겔 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 12 Jan 2024 08:15:19 GMT</pubDate>
+            <pubDate>Fri, 12 Jan 2024 09:11:56 GMT</pubDate>
             <content:encoded><![CDATA[‘실리카겔 붐은 온다!’. 몇 년 전부터 실리카겔 팬들이 예언처럼 되뇌던 말이다. 2015년 데뷔 이후 한국 인디 록 씬에 이름을 새겨온 그들은 2023년, 다양한 무대에 오르며 그 어느 때보다 빛나기 시작했다. 최근 정규 2집을 발표하고 자신들의 전성기를 맞이할 준비를 마친 실리카겔의 이야기를 이주의 디깅과 함께 알아가 보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240108_229/17046811771848hEyF_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
