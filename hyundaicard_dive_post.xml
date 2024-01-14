@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jan 2024 00:55:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 02:00:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024년, 내가 사랑할 책들]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 라이브러리 1월 신간 몰아 보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/66df2e7cbf144fe0a6491353e05bd2fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미리 엿보는 뉴욕의 전시 #1]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[가 보고 싶은 가전 매장 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0d985840076f4109bff52c87ec22b8ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디자인으로 할 수 있는 모든 것]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 1월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3ac93ae79340441abae9409e73a97b80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
