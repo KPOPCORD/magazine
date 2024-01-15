@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 00:53:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 01:58:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THAMA의 소울 유니버스]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[THAMA의 언더스테이지 연말 공연 리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cc834da3129f42b09181789c6588bcd1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2024년, 내가 사랑할 책들]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[도쿄 미드타운과 에비스 가든 플레이스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a4ff0040c7e740a1bf2ac41d4bf65031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가전 주객전도]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[가 보고 싶은 가전 매장 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0d985840076f4109bff52c87ec22b8ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
