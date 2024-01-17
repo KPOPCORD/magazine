@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 00:52:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 01:56:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,7 +211,7 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13945/Mgz_Main_List_20240116155951.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[MM JAZZ 선정 〈Best Albums of 2023〉 Critics' C... (지니 ─ 매거진)]]></title>
+            <title><![CDATA[MMJ AZZ 선정 〈Best Albums of 2023〉 Part.1 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13948&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=13948&amp;pg=1</guid>
             <pubDate>Tue, 16 Jan 2024 03:13:08 GMT</pubDate>
@@ -370,9 +370,17 @@
 대담한 Dash (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 17 Jan 2024 00:52:28 GMT</pubDate>
+            <pubDate>Wed, 17 Jan 2024 01:56:13 GMT</pubDate>
             <content:encoded><![CDATA[엔믹스의 기세가 남다르다. 신곡 ‘Dash’ 앞을 가로막는 어떤 장애물도 다 부숴버릴 듯이. 믹스팝의 세계는 이 대담한 도전으로 또 한번 넓어질 예정이다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240112_122/1705028258833AQWd5_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새해, 청춘, 히피 그리고 사이키델릭 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 1월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0fac5a0655bd4800b19780a21acb89f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이테크 휴머니티 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[월간 DIVE 1월 호]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/01d2ee6f438040bf918c2ef1d3024616.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백남준과 구보타 시게코의 평행선 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리의 아티스트 하이라이츠]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/acc537f1627047d0b0096acad0a7e401.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
