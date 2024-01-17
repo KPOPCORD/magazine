@@ -4,7 +4,7 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 01:56:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 02:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/FJXSQZP3WHPY8N0T84BG/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Favorite - 1위 Benefit은 어디에서 확인하나요?]]></title>
-            <link>https://music.bugs.co.kr/musicpost/X1QBT9ZF5N8BNW4PL63M?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/X1QBT9ZF5N8BNW4PL63M?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/X1QBT9ZF5N8BNW4PL63M/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 77.Brenda Lee - 'Rockin' Around The Christmas Tree']]></title>
@@ -193,6 +185,14 @@
             <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/CBFHGGS0NN18LQ66A1XS/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CHERISH (체리쉬) - 새 싱글 [To.Youth] 앨범 작업 비하인드 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/OP2X6LLHX3CA64SSYKWG?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/OP2X6LLHX3CA64SSYKWG?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 17 Jan 2024 02:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OP2X6LLHX3CA64SSYKWG/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
