@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 08:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 09:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기묘한(KI MYOHAN) - 데뷔곡 '기묘한 이야기(Sugar Rush Ride)' 미공개 프로필 & 뮤비 촬영 비하인드 독점 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/PLYQJ205S7IFJFHJFG4W?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/PLYQJ205S7IFJFHJFG4W?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 17 Jan 2024 09:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/PLYQJ205S7IFJFHJFG4W/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - 1위 Benefit은 어디에서 확인하나요?]]></title>
             <link>https://music.bugs.co.kr/musicpost/X1QBT9ZF5N8BNW4PL63M?&amp;wl_ref=list_sp_01_h</link>
@@ -185,14 +193,6 @@
             <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/UFHTM350EPQRZBTM2C0V/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨더보트 - 첫 번째 정규앨범 [Escape from the] MV 촬영 현장 공개]]></title>
-            <link>https://music.bugs.co.kr/musicpost/CBFHGGS0NN18LQ66A1XS?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/CBFHGGS0NN18LQ66A1XS?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/CBFHGGS0NN18LQ66A1XS/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
