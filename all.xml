@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 07:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 08:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@
 예나 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 18 Jan 2024 07:11:44 GMT</pubDate>
+            <pubDate>Thu, 18 Jan 2024 08:14:40 GMT</pubDate>
             <content:encoded><![CDATA[당신의 하루가 아무리 고달팠을지라도, 내일은 또 내일의 해가 다시 뜰 거니까. 예나가 전하는 주문 같은 인사, 파워풀한 ‘굿모닝’이 우리를 위로한다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240117_149/17054539425647bXlA_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다양하게 시도해 보는 거야 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 치즈 페어링으로의 초대]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8e8cf113066041a787fe9f5f3317bac3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새해, 청춘, 히피 그리고 사이키델릭 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[V&amp;P 1월 Monthly Special]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/557b07da4957417da1d2238803f6eee9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해 복 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[월간 DIVE 1월 호]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/01d2ee6f438040bf918c2ef1d3024616.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
