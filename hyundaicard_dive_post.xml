@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Jan 2024 00:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 01:53:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[좀 더 책을 가까이]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[독서 습관을 길러 줄 매거진 랙 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e8a674cc27884a05af95aa01bb4be062.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 겨울이 가기 전에]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[최초의 AI 아트메이킹 소프트웨어 AARON]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/adcc941b93f34eeeb466e3a7057b467a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패딩이 착해지면]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[눈길이 머무는 비건 패딩 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/30fb1f496d99473aaa44156f0208bb03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
