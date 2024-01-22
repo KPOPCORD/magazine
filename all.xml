@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 05:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 06:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,6 +195,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/UFHTM350EPQRZBTM2C0V/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KIMKIMPARKKIM's 인생 음반 ＃31 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13965&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=13965&amp;pg=1</guid>
+            <pubDate>Mon, 22 Jan 2024 06:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[김김박김]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13965/Mgz_Main_List_20240122150326.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[나에게 온전히 집중할 수 있는, <늘보의 작업실> (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13964&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=13964&amp;pg=1</guid>
@@ -249,14 +257,6 @@
             <pubDate>Thu, 18 Jan 2024 03:12:43 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13952/Mgz_Main_List_20240118104313.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[DXMON의 시작을 SPARK할 HYPERSPACE 촬영 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13951&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13951&amp;pg=1</guid>
-            <pubDate>Wed, 17 Jan 2024 09:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13951/Mgz_Main_List_20240117161556.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[NMIXX, 
@@ -370,7 +370,7 @@
 예나 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 22 Jan 2024 05:12:23 GMT</pubDate>
+            <pubDate>Mon, 22 Jan 2024 06:15:58 GMT</pubDate>
             <content:encoded><![CDATA[당신의 하루가 아무리 고달팠을지라도, 내일은 또 내일의 해가 다시 뜰 거니까. 예나가 전하는 주문 같은 인사, 파워풀한 ‘굿모닝’이 우리를 위로한다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240117_149/17054539425647bXlA_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
