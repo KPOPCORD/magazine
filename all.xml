@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 04:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 05:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 들을까? - 2024년 1월 노래 모음! (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/YTCIU2KCFJ9B1HQQY6ZJ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/YTCIU2KCFJ9B1HQQY6ZJ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 23 Jan 2024 05:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[기묘한(KI MYOHAN) - 데뷔곡 '기묘한 이야기(Sugar Rush Ride)' 미공개 프로필 & 뮤비 촬영 비하인드 독점 공개 (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/PLYQJ205S7IFJFHJFG4W?&amp;wl_ref=list_sp_01_h</link>
@@ -187,14 +194,6 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GHOST9(고스트나인) - [ARCADE : O] 자켓 촬영 현장 공개 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/UFHTM350EPQRZBTM2C0V?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/UFHTM350EPQRZBTM2C0V?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/UFHTM350EPQRZBTM2C0V/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[AB6IX (에이비식스) ‘THE FUTURE IS OURS : FOUND’ ... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13968&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13968&amp;pg=1</guid>
@@ -370,9 +369,17 @@
 예나 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 23 Jan 2024 04:14:21 GMT</pubDate>
+            <pubDate>Tue, 23 Jan 2024 05:11:33 GMT</pubDate>
             <content:encoded><![CDATA[당신의 하루가 아무리 고달팠을지라도, 내일은 또 내일의 해가 다시 뜰 거니까. 예나가 전하는 주문 같은 인사, 파워풀한 ‘굿모닝’이 우리를 위로한다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240117_149/17054539425647bXlA_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백남준에 관한 모든 것 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[무빙 이미지 스크리닝 07]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/75f1dc5b38304b43889e8a356299e2b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리멤버  NFT (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +444,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 1월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0fac5a0655bd4800b19780a21acb89f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이테크 휴머니티 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[1월의 디자이너 Renzo Piano]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c763a26ba3384f11a671417b2ce1e1d0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
