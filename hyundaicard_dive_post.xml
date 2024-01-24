@@ -4,9 +4,25 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 00:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 01:57:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앱 하나로 만나는  새로운 NFT 세상 ＜KONKRIT＞ 그랜드 오픈]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[전혀 새로운 NFT 마켓플레이스 탄생]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/70f59ca2726348d0b5cfaafa7295eb53.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대카드 Curated 92 장범준]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;소리없는 비가 내린다&gt;]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/69171f8155fc442ab729bc5d190d5958.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백남준에 관한 모든 것]]></title>
             <link>javascript:;</link>
@@ -62,22 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 쿠킹 라이브러리 치즈 클래스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f2f65a160f5e4d058d6073c68fbeba66.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양하게 시도해 보는 거야]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 치즈 페어링으로의 초대]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/17ec7c3f0e504e45973de069530a4fef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해, 청춘, 히피 그리고 사이키델릭]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 1월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0fac5a0655bd4800b19780a21acb89f4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
