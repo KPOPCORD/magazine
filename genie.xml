@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 02:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 03:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파두(Fado)의 새로운 세대를 대표하는 파디스타 '리나'의 매혹적인 앨범 [...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13976&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13976&amp;pg=1</guid>
+            <pubDate>Fri, 26 Jan 2024 03:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13976/Mgz_Main_List_20240126094031.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[우리가 꼭 알아야 할 헤비메탈의 순간들 73화 – 람슈타인 (Rammstein...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=13969&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=13969&amp;pg=1</guid>
+            <pubDate>Fri, 26 Jan 2024 03:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[올댓메탈]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13969/Mgz_Main_List_20240126120742.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[초코렛 보다 더 달콤한 POW (파우) SINGLE [Valentine] 촬영...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13970&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 24 Jan 2024 04:14:22 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13962/Mgz_Main_List_20240124111537.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[신예 R&B 아티스트 박한담이 불러주는 첫 번째 달콤함 [생일축하해] 메이킹 ...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13961&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13961&amp;pg=1</guid>
-            <pubDate>Tue, 23 Jan 2024 09:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13961/Mgz_Main_List_20240123110337.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[우주소녀 설아 The 1st Single Album [INSIDE OUT] 자...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13956&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13956&amp;pg=1</guid>
-            <pubDate>Tue, 23 Jan 2024 09:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13956/Mgz_Main_List_20240123173435.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
