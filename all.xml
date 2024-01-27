@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jan 2024 00:48:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 01:43:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 찾은 것은? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 27 Jan 2024 00:48:14 GMT</pubDate>
+            <pubDate>Sat, 27 Jan 2024 01:42:57 GMT</pubDate>
             <content:encoded><![CDATA[미니앨범 THE FUTURE IS OURS 시리즈의 신작은 지난 버전 ‘LOST’에 이어 ‘FOUND’다. 잃어버린 모든 것들로부터 다시 찾은 새로운 희망을 보는, AB6IX의 한 발짝 성장 스토리. 어떤 상황에서도 서로를 꽉 붙잡은 손에서 강렬한 힘이 느껴진다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240126_8/17062497295360UkMc_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DIVE Records 2023 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 DIVING 로그 북]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/202bd8f7b508442b883c5ffa9946c003.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[월간 <디자인>의 새로운 출발 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[브루클린 미술관, 앨리샤 키스 부부 소장전]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/19423db4ac294aed914bba3e6f935747.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좀 더 책을 가까이 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[독서 습관을 길러 줄 매거진 랙 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e8a674cc27884a05af95aa01bb4be062.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

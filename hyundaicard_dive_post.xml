@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jan 2024 00:48:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 01:43:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DIVE Records 2023]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 DIVING 로그 북]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/202bd8f7b508442b883c5ffa9946c003.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[월간 <디자인>의 새로운 출발]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[브루클린 미술관, 앨리샤 키스 부부 소장전]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/19423db4ac294aed914bba3e6f935747.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좀 더 책을 가까이]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[독서 습관을 길러 줄 매거진 랙 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e8a674cc27884a05af95aa01bb4be062.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
