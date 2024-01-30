@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 05:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 06:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿡북의 의미]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[올타임 레전드 쿡북 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4f90e2142a5240ad81276ebffc9ad34e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웰컴 투 료칸]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[무빙 이미지 스크리닝 07]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/75f1dc5b38304b43889e8a356299e2b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리멤버  NFT]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[기억·추억 소환하는 NFT 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e5b7a434bbf944feb8666f8ea5089f82.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
