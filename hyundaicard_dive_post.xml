@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 07:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 08:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈즈의 진화]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[첨단 기술을 신은 슈즈 구경하기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b759c0540b0840c796dd2df44e4638a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영혼의 허기를 달래는 치킨 수프]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[전혀 새로운 NFT 마켓플레이스 탄생]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/70f59ca2726348d0b5cfaafa7295eb53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 92 장범준]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;소리없는 비가 내린다&gt;]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/69171f8155fc442ab729bc5d190d5958.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
