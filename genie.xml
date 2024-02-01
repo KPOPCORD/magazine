@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 08:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 09:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낭만으로 쓰인 여섯 편의 사랑 이야기, 김민석 두 번째 미니앨범 [회상] 자켓...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13989&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13989&amp;pg=1</guid>
+            <pubDate>Thu, 01 Feb 2024 09:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13989/Mgz_Main_List_20240201141529.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[힙합사의 결정적인 순간을 장식한 싱글들 74화]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=13996&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 31 Jan 2024 06:14:41 GMT</pubDate>
             <content:encoded><![CDATA[김김박김]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13979/Mgz_Main_List_20240131141750.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[에너제틱한 퍼포먼스로 돌아온 VANNER(배너)의 자켓 촬영 현장 공개]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13984&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=13984&amp;pg=1</guid>
-            <pubDate>Tue, 30 Jan 2024 09:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/13984/Mgz_Main_List_20240130174157.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
