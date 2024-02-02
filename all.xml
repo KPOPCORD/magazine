@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 06:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 07:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 아이유, 저스틴 팀버레이크 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 02 Feb 2024 06:13:51 GMT</pubDate>
+            <pubDate>Fri, 02 Feb 2024 07:11:01 GMT</pubDate>
             <content:encoded><![CDATA[BTS 뷔와 함께한 신곡을 발표한 아이유부터, 정규 컴백을 예고해 주목받고 있는 저스틴 팀버레이크까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240129_21/1706497914924bJqDd_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손민수 Curated 14 김상윤 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[클라리넷으로 듣는 클래식 명곡]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ad438fe15c1f47b4aab35e3fe89ca461.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디자인적 태도 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[올타임 레전드 쿡북 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4f90e2142a5240ad81276ebffc9ad34e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웰컴 투 료칸 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[에어비앤비에서 만나는 일본의 현대식 료칸]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c5379914519c4837ad0fd6acaacf9471.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
