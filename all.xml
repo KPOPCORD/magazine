@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 08:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 09:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[P1Harmony - 1ST ALBUM [때깔 (Killin’ It)] – 색깔 (Superb) VER. IMAGE 촬영 현장 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/62IIAZ1O9XZLMJ5XZQZR?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/62IIAZ1O9XZLMJ5XZQZR?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 05 Feb 2024 09:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/62IIAZ1O9XZLMJ5XZQZR/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (2/7) (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -186,14 +194,6 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RBN3BP23K3D8EGRHPW5C/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김필(Kim Feel) - The 3rd mini album [LIFE] 자켓 촬영 비하인드 공개 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/6RF5EL9TH48HH4IV2M2M?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/6RF5EL9TH48HH4IV2M2M?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/6RF5EL9TH48HH4IV2M2M/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[세상의 모든 음악을 틀어드립니다. 대전 LP 바 <덩치 레코오드> (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=14007&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=14007&amp;pg=1</guid>
@@ -369,7 +369,7 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 아이유, 저스틴 팀버레이크 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 05 Feb 2024 08:14:23 GMT</pubDate>
+            <pubDate>Mon, 05 Feb 2024 09:11:32 GMT</pubDate>
             <content:encoded><![CDATA[BTS 뷔와 함께한 신곡을 발표한 아이유부터, 정규 컴백을 예고해 주목받고 있는 저스틴 팀버레이크까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240129_21/1706497914924bJqDd_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>

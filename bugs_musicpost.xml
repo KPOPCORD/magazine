@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 08:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 09:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[P1Harmony - 1ST ALBUM [때깔 (Killin’ It)] – 색깔 (Superb) VER. IMAGE 촬영 현장]]></title>
+            <link>https://music.bugs.co.kr/musicpost/62IIAZ1O9XZLMJ5XZQZR?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/62IIAZ1O9XZLMJ5XZQZR?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 05 Feb 2024 09:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/62IIAZ1O9XZLMJ5XZQZR/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (2/7)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RBN3BP23K3D8EGRHPW5C/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김필(Kim Feel) - The 3rd mini album [LIFE] 자켓 촬영 비하인드 공개]]></title>
-            <link>https://music.bugs.co.kr/musicpost/6RF5EL9TH48HH4IV2M2M?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/6RF5EL9TH48HH4IV2M2M?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/6RF5EL9TH48HH4IV2M2M/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
