@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 08:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 09:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Panda Gomm - 편안한 사랑 이야기를 담아, 1년 반만에 돌아온 미니앨범 [Home Vacation]]]></title>
+            <link>https://music.bugs.co.kr/musicpost/KMY1LMZUO8ZEN8XY2QRB?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/KMY1LMZUO8ZEN8XY2QRB?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 07 Feb 2024 09:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/KMY1LMZUO8ZEN8XY2QRB/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - 투표 Benefit은 어디에서 확인하나요?]]></title>
             <link>https://music.bugs.co.kr/musicpost/X1QBT9ZF5N8BNW4PL63M?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9WLMS59IALQMHGQCTLKQ/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우예린 - 새 싱글 '토끼(tokki)' 앨범 커버 촬영기 공개]]></title>
-            <link>https://music.bugs.co.kr/musicpost/RBN3BP23K3D8EGRHPW5C?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/RBN3BP23K3D8EGRHPW5C?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/RBN3BP23K3D8EGRHPW5C/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
