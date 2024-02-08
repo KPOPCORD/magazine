@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 05:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 06:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 더 키드 라로이 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 08 Feb 2024 05:12:44 GMT</pubDate>
+            <pubDate>Thu, 08 Feb 2024 06:14:52 GMT</pubDate>
             <content:encoded><![CDATA[이제 스무살을 맞은 슈퍼스타, 더 키드 라로이가 지난 11월의 정규 앨범에 이어 새로운 싱글 &lt;HEAVEN&gt;을 발표했다. 감상적인 피아노 반주 위로 쓸쓸함과 그리움을 토로하는 이 곡에서 그는 청춘의 유약함을 드러내며 흔들리고 있다. 고작 17세의 나이로 세계적 스타가 된 그는 다시 성장하고 있다. 그 변화의 발자취를 함께 따라가 보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240205_100/1707119319122leUFU_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스페이스 레벨업 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[IRON &amp; WOOD 레슨 스튜디오 신규 오픈]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1438d7086883430e8ccb375406fc7999.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기차역 옆 그 맛집 (현대카드 DIVE ─ POST)]]></title>
@@ -403,7 +411,7 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <guid>javascript:;</guid>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 2월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/80a241db17344d788699b6d4626656d6.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7cb2d784657a43a4aabfc51474b38d2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[흥미로운 미식 세계로 안내하다 (현대카드 DIVE ─ POST)]]></title>
@@ -430,20 +438,12 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/57fb6200712f413d8f8d71fb28b55687.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[펑크 제너레이션 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 2월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/555b838bf7f04cd9b7c3421fa22bf131.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[캔버스를 넘어선 예술 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 2월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ba8141cec7d64c219d0a16c97f475865.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3bdeca1266bd465094bc8c2a3682c949.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

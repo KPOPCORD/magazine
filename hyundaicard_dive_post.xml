@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 05:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 06:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스페이스 레벨업]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[IRON &amp; WOOD 레슨 스튜디오 신규 오픈]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1438d7086883430e8ccb375406fc7999.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기차역 옆 그 맛집]]></title>
             <link>javascript:;</link>
@@ -37,7 +45,7 @@
             <guid>javascript:;</guid>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 2월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/80a241db17344d788699b6d4626656d6.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7cb2d784657a43a4aabfc51474b38d2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[흥미로운 미식 세계로 안내하다]]></title>
@@ -64,20 +72,12 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/57fb6200712f413d8f8d71fb28b55687.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[펑크 제너레이션]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 2월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/555b838bf7f04cd9b7c3421fa22bf131.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[캔버스를 넘어선 예술]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 2월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ba8141cec7d64c219d0a16c97f475865.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3bdeca1266bd465094bc8c2a3682c949.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
