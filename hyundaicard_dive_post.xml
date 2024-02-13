@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 07:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 08:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BONUS TRACK 12. 한로로]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[아련한 청춘의 멜로디, 한로로의 보너스 트랙]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/01dc4bc80f3942489ae5e5741252aed1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백남준 아카이브]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[디지털 세계를 이야기하는 아티스트 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a5560f6d69e640ae85ab2a1fec05c35c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초콜릿보다 달콤한]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[2월 현대카드 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/da9e497ba3e843c7928ffd654c3700a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
