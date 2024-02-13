@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 04:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 05:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 더 키드 라로이 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 13 Feb 2024 04:13:20 GMT</pubDate>
+            <pubDate>Tue, 13 Feb 2024 05:12:01 GMT</pubDate>
             <content:encoded><![CDATA[이제 스무살을 맞은 슈퍼스타, 더 키드 라로이가 지난 11월의 정규 앨범에 이어 새로운 싱글 &lt;HEAVEN&gt;을 발표했다. 감상적인 피아노 반주 위로 쓸쓸함과 그리움을 토로하는 이 곡에서 그는 청춘의 유약함을 드러내며 흔들리고 있다. 고작 17세의 나이로 세계적 스타가 된 그는 다시 성장하고 있다. 그 변화의 발자취를 함께 따라가 보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240205_100/1707119319122leUFU_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백남준 아카이브 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[무빙 이미지 스크리닝 07]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1b84c15a7f494d1fa272e4f5408945d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[응답하라, 오로라 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[2월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/da9e497ba3e843c7928ffd654c3700a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과감하고 솔직하게 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 2월의 새 음반]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ad68d1b78d754a75bd5099d7fe91830b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
