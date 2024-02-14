@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 06:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 07:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 (여자)아이들, 빌리조엘 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 14 Feb 2024 06:14:46 GMT</pubDate>
+            <pubDate>Wed, 14 Feb 2024 07:12:10 GMT</pubDate>
             <content:encoded><![CDATA[파워풀함을 더한 두 번째 정규를 발표한 (여자)아이들, 17년 만에 신곡으로 돌아온 빌리 조엘까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240213_198/1707807893685gNcK8_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장동여지도 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[전국 팔도 각기 다른 매력의 장 활용법]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/befd7c19e51b4618b498d00be29829cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BONUS TRACK 12. 한로로 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[설 연휴에 가고 싶다. 전국 역 근처 찐 맛집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/068b6694548146ad82b0c3711ac74d8a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예술가의 디지털 보이스 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 세계를 이야기하는 아티스트 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a5560f6d69e640ae85ab2a1fec05c35c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
