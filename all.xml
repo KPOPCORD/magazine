@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 04:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 05:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,14 +16,6 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/X1QBT9ZF5N8BNW4PL63M/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Favorite - COMING SOON! (2/14) (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Panda Gomm - 편안한 사랑 이야기를 담아, 1년 반만에 돌아온 미니앨범 [Home Vacation] (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/KMY1LMZUO8ZEN8XY2QRB?&amp;wl_ref=list_sp_01_h</link>
             <guid>https://music.bugs.co.kr/musicpost/KMY1LMZUO8ZEN8XY2QRB?&amp;wl_ref=list_sp_01_h</guid>
@@ -32,12 +24,12 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/KMY1LMZUO8ZEN8XY2QRB/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[P1Harmony - 1ST ALBUM [때깔 (Killin’ It)] - 색깔 (Superb) VER. IMAGE 촬영 현장 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/62IIAZ1O9XZLMJ5XZQZR?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/62IIAZ1O9XZLMJ5XZQZR?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 05 Feb 2024 09:11:08 GMT</pubDate>
+            <title><![CDATA[Favorite - COMING SOON! (2/14) (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/62IIAZ1O9XZLMJ5XZQZR/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P1Harmony - 1ST ALBUM [때깔 (Killin’ It)] - 색깔 (Superb) VER. IMAGE 촬영 현장 (벅스 ─ 뮤직포스트)]]></title>
@@ -46,6 +38,13 @@
             <pubDate>Mon, 05 Feb 2024 09:11:08 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/62IIAZ1O9XZLMJ5XZQZR/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 78. Ariana Grande - 'yes, and?' (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/1JF86GHHJNKCHFX2EJZR?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/1JF86GHHJNKCHFX2EJZR?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 14 Feb 2024 05:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스웨덴세탁소 - '일렁이는 말들' 라이브 클립 촬영 현장 (벅스 ─ 뮤직포스트)]]></title>
@@ -370,7 +369,7 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 (여자)아이들, 빌리조엘 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 14 Feb 2024 04:13:41 GMT</pubDate>
+            <pubDate>Wed, 14 Feb 2024 05:12:17 GMT</pubDate>
             <content:encoded><![CDATA[파워풀함을 더한 두 번째 정규를 발표한 (여자)아이들, 17년 만에 신곡으로 돌아온 빌리 조엘까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240213_198/1707807893685gNcK8_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
