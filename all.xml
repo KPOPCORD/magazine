@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 08:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 09:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9WLMS59IALQMHGQCTLKQ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[더 밝게 빛날 별들의 행진, 더윈드 (The Wind) [Our : Youth... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14021&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14021&amp;pg=1</guid>
+            <pubDate>Wed, 14 Feb 2024 09:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14021/Mgz_Main_List_20240214115111.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[발렌타인 맞아 다시 찾아온 ‘나겸 밴드’의 싱글 앨범 '미스터리 추리물(mys... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14017&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14017&amp;pg=1</guid>
@@ -248,14 +256,6 @@
             <pubDate>Tue, 13 Feb 2024 03:13:05 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14013/Mgz_Main_List_20240213112851.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[순간과 소리와 사람을 담다, 에몬(Emon) 정규 3집 [모으는 사람] INT... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14011&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14011&amp;pg=1</guid>
-            <pubDate>Tue, 13 Feb 2024 03:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14011/Mgz_Main_List_20240213102352.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #176 
@@ -369,9 +369,17 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 (여자)아이들, 빌리조엘 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 14 Feb 2024 08:14:34 GMT</pubDate>
+            <pubDate>Wed, 14 Feb 2024 09:11:24 GMT</pubDate>
             <content:encoded><![CDATA[파워풀함을 더한 두 번째 정규를 발표한 (여자)아이들, 17년 만에 신곡으로 돌아온 빌리 조엘까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240213_198/1707807893685gNcK8_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미리 보는 패션계의 뉴 웨이브 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[무신사가 엄선한 24 F/W 패션 키워드 6]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/961054cba0914a7b8dd4e1904a61b82a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장동여지도 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 치즈 클래스 현장]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ce2368c20ae74bef88263b3b2f446460.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기차역 옆 그 맛집 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[설 연휴에 가고 싶다. 전국 역 근처 찐 맛집]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/068b6694548146ad82b0c3711ac74d8a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
