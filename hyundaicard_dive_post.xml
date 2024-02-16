@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 00:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 01:43:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펑크와 소울 사이]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[2월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bed5c4d822cc4cddabc567a0f4411a3b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자연과 시간이 빚은 ‘장’ 이야기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[집에서 만들어 보는 치킨 수프 레시피]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bb5be40949024483870091e7f66939dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달콤한 주인공 피치 퍼즈]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024 올해의 컬러 피치 퍼즈 활용법]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8169a1eeae204416a1de127958b322e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

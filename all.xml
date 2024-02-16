@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 00:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 01:43:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 (여자)아이들, 빌리조엘 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 16 Feb 2024 00:46:35 GMT</pubDate>
+            <pubDate>Fri, 16 Feb 2024 01:43:06 GMT</pubDate>
             <content:encoded><![CDATA[파워풀함을 더한 두 번째 정규를 발표한 (여자)아이들, 17년 만에 신곡으로 돌아온 빌리 조엘까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240213_198/1707807893685gNcK8_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[펑크와 소울 사이 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[2월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bed5c4d822cc4cddabc567a0f4411a3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자연과 시간이 빚은 ‘장’ 이야기 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[집에서 만들어 보는 치킨 수프 레시피]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bb5be40949024483870091e7f66939dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달콤한 주인공 피치 퍼즈 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024 올해의 컬러 피치 퍼즈 활용법]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8169a1eeae204416a1de127958b322e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
