@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 00:46:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 01:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캔버스를 넘어선 예술]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 2월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3bdeca1266bd465094bc8c2a3682c949.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[펑크와 소울 사이]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 오로라 관측 일번지]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/600b02000b364a73a05dfc5478d69055.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온기 가득 치킨 수프 만들기]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[집에서 만들어 보는 치킨 수프 레시피]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bb5be40949024483870091e7f66939dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 00:46:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 01:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 (여자)아이들, 빌리조엘 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 17 Feb 2024 00:46:24 GMT</pubDate>
+            <pubDate>Sat, 17 Feb 2024 01:42:14 GMT</pubDate>
             <content:encoded><![CDATA[파워풀함을 더한 두 번째 정규를 발표한 (여자)아이들, 17년 만에 신곡으로 돌아온 빌리 조엘까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240213_198/1707807893685gNcK8_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캔버스를 넘어선 예술 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 2월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3bdeca1266bd465094bc8c2a3682c949.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[펑크와 소울 사이 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 오로라 관측 일번지]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/600b02000b364a73a05dfc5478d69055.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온기 가득 치킨 수프 만들기 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[집에서 만들어 보는 치킨 수프 레시피]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bb5be40949024483870091e7f66939dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
