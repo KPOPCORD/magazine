@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 00:51:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 01:49:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 (여자)아이들, 빌리조엘 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 18 Feb 2024 00:51:40 GMT</pubDate>
+            <pubDate>Sun, 18 Feb 2024 01:49:17 GMT</pubDate>
             <content:encoded><![CDATA[파워풀함을 더한 두 번째 정규를 발표한 (여자)아이들, 17년 만에 신곡으로 돌아온 빌리 조엘까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240213_198/1707807893685gNcK8_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거부할 수 없는 메시지 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[2월의 디자이너, 스테판 사그마이스터]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/55b7cf1963bc4d7e805d4524880bb2da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캔버스를 넘어선 예술 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[무빙 이미지 스크리닝 07]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1b84c15a7f494d1fa272e4f5408945d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[응답하라, 오로라 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 오로라 관측 일번지]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/600b02000b364a73a05dfc5478d69055.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
