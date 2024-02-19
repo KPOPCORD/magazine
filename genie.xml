@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 05:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 06:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이토록 맛있는 발효 비건 음식, 용산<퍼멘츠>]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=14037&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=14037&amp;pg=1</guid>
+            <pubDate>Mon, 19 Feb 2024 06:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14037/Mgz_Main_List_20240219143111.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[POP 스튜디오 ＃74 - 조금 더 뚜렷해져야 할 나 자신을 위해]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=14036&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 16 Feb 2024 03:13:06 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14024/Mgz_Main_List_20240216103811.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[iKON DK(김동혁)의 첫 솔로 NAKSEO[戀] 첫 곡 ‘오랜만이야’]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14026&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14026&amp;pg=1</guid>
-            <pubDate>Thu, 15 Feb 2024 09:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14026/Mgz_Main_List_20240215104600.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
