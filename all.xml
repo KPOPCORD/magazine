@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 04:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 05:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,9 +369,17 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 (여자)아이들, 빌리조엘 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 20 Feb 2024 04:15:06 GMT</pubDate>
+            <pubDate>Tue, 20 Feb 2024 05:12:12 GMT</pubDate>
             <content:encoded><![CDATA[파워풀함을 더한 두 번째 정규를 발표한 (여자)아이들, 17년 만에 신곡으로 돌아온 빌리 조엘까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240213_198/1707807893685gNcK8_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[늘 새로워 짜릿해 <뮤지컬 헤드윅> (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[NOL 카드의 &lt;뮤지컬 헤드윅&gt;]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b13b39f972bb46dc94e6434d8972741e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스페이스 레벨업 (현대카드 DIVE ─ POST)]]></title>
@@ -436,14 +444,6 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[전국 팔도 각기 다른 매력의 장 활용법]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/befd7c19e51b4618b498d00be29829cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BONUS TRACK 12. 한로로 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[아련한 청춘의 멜로디, 한로로의 보너스 트랙]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/01dc4bc80f3942489ae5e5741252aed1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
