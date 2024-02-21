@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 04:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 05:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핫대동을 부탁해]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[나만 아는 동네 #37 진주 하대동]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cfad8dcacafa4fa88a317e39b472c094.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[늘 새로워 짜릿해 <뮤지컬 헤드윅>]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[무신사가 엄선한 24 F/W 패션 키워드 6]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/579f43f72818487a982cb6a44d697208.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장동여지도]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[전국 팔도 각기 다른 매력의 장 활용법]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/befd7c19e51b4618b498d00be29829cf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
