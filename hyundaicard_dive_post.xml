@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 04:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 05:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대카드 Curated 93 도미닉 밀러]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[스팅의 소울메이트가 전하는 방랑자 이야기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/14ef60620efe409d8a54b1081470f4b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핫대동을 부탁해]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[인간, AI 그리고 예술]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/959205517c6a4e9c8a14f09a2f527ed8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리 보는 패션계의 뉴 웨이브]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[무신사가 엄선한 24 F/W 패션 키워드 6]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/579f43f72818487a982cb6a44d697208.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
