@@ -4,7 +4,7 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 04:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 05:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,12 +64,12 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14045/Mgz_Main_List_20240223102712.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[에이스만의 러브 스토리, 에이스(A.C.E) 6번째 미니앨범 〈My Girl ...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14040&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14040&amp;pg=1</guid>
-            <pubDate>Thu, 22 Feb 2024 09:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14040/Mgz_Main_List_20240222155609.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+            <title><![CDATA[우리가 꼭 알아야 할 헤비메탈의 순간들 74화 – 윙어(Winger)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=14038&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=14038&amp;pg=1</guid>
+            <pubDate>Mon, 26 Feb 2024 05:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[올댓메탈]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14038/Mgz_Main_List_20240223113805.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
