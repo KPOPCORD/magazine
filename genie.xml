@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 08:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 09:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT WISH, 꿈을 향한 항해의 시작! 데뷔 싱글 [WISH]]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14062&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14062&amp;pg=1</guid>
+            <pubDate>Wed, 28 Feb 2024 09:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14062/Mgz_Main_List_20240228110754.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[‘음악’ 그 자체라는 본질에 대한 자신감, NOMAD 1st EP [NOMAD...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14059&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14059&amp;pg=1</guid>
+            <pubDate>Wed, 28 Feb 2024 09:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14059/Mgz_Main_List_20240228180655.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[힙합 따라잡기 ＃75 - 비욘세? 컨트리!]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=14065&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 27 Feb 2024 03:12:56 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14056/Mgz_Main_List_20240227104323.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[지치고 위로가 필요한 이들을 위한 메세지, Jaemun [두려운게 많아] 발매...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14051&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14051&amp;pg=1</guid>
-            <pubDate>Tue, 27 Feb 2024 03:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14051/Mgz_Main_List_20240227112922.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[가요 탐구생활 ＃64 - 한순간에 마음을 흔들어놓은 역대급 남자 아이돌 데뷔곡]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=14060&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=14060&amp;pg=1</guid>
-            <pubDate>Mon, 26 Feb 2024 09:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[가요 탐구생활]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14060/Mgz_Main_List_20240226173551.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
