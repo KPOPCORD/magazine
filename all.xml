@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 01:45:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 02:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,6 +196,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/FXE2MDLVO02M1CODRNIA/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MM JAZZ 선정 <한국 재즈 베스트 10> Part. 2 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14064&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14064&amp;pg=1</guid>
+            <pubDate>Wed, 28 Feb 2024 02:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14064/Mgz_Main_List_20240227135232.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[JEMUxCHINA 아시아송캠프 컴필레이션 “MUSIC WITHOUT BORD... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14052&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14052&amp;pg=1</guid>
@@ -250,14 +258,6 @@
             <pubDate>Mon, 26 Feb 2024 09:12:24 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14054/Mgz_Main_List_20240226144946.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[태용의 관심 표현법이 궁금하다면? 지금 바로 [TAP]! (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14050&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14050&amp;pg=1</guid>
-            <pubDate>Mon, 26 Feb 2024 09:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14050/Mgz_Main_List_20240226153547.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #177 
@@ -372,7 +372,7 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 아이유, 시저 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 28 Feb 2024 01:44:50 GMT</pubDate>
+            <pubDate>Wed, 28 Feb 2024 02:18:04 GMT</pubDate>
             <content:encoded><![CDATA[한국 대중의 사랑을 한몸에 받고 있는 아이유부터 새 앨범을 예고한 시저까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240226_272/1708928310279WfdSJ_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
