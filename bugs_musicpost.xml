@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 04:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 05:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 79. The Last Dinner Party - 'Nothing Matters']]></title>
+            <link>https://music.bugs.co.kr/musicpost/88G1X1N4CP4HT7OC268U?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/88G1X1N4CP4HT7OC268U?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 28 Feb 2024 05:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[IT'S NEW! 2월issue]]></title>
             <link>https://music.bugs.co.kr/musicpost/4DQBOGNY4O2N9ZBY31KQ?&amp;wl_ref=list_sp_01_h</link>
@@ -186,14 +193,6 @@
             <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GRH682A3JFFFC686Z9HO/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모트(Motte) - 새 더블 싱글 [Night Waves] MV 촬영 현장 공개]]></title>
-            <link>https://music.bugs.co.kr/musicpost/FXE2MDLVO02M1CODRNIA?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/FXE2MDLVO02M1CODRNIA?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/FXE2MDLVO02M1CODRNIA/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
