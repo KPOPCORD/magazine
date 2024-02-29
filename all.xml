@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 08:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 09:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍이삭 - 싱글 앨범 '사랑은 하니까 (Prod. 최유리) 자켓 촬영 비하인드 공개 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/H5P2FSA7N4QB6HO6T0AZ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/H5P2FSA7N4QB6HO6T0AZ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 29 Feb 2024 09:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/H5P2FSA7N4QB6HO6T0AZ/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 79. The Last Dinner Party - 'Nothing Matters' (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/88G1X1N4CP4HT7OC268U?&amp;wl_ref=list_sp_01_h</link>
@@ -187,14 +195,6 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/TUOURXXUMYUZVM1VI8GW/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현오 - 솔로로 돌아온 [이별을 배웠어 (Always In My Heart)] 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/GRH682A3JFFFC686Z9HO?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/GRH682A3JFFFC686Z9HO?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GRH682A3JFFFC686Z9HO/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[조용히 빛나는 피아노 협주곡의 세상 - 하이페리온 레코드의 로맨틱 콘체르토 시... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14063&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14063&amp;pg=1</guid>
@@ -371,7 +371,7 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 아이유, 시저 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 29 Feb 2024 08:14:02 GMT</pubDate>
+            <pubDate>Thu, 29 Feb 2024 09:11:58 GMT</pubDate>
             <content:encoded><![CDATA[한국 대중의 사랑을 한몸에 받고 있는 아이유부터 새 앨범을 예고한 시저까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240226_272/1708928310279WfdSJ_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
