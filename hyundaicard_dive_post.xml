@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 06:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 07:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한로로와 이른 봄]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[이른 봄밤의 한로로 ‘보너스 트랙’ 현장]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/43320b4e7c50422886dde6c514eaa93f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손민수 Curated 15 한지호]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[나만 아는 동네 #37 진주 하대동]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cfad8dcacafa4fa88a317e39b472c094.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[늘 새로워 짜릿해 <뮤지컬 헤드윅>]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[NOL 카드의 &lt;뮤지컬 헤드윅&gt;]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b13b39f972bb46dc94e6434d8972741e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
