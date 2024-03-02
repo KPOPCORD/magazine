@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Mar 2024 00:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 01:41:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전진하는 디자인]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[디자인 라이브러리 3월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8261b65fe84d4b2a82647fbdd763bd4d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맛있는 식탁 라이프스타일 가이드]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[섬세한 터치의 차세대 피아니스트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/502df87ab0f64581bd3a6bb27daa3463.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[군더더기 없이 심플하니까]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[새로워진 현대카드ZERO Edition3]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d69d0033f798427aa3e6cc162da29f30.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
