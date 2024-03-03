@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Mar 2024 00:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Mar 2024 01:44:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 아이유, 시저 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 03 Mar 2024 00:50:28 GMT</pubDate>
+            <pubDate>Sun, 03 Mar 2024 01:44:46 GMT</pubDate>
             <content:encoded><![CDATA[한국 대중의 사랑을 한몸에 받고 있는 아이유부터 새 앨범을 예고한 시저까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240226_272/1708928310279WfdSJ_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[풋풋한 청춘의 사운드 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 3월의 새 음반]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7cfd61707d794eb7abd7bdf19e540d1c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전진하는 디자인 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[이른 봄밤의 한로로 ‘보너스 트랙’ 현장]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/43320b4e7c50422886dde6c514eaa93f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손민수 Curated 15 한지호 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[섬세한 터치의 차세대 피아니스트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/502df87ab0f64581bd3a6bb27daa3463.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
