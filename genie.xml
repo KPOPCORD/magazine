@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 02:00:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 03:03:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프로듀서 니온 (NE:ON) 싱글 앨범 [안부] 앨범 작업 비하인드]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14068&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14068&amp;pg=1</guid>
+            <pubDate>Mon, 04 Mar 2024 03:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14068/Mgz_Main_List_20240304105124.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[이세계아이돌, <이세돌팝업봤?> OFFICIAL MD 온라인 판매 개시]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14066&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14066&amp;pg=1</guid>
+            <pubDate>Mon, 04 Mar 2024 03:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14066/Mgz_Main_List_20240304104957.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[조용히 빛나는 피아노 협주곡의 세상 - 하이페리온 레코드의 로맨틱 콘체르토 시...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14063&amp;pg=1</link>
@@ -32,7 +48,7 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14059/Mgz_Main_List_20240228180655.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
-            <title><![CDATA[힙합 따라잡기 ＃75 - 비욘세? 컨트리!]]></title>
+            <title><![CDATA[알앤비 따라잡기 ＃73 - 비욘세? 컨트리!]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=14065&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=14065&amp;pg=1</guid>
             <pubDate>Wed, 28 Feb 2024 06:14:13 GMT</pubDate>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 28 Feb 2024 02:17:52 GMT</pubDate>
             <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14064/Mgz_Main_List_20240227135232.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[JEMUxCHINA 아시아송캠프 컴필레이션 “MUSIC WITHOUT BORD...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14052&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14052&amp;pg=1</guid>
-            <pubDate>Tue, 27 Feb 2024 09:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14052/Mgz_Main_List_20240227113258.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[음악의 시작과 끝, 인간의 목소리를 듣다]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14061&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14061&amp;pg=1</guid>
-            <pubDate>Tue, 27 Feb 2024 03:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14061/Mgz_Main_List_20240227110910.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
