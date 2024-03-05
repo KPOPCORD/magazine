@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 08:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 09:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/80332ee95b704ee982b6b2f78255492c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화 그리고 힙합]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[3월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3f8cbd6a7f8c4741b212306de20c2bec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[힙합의 시작과 지금]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -78,6 +70,14 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[3월의 디자이너, 카를로 몰리노]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eff90fa53e614a928eaf5d45581b0fae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한로로와 이른 봄]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[이른 봄밤의 한로로 ‘보너스 트랙’ 현장]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/43320b4e7c50422886dde6c514eaa93f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
