@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 05:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 06:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 05 Mar 2024 04:13:42 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/NR43U5PHOMC1DWBQQJVG/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Favorite - COMING SOON! (3/6) (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홍이삭 - 싱글 앨범 '사랑은 하니까 (Prod. 최유리) 자켓 촬영 비하인드 공개 (벅스 ─ 뮤직포스트)]]></title>
@@ -45,14 +53,6 @@
             <pubDate>Mon, 26 Feb 2024 09:12:15 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2Q7SIY9ZRFA5RD53MLZI/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Favorite - COMING SOON! (2/28) (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Favorite - 투표 Benefit은 어디에서 확인하나요? (벅스 ─ 뮤직포스트)]]></title>
@@ -371,7 +371,7 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 아이유, 시저 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 05 Mar 2024 05:11:17 GMT</pubDate>
+            <pubDate>Tue, 05 Mar 2024 06:14:07 GMT</pubDate>
             <content:encoded><![CDATA[한국 대중의 사랑을 한몸에 받고 있는 아이유부터 새 앨범을 예고한 시저까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240226_272/1708928310279WfdSJ_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
