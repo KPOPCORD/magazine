@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 09:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 10:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 비비 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 05 Mar 2024 09:11:49 GMT</pubDate>
+            <pubDate>Tue, 05 Mar 2024 10:12:48 GMT</pubDate>
             <content:encoded><![CDATA[비비의 신곡 &lt;밤양갱&gt;이 차트 1위를 기록하며 온라인을 뜨겁게 달구고 있다. 귀엽고도 캐치한 노래와, 거기 완전히 몰입한 비비의 라이브 퍼포먼스 영상이 SNS 상에서 인기를 끌며 순식간에 차트마저 점령한 것. 그간 예측불가의 매력으로 큰 인기를 얻어온 비비는 지금 어느 때보다 빛난다. 이걸 클릭한 당신, 이미 비비 디깅에 빠져있다! -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240305_43/1709616732877LWKv9_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 그리고 힙합 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[3월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3f8cbd6a7f8c4741b212306de20c2bec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우승의 숨은 조력자 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[3월의 디자이너, 카를로 몰리노]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eff90fa53e614a928eaf5d45581b0fae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한로로와 이른 봄 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[이른 봄밤의 한로로 ‘보너스 트랙’ 현장]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/43320b4e7c50422886dde6c514eaa93f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
