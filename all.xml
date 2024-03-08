@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 02:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 03:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,6 +195,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HKD9G5RNWWRG2HC62ABA/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[귀객만족 200% 밤에만 여는 사진관 OPEN! ENA 월화드라마 <야한(夜限... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=14079&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=14079&amp;pg=1</guid>
+            <pubDate>Fri, 08 Mar 2024 03:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[방송]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14079/Mgz_Main_List_20240307170732.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[떠 있던 감각으로 만들어진 이신혁 1st EP [부유] 발매 기념 인터뷰 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14076&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14076&amp;pg=1</guid>
@@ -249,14 +257,6 @@
             <pubDate>Tue, 05 Mar 2024 03:12:34 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14069/Mgz_Main_List_20240305105103.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[다니엘 지칼 (Daniel Jikal)의 첫 출발, Official Photo... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14067&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14067&amp;pg=1</guid>
-            <pubDate>Tue, 05 Mar 2024 03:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14067/Mgz_Main_List_20240305102837.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #177: 
@@ -371,7 +371,7 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 비비 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 08 Mar 2024 02:18:45 GMT</pubDate>
+            <pubDate>Fri, 08 Mar 2024 03:11:51 GMT</pubDate>
             <content:encoded><![CDATA[비비의 신곡 &lt;밤양갱&gt;이 차트 1위를 기록하며 온라인을 뜨겁게 달구고 있다. 귀엽고도 캐치한 노래와, 거기 완전히 몰입한 비비의 라이브 퍼포먼스 영상이 SNS 상에서 인기를 끌며 순식간에 차트마저 점령한 것. 그간 예측불가의 매력으로 큰 인기를 얻어온 비비는 지금 어느 때보다 빛난다. 이걸 클릭한 당신, 이미 비비 디깅에 빠져있다! -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240305_43/1709616732877LWKv9_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
