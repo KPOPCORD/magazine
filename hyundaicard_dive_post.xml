@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 04:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 05:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이안 쳉이 그린 가상 생태계]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[뉴미디어 아티스트 이안 쳉의 아트 토크]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aef3c983ed894f759805f1f6e9ec0b0e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시간이 깃든 맛 '장'에 대하여]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[3월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3f8cbd6a7f8c4741b212306de20c2bec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우승의 숨은 조력자]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[월클 골퍼 교습가, 이시우 프로를 만나다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/57d6f764dae648d09d57f95dba3fb7d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
