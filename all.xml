@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 00:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 01:47:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 플레이브, 아리아나 그란데 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 13 Mar 2024 00:48:08 GMT</pubDate>
+            <pubDate>Wed, 13 Mar 2024 01:47:26 GMT</pubDate>
             <content:encoded><![CDATA[버추얼 아이돌 플레이브의 두 번째 미니 앨범, 슈퍼스타 아리아나 그란데의 컴백 앨범까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240311_212/1710137866296dVFD1_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여행의 필요조건 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[현대 아멕스 카드 Edition2]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a9c8930e56b44631b4e2b95fee42e80d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이안 쳉이 그린 가상 생태계 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 3월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f9184aec89a24dbba52c0effcb1ac265.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 그리고 힙합 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[3월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3f8cbd6a7f8c4741b212306de20c2bec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

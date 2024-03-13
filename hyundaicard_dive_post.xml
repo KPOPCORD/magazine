@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 00:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 01:47:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여행의 필요조건]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[현대 아멕스 카드 Edition2]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a9c8930e56b44631b4e2b95fee42e80d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이안 쳉이 그린 가상 생태계]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 3월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f9184aec89a24dbba52c0effcb1ac265.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 그리고 힙합]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[3월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3f8cbd6a7f8c4741b212306de20c2bec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
