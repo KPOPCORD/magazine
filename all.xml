@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 04:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 05:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 플레이브, 아리아나 그란데 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 14 Mar 2024 04:13:34 GMT</pubDate>
+            <pubDate>Thu, 14 Mar 2024 05:12:20 GMT</pubDate>
             <content:encoded><![CDATA[버추얼 아이돌 플레이브의 두 번째 미니 앨범, 슈퍼스타 아리아나 그란데의 컴백 앨범까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240311_212/1710137866296dVFD1_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7인의 미국  현대 사진 그룹전 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[스토리지 미국 컨템포러리 사진 그룹전]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0f6f95ab6fd34293bc1598ad75f112bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[압력솥만 있으면 고기 요리도 뚝딱 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[3월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3fb8ed6b4e1141188354731143991edf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지속 가능한 디자인의 오늘과 내일 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[‘이탈리아 디자인의 날 2024’ 토크]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b9c33b42decf48e5a747ee86ec4b7124.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
