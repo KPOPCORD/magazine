@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 02:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 03:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,6 +195,30 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HKD9G5RNWWRG2HC62ABA/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어쩌면 당신도 겪고있을 이야기. 싱어송라이터 윤여진의 [유영] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14105&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14105&amp;pg=1</guid>
+            <pubDate>Tue, 19 Mar 2024 03:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14105/Mgz_Main_List_20240319101924.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 과거로 돌아갈 거야 – 노라 존스의 ＜Visions＞ (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14104&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14104&amp;pg=1</guid>
+            <pubDate>Tue, 19 Mar 2024 03:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14104/Mgz_Main_List_20240319103910.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[솔직하고 거침없는 이야기를 담은 【BAD】로 4년만에 돌아온 김남주! (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14103&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14103&amp;pg=1</guid>
+            <pubDate>Tue, 19 Mar 2024 03:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14103/Mgz_Main_List_20240319102529.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[젊은 나이가 무색할 만큼 진중한 음악성과 사운드, '안성민' 외 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14109&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14109&amp;pg=1</guid>
@@ -233,30 +257,6 @@
             <pubDate>Mon, 18 Mar 2024 03:13:19 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14101/Mgz_Main_List_20240318110040.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 모두의 평안한 잠을 위하여, ‘세계 수면의 날’ 기념 앨범 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14094&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14094&amp;pg=1</guid>
-            <pubDate>Mon, 18 Mar 2024 03:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14094/Mgz_Main_List_20240315104928.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[힙합사의 결정적인 순간을 장식한 싱글들 75화 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=14100&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=14100&amp;pg=1</guid>
-            <pubDate>Fri, 15 Mar 2024 21:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[힙알사전]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14100/Mgz_Main_List_20240315114534.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[피싱걸스 (Fishingirls) [Visible World] 자켓 촬영 비하... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14099&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14099&amp;pg=1</guid>
-            <pubDate>Fri, 15 Mar 2024 21:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14099/Mgz_Main_List_20240315093944.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #178 
@@ -371,7 +371,7 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 플레이브, 아리아나 그란데 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 19 Mar 2024 02:17:52 GMT</pubDate>
+            <pubDate>Tue, 19 Mar 2024 03:12:21 GMT</pubDate>
             <content:encoded><![CDATA[버추얼 아이돌 플레이브의 두 번째 미니 앨범, 슈퍼스타 아리아나 그란데의 컴백 앨범까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240311_212/1710137866296dVFD1_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
