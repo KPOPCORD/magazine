@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 08:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 09:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뜨거운 열정을 가득 품은, THE NEW SIX [FUEGO] 자켓 촬영 비하...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14111&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14111&amp;pg=1</guid>
+            <pubDate>Wed, 20 Mar 2024 09:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14111/Mgz_Main_List_20240320110045.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[커다란 꿈과 포부를 엑스라지 사이즈의 비행기에 담아, YOUNG POSSE (...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14107&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14107&amp;pg=1</guid>
+            <pubDate>Wed, 20 Mar 2024 09:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14107/Mgz_Main_List_20240319141823.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[국내 유일의 스트리트 컬쳐 페스티벌 ＜BUZZER BEAT FESTIVAL 2...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=14112&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 19 Mar 2024 03:12:10 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14103/Mgz_Main_List_20240319102529.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[젊은 나이가 무색할 만큼 진중한 음악성과 사운드, '안성민' 외]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14109&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14109&amp;pg=1</guid>
-            <pubDate>Mon, 18 Mar 2024 09:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14109/Mgz_Main_List_20240318165135.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[3년만에 완전체로 컴백하는 DAY6 (데이식스)의 새 미니 앨범 'Fourev...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14102&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14102&amp;pg=1</guid>
-            <pubDate>Mon, 18 Mar 2024 09:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14102/Mgz_Main_List_20240318152335.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
