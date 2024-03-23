@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Mar 2024 00:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Mar 2024 01:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숙소 밖은 벚꽃]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[에어비앤비에서 만나는 벚꽃 맛집 6]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0abcbae82b594a218965bd73478763b6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Artist Talk on Urban Chronicles]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[쿠킹 라이브러리 X 휘슬러 쿠킹 클래스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/eb35f42b0b684aaaae84795dccdad177.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여행의 필요조건]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[현대 아멕스 카드 Edition2]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a9c8930e56b44631b4e2b95fee42e80d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
