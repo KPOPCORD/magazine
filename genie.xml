@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 02:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 03:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방금 이별한듯한 감성을 보여주는 이아영의 ‘한마디’ 녹음 현장 비하인드]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14124&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14124&amp;pg=1</guid>
+            <pubDate>Mon, 25 Mar 2024 03:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14124/Mgz_Main_List_20240325100553.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[멈춰야 한다는 생각도 생각인 걸, 윤새 (Yunsae) 싱글 [Can’t St...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14121&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14121&amp;pg=1</guid>
+            <pubDate>Mon, 25 Mar 2024 03:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14121/Mgz_Main_List_20240325103851.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[우리가 꼭 알아야 할 헤비메탈의 순간들 75화 – 앨리스 쿠퍼(Alice Co...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=14116&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 21 Mar 2024 03:13:41 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14113/Mgz_Main_List_20240321100754.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[뜨거운 열정을 가득 품은, THE NEW SIX [FUEGO] 자켓 촬영 비하...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14111&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14111&amp;pg=1</guid>
-            <pubDate>Wed, 20 Mar 2024 09:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14111/Mgz_Main_List_20240320110045.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[커다란 꿈과 포부를 엑스라지 사이즈의 비행기에 담아, YOUNG POSSE (...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14107&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14107&amp;pg=1</guid>
-            <pubDate>Wed, 20 Mar 2024 09:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14107/Mgz_Main_List_20240319141823.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
