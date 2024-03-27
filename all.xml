@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 02:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 03:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,6 +195,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/63EV3JEYNNFR1MCAFOJC/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SUPER JUNIOR-D&E [606] '지지배 (GGB)' MV 촬영 현장... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14133&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14133&amp;pg=1</guid>
+            <pubDate>Wed, 27 Mar 2024 03:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14133/Mgz_Main_List_20240327101625.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[2024년 다비치가 전하는 봄날의 위로 [너의 편이 돼 줄게] 자켓 B컷 단독... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14127&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14127&amp;pg=1</guid>
@@ -249,14 +257,6 @@
             <pubDate>Mon, 25 Mar 2024 09:11:52 GMT</pubDate>
             <content:encoded><![CDATA[가요 탐구생활]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14129/Mgz_Main_List_20240325155058.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈을 쫓는 청춘들에게, NCT DREAM의 [DREAM( )SCAPE] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14125&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14125&amp;pg=1</guid>
-            <pubDate>Mon, 25 Mar 2024 09:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14125/Mgz_Main_List_20240325143717.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #179 
@@ -371,7 +371,7 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 뷔, 벤슨 분 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 27 Mar 2024 02:18:31 GMT</pubDate>
+            <pubDate>Wed, 27 Mar 2024 03:12:40 GMT</pubDate>
             <content:encoded><![CDATA[BTS 뷔의 새 디지털 싱글부터 글로벌 정점에 선 벤슨 분의 신곡까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240325_287/1711348511194crWHo_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
