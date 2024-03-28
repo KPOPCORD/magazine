@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 08:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 09:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도시에서 발견한 순간들]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[Urban Chronicles 전시 하이라이트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/45d57ca73ba342ae8b068fbced293818.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에드 루샤의 회화적 순간]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 eco용기 iF 디자인 어워즈 수상]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/56ba82162f9c426da1d9038b7d96c8bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 미국적인 기록]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리의 아티스트 하이라이츠]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d4e5860fcc99434e8d7c85ba5f68064e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
