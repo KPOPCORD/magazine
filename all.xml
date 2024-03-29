@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 01:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 02:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,6 +37,14 @@
             <pubDate>Wed, 06 Mar 2024 03:11:24 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9L7Y0R2MMRU0KZZMD9GQ/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다니엘 지칼 (Daniel Jikal) - [Fresh] Official Photo 촬영 비하인드 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/NR43U5PHOMC1DWBQQJVG?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/NR43U5PHOMC1DWBQQJVG?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 29 Mar 2024 02:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/NR43U5PHOMC1DWBQQJVG/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홍이삭 - 싱글 앨범 '사랑은 하니까 (Prod. 최유리) 자켓 촬영 비하인드 공개 (벅스 ─ 뮤직포스트)]]></title>
@@ -184,14 +192,6 @@
             <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/QF1NF9ZR0VA8A0H3T2AA/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이지카이트 (Izykite) - 사랑하는 사람을 향한 편지, '눈맞춤' 촬영 비하인드 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/63EV3JEYNNFR1MCAFOJC?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/63EV3JEYNNFR1MCAFOJC?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/63EV3JEYNNFR1MCAFOJC/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다이나믹 듀오 정규 10집 [2 Kids On The Block] 타이틀곡 ‘... (지니 ─ 매거진)]]></title>
@@ -370,7 +370,7 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 새로운 세계 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 29 Mar 2024 01:43:31 GMT</pubDate>
+            <pubDate>Fri, 29 Mar 2024 02:17:38 GMT</pubDate>
             <content:encoded><![CDATA[드디어 데뷔다. 오디션 프로그램 &lt;유니버스 티켓&gt;의 최종 여덟 멤버가 유니스란 팀명으로 앨범을 낸다. 검증된 신인답게 기세가 남다른, 파워풀한 에너지로 꽉 채운 슈퍼우먼들.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240327_163/1711522207193kbxiF_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
