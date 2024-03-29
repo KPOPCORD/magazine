@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 00:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 01:43:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴 패션 데스티네이션]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[아시아에서 만나는 패션 브랜드 플래그십]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/53e06c0960a4499f8bc0c96e148132ca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도시에서 발견한 순간들]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[스토리지 전시 작가 2인과의 아티스트 토크]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/245d5697777d4f0bb3b9a67d1710b895.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배달 용기도 월드 클래스]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 eco용기 iF 디자인 어워즈 수상]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/56ba82162f9c426da1d9038b7d96c8bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
