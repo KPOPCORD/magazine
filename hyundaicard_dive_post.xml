@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Mar 2024 00:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Mar 2024 01:40:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI와 공존하는 ‘법’]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[AI법이 우리 삶에 미칠 영향]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/560ce124e7dc4f8e9115abc26806d6f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴 패션 데스티네이션]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[에어비앤비에서 만나는 벚꽃 맛집 6]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0abcbae82b594a218965bd73478763b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Artist Talk on Urban Chronicles]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[스토리지 전시 작가 2인과의 아티스트 토크]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/245d5697777d4f0bb3b9a67d1710b895.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
