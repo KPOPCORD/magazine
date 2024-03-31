@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 14:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 15:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,25 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
 새로운 세계 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 31 Mar 2024 14:09:51 GMT</pubDate>
+            <pubDate>Sun, 31 Mar 2024 15:10:30 GMT</pubDate>
             <content:encoded><![CDATA[드디어 데뷔다. 오디션 프로그램 &lt;유니버스 티켓&gt;의 최종 여덟 멤버가 유니스란 팀명으로 앨범을 낸다. 검증된 신인답게 기세가 남다른, 파워풀한 에너지로 꽉 채운 슈퍼우먼들.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240327_163/1711522207193kbxiF_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상의 감각을 환기하다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 라이브러리 4월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d39ae2b16be34928ad5a2a7c70779d73.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[판타지적 디자인 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[4월의 디자이너, 포울 헤닝센]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4e4d763f299644b8b13288175bc5db0b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI와 공존하는 ‘법’ (현대카드 DIVE ─ POST)]]></title>
@@ -429,22 +445,6 @@ TWS와 함께할 시간 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 쿠킹 라이브러리 외관 리뉴얼]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/18ae92f56dfa43d591a33f34cbc9433e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그날의 기억, NFT로 간직할래 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[장범준 콘서트, 후속 NFT 받아가세요]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d8913b9ef78b403a90014a5139f3f673.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숙소 밖은 벚꽃 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[에어비앤비에서 만나는 벚꽃 맛집 6]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0abcbae82b594a218965bd73478763b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
