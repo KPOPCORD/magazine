@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 07:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 08:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일상의 감각을 환기하다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 라이브러리 4월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d39ae2b16be34928ad5a2a7c70779d73.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[판타지적 디자인]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 쿠킹 라이브러리 외관 리뉴얼]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/18ae92f56dfa43d591a33f34cbc9433e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그날의 기억, NFT로 간직할래]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[장범준 콘서트, 후속 NFT 받아가세요]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d8913b9ef78b403a90014a5139f3f673.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
