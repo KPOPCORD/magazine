@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 05:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 06:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ DAY6 (VIBE ─ 매거진)]]></title>
 지금 이게 데자부일까? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 04 Apr 2024 05:13:40 GMT</pubDate>
+            <pubDate>Thu, 04 Apr 2024 06:14:40 GMT</pubDate>
             <content:encoded><![CDATA[투모로우바이투게더가 새 앨범에 담은 그들만의 이야기로 익숙함 속의 새로움으로 내일을 약속한다. 삶의 방황을 겪고 있는 모든 이들에게 음악으로 전하는 희망의 위로.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240402_93/1712036132317LgfB8_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상을 화사하게 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[4월 현대카드 What's On]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6e4d856aebbe4bc482e43fd61faa229c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금 확인했다면 당장 가 봐야 할 걸? (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ DAY6 (VIBE ─ 매거진)]]></title>
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[Urban Chronicles 전시 하이라이트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/45d57ca73ba342ae8b068fbced293818.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에드 루샤의 회화적 순간 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 08]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8fb882eb72d2405d83c329af265429e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
