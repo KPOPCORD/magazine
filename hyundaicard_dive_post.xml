@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 08:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 09:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NOL 스테이지 <뮤지컬 시카고> 미니콘서트]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[NOL 카드 본공연 최대 6만2000원 할인]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/877e4c04fbb247018875e412e1a9b92a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맛있는 벚꽃 엔딩을 위하여!]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
             <content:encoded><![CDATA[AI법이 우리 삶에 미칠 영향]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/560ce124e7dc4f8e9115abc26806d6f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 패션 데스티네이션]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Wed, 09 Aug 2023 12:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[아시아에서 만나는 패션 브랜드 플래그십]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/53e06c0960a4499f8bc0c96e148132ca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
