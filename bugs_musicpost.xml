@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 02:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 03:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sufia - 몽환적이고 리드미컬한 감성, [surf] 데뷔 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/XTCQDADN94U94JRSJKOX?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/XTCQDADN94U94JRSJKOX?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 08 Apr 2024 03:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XTCQDADN94U94JRSJKOX/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (4/9)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -184,14 +192,6 @@
             <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/MNKSJJB21U6AO8I1E39I/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONE PACT (원팩트) - 선공개 곡 'G.O.A.T' 퍼포먼스 비디오 촬영 현장]]></title>
-            <link>https://music.bugs.co.kr/musicpost/QF1NF9ZR0VA8A0H3T2AA?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/QF1NF9ZR0VA8A0H3T2AA?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/QF1NF9ZR0VA8A0H3T2AA/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
