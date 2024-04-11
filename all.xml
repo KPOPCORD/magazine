@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 04:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 05:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ DAY6 (VIBE ─ 매거진)]]></title>
 제이홉, 벤슨 분 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 11 Apr 2024 04:13:43 GMT</pubDate>
+            <pubDate>Thu, 11 Apr 2024 05:12:38 GMT</pubDate>
             <content:encoded><![CDATA[방탄소년단 제이홉의 새로운 앨범, 팝 음악계 화제인 벤슨 분의 새 앨범까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240408_198/1712561373461HT63j_JPEG/%C4%BF%B9%F6.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드리스 반 노튼의 마지막 인사 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[38년의 긴 여정을 끝내다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/117605ace95b47b089f928ed3fa54b3f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI는 환경에 도움이 될까? (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ DAY6 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[4월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6e4d856aebbe4bc482e43fd61faa229c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 확인했다면 당장 가 봐야 할 걸? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[범상치 않은 신상 카페]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/00ca50894bbc41a388c15125d5be2c7d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
