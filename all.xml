@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 05:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 06:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Favorite - COMING SOON! (4/17) (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sun, 07 Apr 2024 19:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이지카이트 (Izykite) - 'SOS (feat. NSW yoon)' 프로필 촬영 비하인드 (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/QEK5MDMASVA6ZBGRGO8G?&amp;wl_ref=list_sp_01_h</link>
@@ -22,14 +30,6 @@
             <pubDate>Mon, 08 Apr 2024 03:12:52 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XTCQDADN94U94JRSJKOX/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Favorite - COMING SOON! (4/9) (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sun, 07 Apr 2024 19:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 80. Victor Ray - 'Comfortable' (벅스 ─ 뮤직포스트)]]></title>
@@ -370,7 +370,7 @@ DAY6 (VIBE ─ 매거진)]]></title>
 제이홉, 벤슨 분 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 12 Apr 2024 05:12:31 GMT</pubDate>
+            <pubDate>Fri, 12 Apr 2024 06:15:22 GMT</pubDate>
             <content:encoded><![CDATA[방탄소년단 제이홉의 새로운 앨범, 팝 음악계 화제인 벤슨 분의 새 앨범까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240408_198/1712561373461HT63j_JPEG/%C4%BF%B9%F6.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
