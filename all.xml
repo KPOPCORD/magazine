@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 00:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 01:31:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ DAY6 (VIBE ─ 매거진)]]></title>
 제이홉, 벤슨 분 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 13 Apr 2024 00:41:21 GMT</pubDate>
+            <pubDate>Sat, 13 Apr 2024 01:31:06 GMT</pubDate>
             <content:encoded><![CDATA[방탄소년단 제이홉의 새로운 앨범, 팝 음악계 화제인 벤슨 분의 새 앨범까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240408_198/1712561373461HT63j_JPEG/%C4%BF%B9%F6.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창작의 시작 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[[더여린의 ‘창작의 나침반’] 일상 속 관찰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d86e0e59cfbd455bb65e4621a0bf5ecf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BONUS TRACK 13. 김사월 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ DAY6 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[&lt;뮤지컬 시카고&gt; 배우 6인과의 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e2f6c14e606d458eb319b350a145ca03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NOL 스테이지 <뮤지컬 시카고> 미니콘서트 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[NOL 카드 본공연 최대 6만2000원 할인]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/877e4c04fbb247018875e412e1a9b92a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
