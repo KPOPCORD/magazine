@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 23:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 01:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ DAY6 (VIBE ─ 매거진)]]></title>
 제이홉, 벤슨 분 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 13 Apr 2024 23:12:36 GMT</pubDate>
+            <pubDate>Sun, 14 Apr 2024 01:06:04 GMT</pubDate>
             <content:encoded><![CDATA[방탄소년단 제이홉의 새로운 앨범, 팝 음악계 화제인 벤슨 분의 새 앨범까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 이대화]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240408_198/1712561373461HT63j_JPEG/%C4%BF%B9%F6.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[간송이 걸어온 길 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[간송미술관의 어제와 오늘 그리고 내일]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c2dd6c7b337a4b97bbad03823411247e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창작의 시작 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ DAY6 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[새로워진 현대카드MXZ, 뭐가 달라졌지?]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/62d417ae91a6447f82ebaec078894ae1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벨마와 록시의 MBTI가 궁금해? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;뮤지컬 시카고&gt; 배우 6인과의 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e2f6c14e606d458eb319b350a145ca03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
