@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 00:00:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 03:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대미술로 물드는 부산]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[아트부산 2024 프리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/88973f1baccc4514b5a7eb0675d67d07.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[간송이 걸어온 길]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[홍진주 프로의 아마추어 골프 바이블]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/74fc066ab5db4e9d90eed5f74942789a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단순해서 좋다, 간결해서 끌린다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[새로워진 현대카드MXZ, 뭐가 달라졌지?]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/62d417ae91a6447f82ebaec078894ae1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
