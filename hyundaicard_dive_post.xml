@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 01:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 02:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이건 네모의 꿈일지 몰라]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[카드 비례의 미학 Our  Series 기획전]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a59344671e954dd1b48d4b5444a8b5dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손민수 Curated 17 김영욱&박유신]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[AI를 둘러싼 친환경 논쟁의 A to Z]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f7eebe89b70f4c3e8d3af1062a84615b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 사운드트랙 걸작선]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 4월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/53ab264d27064f4e9da77f36c0552439.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
