@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 08:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 09:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤상 Curated 07 영소]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[영원보다 소중한 지금]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e4f1050ff32d4144abe1e8d37a03bca4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삶을 포용하는 디자인]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[박준우 셰프 X 휘슬러 쿠킹 클래스 현장]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ca1a1c77f4864fd2b78421cb590d1538.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드리스 반 노튼의 마지막 인사]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[38년의 긴 여정을 끝내다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/117605ace95b47b089f928ed3fa54b3f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
