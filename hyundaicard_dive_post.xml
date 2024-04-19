@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 04:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 05:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ed Ruscha ＜4 Decades＞]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 08]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/22548c61d66340258be30733234e907c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤상 Curated 07 영소]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[보편적 감성을 자극하는 한국 포크의 새 모델]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/972eab83df224b8f8d66cec970058b62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[압력솥 하나로 완성한 유럽 가정식 요리]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[박준우 셰프 X 휘슬러 쿠킹 클래스 현장]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ca1a1c77f4864fd2b78421cb590d1538.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
