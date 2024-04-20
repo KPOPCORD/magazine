@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Apr 2024 00:49:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Apr 2024 01:45:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션을 시작하며]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[[이성동의 더 넥스트] 패션에 대한 착각 #1]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c7245b2fcacd45ee8cfdd8d9909c3548.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ed Ruscha ＜4 Decades＞]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[[더여린의 창작의 나침반] 일상 속 관찰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d86e0e59cfbd455bb65e4621a0bf5ecf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BONUS TRACK 13. 김사월]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[보편적 감성을 자극하는 한국 포크의 새 모델]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/972eab83df224b8f8d66cec970058b62.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
