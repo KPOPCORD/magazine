@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 00:51:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 01:53:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[판타지적 디자인]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[4월의 디자이너, 포울 헤닝센]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4e4d763f299644b8b13288175bc5db0b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국경 넘는 사운드]]></title>
             <link>javascript:;</link>
@@ -52,7 +60,7 @@
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[카드 비례의 미학 Our  Series 기획전]]></content:encoded>
+            <content:encoded><![CDATA[카드 비례의 미학 Our Series 기획전]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a59344671e954dd1b48d4b5444a8b5dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[아트부산 2024 프리뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/88973f1baccc4514b5a7eb0675d67d07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[간송이 걸어온 길]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[간송미술관의 어제와 오늘 그리고 내일]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c2dd6c7b337a4b97bbad03823411247e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
