@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 08:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 09:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -194,6 +194,30 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[“Hey it’s me, been forever” 김우진 미니 3집 [I LI... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14209&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14209&amp;pg=1</guid>
+            <pubDate>Mon, 22 Apr 2024 09:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14209/Mgz_Main_List_20240422151521.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[티아이오티 (TIOT) [Kick-START] ‘ROCK THANG’ MV 촬... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14206&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14206&amp;pg=1</guid>
+            <pubDate>Mon, 22 Apr 2024 09:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14206/Mgz_Main_List_20240422151343.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[청춘의 모든 순간, 도영 첫 솔로 앨범 ‘청춘의 포말 (YOUTH)’ (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14203&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14203&amp;pg=1</guid>
+            <pubDate>Mon, 22 Apr 2024 09:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14203/Mgz_Main_List_20240422151726.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[POP 스튜디오 ＃75 - 좋은 날씨만큼 좋은 취향으로 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=14205&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=25&amp;mgz_seq=14205&amp;pg=1</guid>
@@ -232,30 +256,6 @@
             <pubDate>Thu, 18 Apr 2024 10:14:04 GMT</pubDate>
             <content:encoded><![CDATA[김김박김]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14202/Mgz_Main_List_20240418170330.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Impossible’? RIIZE와 함께라면 I’m possible! (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14195&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14195&amp;pg=1</guid>
-            <pubDate>Thu, 18 Apr 2024 10:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14195/Mgz_Main_List_20240418170148.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[‘고전’이 된 ‘현대음악’ 아르놀트 쇤베르크의 음악 세계 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14201&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14201&amp;pg=1</guid>
-            <pubDate>Thu, 18 Apr 2024 03:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14201/Mgz_Main_List_20240418100529.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[매혹적인 프렌치 재즈 보컬리스트 시릴 에메 (Cyrille Aimée) 내한 ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=14199&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=19&amp;mgz_seq=14199&amp;pg=1</guid>
-            <pubDate>Thu, 18 Apr 2024 03:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[공연]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14199/Mgz_Main_List_20240418100024.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[페퍼톤스는 이제 
@@ -370,7 +370,7 @@ DAY6 (VIBE ─ 매거진)]]></title>
 페퍼톤스, 테일러 스위프트 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 22 Apr 2024 08:15:53 GMT</pubDate>
+            <pubDate>Mon, 22 Apr 2024 09:13:06 GMT</pubDate>
             <content:encoded><![CDATA[20주년 앨범을 발매한 페퍼톤스부터 더블 앨범으로 놀라움을 안긴 테일러 스위프트까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240422_271/1713761101736rzEzC_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
