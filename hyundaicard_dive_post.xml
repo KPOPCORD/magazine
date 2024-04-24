@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Apr 2024 00:49:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 01:51:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비도 오고 그래서]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[우중 산책, 여기서 즐겨요]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1b4470ec25d34b20a2a15085a7ca3087.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로버트 프랭크 삶과 죽음, 사랑]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[카드 비례의 미학 Our Series 기획전]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a59344671e954dd1b48d4b5444a8b5dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손민수 Curated 17 김영욱&박유신]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[바이올린과 첼로의 매혹적인 대화]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ee842cd245e4f6e84594a42c527b59a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
