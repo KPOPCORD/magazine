@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 00:53:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 01:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,9 +370,17 @@ DAY6 (VIBE ─ 매거진)]]></title>
 페퍼톤스, 테일러 스위프트 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 25 Apr 2024 00:52:52 GMT</pubDate>
+            <pubDate>Thu, 25 Apr 2024 01:52:23 GMT</pubDate>
             <content:encoded><![CDATA[20주년 앨범을 발매한 페퍼톤스부터 더블 앨범으로 놀라움을 안긴 테일러 스위프트까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240422_271/1713761101736rzEzC_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공원에서 아침을 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[국립공원 인근 에어비앤비 6]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3656b570ee2f4395bdc0535e973f933c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비도 오고 그래서 (현대카드 DIVE ─ POST)]]></title>
@@ -437,14 +445,6 @@ DAY6 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[‘이탈리아 디자인의 날 2024’ 리뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab4fe81cd3ca44bfa2d8bebf1ac95685.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이건 네모의 꿈일지 몰라 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[카드 비례의 미학 Our Series 기획전]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a59344671e954dd1b48d4b5444a8b5dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
