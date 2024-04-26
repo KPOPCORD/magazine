@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 05:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 06:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄을 물들인 광채]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[반짝임이 활짝 피었습니다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c737513dc15345f18c88c20bd3d79d39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공원에서 아침을]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[영원보다 소중한 지금]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e4f1050ff32d4144abe1e8d37a03bca4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삶을 포용하는 디자인]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[‘이탈리아 디자인의 날 2024’ 리뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab4fe81cd3ca44bfa2d8bebf1ac95685.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
