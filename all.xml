@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 00:49:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 01:50:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT'S NEW! 4월 issue (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/LBLALD5X47HGEK968E6G?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/LBLALD5X47HGEK968E6G?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 26 Apr 2024 01:49:29 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/LBLALD5X47HGEK968E6G/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (4/24) (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -187,13 +195,6 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/FJXSQZP3WHPY8N0T84BG/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팝송으로 배우는 영어! 77.Brenda Lee - 'Rockin' Around The Christmas Tree' (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/89JAEFYMUJEKW1Z1H6DQ?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/89JAEFYMUJEKW1Z1H6DQ?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sun, 07 Apr 2024 19:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[박재범 (Jay Park) [Jay Park Season 1] MV 촬영 비하... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14222&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14222&amp;pg=1</guid>
@@ -370,7 +371,7 @@ DAY6 (VIBE ─ 매거진)]]></title>
 페퍼톤스, 테일러 스위프트 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 26 Apr 2024 00:49:42 GMT</pubDate>
+            <pubDate>Fri, 26 Apr 2024 01:49:52 GMT</pubDate>
             <content:encoded><![CDATA[20주년 앨범을 발매한 페퍼톤스부터 더블 앨범으로 놀라움을 안긴 테일러 스위프트까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240422_271/1713761101736rzEzC_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
