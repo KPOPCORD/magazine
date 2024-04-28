@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Apr 2024 00:54:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 01:56:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피크닉, 간단하거나 완벽하거나]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[미니멀리스트 vs 맥시멀리스트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/29e51f2ce14a427cbea3664fcaf1a8d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윈드앤플로의 탄생]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[[이성동의 더 넥스트] 패션에 대한 착각 #1]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9ee2d42c707843bf8c4d450aaa6ec37b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ed Ruscha ＜4 Decades＞]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 08]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/22548c61d66340258be30733234e907c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
