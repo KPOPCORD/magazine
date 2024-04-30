@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 09:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 10:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,6 +195,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/FJXSQZP3WHPY8N0T84BG/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[월간 지니 4月 : 화제의 컬래버레이션 '지코X제니' 외 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14245&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14245&amp;pg=1</guid>
+            <pubDate>Tue, 30 Apr 2024 10:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14245/Mgz_Main_List_20240430171228.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[재즈의 새로운 고전 ＃46 - 현대 재즈 듀오 인터플레이의 위대한 바이블! '... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14240&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14240&amp;pg=1</guid>
@@ -249,14 +257,6 @@
             <pubDate>Tue, 30 Apr 2024 03:12:21 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14232/Mgz_Main_List_20240430104428.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[82MAJOR(82메이저) [BEAT by 82] ‘촉(Choke)’ 자켓 촬... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14230&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14230&amp;pg=1</guid>
-            <pubDate>Tue, 30 Apr 2024 03:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14230/Mgz_Main_List_20240430103701.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[페퍼톤스는 이제 
@@ -371,7 +371,7 @@ DAY6 (VIBE ─ 매거진)]]></title>
 페퍼톤스, 테일러 스위프트 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 30 Apr 2024 09:13:06 GMT</pubDate>
+            <pubDate>Tue, 30 Apr 2024 10:12:57 GMT</pubDate>
             <content:encoded><![CDATA[20주년 앨범을 발매한 페퍼톤스부터 더블 앨범으로 놀라움을 안긴 테일러 스위프트까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240422_271/1713761101736rzEzC_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
