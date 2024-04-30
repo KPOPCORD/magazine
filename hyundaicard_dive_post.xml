@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 07:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 08:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다비가 피아노를 사랑하는 법]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[재즈 피아니스트 다비 에세이 북토크 신청]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ef9636775d1e47a29c75592e7bbf1873.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도시의 리듬을 포착하는 법]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[4월의 디자이너, 포울 헤닝센]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4e4d763f299644b8b13288175bc5db0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국경 넘는 사운드]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[4월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/be6da30eedf2498f8c967d1c2edb4847.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
