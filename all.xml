@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 00:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 01:50:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ DAY6 (VIBE ─ 매거진)]]></title>
 페퍼톤스, 테일러 스위프트 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 02 May 2024 00:49:30 GMT</pubDate>
+            <pubDate>Thu, 02 May 2024 01:50:44 GMT</pubDate>
             <content:encoded><![CDATA[20주년 앨범을 발매한 페퍼톤스부터 더블 앨범으로 놀라움을 안긴 테일러 스위프트까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240422_271/1713761101736rzEzC_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울의 맛 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[풍문으로 들었소 #서울]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/104b397a90404684a1aef22c0da2c814.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내러티브가 깃든 디자인 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ DAY6 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[우중 산책, 여기서 즐겨요]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1b4470ec25d34b20a2a15085a7ca3087.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로버트 프랭크 삶과 죽음, 사랑 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[Lucy Gallun의 MoMA Talk]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f857982100364274b14f09efdf396542.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
