@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 07:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 08:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ DAY6 (VIBE ─ 매거진)]]></title>
 Q&A (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 03 May 2024 07:11:39 GMT</pubDate>
+            <pubDate>Fri, 03 May 2024 08:14:24 GMT</pubDate>
             <content:encoded><![CDATA[현아가 내놓은 속시원한 대답. 새로운 곳에서 새로운 목소리로 새로운 음악을 새로운 퍼포먼스와 함께.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240502_50/1714632211428IqhJa_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 피어나는 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[5월 현대카드 What's On]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f4c5f9fd7ace4260967345f4ee1c9951.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퍼터를 지배하는 자 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ Q&A (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[[전범선의 풍류] 로큰롤 대신 윈드앤플로]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b257bb57b5f948d2b869a2feb2449555.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄을 물들인 광채 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[반짝임이 활짝 피었습니다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c737513dc15345f18c88c20bd3d79d39.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
