@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 May 2024 00:54:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 01:55:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ DAY6 (VIBE ─ 매거진)]]></title>
 Q&A (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 05 May 2024 00:54:00 GMT</pubDate>
+            <pubDate>Sun, 05 May 2024 01:55:39 GMT</pubDate>
             <content:encoded><![CDATA[현아가 내놓은 속시원한 대답. 새로운 곳에서 새로운 목소리로 새로운 음악을 새로운 퍼포먼스와 함께.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240502_50/1714632211428IqhJa_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꽃보다 정원 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[봄이 아름다운 전 세계 정원 BEST 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/836741b0b1464358874736247fb8dc95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사랑을 가득 담아서 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ Q&A (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[재즈 피아니스트 다비 에세이 북토크 신청]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ef9636775d1e47a29c75592e7bbf1873.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시의 리듬을 포착하는 법 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[다니엘 아놀드 &amp; 아나스타샤 사모일로바 토크]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/64ec91bff7cd4b90a813f20c6e49dafb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
