@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 02:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 03:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[60년대초 리버사이드 시절 빌 에번스의 바로 그 매력! 'Bill Evans'...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14268&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14268&amp;pg=1</guid>
+            <pubDate>Fri, 10 May 2024 03:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14268/Mgz_Main_List_20240510110737.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[힙합 따라잡기 ＃77 - 세기의 디스전 켄드릭 라마 vs. 드레이크]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=14264&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 08 May 2024 09:12:33 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14254/Mgz_Main_List_20240508102200.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[“그곳은 천국이자, 나의 무덤이야” 보수동쿨러 정규 2집 [의자에 앉아]]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14257&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14257&amp;pg=1</guid>
-            <pubDate>Wed, 08 May 2024 03:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14257/Mgz_Main_List_20240508103752.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
