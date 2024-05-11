@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 May 2024 00:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 May 2024 01:52:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[떠나요 한옥으로]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[에어비앤비에서 만나는 완성형 한옥 펜션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0b4cdbbea4af4cb29871a8c13351b4eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너와 나의 건강한 브런치]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[5월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f4c5f9fd7ace4260967345f4ee1c9951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼터를 지배하는 자]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[그린 위 치밀한 계산, 퍼팅 트레이닝]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0e42cec4bce743eaac28349ae666a28a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
