@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 May 2024 00:55:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 May 2024 01:58:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈부신 시간 속으로]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;까르띠에, 시간의 결정&gt; 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/199fc31d69d7427aa347c39ec5c9f5da.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[떠나요 한옥으로]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[부부를 위한 5월의 뷰티 선물 추천]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9155bc72c2954cde9a7eb700fd9ed8f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영감의 지평을 넓히는]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[5월 현대카드 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f4c5f9fd7ace4260967345f4ee1c9951.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

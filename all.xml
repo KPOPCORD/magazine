@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 May 2024 00:55:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 May 2024 01:58:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,11 +371,19 @@ K-오컬트 (VIBE ─ 매거진)]]></title>
 드디어 완성된 tripleS (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 12 May 2024 00:55:29 GMT</pubDate>
+            <pubDate>Sun, 12 May 2024 01:57:52 GMT</pubDate>
             <content:encoded><![CDATA[멤버 24명이 2년 여간 유닛으로 차례차례 데뷔를 거쳐, 드디어 완전체를 이뤘다.
 초대형 걸그룹이 단지 숫자만으로 주목받기보다, 각 유닛들의 독특한 색을 하나의 거대한 합으로 완성하기까지.
 tripleS는 오직 팬들의 투표 결과에 따라 여기까지 왔다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240509_99/17152172059561EQ8G_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈부신 시간 속으로 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;까르띠에, 시간의 결정&gt; 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/199fc31d69d7427aa347c39ec5c9f5da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[떠나요 한옥으로 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ tripleS는 오직 팬들의 투표 결과에 따라 여기까지 왔다.]]></con
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[부부를 위한 5월의 뷰티 선물 추천]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9155bc72c2954cde9a7eb700fd9ed8f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영감의 지평을 넓히는 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[5월 현대카드 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f4c5f9fd7ace4260967345f4ee1c9951.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
