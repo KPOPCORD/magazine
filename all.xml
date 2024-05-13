@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 08:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 09:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,6 +195,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/PLYQJ205S7IFJFHJFG4W/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[ZEROBASEONE (제로베이스원)의 미니 3집 [You had me at ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14265&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14265&amp;pg=1</guid>
+            <pubDate>Mon, 13 May 2024 09:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14265/Mgz_Main_List_20240513113534.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[60년대초 리버사이드 시절 빌 에번스의 바로 그 매력! 'Bill Evans'... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14268&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14268&amp;pg=1</guid>
@@ -249,14 +257,6 @@
             <pubDate>Wed, 08 May 2024 09:12:33 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14255/Mgz_Main_List_20240508102859.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[“나만큼 널 아끼고 사랑할 수 있는 사람은 없어” 김재환, [I Adore] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14254&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14254&amp;pg=1</guid>
-            <pubDate>Wed, 08 May 2024 09:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14254/Mgz_Main_List_20240508102200.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #182: 
@@ -371,7 +371,7 @@ K-오컬트 (VIBE ─ 매거진)]]></title>
 드디어 완성된 tripleS (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 13 May 2024 08:16:29 GMT</pubDate>
+            <pubDate>Mon, 13 May 2024 09:13:04 GMT</pubDate>
             <content:encoded><![CDATA[멤버 24명이 2년 여간 유닛으로 차례차례 데뷔를 거쳐, 드디어 완전체를 이뤘다.
 초대형 걸그룹이 단지 숫자만으로 주목받기보다, 각 유닛들의 독특한 색을 하나의 거대한 합으로 완성하기까지.
 tripleS는 오직 팬들의 투표 결과에 따라 여기까지 왔다.]]></content:encoded>
