@@ -4,17 +4,9 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 02:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 03:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Favorite - COMING SOON! (5/14)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 16 Jan 2024 21:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[정수민 - 순수하면서도 청량한 매력, [be like YOU] 프로필 촬영 비하인드]]></title>
             <link>https://music.bugs.co.kr/musicpost/4GGVN3D1LK7J0DCPGYYN?&amp;wl_ref=list_sp_01_h</link>
@@ -47,12 +39,11 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[키썸(Kisum) - 유니크한 매력으로 서른을 해석한 [서, 어른] 프로필 촬영 현장 공개]]></title>
-            <link>https://music.bugs.co.kr/musicpost/OYSACJV6NE4RLQG321LW?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/OYSACJV6NE4RLQG321LW?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 02 May 2024 05:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OYSACJV6NE4RLQG321LW/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[팝송으로 배우는 영어! 81. Ariana Grande - 'we can't be friends (wait for your love)']]></title>
+            <link>https://music.bugs.co.kr/musicpost/MQGRIHE2Y187CMLCJSHZ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/MQGRIHE2Y187CMLCJSHZ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 19 Apr 2024 01:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Loossemble (루셈블) - [One of a Kind] 'Girls’ Night' 자켓 촬영 현장 공개]]></title>
@@ -193,6 +184,14 @@
             <pubDate>Wed, 17 Jan 2024 09:12:04 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/PLYQJ205S7IFJFHJFG4W/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정수민 - 순수하면서도 엉뚱한 매력 가득! 'song about YOU' MV 촬영 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/7USK3811BDGCRY0EW21X?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/7USK3811BDGCRY0EW21X?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 17 May 2024 03:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/7USK3811BDGCRY0EW21X/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
