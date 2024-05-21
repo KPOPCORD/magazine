@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 01:54:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 02:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ Q&A (VIBE ─ 매거진)]]></title>
 에스파, 빌리 아일리시 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 21 May 2024 01:54:16 GMT</pubDate>
+            <pubDate>Tue, 21 May 2024 02:25:45 GMT</pubDate>
             <content:encoded><![CDATA[화려하게 컴백을 예고하며 차트를 장악한 에스파부터 팝스타의 귀환을 알린 빌리 아일리시까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240520_192/1716188287400FQsyc_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재즈와 함께하는 서울의 봄 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 뮤직 라이브러리 5월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e63379cc5feb4d849bff297a372db187.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[선 넘는 로큰롤 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ Q&A (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[독서를 즐길 수 있는 한옥 공간 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/113cff1e48954b6fa0b2d2dda2b4fc3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전시의 여운, NFT로 소장해 볼까? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[Urban Chronicles NFT 티켓]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a576afffba8e4f91927e4db6d8db7e5d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
