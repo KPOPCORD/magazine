@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 05:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 06:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ Q&A (VIBE ─ 매거진)]]></title>
 디버그 세션 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 23 May 2024 05:13:55 GMT</pubDate>
+            <pubDate>Thu, 23 May 2024 06:17:19 GMT</pubDate>
             <content:encoded><![CDATA[누구나 한 번쯤 지난 자신과 앞으로의 자신 사이 ‘조정 기간'이 필요한 법. 래퍼 블라세는 음악이란 과제를 힙합이란 방식으로 풀어가는 과정에서, 제일 좋아하는 사운드에 집중하면서 천천히 제 길을 가는 거북이가 되기로 했다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240522_71/1716339788117Lvi6R_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스마트폰은 지겨우니까 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[소셜 미디어 언플러그 라이프를 위한 덤폰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/be80acc9235a4750bfccc7d12ddd9ad1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전시를 나만의 것으로 흡수하는 법 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ Q&A (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[정교한 테크닉의 피아니스트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bb5ebfd808c742e794ec7770a884ca38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원 테이블 파인다이닝이 필요한 순간 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 그린하우스 예약 A to Z]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7b95ae219faa443e8485f891fbe773f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
