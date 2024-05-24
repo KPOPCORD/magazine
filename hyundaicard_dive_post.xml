@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 07:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 08:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이적 Curated 05 김필선]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[싱어송라이터 김필선 소곡집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d6ec6b5b948a47938f5a6c0dde7e0032.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[런던 시티 팝, 프렙 그루브]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[재즈 피아니스트 다비의 북토크 현장과 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02aed9a1b7a9401aa291b2ee86ebb30a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경계를 허무는 에드 루샤]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 08]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/76672749e5e044888e4f00953f9a891d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

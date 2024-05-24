@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 07:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 08:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ Q&A (VIBE ─ 매거진)]]></title>
 디버그 세션 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 24 May 2024 07:11:52 GMT</pubDate>
+            <pubDate>Fri, 24 May 2024 08:16:09 GMT</pubDate>
             <content:encoded><![CDATA[누구나 한 번쯤 지난 자신과 앞으로의 자신 사이 ‘조정 기간'이 필요한 법. 래퍼 블라세는 음악이란 과제를 힙합이란 방식으로 풀어가는 과정에서, 제일 좋아하는 사운드에 집중하면서 천천히 제 길을 가는 거북이가 되기로 했다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240522_71/1716339788117Lvi6R_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이적 Curated 05 김필선 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[싱어송라이터 김필선 소곡집]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d6ec6b5b948a47938f5a6c0dde7e0032.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[런던 시티 팝, 프렙 그루브 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ Q&A (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[재즈 피아니스트 다비의 북토크 현장과 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02aed9a1b7a9401aa291b2ee86ebb30a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경계를 허무는 에드 루샤 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 08]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/76672749e5e044888e4f00953f9a891d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
