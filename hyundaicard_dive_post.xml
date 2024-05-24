@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 04:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 05:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[런던 시티 팝, 프렙 그루브]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[프렙이 한국 팬에게 하고 싶었던 말]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/219d35d5ac7d42aba3e8047254b4dfe1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스마트폰은 지겨우니까]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 08]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/76672749e5e044888e4f00953f9a891d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손민수 Curated 18 김수연]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[정교한 테크닉의 피아니스트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bb5ebfd808c742e794ec7770a884ca38.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
