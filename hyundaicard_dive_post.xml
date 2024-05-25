@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 May 2024 00:51:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2024 01:53:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윈드앤플로란 무엇인가?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[[전범선의 풍류] 캘리포니아에서 만난 태극]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/30ad400bbfd54b36bda99f92ff2c2bb2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이적 Curated 05 김필선]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[[이성동의 더 넥스트] 패션에 대한 착각 #2]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/891909b5ad7041b58047c0e6ec1706bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무언가를 제대로 사랑할 때 벌어지는 일]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[재즈 피아니스트 다비의 북토크 현장과 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02aed9a1b7a9401aa291b2ee86ebb30a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
