@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 May 2024 00:56:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 May 2024 01:59:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코어가 대체 뭔데?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[떠오르는 패션 키워드, 코어 트렌드 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3c073f460221486a8c1751610f711926.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윈드앤플로란 무엇인가?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[전국의 밤 산책, 여기 어때?]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/18e20264a62341ae9f8915475ffe3652.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 브랜드가 성장하려면]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[[이성동의 더 넥스트] 패션에 대한 착각 #2]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/891909b5ad7041b58047c0e6ec1706bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
