@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 00:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 01:57:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ Q&A (VIBE ─ 매거진)]]></title>
 디버그 세션 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 28 May 2024 00:52:28 GMT</pubDate>
+            <pubDate>Tue, 28 May 2024 01:56:56 GMT</pubDate>
             <content:encoded><![CDATA[누구나 한 번쯤 지난 자신과 앞으로의 자신 사이 ‘조정 기간'이 필요한 법. 래퍼 블라세는 음악이란 과제를 힙합이란 방식으로 풀어가는 과정에서, 제일 좋아하는 사운드에 집중하면서 천천히 제 길을 가는 거북이가 되기로 했다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240522_71/1716339788117Lvi6R_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[M과 X의 강력한 MIX (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[MX Black Edition2 들여다보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a8a70a1522d94e96a34207ef4c37f19b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[필드 위 주인공 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ Q&A (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 5월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e63379cc5feb4d849bff297a372db187.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선 넘는 로큰롤 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[5월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aef54dc4e082417daa69ad8a3e8dc34e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
