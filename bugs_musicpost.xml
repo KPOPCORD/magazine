@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 01:57:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 02:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT'S NEW! 5월 issue]]></title>
+            <link>https://music.bugs.co.kr/musicpost/TPPP6SMTXWAY2XUEN9VP?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/TPPP6SMTXWAY2XUEN9VP?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 28 May 2024 02:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/TPPP6SMTXWAY2XUEN9VP/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (5/29)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -39,12 +47,12 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/4GGVN3D1LK7J0DCPGYYN/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정수민 - 순수하면서도 청량한 매력, [be like YOU] 프로필 촬영 비하인드]]></title>
-            <link>https://music.bugs.co.kr/musicpost/4GGVN3D1LK7J0DCPGYYN?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/4GGVN3D1LK7J0DCPGYYN?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 02 May 2024 09:12:17 GMT</pubDate>
+            <title><![CDATA[크래커(CRACKER) - EP 앨범 [밤과 새벽 사이] 녹음 현장 스케치 & 프로필 촬영 현장 공개!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/DVAR7QYS7ZYS4E4BRWNV?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/DVAR7QYS7ZYS4E4BRWNV?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 28 May 2024 02:27:57 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/4GGVN3D1LK7J0DCPGYYN/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/DVAR7QYS7ZYS4E4BRWNV/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IT'S NEW! 4월 issue]]></title>
@@ -185,14 +193,6 @@
             <guid>https://music.bugs.co.kr/musicpost/1JF86GHHJNKCHFX2EJZR?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Wed, 14 Feb 2024 05:11:50 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스웨덴세탁소 - '일렁이는 말들' 라이브 클립 촬영 현장]]></title>
-            <link>https://music.bugs.co.kr/musicpost/FUIQ458AUWXO8ST5S81V?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/FUIQ458AUWXO8ST5S81V?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 25 Jan 2024 09:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/FUIQ458AUWXO8ST5S81V/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
