@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 00:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 01:58:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI 창작의 딜레마]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[AI는 과연 ‘창작자’로 인정받을 수 있을까?]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2eb41fe097b24de6ac783b6841698a3b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘의 레이니 룩]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[프렙이 한국 팬에게 하고 싶었던 말]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/219d35d5ac7d42aba3e8047254b4dfe1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마트폰은 지겨우니까]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[소셜 미디어 언플러그 라이프를 위한 덤폰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/be80acc9235a4750bfccc7d12ddd9ad1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
