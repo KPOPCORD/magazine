@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 00:53:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 01:58:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오래오래 나의 반려 식물]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[난이도별 반려 식물 선택하기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/91ed0ed6e7644e56810ee5230fd80b7e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI 창작의 딜레마]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[싱어송라이터 김필선 소곡집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d6ec6b5b948a47938f5a6c0dde7e0032.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[런던 시티 팝, 프렙 그루브]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[프렙이 한국 팬에게 하고 싶었던 말]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/219d35d5ac7d42aba3e8047254b4dfe1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

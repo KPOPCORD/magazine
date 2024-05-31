@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 00:53:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 01:58:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ Q&A (VIBE ─ 매거진)]]></title>
 RM (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 31 May 2024 00:53:45 GMT</pubDate>
+            <pubDate>Fri, 31 May 2024 01:57:58 GMT</pubDate>
             <content:encoded><![CDATA[RM의 솔로 2집 &lt;Right Place, Wrong Person&gt;이 공개되었다. 선공개된 싱글 &lt;Come back to me&gt;를 통해 그 분위기를 엿볼 수 있었던 이번 앨범은 보편적이고 일상적인 상황에서 느낄 수 있는 다양한 감정에 집중한다. 노래의 뒷면을 들춰보듯, 이주의 디깅과 함께 더 세밀한 이야기를 알아가 보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240528_149/1716859573497OgiPI_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오래오래 나의 반려 식물 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[난이도별 반려 식물 선택하기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/91ed0ed6e7644e56810ee5230fd80b7e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI 창작의 딜레마 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ RM (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[싱어송라이터 김필선 소곡집]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d6ec6b5b948a47938f5a6c0dde7e0032.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[런던 시티 팝, 프렙 그루브 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[프렙이 한국 팬에게 하고 싶었던 말]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/219d35d5ac7d42aba3e8047254b4dfe1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
