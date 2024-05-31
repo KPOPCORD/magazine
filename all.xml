@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 02:29:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 03:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Favorite - COMING SOON! (6/5) (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sun, 26 May 2024 10:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ego apartment - 두 번째 정규 앨범 [ku ru I] 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/L2LCBNJY75XXAFGZQWSE?&amp;wl_ref=list_sp_01_h</link>
@@ -22,14 +30,6 @@
             <pubDate>Tue, 28 May 2024 02:27:57 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/TPPP6SMTXWAY2XUEN9VP/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Favorite - COMING SOON! (5/29) (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sun, 26 May 2024 10:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 82. Taylor Swift - 'Fortnight (feat. Post Malone)' (벅스 ─ 뮤직포스트)]]></title>
@@ -371,7 +371,7 @@ Q&A (VIBE ─ 매거진)]]></title>
 RM (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 31 May 2024 02:29:14 GMT</pubDate>
+            <pubDate>Fri, 31 May 2024 03:14:42 GMT</pubDate>
             <content:encoded><![CDATA[RM의 솔로 2집 &lt;Right Place, Wrong Person&gt;이 공개되었다. 선공개된 싱글 &lt;Come back to me&gt;를 통해 그 분위기를 엿볼 수 있었던 이번 앨범은 보편적이고 일상적인 상황에서 느낄 수 있는 다양한 감정에 집중한다. 노래의 뒷면을 들춰보듯, 이주의 디깅과 함께 더 세밀한 이야기를 알아가 보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240528_149/1716859573497OgiPI_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
