@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jun 2024 00:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jun 2024 02:00:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반할 수밖에, 세계의 공항 라운지]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 the Green 데이터 인증 8곳]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/da88227385414af18cc2cb7828b4cda6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름엔 재즈]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[Food Theme 19. 유아왓유잇]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/67db9108f8b84c8d82c7a688d166db85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[M과 X의 강력한 MIX]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[MX Black Edition2 들여다보기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a8a70a1522d94e96a34207ef4c37f19b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jun 2024 00:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jun 2024 02:00:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ Q&A (VIBE ─ 매거진)]]></title>
 RM (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 01 Jun 2024 00:56:03 GMT</pubDate>
+            <pubDate>Sat, 01 Jun 2024 02:00:12 GMT</pubDate>
             <content:encoded><![CDATA[RM의 솔로 2집 &lt;Right Place, Wrong Person&gt;이 공개되었다. 선공개된 싱글 &lt;Come back to me&gt;를 통해 그 분위기를 엿볼 수 있었던 이번 앨범은 보편적이고 일상적인 상황에서 느낄 수 있는 다양한 감정에 집중한다. 노래의 뒷면을 들춰보듯, 이주의 디깅과 함께 더 세밀한 이야기를 알아가 보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240528_149/1716859573497OgiPI_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반할 수밖에, 세계의 공항 라운지 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 the Green 데이터 인증 8곳]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/da88227385414af18cc2cb7828b4cda6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름엔 재즈 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ RM (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[Food Theme 19. 유아왓유잇]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/67db9108f8b84c8d82c7a688d166db85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[M과 X의 강력한 MIX (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[MX Black Edition2 들여다보기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a8a70a1522d94e96a34207ef4c37f19b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
