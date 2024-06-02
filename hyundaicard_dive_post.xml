@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jun 2024 00:56:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 02:01:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[덴마크 슈퍼마켓의 디자인 스토리]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[코펜하겐의 이르마 디자인 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9550a00ae09649c784517c434c3ef76c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반할 수밖에, 세계의 공항 라운지]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[장마철에도 끄떡없는 레인 아이템]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3c4012cf5ef04fb89dd6d412efa54c21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지속 가능한 건강한 먹거리]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[Food Theme 19. 유아왓유잇]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/67db9108f8b84c8d82c7a688d166db85.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
