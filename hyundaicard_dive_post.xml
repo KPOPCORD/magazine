@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 04:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 05:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DJ Soulscape Curated 24 지셀]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[카운셀링 같은 치유의 공연]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/09ddd3857e354b0099a4ab57d768741d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[덴마크 슈퍼마켓의 디자인 스토리]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[AI는 과연 ‘창작자’로 인정받을 수 있을까?]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2eb41fe097b24de6ac783b6841698a3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 레이니 룩]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[장마철에도 끄떡없는 레인 아이템]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3c4012cf5ef04fb89dd6d412efa54c21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
