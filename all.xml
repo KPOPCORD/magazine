@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 09:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 10:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,6 +260,15 @@
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14317/Mgz_Main_List_20240531110334.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
+            <title><![CDATA[이주의 디깅 #183 
+RM (VIBE ─ 매거진)]]></title>
+            <link>https://vibe.naver.com/magazines/62464</link>
+            <guid>https://vibe.naver.com/magazines/62464</guid>
+            <pubDate>Mon, 03 Jun 2024 10:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.05.28]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20240528_265/1716859571508EFDOO_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블라세, 
 디버그 세션 (VIBE ─ 매거진)]]></title>
             <link>https://vibe.naver.com/magazines/62463</link>
@@ -284,7 +293,7 @@
             <guid>https://vibe.naver.com/magazines/62461</guid>
             <pubDate>Sun, 26 May 2024 10:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.05.14]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20240513_141/1715581076313v3RXb_JPEG/%C4%BF%B9%F61.jpg?type=w720" length="0" type="image/jpg"/>
+            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII="/>
         </item>
         <item>
             <title><![CDATA[총 멤버 24명, 
@@ -359,22 +368,13 @@ Q&A (VIBE ─ 매거진)]]></title>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII="/>
         </item>
         <item>
-            <title><![CDATA[투모로우바이투게더, 
-지금 이게 데자부일까? (VIBE ─ 매거진)]]></title>
-            <link>https://vibe.naver.com/magazines/62452</link>
-            <guid>https://vibe.naver.com/magazines/62452</guid>
-            <pubDate>Sun, 26 May 2024 10:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span data-v-289ed7a3="" class="blind">작성일</span> 2024.04.03]]></content:encoded>
-            <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII=" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAAIlSURBVHja7doxbsIwGMVx0wyR2iHcIEfxUTgKPhpbV47gsWOGDgwINzgqOCQo339oFbUvQweLH++TIQnQ59Kzwz09RERERERERERERER+l9SYvKUASbVPMOWlX4ApowUT2Sea4hNN2Q0LIKV+XLATpShldSkXj1MCJsF5ONihP5tZytFR8pGvGWSwz+EyQ1IiJ53Dg0UNpsE02B8ZbIsHqxMerGX3lzh8IgtssE3CKRW6i/n3ONwwzCn9SP1gDUnpnz8OxJzS5pSWpPic4knKPqd4kpJwyvU17IaP41ZSDSmUwJT6lnIhpGOkuaWcIek3+cRJR8jh+52GSJP/2knIGxfIJofrK3pxhOSHnRx4w+Tnfw2EnOE38U25u+azMlLii921XpRO+oVERERERERERERE5J8R7YuIiIiIiIiIiIjIWkiNyb2+ZyVFfc9IyvqekZQrNnL9Tx5L8Ymm7IYVkPJYrQJEKUpZXcq9vmcmAZOivmckh6L2YiNHR8m4vmchD/U9C4mcPBSFfihFg2kwDbbKwbZ4sKK+Z01p2f0lulF9zzjYJuGUCt3FJvW9RTKt7y2SaX1vkbQ5pSUpflKsWyT7nOJJSsIpM/W9JTJT37MQmDJT37OQjpEmTep7RuKL+p6ddIQcxvU9I2mK+p6FhHF9z7LJYVzfs5D8OHPfca6+ZyBn+E18pr5nOCsjJdP63vJF6aRfSERERERERERERERE8vEF75usLCqqK/sAAAAASUVORK5CYII="/>
-        </item>
-        <item>
-            <title><![CDATA[이주의 디깅 #183 
-RM (VIBE ─ 매거진)]]></title>
+            <title><![CDATA[ATEEZ, 
+매순간이 골든 아워 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 03 Jun 2024 09:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[RM의 솔로 2집 &lt;Right Place, Wrong Person&gt;이 공개되었다. 선공개된 싱글 &lt;Come back to me&gt;를 통해 그 분위기를 엿볼 수 있었던 이번 앨범은 보편적이고 일상적인 상황에서 느낄 수 있는 다양한 감정에 집중한다. 노래의 뒷면을 들춰보듯, 이주의 디깅과 함께 더 세밀한 이야기를 알아가 보자. -파고]]></content:encoded>
-            <enclosure url="https://music-phinf.pstatic.net/20240528_149/1716859573497OgiPI_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+            <pubDate>Mon, 03 Jun 2024 10:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[함께 해온, 함께할 모든 시간이 골든아워라는 ATEEZ. 모든 순간을 기억하고, 집중하고, 기대하는 마음으로 만든 소년들의 음악 세계는 이다지도 눈부시다.]]></content:encoded>
+            <enclosure url="https://music-phinf.pstatic.net/20240603_85/1717406403712k1pYn_PNG/Artboard_Copy_44.png?type=w840" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[DJ Soulscape Curated 24 지셀 (현대카드 DIVE ─ POST)]]></title>
