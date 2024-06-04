@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 00:54:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 01:57:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나의 살던 고향은]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[대도시 대신 거장의 소도시 여행]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/412e38c34036407ea27bccf58e6fdc85.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DJ Soulscape Curated 24 지셀]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[난이도별 반려 식물 선택하기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/91ed0ed6e7644e56810ee5230fd80b7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 창작의 딜레마]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[AI는 과연 ‘창작자’로 인정받을 수 있을까?]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2eb41fe097b24de6ac783b6841698a3b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
