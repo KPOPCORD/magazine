@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 06:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 07:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,9 +372,17 @@ Q&A (VIBE ─ 매거진)]]></title>
 매순간이 골든 아워 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 04 Jun 2024 06:16:27 GMT</pubDate>
+            <pubDate>Tue, 04 Jun 2024 07:12:34 GMT</pubDate>
             <content:encoded><![CDATA[함께 해온, 함께할 모든 시간이 골든아워라는 ATEEZ. 모든 순간을 기억하고, 집중하고, 기대하는 마음으로 만든 소년들의 음악 세계는 이다지도 눈부시다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240603_85/1717406403712k1pYn_PNG/Artboard_Copy_44.png?type=w840" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[일상의 아름다움 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[6월 현대카드 What's On]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c02aad5f64c3450cb83d42e0dd609627.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나의 살던 고향은 (현대카드 DIVE ─ POST)]]></title>
@@ -439,14 +447,6 @@ Q&A (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 6월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/071299825dcb45e5a711fec60b52f459.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오래오래 나의 반려 식물 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[난이도별 반려 식물 선택하기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/91ed0ed6e7644e56810ee5230fd80b7e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
