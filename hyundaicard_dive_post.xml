@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 00:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 01:57:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[줄 서는 공간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[풍문으로 들었소 #경기 #인천]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8cf7480eb70643a89924833642ab2b1f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[함께해요 저탄소 식생활]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[6월의 디자이너, 샬로트 페리앙]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3ebc15fbeb6742ad92c7d7c82a5a30e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지상 최대의 뮤직 페스티벌]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 6월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/071299825dcb45e5a711fec60b52f459.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
