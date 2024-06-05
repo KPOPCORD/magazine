@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 23:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 00:53:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,12 +72,12 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3ebc15fbeb6742ad92c7d7c82a5a30e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[예술이라는 리프레시먼트]]></title>
+            <title><![CDATA[지상 최대의 뮤직 페스티벌]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 라이브러리 6월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/72ec10ec630b428ea5000eb49fb62188.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[뮤직 라이브러리 6월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/071299825dcb45e5a711fec60b52f459.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
