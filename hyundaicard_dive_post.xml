@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 00:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 01:57:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예술이라는 리프레시먼트]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 라이브러리 6월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/72ec10ec630b428ea5000eb49fb62188.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BONUS TRACK 14. 유다빈밴드]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 the Green 데이터 인증 8곳]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/da88227385414af18cc2cb7828b4cda6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름엔 재즈]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[6월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d8db475176f344b79afbe5cc954d34cc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
