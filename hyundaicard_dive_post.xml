@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 04:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 05:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바이닐로 듣는 아날로그 음악의 울림]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 뮤직 라이브러리]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/52229a7611be49b192dcc1ae7a0fdcdc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[집에서 진료받는 세상]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[카운셀링 같은 치유의 공연]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/09ddd3857e354b0099a4ab57d768741d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[덴마크 슈퍼마켓의 디자인 스토리]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[코펜하겐의 이르마 디자인 전시]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9550a00ae09649c784517c434c3ef76c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
