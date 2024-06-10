@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 00:55:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 02:01:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이토록 다정한 모던 아시안 퀴진]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[언더바키가 걸어온 길과 내일]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8a401b9180f946dfbe314d07686a13ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지상 최대의 뮤직 페스티벌]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[희망찬 미래를 노래하는 청춘 밴드]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab9e6eb636ae4fee8b37bb4a37a641cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[줄 서는 공간]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[풍문으로 들었소 #경기 #인천]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8cf7480eb70643a89924833642ab2b1f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
