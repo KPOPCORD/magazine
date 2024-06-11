@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 04:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 05:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Best Dutch Book Designs 2023]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[네덜란드 아트 북 전시 미리보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/566dd4b68c8d4158bf20090746d65a8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이토록 다정한 모던 아시안 퀴진]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 라이브러리 6월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/72ec10ec630b428ea5000eb49fb62188.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BONUS TRACK 14. 유다빈밴드]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[희망찬 미래를 노래하는 청춘 밴드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab9e6eb636ae4fee8b37bb4a37a641cf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
