@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 00:54:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 02:00:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름엔 재즈]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[6월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d8db475176f344b79afbe5cc954d34cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어느 수집가의 LP 컬렉션]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 뮤직 라이브러리]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/52229a7611be49b192dcc1ae7a0fdcdc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서 진료받는 세상]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[비대면 진료 시대가 곧 열릴까?]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b95346c66d85456eba491d671e7fcb1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
