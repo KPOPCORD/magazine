@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 00:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 01:59:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이토록 가벼운 일본 여행]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 일본 제휴 서비스 알아보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2f9d334c53de4e42bb88117408fc6a7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[절대 반지가 온다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[토로하듯 건네는 진솔한 이야기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c82a53b9c0f44d6a9c8738fea7f6538.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곧, 당신의 일상이 될 대안 식품에 관하여]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 X 신세계푸드 토크 세미나]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7624330290f94eb998747a14cdff5483.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
