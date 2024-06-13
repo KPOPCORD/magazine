@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 08:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 09:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -195,6 +195,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/4DQBOGNY4O2N9ZBY31KQ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[선미(SUNMI) DIGITAL SINGLE ‘Balloon in Love’ (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14355&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14355&amp;pg=1</guid>
+            <pubDate>Thu, 13 Jun 2024 09:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14355/Mgz_Main_List_20240612103927.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[‘지휘 천재’ 클라우스 메켈레, 바이올리니스트 재닌 얀센을 만나다 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14361&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14361&amp;pg=1</guid>
@@ -249,14 +257,6 @@
             <pubDate>Tue, 11 Jun 2024 09:14:25 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14356/Mgz_Main_List_20240611114121.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[달에 걸린 첼로 소리 - 윤한의 ＜The Cello＞ (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14357&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14357&amp;pg=1</guid>
-            <pubDate>Tue, 11 Jun 2024 03:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14357/Mgz_Main_List_20240611110305.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #184 
@@ -371,7 +371,7 @@ Q&A (VIBE ─ 매거진)]]></title>
 현재형인 이유 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 13 Jun 2024 08:16:13 GMT</pubDate>
+            <pubDate>Thu, 13 Jun 2024 09:14:18 GMT</pubDate>
             <content:encoded><![CDATA[사람들의 눈에 비친 이승철은 거장의 길을 가지만, 그는 그저 노래하는 이의 본질로서 충실한 길을 간다. 더 많은 사람들이 가장 듣기 좋은 노래를, 가장 잘 느낄 수 있도록.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240612_284/17181542108313sOok_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
