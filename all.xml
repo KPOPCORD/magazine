@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 01:59:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 02:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Favorite - COMING SOON! (6/19) (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sun, 26 May 2024 10:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 83. Billie Eilish - 'LUNCH' (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/6604ZREWY76RQIS3VJ8J?&amp;wl_ref=list_sp_01_h</link>
@@ -29,14 +37,6 @@
             <pubDate>Mon, 10 Jun 2024 09:14:56 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/KFYVD46D8SURLKG2I05P/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Favorite - COMING SOON! (6/12) (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sun, 26 May 2024 10:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[nochexintoma - 씬의 트렌디함을 이끄는 노체씬토마의 새 앨범 [i i i] 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
@@ -371,7 +371,7 @@ Q&A (VIBE ─ 매거진)]]></title>
 현재형인 이유 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 14 Jun 2024 01:59:07 GMT</pubDate>
+            <pubDate>Fri, 14 Jun 2024 02:33:05 GMT</pubDate>
             <content:encoded><![CDATA[사람들의 눈에 비친 이승철은 거장의 길을 가지만, 그는 그저 노래하는 이의 본질로서 충실한 길을 간다. 더 많은 사람들이 가장 듣기 좋은 노래를, 가장 잘 느낄 수 있도록.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240612_284/17181542108313sOok_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
