@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jun 2024 00:54:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2024 01:57:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,9 +371,17 @@ Q&A (VIBE ─ 매거진)]]></title>
 현재형인 이유 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 15 Jun 2024 00:53:57 GMT</pubDate>
+            <pubDate>Sat, 15 Jun 2024 01:57:33 GMT</pubDate>
             <content:encoded><![CDATA[사람들의 눈에 비친 이승철은 거장의 길을 가지만, 그는 그저 노래하는 이의 본질로서 충실한 길을 간다. 더 많은 사람들이 가장 듣기 좋은 노래를, 가장 잘 느낄 수 있도록.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240612_284/17181542108313sOok_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 우물만 파기에는 다른 우물에서 길어 올 영감이 너무 많다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[[더여린의 창작의 나침반] 나만의 우물 만들기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/466b3a7bd4764d1da8ca439892dd1bb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나에게 딱 맞는 드라이버 찾기 (현대카드 DIVE ─ POST)]]></title>
@@ -438,14 +446,6 @@ Q&A (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[언더바키가 걸어온 길과 내일]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8a401b9180f946dfbe314d07686a13ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지상 최대의 뮤직 페스티벌 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 6월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/90f185e430a94f71adb741c6d46deeb7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

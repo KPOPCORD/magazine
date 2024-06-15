@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jun 2024 00:54:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2024 01:57:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 우물만 파기에는 다른 우물에서 길어 올 영감이 너무 많다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[[더여린의 창작의 나침반] 나만의 우물 만들기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/466b3a7bd4764d1da8ca439892dd1bb4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나에게 딱 맞는 드라이버 찾기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[언더바키가 걸어온 길과 내일]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8a401b9180f946dfbe314d07686a13ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지상 최대의 뮤직 페스티벌]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 6월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/90f185e430a94f71adb741c6d46deeb7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
