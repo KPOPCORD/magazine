@@ -1,8 +1,198 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://music.bugs.co.kr/musicpost</id>
-    <title>벅스 ─ 뮤직포스트</title>
-    <updated>2024-06-17T20:11:26.045Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://file.bugsm.co.kr/nbugs/common/faviconBugs.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>벅스 ─ 뮤직포스트</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 17 Jun 2024 21:12:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프림로즈 - Single Album [REVIVAL] 스웨덴 현지 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/NH7SRTFFXNHZMN36M3TL?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/NH7SRTFFXNHZMN36M3TL?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/NH7SRTFFXNHZMN36M3TL/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Favorite - COMING SOON! (6/19)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 83. Billie Eilish - 'LUNCH']]></title>
+            <link>https://music.bugs.co.kr/musicpost/6604ZREWY76RQIS3VJ8J?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/6604ZREWY76RQIS3VJ8J?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이승철 - 돌아온 보컬의 신, 신곡 '비가 와' 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/MSX91CEOBC6YO75Z56GV?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/MSX91CEOBC6YO75Z56GV?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/MSX91CEOBC6YO75Z56GV/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paul Blanco - essential; With Artist 두 번째 곡 'Every Night' 라이브클립 촬영 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/KFYVD46D8SURLKG2I05P?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/KFYVD46D8SURLKG2I05P?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/KFYVD46D8SURLKG2I05P/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[nochexintoma - 씬의 트렌디함을 이끄는 노체씬토마의 새 앨범 [i i i] 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/ZTNASDGN629KWFOV8U2J?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/ZTNASDGN629KWFOV8U2J?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ZTNASDGN629KWFOV8U2J/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ego apartment - 두 번째 정규 앨범 [ku ru I] 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/L2LCBNJY75XXAFGZQWSE?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/L2LCBNJY75XXAFGZQWSE?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/L2LCBNJY75XXAFGZQWSE/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IT'S NEW! 5월 issue]]></title>
+            <link>https://music.bugs.co.kr/musicpost/TPPP6SMTXWAY2XUEN9VP?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/TPPP6SMTXWAY2XUEN9VP?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/TPPP6SMTXWAY2XUEN9VP/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 82. Taylor Swift - 'Fortnight (feat. Post Malone)']]></title>
+            <link>https://music.bugs.co.kr/musicpost/6XS3QCRY7UTEMAEDB5UB?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/6XS3QCRY7UTEMAEDB5UB?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우예린 - 시작점 어딘가에서부터 함께 달려온 'RESCUE' MV 촬영 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/AGXLXQQRYOO0146AES4S?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/AGXLXQQRYOO0146AES4S?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/AGXLXQQRYOO0146AES4S/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정수민 - 순수하면서도 청량한 매력, [be like YOU] 프로필 촬영 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/4GGVN3D1LK7J0DCPGYYN?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/4GGVN3D1LK7J0DCPGYYN?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/4GGVN3D1LK7J0DCPGYYN/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크래커(CRACKER) - EP 앨범 [밤과 새벽 사이] 녹음 현장 스케치 & 프로필 촬영 현장 공개!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/DVAR7QYS7ZYS4E4BRWNV?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/DVAR7QYS7ZYS4E4BRWNV?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/DVAR7QYS7ZYS4E4BRWNV/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IT'S NEW! 4월 issue]]></title>
+            <link>https://music.bugs.co.kr/musicpost/LBLALD5X47HGEK968E6G?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/LBLALD5X47HGEK968E6G?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/LBLALD5X47HGEK968E6G/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 81. Ariana Grande - 'we can't be friends (wait for your love)']]></title>
+            <link>https://music.bugs.co.kr/musicpost/MQGRIHE2Y187CMLCJSHZ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/MQGRIHE2Y187CMLCJSHZ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[키썸(Kisum) - 유니크한 매력으로 서른을 해석한 [서, 어른] 프로필 촬영 현장 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/OYSACJV6NE4RLQG321LW?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/OYSACJV6NE4RLQG321LW?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OYSACJV6NE4RLQG321LW/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Loossemble (루셈블) - [One of a Kind] 'Girls’ Night' 자켓 촬영 현장 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/1O1LYG9PJ8HHLS6MDTUR?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/1O1LYG9PJ8HHLS6MDTUR?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/1O1LYG9PJ8HHLS6MDTUR/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이지카이트 (Izykite) - 'SOS (feat. NSW yoon)' 프로필 촬영 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/QEK5MDMASVA6ZBGRGO8G?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/QEK5MDMASVA6ZBGRGO8G?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/QEK5MDMASVA6ZBGRGO8G/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sufia - 몽환적이고 리드미컬한 감성, [surf] 데뷔 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/XTCQDADN94U94JRSJKOX?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/XTCQDADN94U94JRSJKOX?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XTCQDADN94U94JRSJKOX/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 80. Victor Ray - 'Comfortable']]></title>
+            <link>https://music.bugs.co.kr/musicpost/FCMB0BT06FW6EIQXI6HH?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/FCMB0BT06FW6EIQXI6HH?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[IT'S NEW! 3월 issue]]></title>
+            <link>https://music.bugs.co.kr/musicpost/MVDT1TTMET60R3S3GIRH?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/MVDT1TTMET60R3S3GIRH?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/MVDT1TTMET60R3S3GIRH/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Favorite - 투표 Benefit, 여기에서 확인하세요!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/9L7Y0R2MMRU0KZZMD9GQ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/9L7Y0R2MMRU0KZZMD9GQ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9L7Y0R2MMRU0KZZMD9GQ/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다니엘 지칼 (Daniel Jikal) - [Fresh] Official Photo 촬영 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/NR43U5PHOMC1DWBQQJVG?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/NR43U5PHOMC1DWBQQJVG?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/NR43U5PHOMC1DWBQQJVG/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍이삭 - 싱글 앨범 '사랑은 하니까 (Prod. 최유리) 자켓 촬영 비하인드 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/H5P2FSA7N4QB6HO6T0AZ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/H5P2FSA7N4QB6HO6T0AZ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/H5P2FSA7N4QB6HO6T0AZ/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 79. The Last Dinner Party - 'Nothing Matters']]></title>
+            <link>https://music.bugs.co.kr/musicpost/88G1X1N4CP4HT7OC268U?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/88G1X1N4CP4HT7OC268U?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
+    </channel>
+</rss>
