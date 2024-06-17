@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 08:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 09:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프림로즈 - Single Album [REVIVAL] 스웨덴 현지 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/NH7SRTFFXNHZMN36M3TL?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/NH7SRTFFXNHZMN36M3TL?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 17 Jun 2024 09:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/NH7SRTFFXNHZMN36M3TL/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (6/19)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -185,14 +193,6 @@
             <guid>https://music.bugs.co.kr/musicpost/88G1X1N4CP4HT7OC268U?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Wed, 28 Feb 2024 05:11:50 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[IT'S NEW! 2월 issue]]></title>
-            <link>https://music.bugs.co.kr/musicpost/4DQBOGNY4O2N9ZBY31KQ?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/4DQBOGNY4O2N9ZBY31KQ?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 27 Feb 2024 00:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/4DQBOGNY4O2N9ZBY31KQ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
