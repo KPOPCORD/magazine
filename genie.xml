@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 08:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 09:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재즈덩크 ＃65 - 입체적인 기타연주에 담겨진 발군의 센스와 유머, 여유. '...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14376&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14376&amp;pg=1</guid>
+            <pubDate>Tue, 18 Jun 2024 09:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14376/Mgz_Main_List_20240618172046.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[STEN 신곡 ‘Café In Love (Caffeine love)’ 발매 인...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14371&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14371&amp;pg=1</guid>
+            <pubDate>Tue, 18 Jun 2024 09:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14371/Mgz_Main_List_20240618165902.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[일단 모차르트부터 – 지휘자 타르모 펠토코스키의 ＜Mozart Symphoni...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14377&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 17 Jun 2024 09:13:31 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14362/Mgz_Main_List_20240617110413.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[KIMKIMPARKKIM's 인생 음반 ＃36]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=14374&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=14374&amp;pg=1</guid>
-            <pubDate>Mon, 17 Jun 2024 03:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[김김박김]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14374/Mgz_Main_List_20240617115122.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[금같이 귀한 침묵을 드립니다 <카페 침묵>]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=14373&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=14373&amp;pg=1</guid>
-            <pubDate>Mon, 17 Jun 2024 03:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14373/Mgz_Main_List_20240617102730.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
