@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jun 2024 05:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 07:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손민수 Curated 19 김홍박]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[낭만을 연주하는 호르니스트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b833cc069edb46dc992f1737b4ac6447.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리스본에 갈 지도]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[1인 1 스마트 링 시대가 올까?]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8135c2a26fcb4f639c7df2d15a1c0148.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름엔 재즈]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[6월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d8db475176f344b79afbe5cc954d34cc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
