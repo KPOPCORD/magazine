@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 08:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 09:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유다빈밴드와 털어버리자]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[유다빈밴드 ‘보너스 트랙’ 현장과 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a92d2264e68940eeb7347701d423cc32.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<선업튀> 성지 순례]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[피서지에 챙겨 갈 책이 고민이라면]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dcc0c042d1814edd8caa914061db2af0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이토록 가벼운 일본 여행]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 일본 제휴 서비스 알아보기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2f9d334c53de4e42bb88117408fc6a7d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
