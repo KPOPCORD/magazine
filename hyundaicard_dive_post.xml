@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 05:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 06:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<선업튀> 성지 순례]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 촬영지 옆 에어비앤비]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/36873fe6d4d446d2b7320d252bd21fe8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손민수 Curated 19 김홍박]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 일본 제휴 서비스 알아보기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2f9d334c53de4e42bb88117408fc6a7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[절대 반지가 온다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[1인 1 스마트 링 시대가 올까?]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8135c2a26fcb4f639c7df2d15a1c0148.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
