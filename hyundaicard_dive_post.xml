@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 06:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 07:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대안식으로 경험하는 프렌치 파인 다이닝]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리 X 신세계푸드 쿠킹 클래스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0e63a8a7e5eb44c88cb78bbe1898a8d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유다빈밴드와 털어버리자]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[드라이버 비거리 향상을 돕는 아이언앤우드]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e2f156cddfb5415b91e871783db80593.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 이야기]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[피서지에 챙겨 갈 책이 고민이라면]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/dcc0c042d1814edd8caa914061db2af0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
