@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 04:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 05:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,6 +196,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/H5P2FSA7N4QB6HO6T0AZ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2년만의 나들이. 여름바람을 타고 돌아온 천재 뮤지션 케빈킴. 믿고 듣는 그의... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14387&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14387&amp;pg=1</guid>
+            <pubDate>Fri, 21 Jun 2024 05:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14387/Mgz_Main_List_20240621135642.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[알앤비 따라잡기 ＃77 - 여름, 알앤비였다. (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=14385&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=14385&amp;pg=1</guid>
@@ -250,14 +258,6 @@
             <pubDate>Wed, 19 Jun 2024 03:13:51 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14379/Mgz_Main_List_20240619102229.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[음악씬에 혜성처럼 등장한 수수께끼의 싱어송라이터 tuki.를 소개 합니다. (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14372&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14372&amp;pg=1</guid>
-            <pubDate>Wed, 19 Jun 2024 03:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14372/Mgz_Main_List_20240618165549.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이승철이 항상 
@@ -372,7 +372,7 @@ Q&A (VIBE ─ 매거진)]]></title>
 나연, 찰리 XCX (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 21 Jun 2024 04:15:32 GMT</pubDate>
+            <pubDate>Fri, 21 Jun 2024 05:13:36 GMT</pubDate>
             <content:encoded><![CDATA[2년 만에 두 번째 솔로 앨범을 발매한 트와이스 나연부터 훌륭한 여섯 번째 앨범을 발매한 찰리 XCX까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240617_174/1718589681378zzAlf_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
