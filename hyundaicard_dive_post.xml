@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 06:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 07:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장 미쉘 바스키아: 더 레이디언트 차일드]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 09]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/21f47485dc184094ae544791eea8e5d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대안식으로 경험하는 프렌치 파인 다이닝]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[[더여린의 창작의 나침반] 나만의 우물 만들기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/466b3a7bd4764d1da8ca439892dd1bb4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나에게 딱 맞는 드라이버 찾기]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[드라이버 비거리 향상을 돕는 아이언앤우드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e2f156cddfb5415b91e871783db80593.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
