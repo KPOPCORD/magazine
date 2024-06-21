@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 02:30:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 03:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알앤비 따라잡기 ＃77 - 여름, 알앤비였다.]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=14385&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=14385&amp;pg=1</guid>
+            <pubDate>Fri, 21 Jun 2024 03:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[힙알사전]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14385/Mgz_Main_List_20240621110742.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[케이윌이 답하는 관계에 대한 솔직한 이야기, All The Way]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14381&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Jun 2024 03:13:51 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14372/Mgz_Main_List_20240618165549.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[재즈덩크 ＃65 - 입체적인 기타연주에 담겨진 발군의 센스와 유머, 여유. '...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14376&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14376&amp;pg=1</guid>
-            <pubDate>Tue, 18 Jun 2024 09:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14376/Mgz_Main_List_20240618172046.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
