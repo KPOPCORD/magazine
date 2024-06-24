@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jun 2024 00:55:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 02:00:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[향기로운 여름 나기]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[여름 향기를 가득 채워 줄 향 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aacf93f574974b9581021e135c241a66.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Welcome to Seoul, Kith!]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[낭만을 연주하는 호르니스트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b833cc069edb46dc992f1737b4ac6447.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리스본, 어디까지 가봤니?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[포르투갈 여행의 첫걸음]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/01671574c7d8481bab54eb9fa4b014e5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
