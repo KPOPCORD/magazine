@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 00:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 01:59:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강원도의 힙]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[풍문으로 들었소 #강원]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0c8685a79b5145edbe6ed8ae0dac2ca5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[향기로운 여름 나기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[드라마 촬영지 옆 에어비앤비]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/36873fe6d4d446d2b7320d252bd21fe8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손민수 Curated 19 김홍박]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[낭만을 연주하는 호르니스트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b833cc069edb46dc992f1737b4ac6447.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
