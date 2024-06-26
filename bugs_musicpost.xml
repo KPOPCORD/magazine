@@ -4,7 +4,7 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jun 2024 02:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 03:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 26 Jun 2024 01:58:33 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/EPPWJO0Q02LLOLX8SQ6S/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAXY (크랙시) - 'CRAZY RACER' MV 촬영 현장 공개!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/DO228JBAYN2BM0ETLQQW?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/DO228JBAYN2BM0ETLQQW?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 26 Jun 2024 03:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/DO228JBAYN2BM0ETLQQW/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (6/26)]]></title>
@@ -32,12 +40,12 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/YTT21GP9WXHK82FWJZCR/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[프림로즈 - Single Album [REVIVAL] 스웨덴 현지 발매 기념 인터뷰]]></title>
-            <link>https://music.bugs.co.kr/musicpost/NH7SRTFFXNHZMN36M3TL?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/NH7SRTFFXNHZMN36M3TL?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
+            <title><![CDATA[ISHA (이샤) - 걸그룹 '베리굿 (Berry Good)' 출신 싱어송라이터, [Why do u love me?] 발매 스토리]]></title>
+            <link>https://music.bugs.co.kr/musicpost/YTT21GP9WXHK82FWJZCR?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/YTT21GP9WXHK82FWJZCR?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 21 Jun 2024 03:13:24 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/NH7SRTFFXNHZMN36M3TL/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/YTT21GP9WXHK82FWJZCR/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 83. Billie Eilish - 'LUNCH']]></title>
@@ -186,14 +194,6 @@
             <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9L7Y0R2MMRU0KZZMD9GQ/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다니엘 지칼 (Daniel Jikal) - [Fresh] Official Photo 촬영 비하인드]]></title>
-            <link>https://music.bugs.co.kr/musicpost/NR43U5PHOMC1DWBQQJVG?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/NR43U5PHOMC1DWBQQJVG?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/NR43U5PHOMC1DWBQQJVG/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

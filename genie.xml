@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jun 2024 02:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 03:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[솔루션스 (THE SOLUTIONS) NEW 프로필 촬영 현장]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14395&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14395&amp;pg=1</guid>
+            <pubDate>Wed, 26 Jun 2024 03:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14395/Mgz_Main_List_20240626103721.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAXY(크랙시) 1st SINGLE ALBUM ‘RE_’ 앨범 자켓 촬영 ...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14389&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14389&amp;pg=1</guid>
+            <pubDate>Wed, 26 Jun 2024 03:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14389/Mgz_Main_List_20240625102735.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[츄 (CHUU) 2ND MINI ALBUM [Strawberry Rush] 자...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14400&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 25 Jun 2024 03:13:46 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14388/Mgz_Main_List_20240625101833.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[프렙(PREP)의 작곡가이자 키보디스트 르웰린의 솔로 프로젝트 댓츠 캐주얼(T...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14386&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14386&amp;pg=1</guid>
-            <pubDate>Tue, 25 Jun 2024 03:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14386/Mgz_Main_List_20240625102218.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[가요 탐구생활 ＃68 - 전설이 돌아온다, 무대로 돌아오는 록 스타들]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=14399&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=14399&amp;pg=1</guid>
-            <pubDate>Mon, 24 Jun 2024 07:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[가요 탐구생활]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14399/Mgz_Main_List_20240624151520.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
