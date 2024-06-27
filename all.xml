@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 02:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 03:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,6 +196,30 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9L7Y0R2MMRU0KZZMD9GQ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여름의 보사노바 가이드 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14406&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14406&amp;pg=1</guid>
+            <pubDate>Thu, 27 Jun 2024 03:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14406/Mgz_Main_List_20240627112303.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[정새벽 싱글 [노란 꽃] 녹음 현장 비하인드 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14404&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14404&amp;pg=1</guid>
+            <pubDate>Thu, 27 Jun 2024 03:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14404/Mgz_Main_List_20240627111240.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[박준하 (JUNHA PARK) EP [28th Ave.] 발매 인터뷰 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14397&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14397&amp;pg=1</guid>
+            <pubDate>Thu, 27 Jun 2024 03:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14397/Mgz_Main_List_20240627111510.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[B.D.U(비디유)의 Wishpool한 ‘My One’ MV 촬영 현장 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14396&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14396&amp;pg=1</guid>
@@ -234,30 +258,6 @@
             <pubDate>Tue, 25 Jun 2024 09:13:20 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14400/Mgz_Main_List_20240625102556.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[유키스 (UKISS) 의 13th MINI ALBUM [LET’S GET ST... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14393&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14393&amp;pg=1</guid>
-            <pubDate>Tue, 25 Jun 2024 09:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14393/Mgz_Main_List_20240625105326.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[진지한 한 젊은 뮤지션의 음악적 사유, 내적 독백. '유승환' 외 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14403&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14403&amp;pg=1</guid>
-            <pubDate>Tue, 25 Jun 2024 03:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14403/Mgz_Main_List_20240625105510.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[찬란한 빛과 색, 르노 카퓌송이 연주하는 가브리엘 포레 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14402&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14402&amp;pg=1</guid>
-            <pubDate>Tue, 25 Jun 2024 03:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14402/Mgz_Main_List_20240625104921.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #185: 
@@ -372,7 +372,7 @@ RM (VIBE ─ 매거진)]]></title>
 뉴진스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 27 Jun 2024 02:32:47 GMT</pubDate>
+            <pubDate>Thu, 27 Jun 2024 03:14:23 GMT</pubDate>
             <content:encoded><![CDATA[노래를 발표할 때마다 거대한 문화적 현상을 일으키는 그룹이 있으니. 바로 뉴진스다. 기존 케이팝의 정형화된 구조를 벗어나 새로운 방향성을 제시한 이들은 한국을 넘어 글로벌한 인기를 구사하고 있다. 이런 뉴진스가 마침내 일본 정식 데뷔 앨범을 발표했다. 이 주의 디깅에서는 뉴진스의 이번 앨범을 요모조모 살펴보고자 한다. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240625_67/1719298985872mu1cy_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
