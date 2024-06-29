@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jun 2024 00:54:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jun 2024 01:57:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 다섯 양반들]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[[전범선의 풍류] 지리산의 오행 순환]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e357be7ab6844a63b7a4b7601d1e97f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위스키와 팜 투 테이블의 절묘한 페어링]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[[이성동의 더 넥스트] 패션에 대한 착각 #3]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f268992381714dd5a1a907d69e3259e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장범준 평일 소공연]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[소리없는 비가 내린다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02487c9f8cf14faa979bc9055c31d54c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
