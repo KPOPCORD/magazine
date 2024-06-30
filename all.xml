@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jun 2024 00:59:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jun 2024 02:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,9 +372,17 @@ RM (VIBE ─ 매거진)]]></title>
 뉴진스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 30 Jun 2024 00:59:02 GMT</pubDate>
+            <pubDate>Sun, 30 Jun 2024 02:06:59 GMT</pubDate>
             <content:encoded><![CDATA[노래를 발표할 때마다 거대한 문화적 현상을 일으키는 그룹이 있으니. 바로 뉴진스다. 기존 케이팝의 정형화된 구조를 벗어나 새로운 방향성을 제시한 이들은 한국을 넘어 글로벌한 인기를 구사하고 있다. 이런 뉴진스가 마침내 일본 정식 데뷔 앨범을 발표했다. 이 주의 디깅에서는 뉴진스의 이번 앨범을 요모조모 살펴보고자 한다. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240625_67/1719298985872mu1cy_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프로방스에서 즐기는 사진 예술의 모든 것 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[‘아를 국제 사진 축제 2024’ 프리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/33037d301eef4e84896633712ac33e62.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리 다섯 양반들 (현대카드 DIVE ─ POST)]]></title>
@@ -439,14 +447,6 @@ RM (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[키스 서울 플래그십 스토어 오픈]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/175c78a2fecd4db1be9b4bc3ea669315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 브랜드 투자의 오해와 진실 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[[이성동의 더 넥스트] 패션에 대한 착각 #3]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f268992381714dd5a1a907d69e3259e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

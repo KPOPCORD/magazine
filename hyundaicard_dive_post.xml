@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jun 2024 00:59:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jun 2024 02:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프로방스에서 즐기는 사진 예술의 모든 것]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[‘아를 국제 사진 축제 2024’ 프리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/33037d301eef4e84896633712ac33e62.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 다섯 양반들]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[키스 서울 플래그십 스토어 오픈]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/175c78a2fecd4db1be9b4bc3ea669315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 브랜드 투자의 오해와 진실]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[[이성동의 더 넥스트] 패션에 대한 착각 #3]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f268992381714dd5a1a907d69e3259e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
