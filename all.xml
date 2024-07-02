@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 23:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 00:54:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,7 +372,7 @@ RM (VIBE ─ 매거진)]]></title>
 레드벨벳, 카밀라 카베요 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 01 Jul 2024 23:12:54 GMT</pubDate>
+            <pubDate>Tue, 02 Jul 2024 00:54:46 GMT</pubDate>
             <content:encoded><![CDATA[데뷔 10주년을 맞이한 레드벨벳부터 개성 있는 네 번째 솔로 앨범으로 돌아온 카밀라 카베요까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240701_204/1719796169766bxNVc_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
@@ -391,14 +391,6 @@ RM (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[7월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4dc1da84cffa475db052afc94d9305ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한여름의 바이브 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 라이브러리 7월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ad42b42e7c1e4df98d37457c0ecafe4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도시와 자연을 엮는 올라운더 (현대카드 DIVE ─ POST)]]></title>
@@ -447,6 +439,14 @@ RM (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[슬기로운 여름 생활을 위한 소형 가전]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8f4c52f4a18f473e9c31262c7f7bf0e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[행복을 짓는 집 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024 행복작당 서촌 리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/938dd94adce14fe7968e7889ee90648e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

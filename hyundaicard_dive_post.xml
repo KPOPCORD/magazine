@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 23:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 00:54:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[7월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4dc1da84cffa475db052afc94d9305ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한여름의 바이브]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 라이브러리 7월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ad42b42e7c1e4df98d37457c0ecafe4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도시와 자연을 엮는 올라운더]]></title>
@@ -78,6 +70,14 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[슬기로운 여름 생활을 위한 소형 가전]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8f4c52f4a18f473e9c31262c7f7bf0e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[행복을 짓는 집]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024 행복작당 서촌 리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/938dd94adce14fe7968e7889ee90648e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
