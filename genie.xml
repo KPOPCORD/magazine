@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 02:36:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 03:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상의 아름다움을 노래하다, 리아나 플로레스의 첫 정규앨범 ‘Flower of...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14419&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14419&amp;pg=1</guid>
+            <pubDate>Tue, 02 Jul 2024 03:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14419/Mgz_Main_List_20240702110319.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[oait EP3 [Depths of emotion’s sea 너의 바다] 발매...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14418&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14418&amp;pg=1</guid>
+            <pubDate>Tue, 02 Jul 2024 03:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14418/Mgz_Main_List_20240702115950.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[수원 행리단길에서 즐기는 아메리칸 스타일, 〈빅팬트리〉]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=14415&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 28 Jun 2024 03:14:25 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14401/Mgz_Main_List_20240628120037.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 꼭 알아야 할 헤비메탈의 순간들 78화 – 데프헤븐(Deafheaven...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=14398&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=24&amp;mgz_seq=14398&amp;pg=1</guid>
-            <pubDate>Fri, 28 Jun 2024 03:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[올댓메탈]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14398/Mgz_Main_List_20240628105042.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[여름의 보사노바 가이드]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14406&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14406&amp;pg=1</guid>
-            <pubDate>Thu, 27 Jun 2024 03:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14406/Mgz_Main_List_20240627112303.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
