@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 08:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 09:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리는 무엇을 어떻게 먹고 살 것인가]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[신세계푸드 대안식 토크 세미나 리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b00c1f03837e4544a5452b807e42ceda.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름이 오는 소리]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 7월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c289ecd1a3384054bcf8b5d3f6b525cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로방스 사진 예술의 현장]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[‘아를 국제 사진 축제 2024’ 프리뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/715da2a5cb8a4f4a93df87659fbaed4e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
