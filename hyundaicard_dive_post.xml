@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 05:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 06:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름이 오는 소리]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[7월 현대카드 What's On]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/13fc50e7a88848a38ad8f8527c9066de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴 로맨틱 파리]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[‘아를 국제 사진 축제 2024’ 프리뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/715da2a5cb8a4f4a93df87659fbaed4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 다섯 양반들]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[[전범선의 풍류] 지리산의 오행 순환]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e357be7ab6844a63b7a4b7601d1e97f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

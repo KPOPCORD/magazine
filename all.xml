@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 05:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 06:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,9 +372,17 @@ RM (VIBE ─ 매거진)]]></title>
 레드벨벳, 카밀라 카베요 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 04 Jul 2024 05:13:48 GMT</pubDate>
+            <pubDate>Thu, 04 Jul 2024 06:17:53 GMT</pubDate>
             <content:encoded><![CDATA[데뷔 10주년을 맞이한 레드벨벳부터 개성 있는 네 번째 솔로 앨범으로 돌아온 카밀라 카베요까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240701_204/1719796169766bxNVc_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름이 오는 소리 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[7월 현대카드 What's On]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/13fc50e7a88848a38ad8f8527c9066de.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴 로맨틱 파리 (현대카드 DIVE ─ POST)]]></title>
@@ -439,14 +447,6 @@ RM (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[‘아를 국제 사진 축제 2024’ 프리뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/715da2a5cb8a4f4a93df87659fbaed4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 다섯 양반들 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[[전범선의 풍류] 지리산의 오행 순환]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e357be7ab6844a63b7a4b7601d1e97f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
