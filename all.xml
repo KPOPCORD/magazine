@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jul 2024 00:59:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jul 2024 02:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,9 +372,17 @@ RM (VIBE ─ 매거진)]]></title>
 레드벨벳, 카밀라 카베요 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 07 Jul 2024 00:59:25 GMT</pubDate>
+            <pubDate>Sun, 07 Jul 2024 02:08:32 GMT</pubDate>
             <content:encoded><![CDATA[데뷔 10주년을 맞이한 레드벨벳부터 개성 있는 네 번째 솔로 앨범으로 돌아온 카밀라 카베요까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240701_204/1719796169766bxNVc_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영감의 도시 도쿄 #5 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[녹색 메트로폴리탄의 완성]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b97bdc8595cb48bba62bd0a1b494b263.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[댕일치기 어때요? (현대카드 DIVE ─ POST)]]></title>
@@ -439,14 +447,6 @@ RM (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[모던 시티 리플릿 #도쿄 1]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/21d4125765aa459aa7b59f795aa0e8b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄에서 만나는 현대 미술과 서양 미술 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[신미술관 &amp; 서양미술관 기획전 관람권]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/236c196bfd4248d7b858c3685cb932d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

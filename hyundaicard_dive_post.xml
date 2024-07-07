@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jul 2024 00:59:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jul 2024 02:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영감의 도시 도쿄 #5]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[녹색 메트로폴리탄의 완성]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b97bdc8595cb48bba62bd0a1b494b263.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[댕일치기 어때요?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[모던 시티 리플릿 #도쿄 1]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/21d4125765aa459aa7b59f795aa0e8b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄에서 만나는 현대 미술과 서양 미술]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[신미술관 &amp; 서양미술관 기획전 관람권]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/236c196bfd4248d7b858c3685cb932d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
