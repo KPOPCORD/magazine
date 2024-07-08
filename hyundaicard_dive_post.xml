@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 08:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 09:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유희열 Curated 23 PEPPERTONES]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[페퍼톤스 데뷔 20주년 서울 앙코르 무대]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9016896953824a2eb803a1076b3da9b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영감의 도시 도쿄 #5]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 라이브러리 7월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ad42b42e7c1e4df98d37457c0ecafe4d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄라는 디테일]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[모던 시티 리플릿 #도쿄 1]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/21d4125765aa459aa7b59f795aa0e8b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
