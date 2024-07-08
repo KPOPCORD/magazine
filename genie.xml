@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 02:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 03:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리가 간직한 청춘에 대하여, 림헤엄 X BAU의 EP [Y.M.C.A.]]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14431&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14431&amp;pg=1</guid>
+            <pubDate>Mon, 08 Jul 2024 03:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14431/Mgz_Main_List_20240708102336.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[박수진이 전하는 설렘 가득한 초여름의 사랑이야기, [내 설레임이 너로 닿을 때...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14426&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14426&amp;pg=1</guid>
+            <pubDate>Mon, 08 Jul 2024 03:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14426/Mgz_Main_List_20240708103004.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[버추얼 그룹 ‘싸이코드'의 세번째 싱글 앨범 [Decision] 발매]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14423&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 03 Jul 2024 09:13:37 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14416/Mgz_Main_List_20240703112329.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[안신애 [Dear City] 발매 기념 인터뷰]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14414&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14414&amp;pg=1</guid>
-            <pubDate>Wed, 03 Jul 2024 09:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14414/Mgz_Main_List_20240703114000.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[CALL ME 채연! 이채연의 결전이 시작된다! [SHOWDOWN] 자켓 촬영...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14409&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14409&amp;pg=1</guid>
-            <pubDate>Wed, 03 Jul 2024 09:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14409/Mgz_Main_List_20240703113011.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
