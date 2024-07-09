@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 00:55:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 02:02:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,7 +196,7 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9L7Y0R2MMRU0KZZMD9GQ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[재즈의 새로운 고전 ＃48 - 비밥 속 숨겨져 있던 현대 재즈의 단초! (지니 ─ 매거진)]]></title>
+            <title><![CDATA[핫 포커스(Hot Focus) ＃1 - 모던 색소폰 트리오의 진정한 선구자, ... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14439&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14439&amp;pg=1</guid>
             <pubDate>Mon, 08 Jul 2024 09:14:27 GMT</pubDate>
@@ -372,9 +372,17 @@ RM (VIBE ─ 매거진)]]></title>
 레드벨벳, 카밀라 카베요 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 09 Jul 2024 00:55:18 GMT</pubDate>
+            <pubDate>Tue, 09 Jul 2024 02:01:56 GMT</pubDate>
             <content:encoded><![CDATA[데뷔 10주년을 맞이한 레드벨벳부터 개성 있는 네 번째 솔로 앨범으로 돌아온 카밀라 카베요까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240701_204/1719796169766bxNVc_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호핑 즐기러 왔습니다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[동남아 호핑 투어 성지 BEST 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/56702c3bc0a5426387fadc4929a9d374.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열 Curated 23 PEPPERTONES (현대카드 DIVE ─ POST)]]></title>
@@ -439,14 +447,6 @@ RM (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[모던 시티 리플릿 #파리]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6f12660a071147b0915a1106b48de1db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한여름의 바이브 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 라이브러리 7월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ad42b42e7c1e4df98d37457c0ecafe4d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
