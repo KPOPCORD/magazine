@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 02:02:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 03:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,6 +196,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/9L7Y0R2MMRU0KZZMD9GQ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[수학을 사랑한 첼리스트와 클래식을 사랑한 수학자의 음악적 지성과 수학적 감성으... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14440&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14440&amp;pg=1</guid>
+            <pubDate>Tue, 09 Jul 2024 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14440/Mgz_Main_List_20240709104556.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[genie 업데이트 | 빠른 선곡 이용하고 에어팟&애플워치 받으세요! (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14269&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14269&amp;pg=1</guid>
+            <pubDate>Tue, 09 Jul 2024 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14269/Mgz_Main_List_20240517112309.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[핫 포커스(Hot Focus) ＃1 - 모던 색소폰 트리오의 진정한 선구자, ... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14439&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14439&amp;pg=1</guid>
@@ -242,22 +258,6 @@
             <pubDate>Fri, 05 Jul 2024 03:13:55 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14421/Mgz_Main_List_20240704145840.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[도이치 그라모폰의 존 윌리엄스 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14425&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14425&amp;pg=1</guid>
-            <pubDate>Thu, 04 Jul 2024 03:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14425/Mgz_Main_List_20240704105042.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[iKON 구준회 1ST SOLO [멍] 녹음 현장기 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14422&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14422&amp;pg=1</guid>
-            <pubDate>Thu, 04 Jul 2024 03:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14422/Mgz_Main_List_20240704110454.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #185: 
@@ -372,7 +372,7 @@ RM (VIBE ─ 매거진)]]></title>
 레드벨벳, 카밀라 카베요 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 09 Jul 2024 02:01:56 GMT</pubDate>
+            <pubDate>Tue, 09 Jul 2024 03:15:12 GMT</pubDate>
             <content:encoded><![CDATA[데뷔 10주년을 맞이한 레드벨벳부터 개성 있는 네 번째 솔로 앨범으로 돌아온 카밀라 카베요까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240701_204/1719796169766bxNVc_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
