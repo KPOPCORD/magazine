@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 00:56:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 02:01:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화로운 하루]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[M몰 메가박스 영화 예매 서비스 오픈]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/56dd5befac374f93985f0fde14f5ed4e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호핑 즐기러 왔습니다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[7월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/13fc50e7a88848a38ad8f8527c9066de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 로맨틱 파리]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[모던 시티 리플릿 #파리]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6f12660a071147b0915a1106b48de1db.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
