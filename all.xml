@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 00:56:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 02:02:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,9 +372,17 @@ RM (VIBE ─ 매거진)]]></title>
 마츠다 세이코 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 11 Jul 2024 00:56:03 GMT</pubDate>
+            <pubDate>Thu, 11 Jul 2024 02:02:03 GMT</pubDate>
             <content:encoded><![CDATA[장마가 찾아온 여름이었다. 그런데 폭우처럼 SNS에 쏟아지다 못해 아예 일본과 한국을 휩쓸어 버린 화제의 노래가 하나 있으니. 바로 마츠다 세이코의 ‘푸른 산호초’다. 이 모든 것은 도쿄돔 쇼케이스에서 뉴진스의 하니가 커버 무대를 선보인 덕분. 그렇다면 이주의 디깅에서는 마츠다 세이코를 비롯해 라떼 시절의 일본 음악들을 살펴보도록 하겠다. – 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240709_83/1720516155462D5crG_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남도에 가면 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[풍문으로 들었소 #전라]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a74fb0afadfd4b008dfde8a0ffac8daf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화로운 하루 (현대카드 DIVE ─ POST)]]></title>
@@ -439,14 +447,6 @@ RM (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[신세계푸드 대안식 토크 세미나 리뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b00c1f03837e4544a5452b807e42ceda.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름이 오는 소리 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[7월 현대카드 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/13fc50e7a88848a38ad8f8527c9066de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

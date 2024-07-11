@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 00:56:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 02:02:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남도에 가면]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[풍문으로 들었소 #전라]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a74fb0afadfd4b008dfde8a0ffac8daf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화로운 하루]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[신세계푸드 대안식 토크 세미나 리뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b00c1f03837e4544a5452b807e42ceda.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름이 오는 소리]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[7월 현대카드 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/13fc50e7a88848a38ad8f8527c9066de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
