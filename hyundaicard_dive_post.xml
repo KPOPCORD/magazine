@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jul 2024 08:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 09:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파도를 일으키는 바람처럼]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[가파도 아티스트 전시 &amp; Artist Talk]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b7bec77ea9534cd38040688ce39bd76c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남도에 가면]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[Apple Pay로 안심 결제하기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a174c91648e64900ba91e2ca5cf2c1a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 무엇을 어떻게 먹고 살 것인가]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[신세계푸드 대안식 토크 세미나 리뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b00c1f03837e4544a5452b807e42ceda.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

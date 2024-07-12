@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jul 2024 08:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 09:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,6 +196,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/MVDT1TTMET60R3S3GIRH/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[올라운더 아티스트 ‘유토 (JUTO)’의 두 번째 정규 앨범 [THE SUNR... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14443&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14443&amp;pg=1</guid>
+            <pubDate>Fri, 12 Jul 2024 09:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14443/Mgz_Main_List_20240712104123.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[ENHYPEN, 두 번째 정규앨범 ‘ROMANCE : UNTOLD’ 발매 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14442&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14442&amp;pg=1</guid>
+            <pubDate>Fri, 12 Jul 2024 09:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14442/Mgz_Main_List_20240712103155.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[힙합사의 결정적인 순간을 장식한 싱글들 79화 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=14447&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=14447&amp;pg=1</guid>
@@ -242,22 +258,6 @@
             <pubDate>Thu, 11 Jul 2024 03:15:58 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14444/Mgz_Main_List_20240711111705.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[오영 정규 2집 [영영] 제작 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14441&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14441&amp;pg=1</guid>
-            <pubDate>Thu, 11 Jul 2024 03:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14441/Mgz_Main_List_20240710185149.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[혁오 (HYUKOH) & Sunset Rollercoaster 落日飛車의 프로... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14438&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14438&amp;pg=1</guid>
-            <pubDate>Wed, 10 Jul 2024 09:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14438/Mgz_Main_List_20240710151706.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #186: 
@@ -372,9 +372,17 @@ RM (VIBE ─ 매거진)]]></title>
 마츠다 세이코 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 12 Jul 2024 08:17:25 GMT</pubDate>
+            <pubDate>Fri, 12 Jul 2024 09:14:31 GMT</pubDate>
             <content:encoded><![CDATA[장마가 찾아온 여름이었다. 그런데 폭우처럼 SNS에 쏟아지다 못해 아예 일본과 한국을 휩쓸어 버린 화제의 노래가 하나 있으니. 바로 마츠다 세이코의 ‘푸른 산호초’다. 이 모든 것은 도쿄돔 쇼케이스에서 뉴진스의 하니가 커버 무대를 선보인 덕분. 그렇다면 이주의 디깅에서는 마츠다 세이코를 비롯해 라떼 시절의 일본 음악들을 살펴보도록 하겠다. – 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240709_83/1720516155462D5crG_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파도를 일으키는 바람처럼 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[가파도 아티스트 전시 &amp; Artist Talk]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b7bec77ea9534cd38040688ce39bd76c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남도에 가면 (현대카드 DIVE ─ POST)]]></title>
@@ -439,14 +447,6 @@ RM (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[Apple Pay로 안심 결제하기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a174c91648e64900ba91e2ca5cf2c1a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 무엇을 어떻게 먹고 살 것인가 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[신세계푸드 대안식 토크 세미나 리뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b00c1f03837e4544a5452b807e42ceda.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
