@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jul 2024 23:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jul 2024 01:00:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 집이 곧 휴양지]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[방구석 홈캉스 떠나는 방법]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e9268a417cc84e25abb1cea620619d89.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흰 도화지 공포증 극복하는 법]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[반려견과 반나절 놀다 오기 좋은 곳 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/421b94d91a9540818af703a3e1751a1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cigarettes After Sex 리스닝 이벤트]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[몽환적 아날로그 사운드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/25d93d3912f04e98b1ebd9e060588cbc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
