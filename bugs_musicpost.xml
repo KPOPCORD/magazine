@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 02:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 03:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제이문(Jay Moon) - 정규 2집 [Moonbeams & Melodies] 타이틀곡 '공중분해' MV 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/LP5XWNIBXFK1JXXIQ1KJ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/LP5XWNIBXFK1JXXIQ1KJ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 15 Jul 2024 03:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/LP5XWNIBXFK1JXXIQ1KJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (7/17)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -32,12 +40,12 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/EPPWJO0Q02LLOLX8SQ6S/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CRAXY (크랙시) - 'CRAZY RACER' MV 촬영 현장 공개!]]></title>
-            <link>https://music.bugs.co.kr/musicpost/DO228JBAYN2BM0ETLQQW?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/DO228JBAYN2BM0ETLQQW?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 26 Jun 2024 03:14:31 GMT</pubDate>
+            <title><![CDATA[IT'S NEW! 6월 issue]]></title>
+            <link>https://music.bugs.co.kr/musicpost/EPPWJO0Q02LLOLX8SQ6S?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/EPPWJO0Q02LLOLX8SQ6S?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 26 Jun 2024 01:58:33 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/DO228JBAYN2BM0ETLQQW/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/EPPWJO0Q02LLOLX8SQ6S/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ISHA (이샤) - 걸그룹 '베리굿 (Berry Good)' 출신 싱어송라이터, [Why do u love me?] 발매 스토리]]></title>
@@ -186,14 +194,6 @@
             <guid>https://music.bugs.co.kr/musicpost/FCMB0BT06FW6EIQXI6HH?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[IT'S NEW! 3월 issue]]></title>
-            <link>https://music.bugs.co.kr/musicpost/MVDT1TTMET60R3S3GIRH?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/MVDT1TTMET60R3S3GIRH?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 17 Jun 2024 21:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/MVDT1TTMET60R3S3GIRH/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
