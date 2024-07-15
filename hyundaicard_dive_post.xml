@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 00:57:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 02:06:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인증샷을 부르는 도쿄]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[모던 시티 리플릿 #도쿄 2]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3b504c54496944958f6843c15a7a528e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 집이 곧 휴양지]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[녹색 메트로폴리탄의 완성]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b97bdc8595cb48bba62bd0a1b494b263.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[댕일치기 어때요?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[반려견과 반나절 놀다 오기 좋은 곳 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/421b94d91a9540818af703a3e1751a1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
