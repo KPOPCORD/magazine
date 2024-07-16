@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 06:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 07:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신의 소중한 음악, ‘지니’에 걸어보세요! ‘genie rele’]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14457&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14457&amp;pg=1</guid>
+            <pubDate>Tue, 16 Jul 2024 07:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14457/Mgz_Main_List_20240716103518.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[자연의 아름다움 닮은 소박한 감동 인터플레이, 'Ron Miles' 외]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14459&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 15 Jul 2024 03:16:27 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14450/Mgz_Main_List_20240715111733.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송라이터 테종 새 싱글 [마음] 제작 비하인드 및 인터뷰]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14449&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14449&amp;pg=1</guid>
-            <pubDate>Mon, 15 Jul 2024 03:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14449/Mgz_Main_List_20240715105708.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>

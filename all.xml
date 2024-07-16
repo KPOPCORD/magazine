@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 06:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 07:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/XTCQDADN94U94JRSJKOX/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[당신의 소중한 음악, ‘지니’에 걸어보세요! ‘genie rele’ (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14457&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14457&amp;pg=1</guid>
+            <pubDate>Tue, 16 Jul 2024 07:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14457/Mgz_Main_List_20240716103518.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[자연의 아름다움 닮은 소박한 감동 인터플레이, 'Ron Miles' 외 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14459&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14459&amp;pg=1</guid>
@@ -251,14 +259,6 @@
             <pubDate>Mon, 15 Jul 2024 03:16:27 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14450/Mgz_Main_List_20240715111733.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송라이터 테종 새 싱글 [마음] 제작 비하인드 및 인터뷰 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14449&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14449&amp;pg=1</guid>
-            <pubDate>Mon, 15 Jul 2024 03:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14449/Mgz_Main_List_20240715105708.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[엔하이픈과 시작하는 
@@ -373,7 +373,7 @@ RM (VIBE ─ 매거진)]]></title>
 태연, 에미넴 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 16 Jul 2024 06:18:53 GMT</pubDate>
+            <pubDate>Tue, 16 Jul 2024 07:13:48 GMT</pubDate>
             <content:encoded><![CDATA[몽환적인 싱글을 발매한 태연부터 콘셉추얼한 새 정규 앨범을 발표한 에미넴까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240716_17/1721091902603HBeV0_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
