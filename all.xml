@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 04:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 05:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ RM (VIBE ─ 매거진)]]></title>
 로맨스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 16 Jul 2024 04:15:45 GMT</pubDate>
+            <pubDate>Tue, 16 Jul 2024 05:12:28 GMT</pubDate>
             <content:encoded><![CDATA[소년들은 자라서, 이젠 사랑을 시작한다. 훌쩍 성장한 엔하이픈이 새로 펼칠 판타지가 로맨스로 향하는 그 첫 번째 시작.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240715_221/1721005419568CJFy4_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손민수 Curated 20 김유빈 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[한국 관악계를 빛내고 있는 플루티스트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2ec3d18f669d48ad96915301a3f45773.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도시와 자연을 엮는 올라운더 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ RM (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[동남아 호핑 투어 성지 BEST 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/56702c3bc0a5426387fadc4929a9d374.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유희열 Curated 23 PEPPERTONES (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[페퍼톤스 데뷔 20주년 서울 앙코르 무대]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9016896953824a2eb803a1076b3da9b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
