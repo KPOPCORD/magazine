@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 04:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 05:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배달을 부르는 디자인]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[배민현대카드II 플레이트 디자인 4종]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e8dbdfce70204c53a04691675d7403ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주도 vs. 강원도 당신의 선택은?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[가파도 아티스트 전시 &amp; Artist Talk]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b7bec77ea9534cd38040688ce39bd76c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남도에 가면]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[풍문으로 들었소 #전라]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a74fb0afadfd4b008dfde8a0ffac8daf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
