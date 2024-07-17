@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 00:56:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 02:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주도 vs. 강원도 당신의 선택은?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[제주도와 강원도의 이색 에어비앤비]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9c07d0eaa1ff45de8d2aa61be1270918.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[와인과 아이스크림, ‘와아’한 이 조합 어때?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[풍문으로 들었소 #전라]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a74fb0afadfd4b008dfde8a0ffac8daf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화로운 하루]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[M몰 메가박스 영화 예매 서비스 오픈]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe8ac44622064bb6a436b1c34e58ac1c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
