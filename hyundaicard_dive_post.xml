@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 00:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 02:01:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NOL 스테이지 뮤지컬 <킹키부츠> 미니콘서트]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[NOL 카드 본공연 최대 6만4000원 할인]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c99b7f1d492446238487ff33c020b98a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식물성 대안육 프렌치 미식의 향연]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[방구석 홈캉스 떠나는 방법]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e9268a417cc84e25abb1cea620619d89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흰 도화지 공포증 극복하는 법]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[[창작의 나침반] 가벼운 마음으로 부딪히기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0d3ee86e514447e1a5cbc546f758ed20.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
