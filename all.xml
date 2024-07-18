@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 03:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 04:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ RM (VIBE ─ 매거진)]]></title>
 태연, 에미넴 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 18 Jul 2024 03:16:00 GMT</pubDate>
+            <pubDate>Thu, 18 Jul 2024 04:16:14 GMT</pubDate>
             <content:encoded><![CDATA[몽환적인 싱글을 발매한 태연부터 콘셉추얼한 새 정규 앨범을 발표한 에미넴까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240716_17/1721091902603HBeV0_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름엔 다 함께 춤을 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 7월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c289ecd1a3384054bcf8b5d3f6b525cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NOL 스테이지 뮤지컬 <킹키부츠> 미니콘서트 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ RM (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[모던 시티 리플릿 #도쿄 2]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3b504c54496944958f6843c15a7a528e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 집이 곧 휴양지 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[방구석 홈캉스 떠나는 방법]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e9268a417cc84e25abb1cea620619d89.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
