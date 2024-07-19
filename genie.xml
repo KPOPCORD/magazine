@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 08:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 09:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KIMKIMPARKKIM's 인생 음반 ＃37]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=14470&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=14470&amp;pg=1</guid>
+            <pubDate>Fri, 19 Jul 2024 09:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[김김박김]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14470/Mgz_Main_List_20240719155449.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[“Stray Kids(스트레이 키즈)가 찢었다!” 올여름 시원하게 끝장낼 St...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14460&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14460&amp;pg=1</guid>
+            <pubDate>Fri, 19 Jul 2024 09:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14460/Mgz_Main_List_20240718170414.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[사라진 놀이터에서 희망의 노래를, 2Z의 [Playground] 자켓 촬영 비...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14462&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 17 Jul 2024 09:15:31 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14445/Mgz_Main_List_20240716154534.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[3월 ‘BLUEBLACK’ 에 이어 발매한 ‘COLORS’ 시리즈의 두 번째 ...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14452&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14452&amp;pg=1</guid>
-            <pubDate>Wed, 17 Jul 2024 03:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14452/Mgz_Main_List_20240717102114.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 소중한 음악, ‘지니’에 걸어보세요! ‘genie rele’]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14457&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14457&amp;pg=1</guid>
-            <pubDate>Tue, 16 Jul 2024 07:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14457/Mgz_Main_List_20240716103518.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
