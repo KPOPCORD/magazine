@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 08:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 09:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우산 없는 당신을 위해, Soffee [내일 날씨 좀 봐줘] 뮤직비디오 비하인...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14468&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14468&amp;pg=1</guid>
+            <pubDate>Tue, 23 Jul 2024 09:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14468/Mgz_Main_List_20240723110102.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[“한국 POP PUNK의 보석” RIOT KIDZ 세 번째 정규 앨범 [98%...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14466&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14466&amp;pg=1</guid>
+            <pubDate>Tue, 23 Jul 2024 09:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14466/Mgz_Main_List_20240723114445.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[이제 브람스를 좋아할 때가 되었습니다 – 야니크 네제 세갱의 브람스 교향곡 전...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14476&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 22 Jul 2024 03:15:40 GMT</pubDate>
             <content:encoded><![CDATA[힙알사전]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14473/Mgz_Main_List_20240722104625.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[대전으로의 감성여행, 블루베이커리의 네 번째 신곡 '대전에서' MV 촬영 현장...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14467&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14467&amp;pg=1</guid>
-            <pubDate>Mon, 22 Jul 2024 03:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14467/Mgz_Main_List_20240722102114.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[밴드 ‘향 (HYANG)’ 첫 번째 EP, [Take off] 작업 비하인드]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14464&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14464&amp;pg=1</guid>
-            <pubDate>Mon, 22 Jul 2024 03:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14464/Mgz_Main_List_20240722104815.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
