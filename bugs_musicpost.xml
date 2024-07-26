@@ -4,9 +4,16 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 23:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 00:55:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 84. Post Malone - 'I Had Some Help (feat. Morgan Wallen)']]></title>
+            <link>https://music.bugs.co.kr/musicpost/1MSUUM2YU84416SEOYEE?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/1MSUUM2YU84416SEOYEE?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 26 Jul 2024 00:55:27 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[솔비 - 무더운 여름을 시원하게 날려줄 'Monday Disco' MV 촬영 비하인드]]></title>
             <link>https://music.bugs.co.kr/musicpost/DD4PEJ0NTE4YOJTAZ54N?&amp;wl_ref=list_sp_01_h</link>
@@ -32,12 +39,12 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/3JVWIHL09F0TJ6AB0JWB/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리뎀션즈 - 사랑의 로큰롤 밴드가 직접 소개하는 미니앨범 [쇼생크 탈출]]]></title>
-            <link>https://music.bugs.co.kr/musicpost/IRVC3Y2QXTFFY3HXYQNC?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/IRVC3Y2QXTFFY3HXYQNC?&amp;wl_ref=list_sp_01_h</guid>
+            <title><![CDATA[2Z(투지) - 'Playground' MV 촬영 현장 공개!]]></title>
+            <link>https://music.bugs.co.kr/musicpost/3JVWIHL09F0TJ6AB0JWB?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/3JVWIHL09F0TJ6AB0JWB?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/IRVC3Y2QXTFFY3HXYQNC/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/3JVWIHL09F0TJ6AB0JWB/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제이문(Jay Moon) - 정규 2집 [Moonbeams & Melodies] 타이틀곡 '공중분해' MV 비하인드]]></title>
@@ -187,14 +194,6 @@
             <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OYSACJV6NE4RLQG321LW/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Loossemble (루셈블) - [One of a Kind] 'Girls’ Night' 자켓 촬영 현장 공개]]></title>
-            <link>https://music.bugs.co.kr/musicpost/1O1LYG9PJ8HHLS6MDTUR?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/1O1LYG9PJ8HHLS6MDTUR?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/1O1LYG9PJ8HHLS6MDTUR/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
