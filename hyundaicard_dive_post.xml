@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 06:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 07:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한여름 밤의 드림 팝]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 CAS 리스닝 이벤트 리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6758601e54bd431f9700196301169689.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올림픽, 스포츠라는 영감]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[[이성동의 더 넥스트] 패션에 대한 착각 #4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c4403f1cc5aa4cc28eb94a16bf3e3766.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 94 SOLE]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[타임머신 같은 쏠의 첫 단독 공연]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2e5f90cf171f455b99322414ced9734f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
