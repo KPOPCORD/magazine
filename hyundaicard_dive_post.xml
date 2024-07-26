@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 00:55:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 02:02:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[25년의 여정, 헤리티지 코퍼 사이렌]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[스타벅스 현대카드 2024 한정판 플레이트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3cb440c1ee904eae8ab4479509dc2b93.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[굳닷컴과 함께 홈 스위트 홈]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 09]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0f2a097786e64634a7aa1cfede58bb77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본에서 휴식도, 쇼핑도 자유롭게]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[츠타야서점 라운지 이용 및 빅카메라 딜리버리]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/08832138318b4fdaaa6a1aef8daedf45.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
