@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jul 2024 00:55:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jul 2024 02:00:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양반들이 남도로 간 까닭은?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[[전범선의 풍류] 땅끝에서 만난 남도의 풍류]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/29eafdc861434e4e96d3ce83fe610320.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한여름 밤의 드림 팝]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[입소문 난 전국 어촌체험휴양마을 BEST 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f836c0a71ba04d0b9ca500412a7d2cfa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초기 패션 사업가의 자금 확보 노하우]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[[이성동의 더 넥스트] 패션에 대한 착각 #4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c4403f1cc5aa4cc28eb94a16bf3e3766.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
