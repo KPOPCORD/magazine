@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 00:58:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jul 2024 02:06:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찰리와 롤라, 사람을 있는 그대로!]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[뮤지컬 &lt;킹키부츠&gt; 배우 2인과의 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/89c0ac10838947ebb9f68a3e7027f7a0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도쿄 아트 신의 뉴 페이스]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[네덜란드 북 디자인 어워드 디렉터 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b91e2285287240fca337516dbfd2de6b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전설의 댄스 뮤직]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[7월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4dc1da84cffa475db052afc94d9305ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
