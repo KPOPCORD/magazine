@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 00:56:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 02:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동심을 찾아 줘]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[키덜트를 위한 전 세계 테마파크 BEST 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2042a5ea0d4341388dfc8635f5d3ea39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그린과 앰버로 물든 팜 투 테이블]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[스타벅스 현대카드 2024 한정판 플레이트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3cb440c1ee904eae8ab4479509dc2b93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[굳닷컴과 함께 홈 스위트 홈]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[굳닷컴이 제안하는 리빙 아이템]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bf0b7d6feb724cc89776993e0fe830d0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
