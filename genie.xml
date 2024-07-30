@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 08:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 09:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘Treat Me Better’로 여러분에게 찾아온 Riaan (리안), 뮤직...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14485&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14485&amp;pg=1</guid>
+            <pubDate>Tue, 30 Jul 2024 09:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14485/Mgz_Main_List_20240730104407.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[음율의 첫 정규앨범 ‘환상설화 (幻想說話)’ 발매 기념 인터뷰]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14498&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Jul 2024 03:14:48 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14483/Mgz_Main_List_20240726102723.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 고막남친 유승우의 EP 앨범 'playlist' 앨범 자켓 비하인드]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14475&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14475&amp;pg=1</guid>
-            <pubDate>Thu, 25 Jul 2024 09:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14475/Mgz_Main_List_20240725095315.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
