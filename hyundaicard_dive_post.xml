@@ -4,9 +4,33 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jul 2024 14:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 15:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이브러리 바캉스]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 라이브러리 8월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b03ce0920e514db28e5b1a19eb0fa6ab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[힙합과 재즈의 골든 에이지]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[8월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/36dd9b859fb64239ba7984d5be87a8ab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기계적이고 차가운 댄스 음악]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 8월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/03a8c41a8578456fa32a41da00630332.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DIVE Pick! 취향별 숙소 안내서]]></title>
             <link>javascript:;</link>
@@ -54,30 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[페이스 갤러리가 선택한 일곱 번째 도시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4ef65f97cca24b2fbf311040cb6e7246.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양반들이 남도로 간 까닭은?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[[전범선의 풍류] 땅끝에서 만난 남도의 풍류]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/29eafdc861434e4e96d3ce83fe610320.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한여름 밤의 드림 팝]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 CAS 리스닝 이벤트 리뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6758601e54bd431f9700196301169689.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올림픽, 스포츠라는 영감]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[파리 올림픽을 기념하는 이색 공간]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d08cc89771f74f7499aaaf0a9ba626d0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
