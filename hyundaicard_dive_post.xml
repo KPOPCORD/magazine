@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 04:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 05:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브랜디의 신세계]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드의 뉴 스페이스, Red11]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/18da00e99a4448f49ac763544dcb90ce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올림픽 픽토그램의 창시자]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[대한항공카드 Edition2 들여다보기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6659010dba0d4ec598afd2fb6f57b009.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찰리와 롤라, 사람을 있는 그대로!]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[뮤지컬 &lt;킹키부츠&gt; 배우 2인과의 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/89c0ac10838947ebb9f68a3e7027f7a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
