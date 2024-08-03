@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Aug 2024 00:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Aug 2024 02:00:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이브러리 바캉스]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 라이브러리 8월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b03ce0920e514db28e5b1a19eb0fa6ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로봇을 입는 시대]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[맥캘란 하모니 컬렉션의 위스키 페어링 다이닝]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8cf0e858b93a42a2a830f63489b93ee4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역시, 최초의 대한항공카드답게]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[대한항공카드 Edition2 들여다보기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6659010dba0d4ec598afd2fb6f57b009.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
