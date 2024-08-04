@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Aug 2024 23:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Aug 2024 01:00:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ RM (VIBE ─ 매거진)]]></title>
 키스 오브 라이프 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 03 Aug 2024 23:13:25 GMT</pubDate>
+            <pubDate>Sun, 04 Aug 2024 01:00:33 GMT</pubDate>
             <content:encoded><![CDATA[장마와 무더위가 계속되는 여름. 이에 많은 음악계는 여름을 겨냥한 시즌 송을 발표하며 팬들의 마음을 달래고 있다. 그런 와중에 요즘 음악 트렌드와 걸맞은 아프리카 사운드로 여러 차트에서 돌풍을 일으키고 있는 그룹이 있으니. 바로 키스 오브 라이프다. 이주의 디깅에서는 키스 오브 라이프를 통해 아프리카의 음악 세계로 여행을 떠나 보자. – 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240723_4/1721715503059k1h5f_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아티스틱 컬래버레이션 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[페기 구와 올라퍼 엘리아슨의 만남]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6dc231f241c540e69166a71a88735128.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라이브러리 바캉스 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ RM (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[키덜트를 위한 전 세계 테마파크 BEST 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2042a5ea0d4341388dfc8635f5d3ea39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그린과 앰버로 물든 팜 투 테이블 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[맥캘란 하모니 컬렉션의 위스키 페어링 다이닝]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8cf0e858b93a42a2a830f63489b93ee4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

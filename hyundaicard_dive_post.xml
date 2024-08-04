@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Aug 2024 23:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Aug 2024 01:00:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아티스틱 컬래버레이션]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[페기 구와 올라퍼 엘리아슨의 만남]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6dc231f241c540e69166a71a88735128.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라이브러리 바캉스]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[키덜트를 위한 전 세계 테마파크 BEST 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2042a5ea0d4341388dfc8635f5d3ea39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그린과 앰버로 물든 팜 투 테이블]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[맥캘란 하모니 컬렉션의 위스키 페어링 다이닝]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8cf0e858b93a42a2a830f63489b93ee4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
