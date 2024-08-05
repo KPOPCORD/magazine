@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 00:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 02:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[충청에서 뭐 하니?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[풍문으로 들었소 #충청]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/01d883bbc4974ed981976c492d18b859.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아티스틱 컬래버레이션]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[PRIVIA로 떠나는 국내 테마 숙소 8]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/77389bbd28004efbbaf047f495d38178.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동심을 찾아 줘]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[키덜트를 위한 전 세계 테마파크 BEST 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2042a5ea0d4341388dfc8635f5d3ea39.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
