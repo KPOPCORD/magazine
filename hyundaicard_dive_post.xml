@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 07:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 08:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소호 하우스와의 만남]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[Delicious Cooking #1]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5aae38da551e4d6a87c308ce64c3e744.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[푸짐한 배민포인트 배민현대카드II]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[8월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/36dd9b859fb64239ba7984d5be87a8ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기계적이고 차가운 댄스 음악]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 8월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/03a8c41a8578456fa32a41da00630332.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
