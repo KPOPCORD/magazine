@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 04:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 05:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푸짐한 배민포인트 배민현대카드II]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[푸짐한 혜택 들여다보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/89336f92d8384037b5b1f417e33764cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[충청에서 뭐 하니?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 8월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/03a8c41a8578456fa32a41da00630332.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DIVE Pick! 취향별 숙소 안내서]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[PRIVIA로 떠나는 국내 테마 숙소 8]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/77389bbd28004efbbaf047f495d38178.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
