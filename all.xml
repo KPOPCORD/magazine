@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 02:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 03:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/4GGVN3D1LK7J0DCPGYYN/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[팔칠 녹음 처음보지않아? 팔칠댄스 새로운 싱글 [devil] 녹음 비하인드 씬 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14515&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14515&amp;pg=1</guid>
+            <pubDate>Wed, 07 Aug 2024 03:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14515/Mgz_Main_List_20240805153054.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[윤산하 (ASTRO) 의 'Dive' 뮤직비디오 촬영 현장 비하인드 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14510&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14510&amp;pg=1</guid>
@@ -251,14 +259,6 @@
             <pubDate>Mon, 05 Aug 2024 09:13:29 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14500/Mgz_Main_List_20240805151356.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 제철을 책임집니다. <폴베리> (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=14514&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=14514&amp;pg=1</guid>
-            <pubDate>Mon, 05 Aug 2024 03:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14514/Mgz_Main_List_20240805110857.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #188: 
@@ -373,7 +373,7 @@
 혁오 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 07 Aug 2024 02:05:55 GMT</pubDate>
+            <pubDate>Wed, 07 Aug 2024 03:14:37 GMT</pubDate>
             <content:encoded><![CDATA[수많은 팬들이 기다리던 혁오의 새 앨범이 4년의 공백을 깨고 도착했다. 대만의 밴드 선셋 롤러코스터와 혁오가 함께 만든 앨범 &lt;AAA&gt;는 다채로운 사운드 안에 넘실대는 편안한 분위기가 특히 인상적이다. 두 밴드가 약 1년 간 함께 연주하며 만든 그들의 앨범이자 기록을 이주의 디깅과 함께 더 알아가 보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240802_243/17225833358266fDWY_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
