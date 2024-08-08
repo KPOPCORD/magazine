@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 00:57:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 02:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@
 혁오 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 08 Aug 2024 00:57:18 GMT</pubDate>
+            <pubDate>Thu, 08 Aug 2024 02:04:44 GMT</pubDate>
             <content:encoded><![CDATA[수많은 팬들이 기다리던 혁오의 새 앨범이 4년의 공백을 깨고 도착했다. 대만의 밴드 선셋 롤러코스터와 혁오가 함께 만든 앨범 &lt;AAA&gt;는 다채로운 사운드 안에 넘실대는 편안한 분위기가 특히 인상적이다. 두 밴드가 약 1년 간 함께 연주하며 만든 그들의 앨범이자 기록을 이주의 디깅과 함께 더 알아가 보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240802_243/17225833358266fDWY_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시네마틱 런던 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[모던 시티 리플릿 #런던]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9f436961322546b6b357b0b8e9c567e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지성과 감성의 컬래버레이션 스테이 (현대카드 DIVE ─ POST)]]></title>
@@ -410,30 +418,6 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b1bc300717594e7897d9d2292c9f3907.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[DAY 3 라인업 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024 다빈치모텔 무대의 주인공은 누구?]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5b3bd8e34a7549c38ecb8d3ef87e3276.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DAY 2 라인업 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024 다빈치모텔 무대의 주인공은 누구?]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/596565c8dac1401abde941841572e5ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DAY 1 라인업 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024 다빈치모텔 무대의 주인공은 누구?]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3b399078fe8e4f5e9977b36fca046afc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한여름의 풍경 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -448,6 +432,22 @@
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 8월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/03a8c41a8578456fa32a41da00630332.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소호 하우스와의 만남 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[Delicious Cooking #1]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5aae38da551e4d6a87c308ce64c3e744.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸짐한 배민포인트 배민현대카드II (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[푸짐한 혜택 들여다보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/89336f92d8384037b5b1f417e33764cf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
