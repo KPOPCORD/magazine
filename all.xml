@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 02:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 03:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Favorite - COMING SOON! (8/14) (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스님 - 부처핸섬, 극락왕생을 이을 DJ 뉴진스님의 'Don’t Be Greedy' (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/HDVGPDV41INSWMBBMT9N?&amp;wl_ref=list_sp_01_h</link>
@@ -14,14 +22,6 @@
             <pubDate>Thu, 08 Aug 2024 09:13:31 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HDVGPDV41INSWMBBMT9N/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Favorite - COMING SOON! (8/7) (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크래커(CRACKER) - 너에게 꼭 붙어 있고 싶어, 여름 정취 가득 담은 싱글 '맴맴' (벅스 ─ 뮤직포스트)]]></title>
@@ -197,6 +197,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/AGXLXQQRYOO0146AES4S/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[재즈의 새로운 고전 ＃48 - 비밥 속 숨겨져 있던 현대 재즈의 단초! (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14526&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14526&amp;pg=1</guid>
+            <pubDate>Fri, 09 Aug 2024 03:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14526/Mgz_Main_List_20240809112626.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[자식을 위해 괴물이 되기로 한 두 아버지의 부성 본능 대치극! ENA 월화드라... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=14522&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=14522&amp;pg=1</guid>
+            <pubDate>Fri, 09 Aug 2024 03:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[방송]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14522/Mgz_Main_List_20240808110001.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA['DJ 뉴진(New 進)스님' 의 새로운 앨범! [Don't Be Greddy... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14518&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14518&amp;pg=1</guid>
@@ -243,22 +259,6 @@
             <pubDate>Wed, 07 Aug 2024 03:14:24 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14515/Mgz_Main_List_20240805153054.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[윤산하 (ASTRO) 의 'Dive' 뮤직비디오 촬영 현장 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14510&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14510&amp;pg=1</guid>
-            <pubDate>Tue, 06 Aug 2024 09:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14510/Mgz_Main_List_20240806173923.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[“추구미 = G.O.A.T” 젠지 공주들이 발견할 새로운 나, UNIS(유니스... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14505&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14505&amp;pg=1</guid>
-            <pubDate>Tue, 06 Aug 2024 09:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14505/Mgz_Main_List_20240805153137.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #188: 
@@ -373,7 +373,7 @@
 혁오 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 09 Aug 2024 02:06:23 GMT</pubDate>
+            <pubDate>Fri, 09 Aug 2024 03:14:48 GMT</pubDate>
             <content:encoded><![CDATA[수많은 팬들이 기다리던 혁오의 새 앨범이 4년의 공백을 깨고 도착했다. 대만의 밴드 선셋 롤러코스터와 혁오가 함께 만든 앨범 &lt;AAA&gt;는 다채로운 사운드 안에 넘실대는 편안한 분위기가 특히 인상적이다. 두 밴드가 약 1년 간 함께 연주하며 만든 그들의 앨범이자 기록을 이주의 디깅과 함께 더 알아가 보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240802_243/17225833358266fDWY_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
