@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 07:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 08:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사진이라는 예술 장르]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 MoMA 포토그래피 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7185d9bb3b054925aa3bedb07c9bc2e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시네마틱 런던]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[Delicious Cooking #1]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5aae38da551e4d6a87c308ce64c3e744.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸짐한 배민포인트 배민현대카드II]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[푸짐한 혜택 들여다보기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/89336f92d8384037b5b1f417e33764cf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
