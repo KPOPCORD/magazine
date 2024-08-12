@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 08:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 09:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너드커넥션 정규 2집 [그래도 우리는] 뮤직비디오 촬영 비하인드]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14528&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14528&amp;pg=1</guid>
+            <pubDate>Mon, 12 Aug 2024 09:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14528/Mgz_Main_List_20240812165932.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[경쾌한 멜로디, 에너제틱 매력 폭팔! 프로미스나인 세 번째 싱글 앨범 [Sup...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14524&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14524&amp;pg=1</guid>
+            <pubDate>Mon, 12 Aug 2024 09:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14524/Mgz_Main_List_20240812164401.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[이도이 (Doyi Lee) 첫 번째 정규앨범 [eeliyod] ‘WE OK 뮤...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14529&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 09 Aug 2024 03:14:36 GMT</pubDate>
             <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14526/Mgz_Main_List_20240809112626.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[자식을 위해 괴물이 되기로 한 두 아버지의 부성 본능 대치극! ENA 월화드라...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=14522&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=14522&amp;pg=1</guid>
-            <pubDate>Fri, 09 Aug 2024 03:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[방송]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14522/Mgz_Main_List_20240808110001.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA['DJ 뉴진(New 進)스님' 의 새로운 앨범! [Don't Be Greddy...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14518&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14518&amp;pg=1</guid>
-            <pubDate>Thu, 08 Aug 2024 09:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14518/Mgz_Main_List_20240808105102.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
