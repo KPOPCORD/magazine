@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 07:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 08:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@
 여름을 약속해 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 14 Aug 2024 07:12:29 GMT</pubDate>
+            <pubDate>Wed, 14 Aug 2024 08:17:11 GMT</pubDate>
             <content:encoded><![CDATA[올해 여름이 왜 이렇게 힘든걸까? 프로미스나인이 아직 돌아오지 않아서였을까? 늦기 전에, 수퍼소닉 속도로 돌아온 프로미스나인을 만났다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240813_49/1723528002068o1ky5_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[골프의 시작은 탄탄한 기본기부터 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[베스트 교습가, 허석호 프로를 만나다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1ff9b016757140b08e6091fcf7c87c92.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이스크림과 와인의 콤보 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[2024 현대카드 다빈치모텔]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a05fc12f50c044adad75af58eaa6fd44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 다빈치모텔 친절한 관람 방법 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[예약권 구매와 프로그램 예약, 현장 입장까지]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f69769d179c9431fa16961b7e4715669.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

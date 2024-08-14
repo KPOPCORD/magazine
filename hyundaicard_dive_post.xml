@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 07:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 08:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[골프의 시작은 탄탄한 기본기부터]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[베스트 교습가, 허석호 프로를 만나다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1ff9b016757140b08e6091fcf7c87c92.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이스크림과 와인의 콤보]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[2024 현대카드 다빈치모텔]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a05fc12f50c044adad75af58eaa6fd44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 다빈치모텔 친절한 관람 방법]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[예약권 구매와 프로그램 예약, 현장 입장까지]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f69769d179c9431fa16961b7e4715669.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
