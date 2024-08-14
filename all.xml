@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 08:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 09:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,14 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[루네이트(LUN8)의 청춘을 담은 앨범! [AWAKENING] 재킷 촬영 비하... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14527&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14527&amp;pg=1</guid>
+            <pubDate>Wed, 14 Aug 2024 09:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14527/Mgz_Main_List_20240813151821.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[힙합 따라잡기 ＃80 - 오코예의 친구들은?! (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=14539&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=14539&amp;pg=1</guid>
@@ -251,14 +259,6 @@
             <pubDate>Tue, 13 Aug 2024 03:14:46 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14525/Mgz_Main_List_20240813095633.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[너드커넥션 정규 2집 [그래도 우리는] 뮤직비디오 촬영 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14528&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14528&amp;pg=1</guid>
-            <pubDate>Mon, 12 Aug 2024 09:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14528/Mgz_Main_List_20240812165932.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #188: 
@@ -373,7 +373,7 @@
 여름을 약속해 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 14 Aug 2024 08:17:11 GMT</pubDate>
+            <pubDate>Wed, 14 Aug 2024 09:13:59 GMT</pubDate>
             <content:encoded><![CDATA[올해 여름이 왜 이렇게 힘든걸까? 프로미스나인이 아직 돌아오지 않아서였을까? 늦기 전에, 수퍼소닉 속도로 돌아온 프로미스나인을 만났다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240813_49/1723528002068o1ky5_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
