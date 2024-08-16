@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 08:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 09:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,22 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[MIMIIROSE(미미로즈) 3RD SINGLE ALBUM ‘흔들리지 않고 피... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14538&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14538&amp;pg=1</guid>
+            <pubDate>Fri, 16 Aug 2024 09:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14538/Mgz_Main_List_20240814115523.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[정성스레 폭발하는 A.TRAIN (에이트레인) 싱글 [WHEN SHE SMOK... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14535&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14535&amp;pg=1</guid>
+            <pubDate>Fri, 16 Aug 2024 09:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14535/Mgz_Main_List_20240813151916.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[끝없이 탐구하고 나아가는 고고학의 세계 [Vol.05] 앨범 제작기 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14537&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14537&amp;pg=1</guid>
@@ -243,22 +259,6 @@
             <pubDate>Wed, 14 Aug 2024 03:15:33 GMT</pubDate>
             <content:encoded><![CDATA[방송]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14534/Mgz_Main_List_20240813104125.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[프란츠 슈베르트부터 샤를 트르네까지, 세르게이 바바얀이 선사하는 특별한 여정 ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14532&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14532&amp;pg=1</guid>
-            <pubDate>Wed, 14 Aug 2024 03:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14532/Mgz_Main_List_20240814105016.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 무더위 날려 줄 청량감 넘치는 Raon(라온)의 [Hi, dream] (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14530&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14530&amp;pg=1</guid>
-            <pubDate>Tue, 13 Aug 2024 09:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14530/Mgz_Main_List_20240813173540.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #188: 
@@ -373,7 +373,7 @@
 여름을 약속해 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 16 Aug 2024 08:17:43 GMT</pubDate>
+            <pubDate>Fri, 16 Aug 2024 09:15:36 GMT</pubDate>
             <content:encoded><![CDATA[올해 여름이 왜 이렇게 힘든걸까? 프로미스나인이 아직 돌아오지 않아서였을까? 늦기 전에, 수퍼소닉 속도로 돌아온 프로미스나인을 만났다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240813_49/1723528002068o1ky5_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
