@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Aug 2024 00:55:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Aug 2024 02:01:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션인과 창업자의 경계에서]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[[이성동의 더 넥스트] 패션에 대한 착각 #5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b16d83a866734718a4d21627d7eee5f4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거리를 물들이는 목소리]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[당신의 마음을 감동시킬 밴드]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/335c635f92a04f469929c70c6e3e0741.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사진이라는 예술 장르]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 MoMA 포토그래피 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7185d9bb3b054925aa3bedb07c9bc2e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
