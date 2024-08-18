@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Aug 2024 23:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Aug 2024 01:00:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@
 여름을 약속해 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 17 Aug 2024 23:12:11 GMT</pubDate>
+            <pubDate>Sun, 18 Aug 2024 01:00:42 GMT</pubDate>
             <content:encoded><![CDATA[올해 여름이 왜 이렇게 힘든걸까? 프로미스나인이 아직 돌아오지 않아서였을까? 늦기 전에, 수퍼소닉 속도로 돌아온 프로미스나인을 만났다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240813_49/1723528002068o1ky5_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이런 가전 이런 가치 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[구경만으로도 짜릿한 초고가 가전]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8326eea093d04788a4927eca55f01b46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패션인과 창업자의 경계에서 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[[창작의 나침반] 예술을 향한 믿음과 애정]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6048649d477644dda3b1c5d949b978df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BONUS TRACK 15. 터치드 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[당신의 마음을 감동시킬 밴드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/335c635f92a04f469929c70c6e3e0741.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
