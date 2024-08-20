@@ -4,9 +4,25 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 02:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 03:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷰 (view) - 디지털 싱글 [Let You Win] 작업 현장 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/OH4RW4C4VIGQ5VIVSAGH?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/OH4RW4C4VIGQ5VIVSAGH?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 20 Aug 2024 03:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OH4RW4C4VIGQ5VIVSAGH/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구만(9.10000) - '여명' 뮤직비디오 비하인드 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/CGD3A9NNK0I683RAKVRO?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/CGD3A9NNK0I683RAKVRO?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 20 Aug 2024 03:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/CGD3A9NNK0I683RAKVRO/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 85. Liana Flores - 'I wish for the rain']]></title>
             <link>https://music.bugs.co.kr/musicpost/5NO7VBAD4MDYEP3S516D?&amp;wl_ref=list_sp_01_h</link>
@@ -179,22 +195,6 @@
             <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ZTNASDGN629KWFOV8U2J/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ego apartment - 두 번째 정규 앨범 [ku ru I] 발매 기념 인터뷰]]></title>
-            <link>https://music.bugs.co.kr/musicpost/L2LCBNJY75XXAFGZQWSE?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/L2LCBNJY75XXAFGZQWSE?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/L2LCBNJY75XXAFGZQWSE/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IT'S NEW! 5월 issue]]></title>
-            <link>https://music.bugs.co.kr/musicpost/TPPP6SMTXWAY2XUEN9VP?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/TPPP6SMTXWAY2XUEN9VP?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/TPPP6SMTXWAY2XUEN9VP/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
