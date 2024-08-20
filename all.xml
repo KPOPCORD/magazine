@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 00:57:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 02:04:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@
 재현, 피니어스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 20 Aug 2024 00:57:04 GMT</pubDate>
+            <pubDate>Tue, 20 Aug 2024 02:04:15 GMT</pubDate>
             <content:encoded><![CDATA[솔로 데뷔를 앞둔 재현부터 새로운 정규 앨범의 리드 싱글을 공개한 피니어스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 한승희]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240819_268/17240334914945gGz3_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Our Typeface (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 서체 아카이브 북 발간]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/067a537f45fd4110af05d0de6ed99d43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이런 가전 이런 가치 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[8월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/36dd9b859fb64239ba7984d5be87a8ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예술가들은 기나긴 무명 시절을 어떻게 버텼을까? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[[창작의 나침반] 예술을 향한 믿음과 애정]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6048649d477644dda3b1c5d949b978df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
