@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 02:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 03:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어쩌다 러닝]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[서울 시내 러닝 추천 코스 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/47aae254916d4bd29424d7f86c03301c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Our Typeface]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[풍문으로 들었소 #제주]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/06d316dc0f1e4ff8874a8a1e2b70047e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙합과 재즈의 골든 에이지]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[8월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/36dd9b859fb64239ba7984d5be87a8ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
