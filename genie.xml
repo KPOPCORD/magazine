@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 08:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 09:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AFOTS (에이팟츠) 의 첫 만남, 첫 이야기, 그리고 첫 노래 [새 : 파...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14561&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14561&amp;pg=1</guid>
+            <pubDate>Fri, 23 Aug 2024 09:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14561/Mgz_Main_List_20240823151743.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[이 결혼, 뿌린 대로 거두리라! tvN X TVING 오리지널 드라마 <손해 ...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=14562&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 21 Aug 2024 06:17:47 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14547/Mgz_Main_List_20240821151649.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[미니앨범 [연구일지 2]로 돌아온, Q the trumpet (큐더트럼펫)과의...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14555&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14555&amp;pg=1</guid>
-            <pubDate>Wed, 21 Aug 2024 03:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14555/Mgz_Main_List_20240821101915.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
