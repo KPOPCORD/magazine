@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 04:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 05:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[Saturday Market 스페셜 프로그램]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/39c073124e204d1f942c49c64cbeb715.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부르고뉴 와인의 향연]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[Saturday Market #1 와인]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2266016762de4f138ed82e1feb536286.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왜 이제야 왔어?]]></title>
@@ -78,6 +70,14 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[피톤치드 가득한 숲속 에어비앤비]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/82a068991dda4dcaa0b6776aae9b2672.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[골프의 시작은 탄탄한 기본기부터]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[베스트 교습가, 허석호 프로를 만나다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1ff9b016757140b08e6091fcf7c87c92.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
