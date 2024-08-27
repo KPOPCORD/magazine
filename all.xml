@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 04:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 05:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT'S NEW! 8월 issue (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/2OVWEI9SSXMVN7RZ1Y9J?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/2OVWEI9SSXMVN7RZ1Y9J?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 27 Aug 2024 05:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2OVWEI9SSXMVN7RZ1Y9J/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (8/28) (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -189,14 +197,6 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/KFYVD46D8SURLKG2I05P/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[nochexintoma - 씬의 트렌디함을 이끄는 노체씬토마의 새 앨범 [i i i] 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/ZTNASDGN629KWFOV8U2J?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/ZTNASDGN629KWFOV8U2J?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ZTNASDGN629KWFOV8U2J/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[왜 가곡이 필요하냐고 묻는다면 - 테너 김민석의 ＜그대 있음에＞ (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14577&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14577&amp;pg=1</guid>
@@ -373,7 +373,7 @@
 HONNE (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 27 Aug 2024 04:18:13 GMT</pubDate>
+            <pubDate>Tue, 27 Aug 2024 05:13:16 GMT</pubDate>
             <content:encoded><![CDATA[포근한 사운드로 사랑받는 영국의 신스팝 듀오, 혼네가 신곡 5곡이 담긴 EP 앨범을 발표했다. 이는 9월에 발표될 정규 앨범 &lt;OUCH&gt;의 선공개 곡들의 모음으로, 그들의 새 앨범을 엿볼 수 있는 힌트가 되어줄 것이다. 사랑과 관련하여 자신들의 삶에서 겪었던 일들을 엮어 노래로 만드는 그들. 혼네의 새 앨범을 기다리며, 그들의 뒤를 좇아가보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240820_184/1724130537705JHKqG_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
