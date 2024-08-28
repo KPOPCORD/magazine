@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 00:59:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 02:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@
 HONNE (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 28 Aug 2024 00:59:07 GMT</pubDate>
+            <pubDate>Wed, 28 Aug 2024 02:09:28 GMT</pubDate>
             <content:encoded><![CDATA[포근한 사운드로 사랑받는 영국의 신스팝 듀오, 혼네가 신곡 5곡이 담긴 EP 앨범을 발표했다. 이는 9월에 발표될 정규 앨범 &lt;OUCH&gt;의 선공개 곡들의 모음으로, 그들의 새 앨범을 엿볼 수 있는 힌트가 되어줄 것이다. 사랑과 관련하여 자신들의 삶에서 겪었던 일들을 엮어 노래로 만드는 그들. 혼네의 새 앨범을 기다리며, 그들의 뒤를 좇아가보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240820_184/1724130537705JHKqG_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[츠타야 서울에 오다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[TSUTAYA-CCC ART LAB 쇼케이스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4a699a255bee4118b0e9965fde5fdd09.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Apple Pay 픽 단골 가게 1 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ HONNE (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[서울 시내 러닝 추천 코스 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/47aae254916d4bd29424d7f86c03301c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Our Typeface (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 서체 아카이브 북 발간]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/067a537f45fd4110af05d0de6ed99d43.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

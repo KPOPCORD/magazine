@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 00:59:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 02:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[츠타야 서울에 오다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[TSUTAYA-CCC ART LAB 쇼케이스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4a699a255bee4118b0e9965fde5fdd09.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Apple Pay 픽 단골 가게 1]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[서울 시내 러닝 추천 코스 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/47aae254916d4bd29424d7f86c03301c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Our Typeface]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 서체 아카이브 북 발간]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/067a537f45fd4110af05d0de6ed99d43.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
