@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 02:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 03:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/KFYVD46D8SURLKG2I05P/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[달라서 더 매력적인 음악, 재즈에 빠진 클래식 음악가들 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14578&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14578&amp;pg=1</guid>
+            <pubDate>Thu, 29 Aug 2024 03:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14578/Mgz_Main_List_20240829101226.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼포먼스 아이돌 프로젝트 '특전소녀전선'의 새 싱글 앨범 [특전소녀전선 Spr... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14575&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14575&amp;pg=1</guid>
+            <pubDate>Thu, 29 Aug 2024 03:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14575/Mgz_Main_List_20240828173009.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[신곡 'Marmalade'로 돌아온 새벽공방이 전하는 ＜Marmalade＞ R... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14579&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14579&amp;pg=1</guid>
@@ -243,22 +259,6 @@
             <pubDate>Tue, 27 Aug 2024 09:13:59 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14569/Mgz_Main_List_20240827104526.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[NOWADAYS 2nd Single [NOWHERE] 재킷 촬영 현장 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14563&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14563&amp;pg=1</guid>
-            <pubDate>Tue, 27 Aug 2024 09:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14563/Mgz_Main_List_20240827111712.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[왜 가곡이 필요하냐고 묻는다면 - 테너 김민석의 ＜그대 있음에＞ (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14577&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14577&amp;pg=1</guid>
-            <pubDate>Tue, 27 Aug 2024 03:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14577/Mgz_Main_List_20240827103515.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #189: 
@@ -373,7 +373,7 @@
 HONNE (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 29 Aug 2024 02:10:45 GMT</pubDate>
+            <pubDate>Thu, 29 Aug 2024 03:15:26 GMT</pubDate>
             <content:encoded><![CDATA[포근한 사운드로 사랑받는 영국의 신스팝 듀오, 혼네가 신곡 5곡이 담긴 EP 앨범을 발표했다. 이는 9월에 발표될 정규 앨범 &lt;OUCH&gt;의 선공개 곡들의 모음으로, 그들의 새 앨범을 엿볼 수 있는 힌트가 되어줄 것이다. 사랑과 관련하여 자신들의 삶에서 겪었던 일들을 엮어 노래로 만드는 그들. 혼네의 새 앨범을 기다리며, 그들의 뒤를 좇아가보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240820_184/1724130537705JHKqG_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
