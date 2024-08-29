@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 00:59:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 02:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포착과 편집 그리고 진심]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[다니엘 아놀드, 다빈치모텔에 체크인하다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e9abb56cb361460b961c9132f4972363.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[항공, 모빌리티, 쇼핑을 한 장에 담다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[Saturday Market 스페셜 프로그램]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/39c073124e204d1f942c49c64cbeb715.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왜 이제야 왔어?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[한국 상륙 임박한 해외 F&amp;B 브랜드 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e8c90bf997e64cc18fbde96ae266bcff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
