@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 08:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 09:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[터치드와 Stand Up!]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[터치드 BONUS TRACK 현장과 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0632f03979c54419b69976a510fcb043.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칵테일 탐험가의 뉴 아지트]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[[전범선의 풍류] 단골무당을 만나다]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fbb8af57e8b746ac87bd49ccceb2af88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불꽃같은 삶의 기록]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 09]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/338410c9c70b4459a4a51291656f0b44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

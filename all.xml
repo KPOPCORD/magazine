@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 08:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 09:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/KFYVD46D8SURLKG2I05P/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[황가람 (Hwang Karam) ‘너 없음 안된다 슬프다 아프다’ 라이브클립 ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14585&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14585&amp;pg=1</guid>
+            <pubDate>Thu, 29 Aug 2024 09:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14585/Mgz_Main_List_20240829102318.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[방예담 두 번째 미니 앨범 [GOOD ViBES] 타이틀곡 ‘O-HE’ 뮤직비... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14582&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14582&amp;pg=1</guid>
+            <pubDate>Thu, 29 Aug 2024 09:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14582/Mgz_Main_List_20240829114303.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[달라서 더 매력적인 음악, 재즈에 빠진 클래식 음악가들 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14578&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14578&amp;pg=1</guid>
@@ -243,22 +259,6 @@
             <pubDate>Wed, 28 Aug 2024 03:29:34 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14573/Mgz_Main_List_20240828103421.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[재즈덩크 ＃67 - 어느 때보다 제 내면의 소리, 잘 표현할 수 있을 거 같아... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14576&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14576&amp;pg=1</guid>
-            <pubDate>Tue, 27 Aug 2024 09:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14576/Mgz_Main_List_20240827180518.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[RESCENE (리센느) 첫 번째 미니 앨범 [SCENEDROME] 자켓 촬영... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14569&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14569&amp;pg=1</guid>
-            <pubDate>Tue, 27 Aug 2024 09:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14569/Mgz_Main_List_20240827104526.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[이주의 디깅 #189: 
@@ -373,9 +373,17 @@ HONNE (VIBE ─ 매거진)]]></title>
 여름은 아직! (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 29 Aug 2024 08:17:39 GMT</pubDate>
+            <pubDate>Thu, 29 Aug 2024 09:15:24 GMT</pubDate>
             <content:encoded><![CDATA[올해 여름은 고개를 절레절레 흔들만큼 지독히도 더웠지만, 누구보다 여름을 탐탁찮아 해온 이들 중 하나인 윤석철트리오가 그 기억을 멋지게 변화시켜 보겠다고 호기롭게 도전한다. 여름을 향한 재즈의 향연, 트리오를 이끌어온 윤석철과의 대화 속에서 벌써 여름이 조금씩 좋아지기 시작했다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240829_53/1724901178655pPWfW_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[터치드와 Stand Up! (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[터치드 BONUS TRACK 현장과 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0632f03979c54419b69976a510fcb043.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[칵테일 탐험가의 뉴 아지트 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ HONNE (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[[전범선의 풍류] 단골무당을 만나다]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fbb8af57e8b746ac87bd49ccceb2af88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불꽃같은 삶의 기록 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 09]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/338410c9c70b4459a4a51291656f0b44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
