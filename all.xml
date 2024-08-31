@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Aug 2024 14:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Aug 2024 15:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,33 @@ HONNE (VIBE ─ 매거진)]]></title>
 여름은 아직! (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 31 Aug 2024 14:11:21 GMT</pubDate>
+            <pubDate>Sat, 31 Aug 2024 15:13:34 GMT</pubDate>
             <content:encoded><![CDATA[올해 여름은 고개를 절레절레 흔들만큼 지독히도 더웠지만, 누구보다 여름을 탐탁찮아 해온 이들 중 하나인 윤석철트리오가 그 기억을 멋지게 변화시켜 보겠다고 호기롭게 도전한다. 여름을 향한 재즈의 향연, 트리오를 이끌어온 윤석철과의 대화 속에서 벌써 여름이 조금씩 좋아지기 시작했다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240829_53/1724901178655pPWfW_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬란한 아트 스펙트럼 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 라이브러리 9월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3e2525ee9434489692627bbe066336f6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돌아온 밴드 음악 그리고 EDM (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[9월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/715929674c31463da7ec32f7006c8fff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주류가 된 EDM (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 9월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/15ad3d09b2b645c9a0353eeb4ea1a993.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금 모습 그대로도 괜찮아! (현대카드 DIVE ─ POST)]]></title>
@@ -424,30 +448,6 @@ HONNE (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[3 Body-A 현대카드 들여다보기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8740320d9d3d4303b2871adff235c14d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[츠타야 서울에 오다 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[TSUTAYA-CCC ART LAB 쇼케이스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4a699a255bee4118b0e9965fde5fdd09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Apple Pay 픽 단골 가게 1 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[해외여행 핫 스팟 5 #아시아·태평양]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c44a169de2904a07a483dd7d4c1a9b1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로마법이 현대에 전하는 메시지 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[한동일, 다빈치모텔에 체크인하다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/48d5873c16e044cdbd6a08b926fdb751.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
