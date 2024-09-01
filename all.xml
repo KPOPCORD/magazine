@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Aug 2024 23:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Sep 2024 01:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ HONNE (VIBE ─ 매거진)]]></title>
 여름은 아직! (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 31 Aug 2024 23:12:34 GMT</pubDate>
+            <pubDate>Sun, 01 Sep 2024 01:09:09 GMT</pubDate>
             <content:encoded><![CDATA[올해 여름은 고개를 절레절레 흔들만큼 지독히도 더웠지만, 누구보다 여름을 탐탁찮아 해온 이들 중 하나인 윤석철트리오가 그 기억을 멋지게 변화시켜 보겠다고 호기롭게 도전한다. 여름을 향한 재즈의 향연, 트리오를 이끌어온 윤석철과의 대화 속에서 벌써 여름이 조금씩 좋아지기 시작했다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240829_53/1724901178655pPWfW_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포스터 모더니티 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[9월의 디자이너, A. M. 카상드르]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02945076267148888a6852a93a1823f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찬란한 아트 스펙트럼 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ HONNE (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[다니엘 아놀드, 다빈치모텔에 체크인하다]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e9abb56cb361460b961c9132f4972363.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[항공, 모빌리티, 쇼핑을 한 장에 담다 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[3 Body-A 현대카드 들여다보기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8740320d9d3d4303b2871adff235c14d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
