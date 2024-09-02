@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Sep 2024 23:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 01:01:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ HONNE (VIBE ─ 매거진)]]></title>
 여름은 아직! (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 01 Sep 2024 23:13:12 GMT</pubDate>
+            <pubDate>Mon, 02 Sep 2024 01:00:50 GMT</pubDate>
             <content:encoded><![CDATA[올해 여름은 고개를 절레절레 흔들만큼 지독히도 더웠지만, 누구보다 여름을 탐탁찮아 해온 이들 중 하나인 윤석철트리오가 그 기억을 멋지게 변화시켜 보겠다고 호기롭게 도전한다. 여름을 향한 재즈의 향연, 트리오를 이끌어온 윤석철과의 대화 속에서 벌써 여름이 조금씩 좋아지기 시작했다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240829_53/1724901178655pPWfW_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 프리즈의 시간 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[Frieze Seoul 2024 미리 보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ac02c8ec99ea43feae2a4808ada0b3b7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포스터 모더니티 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ HONNE (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[Red11이 선보이는 칵테일과 하이볼]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cdab7aa316fb48bc8e819fe9076474ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포착과 편집 그리고 진심 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[다니엘 아놀드, 다빈치모텔에 체크인하다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e9abb56cb361460b961c9132f4972363.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
