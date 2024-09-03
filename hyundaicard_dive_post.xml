@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 02:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 03:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주말에 베트남 요리 어때요?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 쿠킹 라이브러리 셀프 쿠킹]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/627af7260f8745febd4c082243489191.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 프리즈의 시간]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[터치드 BONUS TRACK 현장과 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0632f03979c54419b69976a510fcb043.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칵테일 탐험가의 뉴 아지트]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[Red11이 선보이는 칵테일과 하이볼]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cdab7aa316fb48bc8e819fe9076474ce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
