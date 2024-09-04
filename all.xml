@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 23:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Sep 2024 01:00:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ HONNE (VIBE ─ 매거진)]]></title>
 르세라핌, 사브리나 카펜터 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 03 Sep 2024 23:14:18 GMT</pubDate>
+            <pubDate>Wed, 04 Sep 2024 00:59:53 GMT</pubDate>
             <content:encoded><![CDATA[엉뚱한 상상력으로 돌아온 르세라핌부터 독보적인 매력을 뽐내는 사브리나 카펜터까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 한승희]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240902_85/1725243537175dS2Iu_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[별사탕 찾는 모험 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[선우정아, 다빈치모텔에 체크인하다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a745e75eae05439aaea49449060321ec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주말에 베트남 요리 어때요? (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ HONNE (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[무신사 스탠다드 한남 플래그십 스토어 오픈]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/63e8483b73b245bfbf43a5c13104493b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[터치드와 Stand Up! (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[터치드 BONUS TRACK 현장과 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0632f03979c54419b69976a510fcb043.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
