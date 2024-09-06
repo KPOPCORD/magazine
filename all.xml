@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 06:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 07:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ HONNE (VIBE ─ 매거진)]]></title>
 우릴 위한 처방전 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 06 Sep 2024 06:19:11 GMT</pubDate>
+            <pubDate>Fri, 06 Sep 2024 07:13:09 GMT</pubDate>
             <content:encoded><![CDATA[Day6는 청춘의 찬란한 한 페이지로부터 차곡차곡 다음 장을 채워나가며, 차가운 세상에 따스한 멜로디 하나를 꺼내놓았다. 누구나 갖고 있을 마음속 짐을 사르르 녹여주는 밴드 사운드가 붙여주는 마음의 반창고.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240906_287/1725588354560Pmnd7_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 끝에 만난 부르고뉴 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[Saturday Market #1 와인 현장]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cb141cbc4b234bb6a95ec8a3e54f8bb3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[브랜디 어디까지 알고 있니? (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ HONNE (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[9월의 디자이너, A. M. 카상드르]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02945076267148888a6852a93a1823f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬란한 아트 스펙트럼 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 라이브러리 9월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3e2525ee9434489692627bbe066336f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
