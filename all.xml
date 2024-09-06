@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 23:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 01:00:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ HONNE (VIBE ─ 매거진)]]></title>
 흘러가는 곳은? (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 05 Sep 2024 23:14:16 GMT</pubDate>
+            <pubDate>Fri, 06 Sep 2024 01:00:02 GMT</pubDate>
             <content:encoded><![CDATA[솔로 앨범을 내는 온유는 자연스러움에 대해 깊이 생각했다. 샤이니를 지나 온전한 솔로앨범을 프로듀싱까지 해내는 솔로 뮤지션으로 많은 곳들을 거쳐오면서, 누구보다 자연스럽게 몸에 목소리에 담은 음악들이 자연스레 흘러나와 이렇게 매력적인 앨범으로 완성됐다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240904_185/1725418212140evRYY_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브랜디 어디까지 알고 있니? (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[Red11이 안내하는 브랜디의 면면]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/04d12e70f0eb45f2aa415431ebec92a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[물드는 거리마다 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ HONNE (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 라이브러리 9월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3e2525ee9434489692627bbe066336f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 밴드 음악 그리고 EDM (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[9월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/715929674c31463da7ec32f7006c8fff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
