@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Sep 2024 00:59:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2024 02:09:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뱅크시와의 조우]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트의 도시, 브리스틀 미리보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8779eba1cd2f4ad38f7c1c7e05ac1fe4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 끝에 만난 부르고뉴]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[Frieze Seoul 2024 미리 보기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ac02c8ec99ea43feae2a4808ada0b3b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포스터 모더니티]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[9월의 디자이너, A. M. 카상드르]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/02945076267148888a6852a93a1823f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
