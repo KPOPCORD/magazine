@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Sep 2024 23:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 01:01:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Apple Pay 픽 단골 가게 2]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[해외여행 핫 스팟 5 #북아메리카]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cbbac3ff47ec4549a0fef3bbfc9cea1c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음악으로 풀어내는 영화 이야기]]></title>
             <link>javascript:;</link>
@@ -22,6 +30,14 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[아티스트의 도시, 브리스틀 미리보기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8779eba1cd2f4ad38f7c1c7e05ac1fe4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도널드 저드의 간결한 세계]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 10]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/16d52a972b5047d18049ffcf44fa5109.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여름 끝에 만난 부르고뉴]]></title>
@@ -62,22 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[지금 알아야 할 스킨케어 아이템]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4b6910b9984b47268f7e5c0fe555dcf0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[별사탕 찾는 모험]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[선우정아, 다빈치모텔에 체크인하다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a745e75eae05439aaea49449060321ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주말에 베트남 요리 어때요?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 쿠킹 라이브러리 셀프 쿠킹]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/627af7260f8745febd4c082243489191.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
