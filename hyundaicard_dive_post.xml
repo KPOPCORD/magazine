@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 23:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 01:00:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찬란한 아트 스펙트럼]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 라이브러리 9월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3e2525ee9434489692627bbe066336f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Apple Pay 픽 단골 가게 2]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[2024 다빈치모텔 M&amp;G 이벤트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9078d00149c14d78bb45766b0b74e5d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대세 of 대세! 신박한 관리템]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[지금 알아야 할 스킨케어 아이템]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4b6910b9984b47268f7e5c0fe555dcf0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
