@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 23:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 01:00:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문학의 참견]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[당일치기 가능한 서울·근교 문학 여행지]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f435862f0e3049f7818dffa2405d41df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울에 펼쳐진 소호 하우스 테이블]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[Red11이 안내하는 브랜디의 면면]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/04d12e70f0eb45f2aa415431ebec92a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물드는 거리마다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[9월 현대카드 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd43a02bef054878a20b1b3164a88745.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
