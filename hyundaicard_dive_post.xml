@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 04:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 05:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펫밀리가 떴다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[반려동물을 위한 라이프스타일 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ad7d3d02741645f08bd98621efb6ead4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문학의 참견]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[Saturday Market #1 와인 현장]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cb141cbc4b234bb6a95ec8a3e54f8bb3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브랜디 어디까지 알고 있니?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[Red11이 안내하는 브랜디의 면면]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/04d12e70f0eb45f2aa415431ebec92a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
