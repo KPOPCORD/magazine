@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 08:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 09:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비비탄 - 선공개 싱글 'PPiPPo' 컴백 인터뷰 & MV 촬영 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/2VSG69Y3YW2SV778EIGO?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/2VSG69Y3YW2SV778EIGO?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 13 Sep 2024 09:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2VSG69Y3YW2SV778EIGO/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (9/19)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -187,14 +195,6 @@
             <guid>https://music.bugs.co.kr/musicpost/6604ZREWY76RQIS3VJ8J?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이승철 - 돌아온 보컬의 신, 신곡 '비가 와' 발매 기념 인터뷰]]></title>
-            <link>https://music.bugs.co.kr/musicpost/MSX91CEOBC6YO75Z56GV?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/MSX91CEOBC6YO75Z56GV?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/MSX91CEOBC6YO75Z56GV/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
