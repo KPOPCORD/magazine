@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Sep 2024 23:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 01:04:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정신과 기술의 정점을 향해]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[신창용, 다빈치모텔에 체크인하다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a793dc9553e74f91a37e53320d52734d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주류가 된 EDM]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[해외여행 핫 스팟 5 #북아메리카]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cbbac3ff47ec4549a0fef3bbfc9cea1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악으로 풀어내는 영화 이야기]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[김준석, 다빈치모텔에 체크인하다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/86f9c4bf5018474393aaed65dd34968b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
