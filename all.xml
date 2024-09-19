@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 04:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 05:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ HONNE (VIBE ─ 매거진)]]></title>
 Oasis (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 19 Sep 2024 04:16:57 GMT</pubDate>
+            <pubDate>Thu, 19 Sep 2024 05:14:57 GMT</pubDate>
             <content:encoded><![CDATA[최근 SNS를 들끓게 했던 이슈가 하나 있으니. 바로 브릿팝의 전성시대를 상징하는 밴드. 오아시스의 재결합 소식이다. 노엘, 리암 갤러거 형제들은 2009년 해체 이후 재결합에 대한 떡밥을 드문드문 던지며 팬들의 애간장을 태워 왔다. 그렇다면 15년 만에 돌아온 오아시스의 음악들과 함께 이주의 디깅을 떠나보도록 하자. – 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240911_232/1726017959210tcVQF_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손민수 Curated 21 손민수 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[바흐의 ‘골드베르크 변주곡’ 연주회]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5d4b107ee92e4fc59c3d6d262a02a77f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[집에서 한잔 할래요? (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ Oasis (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[당일치기 가능한 서울·근교 문학 여행지]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f435862f0e3049f7818dffa2405d41df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울에 펼쳐진 소호 하우스 테이블 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[쿠킹 라이브러리 X 소호 하우스 쿠킹 클래스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/78d25b2de812436ca918c36d10e1fa31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
