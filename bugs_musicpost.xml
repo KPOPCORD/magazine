@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 08:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 09:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[P1Harmony - 7th Mini Album [SAD SONG] 캐릭터 포스터 촬영 현장]]></title>
+            <link>https://music.bugs.co.kr/musicpost/31D8ITX5ODA882B0DLDS?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/31D8ITX5ODA882B0DLDS?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 20 Sep 2024 09:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/31D8ITX5ODA882B0DLDS/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (9/25)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -188,13 +196,6 @@
             <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/NH7SRTFFXNHZMN36M3TL/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝송으로 배우는 영어! 83. Billie Eilish - 'LUNCH']]></title>
-            <link>https://music.bugs.co.kr/musicpost/6604ZREWY76RQIS3VJ8J?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/6604ZREWY76RQIS3VJ8J?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
