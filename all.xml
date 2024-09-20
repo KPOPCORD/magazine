@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 05:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 06:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,7 +373,7 @@ HONNE (VIBE ─ 매거진)]]></title>
 Oasis (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 20 Sep 2024 05:14:21 GMT</pubDate>
+            <pubDate>Fri, 20 Sep 2024 06:19:33 GMT</pubDate>
             <content:encoded><![CDATA[최근 SNS를 들끓게 했던 이슈가 하나 있으니. 바로 브릿팝의 전성시대를 상징하는 밴드. 오아시스의 재결합 소식이다. 노엘, 리암 갤러거 형제들은 2009년 해체 이후 재결합에 대한 떡밥을 드문드문 던지며 팬들의 애간장을 태워 왔다. 그렇다면 15년 만에 돌아온 오아시스의 음악들과 함께 이주의 디깅을 떠나보도록 하자. – 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240911_232/1726017959210tcVQF_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
@@ -384,14 +384,6 @@ Oasis (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[윤 안, 다빈치모텔에 체크인하다]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c070213aefbc4997b6a20395a281f443.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[분실물을 찾습니다 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024 현대카드 다빈치모텔 분실물 이벤트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/adf3207c234e49a0874345d65014c6b3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손민수 Curated 21 손민수 (현대카드 DIVE ─ POST)]]></title>
@@ -448,6 +440,14 @@ Oasis (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[Red11의 푸드 메뉴 안내]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9dad45e90c8e4e7ab989bb204b8932c3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[펫밀리가 떴다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[반려동물을 위한 라이프스타일 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ad7d3d02741645f08bd98621efb6ead4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
