@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 23:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 01:00:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성장하는 브랜드와 서울패션위크]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[[이성동의 더 넥스트] 패션에 대한 착각 #6]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5cc87ce2cdef4c829d9d7a237cc416e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자신을 이루는 확실한 코어]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[[창작의 나침반] 표현의 무한한 가능성 탐구]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1a196c5ef1884be89e4337ba6576792b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브랜디와 이 조합 어때?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[Red11의 푸드 메뉴 안내]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9dad45e90c8e4e7ab989bb204b8932c3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
