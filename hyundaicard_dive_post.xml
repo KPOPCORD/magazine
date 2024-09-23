@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Sep 2024 23:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 01:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌아온 록 스타]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[레전드 밴드들의 재결합 소식]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ba9c87989de24669b0fb172c7d5e97ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나 혼자 간다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[신창용, 다빈치모텔에 체크인하다]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a793dc9553e74f91a37e53320d52734d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주류가 된 EDM]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 9월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/15ad3d09b2b645c9a0353eeb4ea1a993.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
