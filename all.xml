@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 23:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 01:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,9 +374,17 @@ HONNE (VIBE ─ 매거진)]]></title>
 백현, 린킨파크 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 23 Sep 2024 23:13:26 GMT</pubDate>
+            <pubDate>Tue, 24 Sep 2024 01:03:16 GMT</pubDate>
             <content:encoded><![CDATA[미니 앨범을 발매한 백현부터 7년 만의 컴백을 알린 린킨파크까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 한승희]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240923_300/1727067449360IJSYL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찰나의 순간 0.5초 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[김신록, 다빈치모텔에 체크인하다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f9339df2f46d4f23b1b3aff8725a66ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[돌아온 록 스타 (현대카드 DIVE ─ POST)]]></title>
@@ -441,14 +449,6 @@ HONNE (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[9월 V&amp;P 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/715929674c31463da7ec32f7006c8fff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정신과 기술의 정점을 향해 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[신창용, 다빈치모텔에 체크인하다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a793dc9553e74f91a37e53320d52734d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
