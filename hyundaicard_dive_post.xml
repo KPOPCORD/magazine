@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 23:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 01:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금토일에 만나요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024 다빈치모텔 유튜브 실시간 스트리밍]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ec1e627d61494c308e97e3ec3dc13ccc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[회화와 조각의 경계를 허물다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[바흐의 ‘골드베르크 변주곡’ 연주회]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5d4b107ee92e4fc59c3d6d262a02a77f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서 한잔 할래요?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜리티 홈 카페 아이템]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c9fb4e2178434d2f8e54d18ac8e75e8d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
