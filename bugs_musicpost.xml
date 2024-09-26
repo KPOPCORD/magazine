@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 08:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 09:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정수민 - 2번째 EP [20] 프로필 촬영 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/FODZAOU7L5XF95TJ2Q2O?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/FODZAOU7L5XF95TJ2Q2O?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 26 Sep 2024 09:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/FODZAOU7L5XF95TJ2Q2O/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝송으로 배우는 영어! 86. Chappell Roan - 'Good Luck, Babe!']]></title>
             <link>https://music.bugs.co.kr/musicpost/JEG7EMEXQDT9JIQIPX6Z?&amp;wl_ref=list_sp_01_h</link>
@@ -187,14 +195,6 @@
             <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/DO228JBAYN2BM0ETLQQW/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IT'S NEW! 6월 issue]]></title>
-            <link>https://music.bugs.co.kr/musicpost/EPPWJO0Q02LLOLX8SQ6S?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/EPPWJO0Q02LLOLX8SQ6S?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/EPPWJO0Q02LLOLX8SQ6S/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
