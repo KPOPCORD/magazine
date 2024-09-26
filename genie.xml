@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 02:45:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 03:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현악의 계절 가을에 듣는 오케스트라 음악]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14650&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14650&amp;pg=1</guid>
+            <pubDate>Thu, 26 Sep 2024 03:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14650/Mgz_Main_List_20240926094626.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[가요 탐구생활 ＃71 - 쪼개고 덧붙여서 새롭게, K팝의 리믹스 사용법]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=27&amp;mgz_seq=14658&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 23 Sep 2024 03:19:30 GMT</pubDate>
             <content:encoded><![CDATA[핫플힙플]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14651/Mgz_Main_List_20240923115131.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[공원소녀의 막내, Lena Kang 의 첫 솔로 싱글 [Blame The Su...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14648&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14648&amp;pg=1</guid>
-            <pubDate>Mon, 23 Sep 2024 03:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14648/Mgz_Main_List_20240923102847.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
