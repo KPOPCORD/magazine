@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 23:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 01:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ HONNE (VIBE ─ 매거진)]]></title>
 HWASA (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 26 Sep 2024 23:14:10 GMT</pubDate>
+            <pubDate>Fri, 27 Sep 2024 01:03:06 GMT</pubDate>
             <content:encoded><![CDATA[밖에서 들어오는 수많은 것들 대신 안에서 만들어진 나만의 목소리에 집중할 것. 우리가 아는 것보다 훨씬 더 우아하고 더 자유로운 화사가 한 걸음 더 가까이 다가왔다.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240925_116/1727239095730Gbf7I_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지혜의 숲 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[북캉스 떠나기 좋은 숲속 도서관 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6b285b69676f40d093096bef718852f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금토일에 만나요 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ HWASA (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[2024 현대카드 다빈치모텔 분실물 이벤트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/adf3207c234e49a0874345d65014c6b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손민수 Curated 21 손민수 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[바흐의 ‘골드베르크 변주곡’ 연주회]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5d4b107ee92e4fc59c3d6d262a02a77f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
