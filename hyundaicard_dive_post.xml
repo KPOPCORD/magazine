@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 23:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Sep 2024 01:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해방촌 마을굿? 용산에는 용이 없다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[[전범선의 풍류] 용산에서 꿈꾸는 대동굿]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/98b7ef8d2b12453cae771356f6c8017e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지혜의 숲]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[윤 안, 다빈치모텔에 체크인하다]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c070213aefbc4997b6a20395a281f443.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[분실물을 찾습니다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024 현대카드 다빈치모텔 분실물 이벤트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/adf3207c234e49a0874345d65014c6b3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
