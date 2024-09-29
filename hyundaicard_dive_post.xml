@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Sep 2024 23:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Sep 2024 01:08:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 타나 봐]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[가을에 기억해야 할 트렌드 3]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/00c4960f1cfa424091bd0b3e6d5ba925.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해방촌 마을굿? 용산에는 용이 없다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[[이성동의 더 넥스트] 패션에 대한 착각 #6]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5cc87ce2cdef4c829d9d7a237cc416e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자신을 이루는 확실한 코어]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[윤 안, 다빈치모텔에 체크인하다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c070213aefbc4997b6a20395a281f443.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
