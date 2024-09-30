@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 06:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 07:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오감을 만족시키는 가을의 덴푸라]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[Saturday Pop-up #1 키이로]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/878f0b544fc147248d2794ecbfe3c884.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캠핑은 처음이라]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[레전드 밴드들의 재결합 소식]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ba9c87989de24669b0fb172c7d5e97ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 혼자 간다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[혼행에 최적화된 감성 에어비앤비 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/85999e0932554e37975749e54f95f945.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
