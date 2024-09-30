@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 08:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 09:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모브닝(MOVNING) - 데뷔 9년 만의 첫 정규 앨범 [ADAM] 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/6UT0C5DAEREMD9TGFATP?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/6UT0C5DAEREMD9TGFATP?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 30 Sep 2024 09:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/6UT0C5DAEREMD9TGFATP/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IT'S NEW! 9월 issue]]></title>
             <link>https://music.bugs.co.kr/musicpost/PO3UXL9MQ26GOOBOC5HM?&amp;wl_ref=list_sp_01_h</link>
@@ -40,20 +48,19 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/FODZAOU7L5XF95TJ2Q2O/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정수민 - 2번째 EP [20] 프로필 촬영 비하인드]]></title>
-            <link>https://music.bugs.co.kr/musicpost/FODZAOU7L5XF95TJ2Q2O?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/FODZAOU7L5XF95TJ2Q2O?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 26 Sep 2024 09:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/FODZAOU7L5XF95TJ2Q2O/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jacquees x Paul Blanco - 프로듀서 Devine Channel이 전하는 앨범 [Risk] 작업기]]></title>
             <link>https://music.bugs.co.kr/musicpost/JBXO1O5HOMDAIEAVVMVT?&amp;wl_ref=list_sp_01_h</link>
             <guid>https://music.bugs.co.kr/musicpost/JBXO1O5HOMDAIEAVVMVT?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Thu, 26 Sep 2024 03:19:12 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JBXO1O5HOMDAIEAVVMVT/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝송으로 배우는 영어! 86. Chappell Roan - 'Good Luck, Babe!']]></title>
+            <link>https://music.bugs.co.kr/musicpost/JEG7EMEXQDT9JIQIPX6Z?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/JEG7EMEXQDT9JIQIPX6Z?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 30 Sep 2024 09:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[P1Harmony - 7th Mini Album [SAD SONG] 캐릭터 포스터 촬영 현장]]></title>
@@ -188,14 +195,6 @@
             <pubDate>Mon, 29 Jul 2024 00:57:41 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/IRVC3Y2QXTFFY3HXYQNC/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이문(Jay Moon) - 정규 2집 [Moonbeams & Melodies] 타이틀곡 '공중분해' MV 비하인드]]></title>
-            <link>https://music.bugs.co.kr/musicpost/LP5XWNIBXFK1JXXIQ1KJ?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/LP5XWNIBXFK1JXXIQ1KJ?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/LP5XWNIBXFK1JXXIQ1KJ/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
