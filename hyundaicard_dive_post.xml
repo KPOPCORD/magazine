@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 06:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 07:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대카드 Curated 95 한로로 X 윤마치 X QWER]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[재머스 라운지(JAMMER'S LOUNGE)]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aa662215050541f2960a4514d5102f19.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전통과 현대가 만나 빚은 판타지 디자인]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[[전범선의 풍류] 용산에서 꿈꾸는 대동굿]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/98b7ef8d2b12453cae771356f6c8017e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지혜의 숲]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[북캉스 떠나기 좋은 숲속 도서관 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6b285b69676f40d093096bef718852f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
