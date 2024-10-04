@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 01:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 02:47:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2d8c715f1cb3496a862b972c18c8af82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어텀 세레나데]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 라이브러리 10월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fd24c9cfc71b4c8d869435b9c9fdf380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가을바람은 고전 재즈를 타고]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -78,6 +70,14 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 10월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/54073b7924164d94bee6b67a5d2abe97.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오감을 만족시키는 가을의 덴푸라]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[Saturday Pop-up #1 키이로]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/878f0b544fc147248d2794ecbfe3c884.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
