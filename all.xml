@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 02:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 03:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비비탄(BEE BEE TAN) - 첫 EP 앨범[Blue Moon Express] 발매 기념 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/5JN4OLO4XIQTDUDJ311A?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/5JN4OLO4XIQTDUDJ311A?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 04 Oct 2024 03:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/5JN4OLO4XIQTDUDJ311A/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모브닝(MOVNING) - 데뷔 9년 만의 첫 정규 앨범 [ADAM] 비하인드 (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/6UT0C5DAEREMD9TGFATP?&amp;wl_ref=list_sp_01_h</link>
@@ -189,14 +197,6 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/3JVWIHL09F0TJ6AB0JWB/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리뎀션즈 - 사랑의 로큰롤 밴드가 직접 소개하는 미니앨범 [쇼생크 탈출] (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/IRVC3Y2QXTFFY3HXYQNC?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/IRVC3Y2QXTFFY3HXYQNC?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 29 Jul 2024 00:57:41 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/IRVC3Y2QXTFFY3HXYQNC/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[KIMKIMPARKKIM's 음악가, 함께 ＃26 - 윤상 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=14678&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=36&amp;mgz_seq=14678&amp;pg=1</guid>
@@ -373,7 +373,7 @@ HONNE (VIBE ─ 매거진)]]></title>
 포니의 탄생 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 04 Oct 2024 02:47:24 GMT</pubDate>
+            <pubDate>Fri, 04 Oct 2024 03:19:28 GMT</pubDate>
             <content:encoded><![CDATA[보컬 안태규, 베이스 편성현, 기타 권세혁, 드럼 고강훈. 직접 만들고 프로듀싱한 곡들을 연주하고 노래하는 보이밴드가 나타났다. 팔할은 불완전한 청춘, 나머지는 뜨거움을 곁들인.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240927_113/1727415367817kkk8K_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
