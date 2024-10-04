@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Oct 2024 23:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 01:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,33 @@ HONNE (VIBE ─ 매거진)]]></title>
 포니의 탄생 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 03 Oct 2024 23:13:53 GMT</pubDate>
+            <pubDate>Fri, 04 Oct 2024 01:03:09 GMT</pubDate>
             <content:encoded><![CDATA[보컬 안태규, 베이스 편성현, 기타 권세혁, 드럼 고강훈. 직접 만들고 프로듀싱한 곡들을 연주하고 노래하는 보이밴드가 나타났다. 팔할은 불완전한 청춘, 나머지는 뜨거움을 곁들인.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20240927_113/1727415367817kkk8K_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[럭셔리 라이프의 시작과 끝 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[the Red, Red Stripe Ed2]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/364642f7c75f4e89ae2b23fc1abfd4bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프로 쇼퍼의 퍼펙트 쇼핑 메이트 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[the Pink Edition2 들여다보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a4aa1b7cf70a41bfbc7c41a497df1b57.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코어 여행자의 프리미엄 카드 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[the Green Edition3 들여다보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f6ae47b1fcdf47dfa10c113374a37489.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너의 주방 컬러는? (현대카드 DIVE ─ POST)]]></title>
@@ -424,30 +448,6 @@ HONNE (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 10월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/54073b7924164d94bee6b67a5d2abe97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오감을 만족시키는 가을의 덴푸라 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[Saturday Pop-up #1 키이로]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/878f0b544fc147248d2794ecbfe3c884.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캠핑은 처음이라 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[캠핑 입문자를 위한 모든 것]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/97ba2987b8a64f808ad0fce126175291.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 타나 봐 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[가을에 기억해야 할 트렌드 3]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/00c4960f1cfa424091bd0b3e6d5ba925.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
