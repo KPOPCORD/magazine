@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 23:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 01:03:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풍경에 녹아드는 앰비언트 뮤직]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 10월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/54073b7924164d94bee6b67a5d2abe97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Our Plate, Our Water]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[컬러별 주방 가전 가이드]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f60039c4cb084810a3bfaaa682ed5828.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 95 한로로 X 윤마치 X QWER]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[재머스 라운지(JAMMER'S LOUNGE)]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/aa662215050541f2960a4514d5102f19.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
