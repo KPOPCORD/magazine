@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 08:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 09:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기괴한 상상력에 더해진 유머러스한 시선]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[Storage 미카 로텐버그 국내 최초 개인전]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d45a18a583554ea7abe1ed51d26568fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[풍경에 녹아드는 앰비언트 뮤직]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[the Green Edition3 들여다보기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f6ae47b1fcdf47dfa10c113374a37489.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너의 주방 컬러는?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[컬러별 주방 가전 가이드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f60039c4cb084810a3bfaaa682ed5828.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
