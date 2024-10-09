@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 23:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Oct 2024 01:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ HONNE (VIBE ─ 매거진)]]></title>
 이적, 소피 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 08 Oct 2024 23:14:34 GMT</pubDate>
+            <pubDate>Wed, 09 Oct 2024 01:02:49 GMT</pubDate>
             <content:encoded><![CDATA[4년 만에 신보를 발매한 이적부터 사후 앨범이 공개된 소피까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 한승희]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241007_177/1728271292673jt0vV_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삶과 죽음 그리고 영원 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[비디오 아티스트 빌 비올라 영면]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/35274a061851473cb014cba35ab0d8e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기괴한 상상력에 더해진 유머러스한 시선 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ HONNE (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[the Pink Edition2 들여다보기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a4aa1b7cf70a41bfbc7c41a497df1b57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코어 여행자의 프리미엄 카드 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[the Green Edition3 들여다보기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f6ae47b1fcdf47dfa10c113374a37489.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
