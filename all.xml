@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 11:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 12:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,9 +372,17 @@ HONNE (VIBE ─ 매거진)]]></title>
 이적, 소피 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 10 Oct 2024 11:12:25 GMT</pubDate>
+            <pubDate>Thu, 10 Oct 2024 12:26:08 GMT</pubDate>
             <content:encoded><![CDATA[4년 만에 신보를 발매한 이적부터 사후 앨범이 공개된 소피까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 한승희]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241007_177/1728271292673jt0vV_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[특별함이 가득한 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[10월 현대카드 What's On]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/af9e694260914e4b813d0a3aa558821a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호텔에서 만나요 (현대카드 DIVE ─ POST)]]></title>
@@ -439,14 +447,6 @@ HONNE (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[주목해야 할 신상 오디오 기기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b7bb59af8c2d4981ba0b923647b8ca80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서재 미학 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[나만의 취향을 드러내는 서재 아이템]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b6884dcb56434fb1ad69eeb664f8869f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
