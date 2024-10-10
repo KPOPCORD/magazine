@@ -4,9 +4,25 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 06:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 07:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호텔에서 만나요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 호텔위크 08]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/11210df93f2046369496500a7b38361c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미식가를 위한 다이닝 페스티벌]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 고메위크 26]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/af043e51f97d46f98115785c93aca9f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삶과 죽음 그리고 영원]]></title>
             <link>javascript:;</link>
@@ -62,22 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[나만의 취향을 드러내는 서재 아이템]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b6884dcb56434fb1ad69eeb664f8869f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럭셔리 라이프의 시작과 끝]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[the Red, Red Stripe Ed2]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/364642f7c75f4e89ae2b23fc1abfd4bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로 쇼퍼의 퍼펙트 쇼핑 메이트]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[the Pink Edition2 들여다보기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a4aa1b7cf70a41bfbc7c41a497df1b57.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
