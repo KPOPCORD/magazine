@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Oct 2024 03:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2024 04:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[계절을 맛보다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[계절의 맛과 멋을 담아낸 고메위크 레스토랑]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/07b028607ad54b0e916c4ba46e1334ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[작가의 숨결과 온도를 마주하는 경험]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[비디오 아티스트 빌 비올라 영면]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/35274a061851473cb014cba35ab0d8e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기괴한 상상력에 더해진 유머러스한 시선]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[Storage 미카 로텐버그 국내 최초 개인전]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d45a18a583554ea7abe1ed51d26568fa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
