@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 08:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 09:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윈디시티 - 20주년 기념 신작 '파김치 깍두기 (Feel Irie)' 공개 & 단독 공연 오픈]]></title>
+            <link>https://music.bugs.co.kr/musicpost/I5TZZR8W3LMXO6LYFBNT?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/I5TZZR8W3LMXO6LYFBNT?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 15 Oct 2024 09:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/I5TZZR8W3LMXO6LYFBNT/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (10/16)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -186,14 +194,6 @@
             <guid>https://music.bugs.co.kr/musicpost/1MSUUM2YU84416SEOYEE?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Fri, 26 Jul 2024 00:55:27 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[솔비 - 무더운 여름을 시원하게 날려줄 'Monday Disco' MV 촬영 비하인드]]></title>
-            <link>https://music.bugs.co.kr/musicpost/DD4PEJ0NTE4YOJTAZ54N?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/DD4PEJ0NTE4YOJTAZ54N?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 31 Jul 2024 09:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/DD4PEJ0NTE4YOJTAZ54N/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
