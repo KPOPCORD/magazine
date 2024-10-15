@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 23:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 01:04:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호텔 미식회]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[하이엔드 미식의 정점을 찍는 고메위크 레스토랑]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/76d82005b7954b3f973d35e9c65f2f60.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아주 사적인 공간]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[10월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/af9e694260914e4b813d0a3aa558821a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호텔에서 만나요]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 호텔위크 08]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/11210df93f2046369496500a7b38361c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
