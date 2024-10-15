@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 04:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 05:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,9 +372,17 @@ HONNE (VIBE ─ 매거진)]]></title>
 QWER (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 15 Oct 2024 04:17:50 GMT</pubDate>
+            <pubDate>Tue, 15 Oct 2024 05:14:59 GMT</pubDate>
             <content:encoded><![CDATA[현재 케이팝 뿐만 아니라 대중음악 업계에서도 중요하게 여겨지는 성장 서사. 최근 들어 이런 성장 서사를 다양한 방면으로 보이며 인기를 끌고 있는 밴드가 있으니. 바로 QWER이다. 이주의 디깅에서는 QWER가 걸어온 이야기, 최근 앨범에 초점을 맞춰 여러 음악을 소개하고자 한다. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241014_269/1728869223382dJ5Sc_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손민수 Curated 22 김재영 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[섬세하고 이지적인 바이올리니스트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c6943daeac5f44418cf639b62b2aa6a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호텔 미식회 (현대카드 DIVE ─ POST)]]></title>
@@ -439,14 +447,6 @@ QWER (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[독창적 미식 철학을 지닌 고메위크 레스토랑]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/193aa0bfdb714a7cb17f292efa6d5c62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별함이 가득한 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[10월 현대카드 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/af9e694260914e4b813d0a3aa558821a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 04:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 05:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손민수 Curated 22 김재영]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[섬세하고 이지적인 바이올리니스트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c6943daeac5f44418cf639b62b2aa6a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호텔 미식회]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[독창적 미식 철학을 지닌 고메위크 레스토랑]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/193aa0bfdb714a7cb17f292efa6d5c62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별함이 가득한]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[10월 현대카드 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/af9e694260914e4b813d0a3aa558821a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
