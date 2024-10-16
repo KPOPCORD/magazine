@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 23:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 01:04:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서정적 서재]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[문학의 계절에 어울리는 서재 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8084693093f949bab1646627ba18573f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손민수 Curated 22 김재영]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 Travel Desk 서비스 론칭]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fa264772168940a1a74ac13ff6939749.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정형화된 미식의 틀을 깨다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[독창적 미식 철학을 지닌 고메위크 레스토랑]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/193aa0bfdb714a7cb17f292efa6d5c62.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
