@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 23:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 01:03:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 레이어드의 비밀 공식]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[가을 대표 아이템과 레이어드의 만남]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe4e121c234d460ab235596fabf79da1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을바람은 고전 재즈를 타고]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[계절의 맛과 멋을 담아낸 고메위크 레스토랑]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/07b028607ad54b0e916c4ba46e1334ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작가의 숨결과 온도를 마주하는 경험]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[[창작의 나침반] 작은 그림의 매력]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/48b7f2dfcf014a01aac6585f1120dfc3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
