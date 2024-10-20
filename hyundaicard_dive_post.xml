@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Oct 2024 23:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Oct 2024 01:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠시만 안녕, 이중섭]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[시설 확충을 위해 휴관하는 이중섭미술관]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/71c9e593aa0f42b8b84bc8559943dd0f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지속 가능한 지구와 패션]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[하이엔드 미식의 정점을 찍는 고메위크 레스토랑]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/76d82005b7954b3f973d35e9c65f2f60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아주 사적인 공간]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[시선을 사로잡는 고메위크 레스토랑]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/affed3f4648f491ab16d46db493df0b0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Oct 2024 23:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Oct 2024 01:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,9 +372,17 @@ HONNE (VIBE ─ 매거진)]]></title>
 QWER (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 19 Oct 2024 23:13:40 GMT</pubDate>
+            <pubDate>Sun, 20 Oct 2024 01:09:00 GMT</pubDate>
             <content:encoded><![CDATA[현재 케이팝 뿐만 아니라 대중음악 업계에서도 중요하게 여겨지는 성장 서사. 최근 들어 이런 성장 서사를 다양한 방면으로 보이며 인기를 끌고 있는 밴드가 있으니. 바로 QWER이다. 이주의 디깅에서는 QWER가 걸어온 이야기, 최근 앨범에 초점을 맞춰 여러 음악을 소개하고자 한다. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241014_269/1728869223382dJ5Sc_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠시만 안녕, 이중섭 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[시설 확충을 위해 휴관하는 이중섭미술관]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/71c9e593aa0f42b8b84bc8559943dd0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지속 가능한 지구와 패션 (현대카드 DIVE ─ POST)]]></title>
@@ -439,14 +447,6 @@ QWER (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[하이엔드 미식의 정점을 찍는 고메위크 레스토랑]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/76d82005b7954b3f973d35e9c65f2f60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아주 사적인 공간 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[시선을 사로잡는 고메위크 레스토랑]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/affed3f4648f491ab16d46db493df0b0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
