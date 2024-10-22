@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Oct 2024 23:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 01:05:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집의 본질, 리얼 럭셔리]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[하이엔드를 넘어선 하이퍼엔드 주거 공간]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/767e24735fe740a1b89f8ed8933aaa38.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴 페이스 뉴 레슨]]></title>
             <link>javascript:;</link>
@@ -22,6 +30,14 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[인기 영화·드라마 속 배경이 된 여행지]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d83e9cf6f8a14088a4cd00691fddb0d1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Artist talk with 미카 로텐버그]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[현실과 허구 사이의 메시지]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d10e88275a2447039e8feb6311f739ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잠시만 안녕, 이중섭]]></title>
@@ -62,22 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[10월 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6012a5cb17cb4b2d8c291d31ee40c8f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장범준 평일 소공연]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[소리 없는 비가 내린다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/add20ad31c214ebe84e5496d4dc3dfc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서정적 서재]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[문학의 계절에 어울리는 서재 아이템]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8084693093f949bab1646627ba18573f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
