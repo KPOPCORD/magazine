@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 08:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 09:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mika Rottenberg: NoNoseKnows]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[전시 하이라이트와 관람 방법]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/69e3e12b4a9b44d8a0548eef3582b08b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴 브랜디 페어링]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 10]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f3d4a87b88a64aff9b014d8b746c87f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 레이어드의 비밀 공식]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[가을 대표 아이템과 레이어드의 만남]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe4e121c234d460ab235596fabf79da1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

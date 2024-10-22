@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 08:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 09:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,9 +372,17 @@ HONNE (VIBE ─ 매거진)]]></title>
 로제, 찰리 엑스씨엑스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 22 Oct 2024 08:18:59 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 09:16:08 GMT</pubDate>
             <content:encoded><![CDATA[브루노 마스와 협업을 공개한 로제부터 리믹스 앨범을 발매한 찰리 엑스씨엑스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 한승희]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241021_15/1729490846503WEN6V_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mika Rottenberg: NoNoseKnows (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[전시 하이라이트와 관람 방법]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/69e3e12b4a9b44d8a0548eef3582b08b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴 브랜디 페어링 (현대카드 DIVE ─ POST)]]></title>
@@ -439,14 +447,6 @@ HONNE (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 10]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f3d4a87b88a64aff9b014d8b746c87f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 레이어드의 비밀 공식 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[가을 대표 아이템과 레이어드의 만남]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe4e121c234d460ab235596fabf79da1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
