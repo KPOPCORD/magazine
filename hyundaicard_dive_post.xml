@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 04:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 05:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴 브랜디 페어링]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[Red11의 새로운 메뉴 소개]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9b5ea54c888b447898dc64b37ba6483c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[집의 본질, 리얼 럭셔리]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[가을 대표 아이템과 레이어드의 만남]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe4e121c234d460ab235596fabf79da1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을바람은 고전 재즈를 타고]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[10월 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6012a5cb17cb4b2d8c291d31ee40c8f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

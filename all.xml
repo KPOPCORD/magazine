@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 04:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 05:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,9 +372,17 @@ HONNE (VIBE ─ 매거진)]]></title>
 로제, 찰리 엑스씨엑스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 22 Oct 2024 04:18:33 GMT</pubDate>
+            <pubDate>Tue, 22 Oct 2024 05:14:42 GMT</pubDate>
             <content:encoded><![CDATA[브루노 마스와 협업을 공개한 로제부터 리믹스 앨범을 발매한 찰리 엑스씨엑스까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 한승희]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241021_15/1729490846503WEN6V_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴 브랜디 페어링 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[Red11의 새로운 메뉴 소개]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9b5ea54c888b447898dc64b37ba6483c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[집의 본질, 리얼 럭셔리 (현대카드 DIVE ─ POST)]]></title>
@@ -439,14 +447,6 @@ HONNE (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[가을 대표 아이템과 레이어드의 만남]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe4e121c234d460ab235596fabf79da1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을바람은 고전 재즈를 타고 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[10월 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6012a5cb17cb4b2d8c291d31ee40c8f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
