@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 23:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 01:03:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지성의 향연, 대화의 축제]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024 현대카드 다빈치모텔 토크 하이라이트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c6ab56c1584b4b2b9dff77773855fbc1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mika Rottenberg: NoNoseKnows]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[[이성동의 더 넥스트] 패션에 대한 착각 #7]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/522e39d6fd3746209715231fc99a408a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예술과 사물의 경계를 허물다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 10]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f3d4a87b88a64aff9b014d8b746c87f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
