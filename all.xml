@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 04:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 05:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,9 +372,17 @@ Oasis (VIBE ─ 매거진)]]></title>
 박재범 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 23 Oct 2024 04:17:33 GMT</pubDate>
+            <pubDate>Wed, 23 Oct 2024 05:14:44 GMT</pubDate>
             <content:encoded><![CDATA[한국을 대표하는 알앤비 스타이자 사업가로도 멈추지 않는 활동을 보여준 박재범이 8년 만의 정규 앨범 &lt;The One You Wanted&gt;를 발표했다. 에스파 닝닝, 타이 달라 사인 등 화려한 피처링 라인업은 물론, 진득하게 선보이는 다채로운 알앤비 트랙들로 풍성하게 채워진 그의 신보를 이주의 디깅과 함께 조금 더 알아가 보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241022_14/1729561405073S4bSb_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라운지에 스며들다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[호캉스의 완성, 호텔 라운지]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8544e45830124d81963ed56c6a785252.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지성의 향연, 대화의 축제 (현대카드 DIVE ─ POST)]]></title>
@@ -439,14 +447,6 @@ Oasis (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[시설 확충을 위해 휴관하는 이중섭미술관]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/71c9e593aa0f42b8b84bc8559943dd0f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지속 가능한 지구와 패션 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[[이성동의 더 넥스트] 패션에 대한 착각 #7]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/522e39d6fd3746209715231fc99a408a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
