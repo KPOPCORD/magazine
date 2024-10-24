@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 05:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 06:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT'S NEW! 10월 issue]]></title>
+            <link>https://music.bugs.co.kr/musicpost/HG1Y3M8L6C62C6PHY52Y?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/HG1Y3M8L6C62C6PHY52Y?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 24 Oct 2024 06:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HG1Y3M8L6C62C6PHY52Y/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유다빈밴드 - EP [IGNITE] 레코딩 비하인드 공개]]></title>
             <link>https://music.bugs.co.kr/musicpost/CPERAISZPN9PK8IEFTBM?&amp;wl_ref=list_sp_01_h</link>
@@ -39,11 +47,12 @@
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[팝송으로 배우는 영어! 87. Maya Delilah - 'Look At The State Of Me Now']]></title>
-            <link>https://music.bugs.co.kr/musicpost/XF0G328WM5041MG45INK?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/XF0G328WM5041MG45INK?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 10 Oct 2024 02:46:14 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
+            <title><![CDATA[비비탄(BEE BEE TAN) - 첫 EP 앨범[Blue Moon Express] 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/5JN4OLO4XIQTDUDJ311A?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/5JN4OLO4XIQTDUDJ311A?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 24 Oct 2024 06:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/5JN4OLO4XIQTDUDJ311A/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모브닝(MOVNING) - 데뷔 9년 만의 첫 정규 앨범 [ADAM] 비하인드]]></title>
@@ -186,14 +195,6 @@
             <pubDate>Wed, 31 Jul 2024 03:14:05 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/Q0Z1MOOC1J9O5G034AKK/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IT'S NEW! 7월 issue]]></title>
-            <link>https://music.bugs.co.kr/musicpost/53466I4Z6E1IQX90OJLL?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/53466I4Z6E1IQX90OJLL?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 29 Jul 2024 00:57:41 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/53466I4Z6E1IQX90OJLL/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
