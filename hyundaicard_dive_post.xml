@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Oct 2024 23:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2024 01:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풍류가 한류 되는 길]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[[전범선의 풍류] 용담정의 예언, 용담유사]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a6805b1f129140e7abdd1d9afcd7e27b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미디어 아트의 변곡점을 만든 책]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[전시 하이라이트와 관람 방법]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/69e3e12b4a9b44d8a0548eef3582b08b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 브랜디 페어링]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[Red11의 새로운 메뉴 소개]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9b5ea54c888b447898dc64b37ba6483c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
