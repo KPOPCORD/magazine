@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Oct 2024 23:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 01:08:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ Oasis (VIBE ─ 매거진)]]></title>
 박재범 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 26 Oct 2024 23:14:06 GMT</pubDate>
+            <pubDate>Sun, 27 Oct 2024 01:08:16 GMT</pubDate>
             <content:encoded><![CDATA[한국을 대표하는 알앤비 스타이자 사업가로도 멈추지 않는 활동을 보여준 박재범이 8년 만의 정규 앨범 &lt;The One You Wanted&gt;를 발표했다. 에스파 닝닝, 타이 달라 사인 등 화려한 피처링 라인업은 물론, 진득하게 선보이는 다채로운 알앤비 트랙들로 풍성하게 채워진 그의 신보를 이주의 디깅과 함께 조금 더 알아가 보자. -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241022_14/1729561405073S4bSb_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[0kW 빌딩 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[제로 에너지를 실천하는 전 세계 건축]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/597947d045ea4cc590f43b613f338ef3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[풍류가 한류 되는 길 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ Oasis (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[2024 현대카드 다빈치모텔 토크 하이라이트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c6ab56c1584b4b2b9dff77773855fbc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mika Rottenberg: NoNoseKnows (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[전시 하이라이트와 관람 방법]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/69e3e12b4a9b44d8a0548eef3582b08b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

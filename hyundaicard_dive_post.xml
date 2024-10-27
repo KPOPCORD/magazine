@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Oct 2024 23:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 01:08:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[0kW 빌딩]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[제로 에너지를 실천하는 전 세계 건축]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/597947d045ea4cc590f43b613f338ef3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[풍류가 한류 되는 길]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[2024 현대카드 다빈치모텔 토크 하이라이트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c6ab56c1584b4b2b9dff77773855fbc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mika Rottenberg: NoNoseKnows]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[전시 하이라이트와 관람 방법]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/69e3e12b4a9b44d8a0548eef3582b08b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
