@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 05:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 06:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MoMA Talk with Martha Joseph]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[시간 기반의 예술 퍼포먼스 아트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bc131d2ced154ddfbe863d7acd6f23d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[0kW 빌딩]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[호캉스의 완성, 호텔 라운지]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8544e45830124d81963ed56c6a785252.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지성의 향연, 대화의 축제]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024 현대카드 다빈치모텔 토크 하이라이트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c6ab56c1584b4b2b9dff77773855fbc1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
