@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 02:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 03:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[터치드(TOUCHED) - [Addiction] 프로필 촬영 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/SDFOAR6B75IJEQ567L4L?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/SDFOAR6B75IJEQ567L4L?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 28 Oct 2024 03:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/SDFOAR6B75IJEQ567L4L/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (10/30)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -187,14 +195,6 @@
             <pubDate>Mon, 19 Aug 2024 00:57:46 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/WQOBCOCVOX2FXAJJFF8J/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[m-flo - 4년 만의 싱글 [HyperNova] 프로필 촬영 비하인드]]></title>
-            <link>https://music.bugs.co.kr/musicpost/Q0Z1MOOC1J9O5G034AKK?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/Q0Z1MOOC1J9O5G034AKK?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Wed, 31 Jul 2024 03:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/Q0Z1MOOC1J9O5G034AKK/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
