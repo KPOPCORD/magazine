@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Oct 2024 03:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 04:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세 번째 프리즈 서울]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024 프리즈 서울 리포트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/16aa31e74b034ca6a40f6fa1a0cd514f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[환상의 무대, 감동의 연속]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 ZERO Edition3 한정판]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/23de893c6bc84ab2a8f3aecd93cc93a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바삭함 속 제철의 풍미]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[새터데이 팝업 ‘키이로’ 현장 속으로]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a8579d10693747aebb24fca3bafe4679.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
