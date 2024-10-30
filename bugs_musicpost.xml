@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 02:49:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 03:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[64ksana - 첫 발매 [64 Moments] 앨범 작업기 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/GMSQEY47O5WA0S0FP09P?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/GMSQEY47O5WA0S0FP09P?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 30 Oct 2024 03:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GMSQEY47O5WA0S0FP09P/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[터치드(TOUCHED) - [Addiction] 프로필 촬영 비하인드]]></title>
             <link>https://music.bugs.co.kr/musicpost/SDFOAR6B75IJEQ567L4L?&amp;wl_ref=list_sp_01_h</link>
@@ -187,14 +195,6 @@
             <pubDate>Thu, 01 Aug 2024 09:12:09 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/GA0SLXIYA81QD0MJVOSA/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙스완 - 글로벌 걸그룹의 첫 미니 앨범 타이틀곡 'Roll Up' MV 촬영 현장 공개]]></title>
-            <link>https://music.bugs.co.kr/musicpost/WQOBCOCVOX2FXAJJFF8J?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/WQOBCOCVOX2FXAJJFF8J?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 19 Aug 2024 00:57:46 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/WQOBCOCVOX2FXAJJFF8J/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
