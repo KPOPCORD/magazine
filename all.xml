@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Oct 2024 23:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 01:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ Oasis (VIBE ─ 매거진)]]></title>
  노래 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 29 Oct 2024 23:15:42 GMT</pubDate>
+            <pubDate>Wed, 30 Oct 2024 01:04:21 GMT</pubDate>
             <content:encoded><![CDATA[세상에 싫은 것들이 너무 많을 때, 밴드 설(SURL)은 더욱 힘껏 싫어하는 대신에 노래를 만들었다. 더 깊이 들여다보고, 더 많이 고민하고 매만지며, 더 많은 악기와 소리를 얹어서.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241025_195/1729837638837IXMpN_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[같이 가길 바라 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[연인·자녀·반려견과 머물기 좋은 호텔 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d20f1dd48d55469493e37f1caae4184b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세 번째 프리즈 서울 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ Oasis (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[인기 관광지를 대신할 가성비 여행지]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4f0583fe93e0474592588b26b761c8eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ZERO의 무한함을 스펙트럼에 담아 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 ZERO Edition3 한정판]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/23de893c6bc84ab2a8f3aecd93cc93a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

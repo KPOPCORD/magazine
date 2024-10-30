@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Oct 2024 23:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 01:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[같이 가길 바라]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[연인·자녀·반려견과 머물기 좋은 호텔 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d20f1dd48d55469493e37f1caae4184b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세 번째 프리즈 서울]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[인기 관광지를 대신할 가성비 여행지]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4f0583fe93e0474592588b26b761c8eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ZERO의 무한함을 스펙트럼에 담아]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 ZERO Edition3 한정판]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/23de893c6bc84ab2a8f3aecd93cc93a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
