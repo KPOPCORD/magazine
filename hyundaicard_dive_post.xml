@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 23:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 01:05:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레포츠 전성 시대]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[스마트한 3대 레포츠 필수품]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cad96a24363240ea87eba534bbd3e987.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[같이 가길 바라]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[월풀부터 인피니티 풀까지, 호텔 수영장 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bfdc69de967b462cb287ef789e2a7103.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듀프 여행을 떠난다면]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[인기 관광지를 대신할 가성비 여행지]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4f0583fe93e0474592588b26b761c8eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
