@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 14:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 15:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,33 @@ Oasis (VIBE ─ 매거진)]]></title>
  노래 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Thu, 31 Oct 2024 14:14:33 GMT</pubDate>
+            <pubDate>Thu, 31 Oct 2024 15:15:03 GMT</pubDate>
             <content:encoded><![CDATA[세상에 싫은 것들이 너무 많을 때, 밴드 설(SURL)은 더욱 힘껏 싫어하는 대신에 노래를 만들었다. 더 깊이 들여다보고, 더 많이 고민하고 매만지며, 더 많은 악기와 소리를 얹어서.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241025_195/1729837638837IXMpN_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬 바람 불면 찾아오는 걸작선 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 11월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7b3cadd8d8c4439a9f6df79ebb6330da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추억을 일깨우는 영화 음악 산책 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[11월 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/269c94e094a6420f90dbd8c45c744c34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천진난만한 패턴의 세계 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[11월의 디자이너, 알렉산더 지라드]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ebe145479f2442c084f9a21247fa7b17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열 Curated 24 윤석철트리오 (현대카드 DIVE ─ POST)]]></title>
@@ -424,30 +448,6 @@ Oasis (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[시간 기반의 예술 퍼포먼스 아트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bc131d2ced154ddfbe863d7acd6f23d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[0kW 빌딩 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[제로 에너지를 실천하는 전 세계 건축]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/597947d045ea4cc590f43b613f338ef3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풍류가 한류 되는 길 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[[전범선의 풍류] 용담정의 예언, 용담유사]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a6805b1f129140e7abdd1d9afcd7e27b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미디어 아트의 변곡점을 만든 책 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리의 레어리스트 하이라이츠]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d2f257740aa3435daf5187be7848cf4f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
