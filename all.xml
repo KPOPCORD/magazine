@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 05:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 06:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Favorite - COMING SOON! (11/6) (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[64ksana - 첫 발매 [64 Moments] 앨범 작업기 인터뷰 (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/GMSQEY47O5WA0S0FP09P?&amp;wl_ref=list_sp_01_h</link>
@@ -22,14 +30,6 @@
             <pubDate>Mon, 28 Oct 2024 03:24:48 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/SDFOAR6B75IJEQ567L4L/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Favorite - COMING SOON! (10/30) (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IT'S NEW! 10월 issue (벅스 ─ 뮤직포스트)]]></title>
@@ -373,7 +373,7 @@ Oasis (VIBE ─ 매거진)]]></title>
  노래 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 01 Nov 2024 05:14:50 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 06:20:54 GMT</pubDate>
             <content:encoded><![CDATA[세상에 싫은 것들이 너무 많을 때, 밴드 설(SURL)은 더욱 힘껏 싫어하는 대신에 노래를 만들었다. 더 깊이 들여다보고, 더 많이 고민하고 매만지며, 더 많은 악기와 소리를 얹어서.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241025_195/1729837638837IXMpN_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
