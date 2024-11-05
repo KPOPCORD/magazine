@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 03:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 04:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[츠타야의 첫 서울 쇼케이스]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[CCC ART LAB 서울 리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d25e881189294d81a7d44b4d02c71d8c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트렌디한 브랜드, 감각적인 팝업]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 11월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7b3cadd8d8c4439a9f6df79ebb6330da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추억을 일깨우는 영화 음악 산책]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[11월 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/269c94e094a6420f90dbd8c45c744c34.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

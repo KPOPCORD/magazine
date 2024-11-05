@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 03:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 04:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ Oasis (VIBE ─ 매거진)]]></title>
 지드래곤, 타일러 더 크리에이터 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 05 Nov 2024 03:17:57 GMT</pubDate>
+            <pubDate>Tue, 05 Nov 2024 04:17:23 GMT</pubDate>
             <content:encoded><![CDATA[7년 만에 솔로 귀환을 알린 지드래곤부터 멈추지 않는 창의력을 자랑하는 타일러 더 크리에이터까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 한승희]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241104_161/1730686429090ynut7_JPEG/%C4%BF%B9%F61.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[츠타야의 첫 서울 쇼케이스 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[CCC ART LAB 서울 리뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d25e881189294d81a7d44b4d02c71d8c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트렌디한 브랜드, 감각적인 팝업 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ Oasis (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 11월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7b3cadd8d8c4439a9f6df79ebb6330da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추억을 일깨우는 영화 음악 산책 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[11월 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/269c94e094a6420f90dbd8c45c744c34.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
