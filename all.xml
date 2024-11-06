@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 23:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 01:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ Oasis (VIBE ─ 매거진)]]></title>
 지드래곤, 타일러 더 크리에이터 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 05 Nov 2024 23:14:43 GMT</pubDate>
+            <pubDate>Wed, 06 Nov 2024 01:02:39 GMT</pubDate>
             <content:encoded><![CDATA[7년 만에 솔로 귀환을 알린 지드래곤부터 멈추지 않는 창의력을 자랑하는 타일러 더 크리에이터까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 한승희]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241104_161/1730686429090ynut7_JPEG/%C4%BF%B9%F61.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홀리데이 마스터플랜 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 긴급적립 &amp; 긴급할인 서비스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/41a415a7b7dd4994a5e0ce7d6dc5ffb5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[낭만 주의보 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ Oasis (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[한로로 X 윤마치 X QWER 현장과 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61a76e4559844e12a06e5d4d75d198ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을의 온도 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 라이브러리 11월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7c0d5ef6459f43448f0428e3cf362230.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
