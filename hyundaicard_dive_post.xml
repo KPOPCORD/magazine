@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 03:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 04:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[줄 서는 조식]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[특별한 조식 뷔페를 선보이는 호텔 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a987e793c1de456c9606f2ec6e3d3171.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홀리데이 마스터플랜]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[겨울을 위한 인테리어 소품]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ef21c82e86b64ff1bfc424bb11619571.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세 로커와 팬덤들]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[한로로 X 윤마치 X QWER 현장과 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/61a76e4559844e12a06e5d4d75d198ef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
