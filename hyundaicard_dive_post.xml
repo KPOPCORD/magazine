@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 03:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 04:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 학교가 달라졌어요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[리모델링에 성공한 전국 폐교 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/610b175da78f4e999ad814b8b009cc19.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바 너머의 예술적 경험]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[2024 다빈치모텔 스트리트 협업 하이라이트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8cfcbc63f4304a6b96315e3e24e3c82e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루프톱과 테라스 사이]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[탁 트인 야외 공간을 갖춘 에어비앤비 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/723dfb1686fc42999300064c1cf54c87.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
