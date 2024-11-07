@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 23:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 01:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바 너머의 예술적 경험]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[Red11 곳곳의 예술 작품]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/392342797394416f82a7b0530478ac13.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[줄 서는 조식]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[탁 트인 야외 공간을 갖춘 에어비앤비 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/723dfb1686fc42999300064c1cf54c87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온기를 담은 공간]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[겨울을 위한 인테리어 소품]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ef21c82e86b64ff1bfc424bb11619571.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
