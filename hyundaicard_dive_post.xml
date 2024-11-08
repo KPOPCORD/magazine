@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 23:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 01:02:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안경, 안녕?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[스마트 안경의 진화, 메타 오라이언]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7370b6aa9c90478fa2dd06e016ce2d94.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 학교가 달라졌어요]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[차별화된 부대시설을 갖춘 호텔 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cacf0a921a55436588051d9b169f506a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함께하는 즐거움, 거리의 축제 열기]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[2024 다빈치모텔 스트리트 협업 하이라이트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8cfcbc63f4304a6b96315e3e24e3c82e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
