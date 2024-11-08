@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 02:44:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 03:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Deli, Delicious Hours]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[평일 오후 3~6시 즐기는 맛있는 혜택]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f0beced4a5134c589f2ad3d34be4b090.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안경, 안녕?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[다빈치모텔 팝업 스토어 하이라이트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/11a10539280543b7897e9b427fdb25f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호텔 밖은 위험해]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[차별화된 부대시설을 갖춘 호텔 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cacf0a921a55436588051d9b169f506a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
