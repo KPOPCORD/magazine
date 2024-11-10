@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Nov 2024 23:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 01:07:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ Oasis (VIBE ─ 매거진)]]></title>
 퀸시 존스 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sat, 09 Nov 2024 23:13:16 GMT</pubDate>
+            <pubDate>Sun, 10 Nov 2024 01:07:41 GMT</pubDate>
             <content:encoded><![CDATA[전설적인 음악가, 퀸시 존스가 하늘나라로 떠났다. 생전 그는 한 분야에만 머무르지 않고 다양한 활동을 펼치며 많은 이들에게 영감을 불어넣었다. 닥터 드레, 윌 스미스, 크러쉬 등등 다양한 음악가, 셀럽들이 그를 추모한 것도 이런 이유에서다. 이에 이주의 디깅에서는 현대 음악에 거대한 영향력을 끼친 퀸시 존스의 발자취를 되짚어 보도록 하겠다. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241107_208/1730940196963Ozxe9_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리를 둘러싼 건축적 세계 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[건축 전문 큐레이터 컬렉티브 CAC와의 대화]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1802aa5b6de74007b18d1b4667950914.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창작의 불꽃, 예술가의 루틴 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ Oasis (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[11월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cea20a6e7e36491098eefa5435139ab1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[츠타야의 첫 서울 쇼케이스 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[CCC ART LAB 서울 리뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d25e881189294d81a7d44b4d02c71d8c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Nov 2024 23:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 01:07:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리를 둘러싼 건축적 세계]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[건축 전문 큐레이터 컬렉티브 CAC와의 대화]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1802aa5b6de74007b18d1b4667950914.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[창작의 불꽃, 예술가의 루틴]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[11월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cea20a6e7e36491098eefa5435139ab1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[츠타야의 첫 서울 쇼케이스]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[CCC ART LAB 서울 리뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d25e881189294d81a7d44b4d02c71d8c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
