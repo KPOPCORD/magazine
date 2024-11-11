@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Nov 2024 23:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 01:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잔뼈 굵은 밴드들]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[지금 가장 핫한 밴드의 필수 청취곡]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/994bd93621b04c6cb22a399b80f795cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리를 둘러싼 건축적 세계]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 긴급적립 &amp; 긴급할인 서비스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/41a415a7b7dd4994a5e0ce7d6dc5ffb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낭만 주의보]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[11월 현대카드 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cea20a6e7e36491098eefa5435139ab1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
