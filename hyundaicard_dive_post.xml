@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 23:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 01:02:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기억을 짓는 브랜드]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[미나 페르호넨의 첫 서울 전시]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f5cebe5489db4aeba4f543e7ed749d7b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한번 모일 때도 됐잖아]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[Red11 곳곳의 예술 작품]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/392342797394416f82a7b0530478ac13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[줄 서는 조식]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[특별한 조식 뷔페를 선보이는 호텔 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a987e793c1de456c9606f2ec6e3d3171.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
