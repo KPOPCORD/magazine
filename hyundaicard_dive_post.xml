@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 07:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 08:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연말 홈 파티에 스페인식 스튜 어때요?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 쿠킹 라이브러리 셀프 쿠킹]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/80ee7bf4e4b54c04a3c10774e0fc6bb3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단절과 연결의 미학]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[평일 오후 3~6시 즐기는 맛있는 혜택]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f0beced4a5134c589f2ad3d34be4b090.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안경, 안녕?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[스마트 안경의 진화, 메타 오라이언]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7370b6aa9c90478fa2dd06e016ce2d94.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
