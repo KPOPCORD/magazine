@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 22:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 23:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슬기로운 쇼핑 생활]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[M100 FESTA 100% 쇼핑 노하우]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/261adb5cda734a948531112fa61b29a0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연말 홈 파티에 스페인식 스튜 어때요?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[[창작의 나침반] 나만의 루틴 찾기]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3616ff35a047404c9198f6825c7d73d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deli, Delicious Hours]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[평일 오후 3~6시 즐기는 맛있는 혜택]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f0beced4a5134c589f2ad3d34be4b090.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
