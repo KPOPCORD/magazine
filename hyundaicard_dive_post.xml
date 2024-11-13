@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 03:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 04:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단절과 연결의 미학]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[미카 로텐버그 Art Talk]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b25a9502981c40508899633d5b5d66d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[와인이 생각나는 델리의 연말 쿡북 메뉴]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[스마트 안경의 진화, 메타 오라이언]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7370b6aa9c90478fa2dd06e016ce2d94.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 학교가 달라졌어요]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[리모델링에 성공한 전국 폐교 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/610b175da78f4e999ad814b8b009cc19.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
