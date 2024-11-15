@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 06:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 07:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8년 만의 그루브]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[DIVE 스페셜 인터뷰 #박재범]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b6bf38566dd74832b13de456fe03b98b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연말 파티 준비, 여기 어때?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[지인 모임을 위한 에어비앤비 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6804d6e7078c41a1a3f134175e6d8b43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잔뼈 굵은 밴드들]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[지금 가장 핫한 밴드의 필수 청취곡]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/994bd93621b04c6cb22a399b80f795cc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
