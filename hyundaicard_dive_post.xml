@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 09:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 10:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미디어와 퍼포먼스를 탐미하는 여정]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[마사 조지프의 MoMA Talk]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/51c10de656134ae3a945aa6a78547742.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[8년 만의 그루브]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[미나 페르호넨의 첫 서울 전시]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f5cebe5489db4aeba4f543e7ed749d7b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한번 모일 때도 됐잖아]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[지인 모임을 위한 에어비앤비 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6804d6e7078c41a1a3f134175e6d8b43.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
