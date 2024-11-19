@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Nov 2024 23:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 01:07:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ Oasis (VIBE ─ 매거진)]]></title>
 NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 18 Nov 2024 23:14:20 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 01:06:57 GMT</pubDate>
             <content:encoded><![CDATA[정규 4집을 발표한 NCT DREAM부터 오랜만에 컴백을 알린 린킨 파크까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 한승희]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241118_122/17318987491462DOjp_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추억을 일깨우는 영화 음악 산책 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[11월 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/269c94e094a6420f90dbd8c45c744c34.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라이카 M이 걸어온 시간 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[Friday Pop-up #2 바비큐]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cfc52720a1384c80876b7db0132a612a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬기로운 쇼핑 생활 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[M100 FESTA 100% 쇼핑 노하우]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/261adb5cda734a948531112fa61b29a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
