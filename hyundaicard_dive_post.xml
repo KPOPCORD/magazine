@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 05:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 06:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한식과 중식의 맛있는 만남]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[Delicious Cooking #2]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a0e35f2fbb7d485e93b62f56784a8a0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추억을 일깨우는 영화 음악 산책]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[Saturday Market #2]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bd07b51450d240b1b36218b594c4baf5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘핫’한 셰프들의 깜짝 바비큐 파티]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[Friday Pop-up #2 바비큐]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cfc52720a1384c80876b7db0132a612a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
