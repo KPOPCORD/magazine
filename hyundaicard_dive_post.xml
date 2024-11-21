@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 04:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 05:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BONUS TRACK 16. 민수]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[나와 당신의 20대 사랑 이야기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/89807716b35f4e9ca063be2a5c53239d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흐르는 시간 속 예술과 미디어]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[[이성동의 더 넥스트] 패션에 대한 착각 #8]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bbdfa7db32b04deb8d1698b82a759ab3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미디어와 퍼포먼스를 탐미하는 여정]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[마사 조지프의 MoMA Talk]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/51c10de656134ae3a945aa6a78547742.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
