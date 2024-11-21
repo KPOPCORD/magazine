@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Nov 2024 23:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 01:06:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흐르는 시간 속 예술과 미디어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리의 MoMA 테마 북 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8be6c03e791e49f181e731eefacee2fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오감 예술]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[마사 조지프의 MoMA Talk]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/51c10de656134ae3a945aa6a78547742.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8년 만의 그루브]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[DIVE 스페셜 인터뷰 #박재범]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b6bf38566dd74832b13de456fe03b98b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
