@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 05:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 06:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미니멀 아트의 지평을 열다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 10]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ea96eca831314fb98bb58f33011ae761.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[땡스기빙! 치킨 오마카세]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[라이카 M 시리즈 탄생 70주년]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2d00cfb31f844da983c9039abf1e4799.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬 바람 불면 찾아오는 걸작선]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 11월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7b3cadd8d8c4439a9f6df79ebb6330da.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
