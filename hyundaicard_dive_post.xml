@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 07:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 08:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울 시즌을 부탁해]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[아이언앤우드 동계 집중 프로모션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/03f8562bc76044f3b6f2b38a91b9024a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미니멀 아트의 지평을 열다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[11월 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/269c94e094a6420f90dbd8c45c744c34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이카 M이 걸어온 시간]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[라이카 M 시리즈 탄생 70주년]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2d00cfb31f844da983c9039abf1e4799.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
