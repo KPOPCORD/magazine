@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Nov 2024 23:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Nov 2024 01:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아트 시티의 귀환]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 도약을 꿈꾸는 아트 바젤 파리]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d4687df23d174f5989292148b6f505bd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[풍류가 흐르는 마을]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[디자인 라이브러리 레어 북 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/547ac14d86134be68d80257114788833.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한식과 중식의 맛있는 만남]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[Delicious Cooking #2]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a0e35f2fbb7d485e93b62f56784a8a0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
