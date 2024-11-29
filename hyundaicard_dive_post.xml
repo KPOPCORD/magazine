@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 03:32:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 04:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[취향 맞춤 일본 여행]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[현대 아멕스 카드 일본 제휴 서비스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3678b341740b49938e68f32ee5931f80.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[골프 치러 어디 가?]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[머지않은 미래에 만나게 될 국립·시립 박물관]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/42cd2bea2c7349199fa782f370b66699.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트 시티의 귀환]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 도약을 꿈꾸는 아트 바젤 파리]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d4687df23d174f5989292148b6f505bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
