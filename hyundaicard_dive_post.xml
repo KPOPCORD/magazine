@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 23:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 01:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[골프 치러 어디 가?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 명문 골프 클럽 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/650ce15f0cb74bfc91f8fc2ac7373ca8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[짙고 푸른 시간들]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[새로운 도약을 꿈꾸는 아트 바젤 파리]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d4687df23d174f5989292148b6f505bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풍류가 흐르는 마을]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[[전범선의 풍류] 양반들의 고장, 안동하회마을]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ca8f9d1a989445ffaba5f902030450b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
