@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 04:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 05:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모든 것이 이븐했던 바비큐 파티]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[Friday Pop-up #2 현장 속으로]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7f99026e77c943ca9d82abf4b7d251fe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[취향 맞춤 일본 여행]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[브랜드 여지도 #7 한림수직]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/208f399b5f9e409eab3579be591b8966.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박물관이 온다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[머지않은 미래에 만나게 될 국립·시립 박물관]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/42cd2bea2c7349199fa782f370b66699.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
