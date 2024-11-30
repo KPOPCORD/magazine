@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 23:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Nov 2024 01:06:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리는 모두 비빔 인간이었어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[다채로운 매력의 비빔밥 맛집 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/62037c9250fc4a57b3f5ec00cbaa1714.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘간귀’ 현상욱 셰프의 중식과 일식 사이]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[자연스러운 울림의 카운터 테너]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bceea0e2f0a64999895c728d2a15d5b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주의 헤리티지를 찾아서]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드 여지도 #7 한림수직]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/208f399b5f9e409eab3579be591b8966.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
