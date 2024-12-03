@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 23:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 01:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ HWASA (VIBE ─ 매거진)]]></title>
 태연, 켄드릭 라마 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 02 Dec 2024 23:16:08 GMT</pubDate>
+            <pubDate>Tue, 03 Dec 2024 01:10:20 GMT</pubDate>
             <content:encoded><![CDATA[위로하는 메시지가 담긴 곡으로 컴백한 태연부터 서프라이즈로 앨범을 발표한 켄드릭 라마까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 한승희]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241202_153/1733110875454mAKTp_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울 감각 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 라이브러리 12월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a502e70894fe46ff907f7a42c3b2584d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일상 혜택을 위한 한통속 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ HWASA (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 명문 골프 클럽 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/650ce15f0cb74bfc91f8fc2ac7373ca8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짙고 푸른 시간들 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[위아더나잇 보컬 함병선 북토크 신청]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/25aa65c1db0e43669c4fcd11a69a93e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
