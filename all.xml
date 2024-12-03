@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 08:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 09:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/CGD3A9NNK0I683RAKVRO/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나인아이(NINE.i)의 일본 첫 번째 싱글 [蜃氣樓] 퍼포먼스 비디오 촬영 ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14862&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14862&amp;pg=1</guid>
+            <pubDate>Tue, 03 Dec 2024 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14862/Mgz_Main_List_20241203164550.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[Padi ‘MARSHMALLOW (Feat. 허성현, BLASÉ, DON M... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14858&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14858&amp;pg=1</guid>
+            <pubDate>Tue, 03 Dec 2024 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14858/Mgz_Main_List_20241203112941.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[오늘은 어제의 나를 넘어서는 날 - 츠지이 노부유키의 도이치 그라모폰 데뷔 앨... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14865&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14865&amp;pg=1</guid>
@@ -243,22 +259,6 @@
             <pubDate>Mon, 02 Dec 2024 03:02:22 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14868/Mgz_Main_List_20241202103301.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕에 거점을 둔 세명의 한국 재즈뮤지션들 의기투합하다! 'John Chin'... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14867&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14867&amp;pg=1</guid>
-            <pubDate>Mon, 02 Dec 2024 03:02:22 GMT</pubDate>
-            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14867/Mgz_Main_List_20241202113719.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[M.O.N.T(몬트) ‘겨울이 되면’ 뮤직비디오 촬영 현장 비하인드 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14860&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14860&amp;pg=1</guid>
-            <pubDate>Mon, 02 Dec 2024 03:02:22 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14860/Mgz_Main_List_20241202090908.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[나는 
@@ -373,9 +373,17 @@ HWASA (VIBE ─ 매거진)]]></title>
 태연, 켄드릭 라마 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Tue, 03 Dec 2024 08:19:37 GMT</pubDate>
+            <pubDate>Tue, 03 Dec 2024 09:16:15 GMT</pubDate>
             <content:encoded><![CDATA[위로하는 메시지가 담긴 곡으로 컴백한 태연부터 서프라이즈로 앨범을 발표한 켄드릭 라마까지. 지금 주목해야 할 신곡들을 VIBE 매거진에서 확인하세요. 글 : 박희아, 한승희]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241202_153/1733110875454mAKTp_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한식과 중식의 만남 스페셜 쿠킹 클래스 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[Delicious Cooking #2 현장]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ce7b57c2d044092b7d321ee76c127da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울 감각 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ HWASA (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[현대 아멕스 카드 일본 제휴 서비스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3678b341740b49938e68f32ee5931f80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골프 치러 어디 가? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 명문 골프 클럽 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/650ce15f0cb74bfc91f8fc2ac7373ca8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

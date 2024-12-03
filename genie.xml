@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 08:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 09:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나인아이(NINE.i)의 일본 첫 번째 싱글 [蜃氣樓] 퍼포먼스 비디오 촬영 ...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14862&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14862&amp;pg=1</guid>
+            <pubDate>Tue, 03 Dec 2024 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14862/Mgz_Main_List_20241203164550.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[Padi ‘MARSHMALLOW (Feat. 허성현, BLASÉ, DON M...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14858&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14858&amp;pg=1</guid>
+            <pubDate>Tue, 03 Dec 2024 09:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14858/Mgz_Main_List_20241203112941.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[오늘은 어제의 나를 넘어서는 날 - 츠지이 노부유키의 도이치 그라모폰 데뷔 앨...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14865&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 02 Dec 2024 03:02:22 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14868/Mgz_Main_List_20241202103301.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕에 거점을 둔 세명의 한국 재즈뮤지션들 의기투합하다! 'John Chin'...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14867&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=14867&amp;pg=1</guid>
-            <pubDate>Mon, 02 Dec 2024 03:02:22 GMT</pubDate>
-            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14867/Mgz_Main_List_20241202113719.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[M.O.N.T(몬트) ‘겨울이 되면’ 뮤직비디오 촬영 현장 비하인드]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14860&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14860&amp;pg=1</guid>
-            <pubDate>Mon, 02 Dec 2024 03:02:22 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14860/Mgz_Main_List_20241202090908.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>

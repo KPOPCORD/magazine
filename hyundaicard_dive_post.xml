@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 08:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 09:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한식과 중식의 만남 스페셜 쿠킹 클래스]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[Delicious Cooking #2 현장]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ce7b57c2d044092b7d321ee76c127da.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울 감각]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[현대 아멕스 카드 일본 제휴 서비스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3678b341740b49938e68f32ee5931f80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골프 치러 어디 가?]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 명문 골프 클럽 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/650ce15f0cb74bfc91f8fc2ac7373ca8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
