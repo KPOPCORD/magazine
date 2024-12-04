@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 08:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 09:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/CGD3A9NNK0I683RAKVRO/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[결국에 눈부시게 빛날 청춘들에게.. 신용재 [빛] (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14875&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14875&amp;pg=1</guid>
+            <pubDate>Wed, 04 Dec 2024 09:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14875/Mgz_Main_List_20241204110726.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[이승기 (LEE SEUNG GI) 20th Anniversary Album [... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14869&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14869&amp;pg=1</guid>
+            <pubDate>Wed, 04 Dec 2024 09:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14869/Mgz_Main_List_20241204114503.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[우주에 빗댄 디에잇만의 사랑 이야기, 타이틀곡 ‘Orbit (轨道) (feat... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14874&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14874&amp;pg=1</guid>
@@ -243,22 +259,6 @@
             <pubDate>Tue, 03 Dec 2024 03:01:52 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14863/Mgz_Main_List_20241203110444.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[보통의 사람들과 보통의 사랑을 담은, Jade (제이드) [Ordinary P... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14856&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14856&amp;pg=1</guid>
-            <pubDate>Tue, 03 Dec 2024 03:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14856/Mgz_Main_List_20241203103637.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[신인 싱어 송 라이터 임지우(imzoo)의 새 싱글 [Love Actually... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14861&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14861&amp;pg=1</guid>
-            <pubDate>Mon, 02 Dec 2024 09:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14861/Mgz_Main_List_20241202164046.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #196: 
@@ -373,7 +373,7 @@ QWER (VIBE ─ 매거진)]]></title>
 새로운 축제 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 04 Dec 2024 08:20:21 GMT</pubDate>
+            <pubDate>Wed, 04 Dec 2024 09:16:36 GMT</pubDate>
             <content:encoded><![CDATA[여기 끝이 아닌 또다른 시작에 서 있다고 우리에게 말해줄래?]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241204_295/1733279077370GWGYa_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
