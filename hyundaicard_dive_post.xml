@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 23:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 01:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울에도 감성 캠핑]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[겨울 캠핑의 매력을 더하는 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/066025e1a77e491caeea5dc83567aaaf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한식과 중식의 만남 스페셜 쿠킹 클래스]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[Friday Pop-up #2 현장 속으로]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7f99026e77c943ca9d82abf4b7d251fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취향 맞춤 일본 여행]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[현대 아멕스 카드 일본 제휴 서비스]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3678b341740b49938e68f32ee5931f80.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
