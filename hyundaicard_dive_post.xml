@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 08:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 09:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웰컴, 땡스기빙 치킨데이!]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[Saturday Pop-up #3 현장 속으로]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f066effdaccc4c6581d09fc4099a7752.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그때는 혁신이었어]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[다채로운 매력의 비빔밥 맛집 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/62037c9250fc4a57b3f5ec00cbaa1714.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘간귀’ 현상욱 셰프의 중식과 일식 사이]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[Delicious Cooking #3 현상욱]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/88d06220b07d477091d5b0033439601f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

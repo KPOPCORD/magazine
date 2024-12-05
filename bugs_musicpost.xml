@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 08:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 09:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임지우(imzoo) - 3분간의 고백 [Love Actually] 발매 기념 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/ZI66Z3LCLGJ4CBP6AV0H?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/ZI66Z3LCLGJ4CBP6AV0H?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 05 Dec 2024 09:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/ZI66Z3LCLGJ4CBP6AV0H/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (12/4)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -187,14 +195,6 @@
             <pubDate>Tue, 20 Aug 2024 03:15:11 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/OH4RW4C4VIGQ5VIVSAGH/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구만(9.10000) - '여명' 뮤직비디오 비하인드 공개]]></title>
-            <link>https://music.bugs.co.kr/musicpost/CGD3A9NNK0I683RAKVRO?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/CGD3A9NNK0I683RAKVRO?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 20 Aug 2024 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/CGD3A9NNK0I683RAKVRO/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
