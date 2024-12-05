@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 23:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 01:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그때는 혁신이었어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 12월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bed08bfb039741caa24cd61ccb957ea6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울에도 감성 캠핑]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[Delicious Cooking #3 현상욱]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/88d06220b07d477091d5b0033439601f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 것이 이븐했던 바비큐 파티]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[Friday Pop-up #2 현장 속으로]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7f99026e77c943ca9d82abf4b7d251fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
