@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 23:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 01:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ QWER (VIBE ─ 매거진)]]></title>
 새로운 축제 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Sun, 08 Dec 2024 23:13:48 GMT</pubDate>
+            <pubDate>Mon, 09 Dec 2024 01:11:46 GMT</pubDate>
             <content:encoded><![CDATA[여기 끝이 아닌 또다른 시작에 서 있다고 우리에게 말해줄래?]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241204_295/1733279077370GWGYa_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 서울의 파인다이닝 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[데이터로 검증된 미쉐린 레스토랑 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5f533f0306544501ac6f4fd259776fee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레드 컬러를 꺼내야 할 때 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ QWER (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[Delicious Cooking #2 현장]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6ce7b57c2d044092b7d321ee76c127da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 감각 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 라이브러리 12월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a502e70894fe46ff907f7a42c3b2584d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
