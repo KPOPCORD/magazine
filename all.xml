@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 08:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 09:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,22 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2OVWEI9SSXMVN7RZ1Y9J/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김법래 [산군 (山君)] MV 촬영 현장 비하인드 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14888&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14888&amp;pg=1</guid>
+            <pubDate>Mon, 09 Dec 2024 09:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14888/Mgz_Main_List_20241209170953.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[세븐어스 (SEVENUS) 2nd Mini Album [STAY TUNED] ... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14885&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14885&amp;pg=1</guid>
+            <pubDate>Mon, 09 Dec 2024 09:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14885/Mgz_Main_List_20241209170653.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[건축을 주제로한 카페 겸 바, 남대문시장의 <건축다방> (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=14892&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=14892&amp;pg=1</guid>
@@ -243,22 +259,6 @@
             <pubDate>Fri, 06 Dec 2024 03:35:45 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14881/Mgz_Main_List_20241206111214.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[‘∗23＃ (별이삼샵)'로 돌아온 송좌 (songjwa), 인터뷰 및 라이브 ... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14871&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14871&amp;pg=1</guid>
-            <pubDate>Fri, 06 Dec 2024 03:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14871/Mgz_Main_List_20241205174435.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE (트레저) ‘LAST NIGHT’ M/V 촬영 현장 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14880&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14880&amp;pg=1</guid>
-            <pubDate>Thu, 05 Dec 2024 09:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14880/Mgz_Main_List_20241205105106.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[TWS의 
@@ -373,7 +373,7 @@ QWER (VIBE ─ 매거진)]]></title>
 크래비티 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Mon, 09 Dec 2024 08:21:35 GMT</pubDate>
+            <pubDate>Mon, 09 Dec 2024 09:17:36 GMT</pubDate>
             <content:encoded><![CDATA[독특한 행보로 달려온 성장하는 아이돌, 크래비티라는 청춘을 기억해.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241209_245/1733710530147NbmLL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
