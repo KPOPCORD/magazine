@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 01:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 02:59:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hi, Teens]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[청소년 맞춤 신용 카드, 현대카드 Teens]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3d6c261d3c194a9ba4c406aa04eb16f8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민수와 스물아홉]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 12월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bed08bfb039741caa24cd61ccb957ea6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울에도 감성 캠핑]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 07 Apr 2024 19:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[겨울 캠핑의 매력을 더하는 아이템]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/066025e1a77e491caeea5dc83567aaaf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
