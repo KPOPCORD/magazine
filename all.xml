@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 08:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 09:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2OVWEI9SSXMVN7RZ1Y9J/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[UDTT (우당당탕 소녀단) '𝐑𝐄𝐓𝐑𝐘' 자켓 촬영 비하인드 (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14898&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14898&amp;pg=1</guid>
+            <pubDate>Wed, 11 Dec 2024 09:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14898/Mgz_Main_List_20241211101829.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[김필선 첫 번째 정규앨범 [필선집] 발매 기념 콘서트 컨셉 포토 촬영 비하인드... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14895&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14895&amp;pg=1</guid>
@@ -251,14 +259,6 @@
             <pubDate>Tue, 10 Dec 2024 03:02:07 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14893/Mgz_Main_List_20241210111615.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[윤한의 음악적 곁가지, 샛길에서 피어난 따뜻한 여정 (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14889&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=14889&amp;pg=1</guid>
-            <pubDate>Tue, 10 Dec 2024 03:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14889/Mgz_Main_List_20241210112451.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[TWS의 
@@ -373,7 +373,7 @@ QWER (VIBE ─ 매거진)]]></title>
 크래비티 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 11 Dec 2024 08:20:29 GMT</pubDate>
+            <pubDate>Wed, 11 Dec 2024 09:16:23 GMT</pubDate>
             <content:encoded><![CDATA[독특한 행보로 달려온 성장하는 아이돌, 크래비티라는 청춘을 기억해.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241209_245/1733710530147NbmLL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
