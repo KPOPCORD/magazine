@@ -1,8 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://dive.hyundaicard.com/web/post/post.hdc</id>
-    <title>현대카드 DIVE ─ POST</title>
-    <updated>2024-12-12T11:13:21.444Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dive.hyundaicard.com/web/post/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>현대카드 DIVE ─ POST</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 12 Dec 2024 12:29:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홀리데이 시즌, 캐럴과 뉴 페이스]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/88c1f934e11a44d4b0ba2ac816ad34a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자연의 흐름과 풍요를]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월의 디자이너, 정영선]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e7d61f2d9b3e45e0ac66fb61b5022019.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hi, Teens]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[청소년 맞춤 신용 카드, 현대카드 Teens]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3d6c261d3c194a9ba4c406aa04eb16f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민수와 스물아홉]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[민수 BONUS TRACK 현장과 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/46d316653cc04c54bcc90c37f26e3c67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 서울의 파인다이닝]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[데이터로 검증된 미쉐린 레스토랑 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5f533f0306544501ac6f4fd259776fee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레드 컬러를 꺼내야 할 때]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[겨울을 빛내 줄 레드 패션 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/18decfb55f0446ac96360969613a79bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여권 없이 떠나는 세계 미식 기행]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[인스파이어 리조트 미식 투어]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7f12f8baf9ad4b6e987b619bfaedd968.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기분 좋은 연말]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[12월 현대카드 What's On]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a26cb9aa52c04c8199182d611bf50225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[히든 셰프의 연말 피스트 다이닝]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[Sunday Pop-up #4 포노 부오노]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4c8d4c5324524f288e4a0b13ef50557a.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
