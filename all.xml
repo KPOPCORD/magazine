@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 23:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 01:09:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ QWER (VIBE ─ 매거진)]]></title>
 크래비티 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 11 Dec 2024 23:14:24 GMT</pubDate>
+            <pubDate>Thu, 12 Dec 2024 01:09:16 GMT</pubDate>
             <content:encoded><![CDATA[독특한 행보로 달려온 성장하는 아이돌, 크래비티라는 청춘을 기억해.]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241209_245/1733710530147NbmLL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홀리데이 시즌, 캐럴과 뉴 페이스 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[12월 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/88c1f934e11a44d4b0ba2ac816ad34a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자연의 흐름과 풍요를 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ QWER (VIBE ─ 매거진)]]></title>
             <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
             <content:encoded><![CDATA[Sunday Pop-up #4 포노 부오노]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4c8d4c5324524f288e4a0b13ef50557a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웰컴, 땡스기빙 치킨데이! (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sun, 26 May 2024 10:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[Saturday Pop-up #3 현장 속으로]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f066effdaccc4c6581d09fc4099a7752.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
