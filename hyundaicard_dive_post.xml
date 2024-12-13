@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 08:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 09:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중식과 일식 사이 간귀 딜리셔스 쿠킹]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[Delicious Cooking #3 현장]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c654d92576964a7cb1826b8efc18e83c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cookshop in the Library]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[겨울을 빛내 줄 레드 패션 아이템]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/18decfb55f0446ac96360969613a79bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여권 없이 떠나는 세계 미식 기행]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[인스파이어 리조트 미식 투어]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7f12f8baf9ad4b6e987b619bfaedd968.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
