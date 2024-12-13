@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 06:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 07:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -373,9 +373,17 @@ QWER (VIBE ─ 매거진)]]></title>
 지드래곤 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Fri, 13 Dec 2024 06:21:57 GMT</pubDate>
+            <pubDate>Fri, 13 Dec 2024 07:15:27 GMT</pubDate>
             <content:encoded><![CDATA[시대마다 한국 대중 음악계에서는 대중문화에 거대한 영향력을 끼치는 슈퍼스타가 존재했다. 이들 중에서도 지드래곤은 2010년대 이후부터 등장하는 수많은 음악가의 롤모델이자 셀러브리티의 셀러브리티로 자리 잡은 존재다. 이주의 디깅에서는 다시 돌아온 지드래곤의 이모저모를 짚어보도록 하겠다. - 인스]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241212_38/1733988284274rxYfW_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cookshop in the Library (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[쿠킹 라이브러리의 새로운 공간]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e5f34163e54547faad37b0a1a27c0bcb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일할 맛 나네 Our 365 (현대카드 DIVE ─ POST)]]></title>
@@ -440,14 +448,6 @@ QWER (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[인스파이어 리조트 미식 투어]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7f12f8baf9ad4b6e987b619bfaedd968.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기분 좋은 연말 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 현대카드 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a26cb9aa52c04c8199182d611bf50225.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
