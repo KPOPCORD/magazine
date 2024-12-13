@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 04:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 05:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일할 맛 나네 Our 365]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:1.58 카드 비례로 만든 다이어리·캘린더]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9a06ab94b9d14b0eb9900fbee9344f84.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홀리데이 시즌, 캐럴과 뉴 페이스]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[12월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a26cb9aa52c04c8199182d611bf50225.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히든 셰프의 연말 피스트 다이닝]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[Sunday Pop-up #4 포노 부오노]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4c8d4c5324524f288e4a0b13ef50557a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
