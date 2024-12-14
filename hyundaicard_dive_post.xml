@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 23:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Dec 2024 01:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무엇을 그림에 담고 싶은가]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[[창작의 나침반] 그림 기술을 연마하는 이유]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f1d58cc109634586b8bf291a91d6eaea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중식과 일식 사이 간귀 딜리셔스 쿠킹]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[데이터로 검증된 미쉐린 레스토랑 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5f533f0306544501ac6f4fd259776fee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드 컬러를 꺼내야 할 때]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[겨울을 빛내 줄 레드 패션 아이템]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/18decfb55f0446ac96360969613a79bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
