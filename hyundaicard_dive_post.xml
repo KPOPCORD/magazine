@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Dec 2024 23:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Dec 2024 01:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비자 없이 중국에 가겠어요]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[한국인이 선호하는 중국 도시 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6895a7d100034a58a0f0a6e13e5df765.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무엇을 그림에 담고 싶은가]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[민수 BONUS TRACK 현장과 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/46d316653cc04c54bcc90c37f26e3c67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 서울의 파인다이닝]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[데이터로 검증된 미쉐린 레스토랑 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5f533f0306544501ac6f4fd259776fee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
