@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 09:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 10:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청춘을 쓰고 노래하는 뮤지션]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[함병선 북토크 현장과 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5dc55dafe2a74d68a91d36ed46186146.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Red vs Green 컬러 미식 전쟁]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[1:1.58 카드 비례로 만든 다이어리·캘린더]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9a06ab94b9d14b0eb9900fbee9344f84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홀리데이 시즌, 캐럴과 뉴 페이스]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[12월 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/88c1f934e11a44d4b0ba2ac816ad34a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
