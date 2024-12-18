@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 07:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 08:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,9 +372,17 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
 켄드릭 라마 (VIBE ─ 매거진)]]></title>
             <link>https://KPOPCORD.github.io/magazine/all.xml</link>
             <guid>https://KPOPCORD.github.io/magazine/all.xml</guid>
-            <pubDate>Wed, 18 Dec 2024 07:14:49 GMT</pubDate>
+            <pubDate>Wed, 18 Dec 2024 08:19:39 GMT</pubDate>
             <content:encoded><![CDATA[켄드릭 라마가 예고 없이 새로운 정규 앨범 &lt;GNX&gt;를 발표했다. 공격적이고 묵직한 웨스트코스트 사운드를 중심으로 채워진 12곡의 신곡을 통해, 그는 다시 한번 자신의 전성기를 갱신하고 있다. 이미 역사에 남을 뮤지션의 반열에 오른 켄드릭 라마의 발자취를 이주의 디깅과 함께 따라가 보자! -파고]]></content:encoded>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024년 파도타기 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[2024 DIVE 연말 결산]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4bcb4d521ece46c0bfb3eb154d5de6b3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[환기의 시간 (현대카드 DIVE ─ POST)]]></title>
@@ -439,14 +447,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[[창작의 나침반] 그림 기술을 연마하는 이유]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f1d58cc109634586b8bf291a91d6eaea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중식과 일식 사이 간귀 딜리셔스 쿠킹 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[Delicious Cooking #3 현장]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c654d92576964a7cb1826b8efc18e83c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
