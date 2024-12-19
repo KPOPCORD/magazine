@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 23:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 01:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리스마스에는 일본 여행을]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[한큐한신백화점 크리스마스 마켓 혜택]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cd2e14bcac7d4967870e99a9f7c8ad48.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2024년 파도타기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[한국인이 선호하는 중국 도시 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6895a7d100034a58a0f0a6e13e5df765.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무엇을 그림에 담고 싶은가]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[[창작의 나침반] 그림 기술을 연마하는 이유]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f1d58cc109634586b8bf291a91d6eaea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
