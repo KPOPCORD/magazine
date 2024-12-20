@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Dec 2024 23:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 01:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포기할 수 없는 겨울 데일리 룩]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[겨울철 필수 방한템 알아보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/270311d1aee14abea6e59390e3204b98.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[물의 도시에서 밝히는 건축의 미래]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[신안 예술섬 프로젝트의 시작]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8463cf7d77ca446a99744468d67d0c97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 원더풀 쇼타임!]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[도심에서 만나는 유럽풍 크리스마스 마켓]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d11bc103017046b3af061102c53cf374.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
