@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 06:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 07:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행동하는 저항의 예술]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 11]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/597aebbba7154d8392224e1d58975a82.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포기할 수 없는 겨울 데일리 룩]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 데이터로 검증된 흑백요리사 레스토랑]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c68ac56ae2b54f2c90aee9364bdd52bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아주 뜨거워질 신안]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[신안 예술섬 프로젝트의 시작]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8463cf7d77ca446a99744468d67d0c97.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
