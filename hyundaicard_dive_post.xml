@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 23:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 01:03:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝업 스토어의 성공 노하우]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[[이성동의 더 넥스트] 패션에 대한 착각 #9]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d7589ace2cf742ebaf85361ccfaff664.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[행동하는 저항의 예술]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[함병선 북토크 현장과 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5dc55dafe2a74d68a91d36ed46186146.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red vs Green 컬러 미식 전쟁]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 데이터로 검증된 흑백요리사 레스토랑]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c68ac56ae2b54f2c90aee9364bdd52bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
