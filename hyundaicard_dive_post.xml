@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Dec 2024 23:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 01:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024년 아트 페어의 피날레]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[아트 바젤 마이애미 비치 리포트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/6c3dd0f01f9f40c896bd23791bd6c8c3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팝업 스토어의 성공 노하우]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[M몰 크리스마스 홀리데이 이벤트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/68cc045429444fc4ac2dd407ce3e778d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청춘을 쓰고 노래하는 뮤지션]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[함병선 북토크 현장과 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5dc55dafe2a74d68a91d36ed46186146.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
