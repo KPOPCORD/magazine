@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 08:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 09:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GHOST9(고스트나인) - 겨울 선물 같은 앨범 [서있을게] 라이브 클립 촬영 현장]]></title>
+            <link>https://music.bugs.co.kr/musicpost/VI85RL2BZHPVT151WDAZ?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/VI85RL2BZHPVT151WDAZ?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 23 Dec 2024 09:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/VI85RL2BZHPVT151WDAZ/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2024 Favorite [왕중왕] 상세 안내]]></title>
             <link>https://music.bugs.co.kr/musicpost/MB9TI5LZX451748IIYUL?&amp;wl_ref=list_sp_01_h</link>
@@ -186,14 +194,6 @@
             <pubDate>Fri, 13 Sep 2024 09:13:48 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2VSG69Y3YW2SV778EIGO/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alan Walker(알렌 워커) - Joe Jonas, Julia Michaels가 함께한 사랑을 위한 감정적인 여정 [Thick of It All]]]></title>
-            <link>https://music.bugs.co.kr/musicpost/V2WUI8N4CR3T9HGI4WFK?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/V2WUI8N4CR3T9HGI4WFK?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 06 Sep 2024 03:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/V2WUI8N4CR3T9HGI4WFK/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

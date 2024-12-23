@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 08:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 09:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장미빛 감성을 담은 프레즈(Fraise)의 4번째 싱글 [Rose Letter...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14921&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14921&amp;pg=1</guid>
+            <pubDate>Mon, 23 Dec 2024 09:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14921/Mgz_Main_List_20241223143814.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[우리의 시간을 따듯하고 고요하게 <고요산장>]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=14923&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 19 Dec 2024 03:26:42 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14903/Mgz_Main_List_20241219105327.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[봄, 여름, 가을, 겨울을 관통하는 이야기의 마지막 장! ＆TEAM 2nd A...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14914&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=14914&amp;pg=1</guid>
-            <pubDate>Wed, 18 Dec 2024 04:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/14914/Mgz_Main_List_20241217175015.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
