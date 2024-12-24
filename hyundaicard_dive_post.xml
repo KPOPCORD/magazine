@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 23:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 01:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 셰프, 요즘 스태프 밀]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[스타 셰프 인터뷰 #1 스태프 밀]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5fa5c963e3774acbb9f28e8e5687caa3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴욕에서 만난 두 셰프의 피스트 다이닝]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[2024 DIVE 연말 결산]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e2b33d0ea4ba403ca5e339f79352e101.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환기의 시간]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[다시 돌아온 환기미술관]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d37868e830ec455fa2c29d6ffa7cb35d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
