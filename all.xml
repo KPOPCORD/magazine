@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Dec 2024 01:04:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 02:45:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT'S NEW! 12월 issue (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/8TSMTQFFFZU8H0VS7KIW?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/8TSMTQFFFZU8H0VS7KIW?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 26 Dec 2024 02:43:54 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/8TSMTQFFFZU8H0VS7KIW/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GHOST9(고스트나인) - 겨울 선물 같은 앨범 [서있을게] 라이브 클립 촬영 현장 (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/VI85RL2BZHPVT151WDAZ?&amp;wl_ref=list_sp_01_h</link>
@@ -186,14 +194,6 @@
             <pubDate>Fri, 20 Sep 2024 09:17:27 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/31D8ITX5ODA882B0DLDS/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비비탄 - 선공개 싱글 'PPiPPo' 컴백 인터뷰 & MV 촬영 비하인드 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/2VSG69Y3YW2SV778EIGO?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/2VSG69Y3YW2SV778EIGO?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Fri, 13 Sep 2024 09:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/2VSG69Y3YW2SV778EIGO/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Something Cool & New Jazz Christmas! 'Rober... (지니 ─ 매거진)]]></title>
