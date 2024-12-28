@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 23:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Dec 2024 01:03:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -377,6 +377,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그렇게 노래한다 하나 됨에로 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[[전범선의 풍류] 용산에서 꿈꾸는 대동 세상]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c116d803c2442e6af3f771c85c75b41.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[핫한 셰프들은 어디서 무엇을 먹을까 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -439,14 +447,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 11]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/597aebbba7154d8392224e1d58975a82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포기할 수 없는 겨울 데일리 룩 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[겨울철 필수 방한템 알아보기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/270311d1aee14abea6e59390e3204b98.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
