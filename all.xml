@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jan 2025 01:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 02:46:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Favorite - COMING SOON! (1/8) (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김제형 - 동그라미도, 세모도, 네모도 아닌 '사다리꼴' MV 촬영 비하인드 (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/BEYGUSJ4J8SVZMNT6D0S?&amp;wl_ref=list_sp_01_h</link>
@@ -22,14 +30,6 @@
             <pubDate>Thu, 26 Dec 2024 02:43:54 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/8TSMTQFFFZU8H0VS7KIW/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Favorite - COMING SOON! (12/31) (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GHOST9(고스트나인) - 겨울 선물 같은 앨범 [서있을게] 라이브 클립 촬영 현장 (벅스 ─ 뮤직포스트)]]></title>
@@ -417,14 +417,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e3b3776e72bb412fa664d1300fddb174.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새해에 듣는 올드 스쿨 힙합 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 1월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5cf0fff63bc144c9b140e616c70c2298.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[독파민에 빠져 볼까 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -447,6 +439,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[입안 가득 행복을 담아내는 딤섬 전문점]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0ede17f4009b4e958c9a44215bcaabea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그렇게 노래한다 하나 됨에로 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[[전범선의 풍류] 용산에서 꿈꾸는 대동 세상]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c116d803c2442e6af3f771c85c75b41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

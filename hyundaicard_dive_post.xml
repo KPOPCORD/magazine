@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jan 2025 01:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jan 2025 02:46:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e3b3776e72bb412fa664d1300fddb174.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새해에 듣는 올드 스쿨 힙합]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 1월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5cf0fff63bc144c9b140e616c70c2298.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[독파민에 빠져 볼까]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -78,6 +70,14 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[입안 가득 행복을 담아내는 딤섬 전문점]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0ede17f4009b4e958c9a44215bcaabea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그렇게 노래한다 하나 됨에로]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[[전범선의 풍류] 용산에서 꿈꾸는 대동 세상]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2c116d803c2442e6af3f771c85c75b41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
