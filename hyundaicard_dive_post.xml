@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jan 2025 23:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 01:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션에서 예술로]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[마틴 마르지엘라의 도전]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e00f93251d434a60b40bfebc32f4fb33.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온 가족이 함께해]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[감동을 담은 추천 선물 리스트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/621d0dbb43ba498da910b44c882204bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 마음에 딤섬이라는 점을 찍다]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[입안 가득 행복을 담아내는 딤섬 전문점]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0ede17f4009b4e958c9a44215bcaabea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
