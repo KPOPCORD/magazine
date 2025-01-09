@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 08:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 09:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2Z(투지) - 8번째 EP [Glorious Youth] MV 촬영 현장 공개]]></title>
+            <link>https://music.bugs.co.kr/musicpost/1U5GBP90OUOXZF8MRDFH?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/1U5GBP90OUOXZF8MRDFH?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Thu, 09 Jan 2025 09:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/1U5GBP90OUOXZF8MRDFH/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[킴미(KiMMi) - 미니 앨범 [KEEP GOING] 작업 비하인드 & 인터뷰]]></title>
             <link>https://music.bugs.co.kr/musicpost/3U2UNI71R9G9NJFF9ACD?&amp;wl_ref=list_sp_01_h</link>
@@ -32,12 +40,12 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BEYGUSJ4J8SVZMNT6D0S/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[IT'S NEW! 12월 issue]]></title>
-            <link>https://music.bugs.co.kr/musicpost/8TSMTQFFFZU8H0VS7KIW?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/8TSMTQFFFZU8H0VS7KIW?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 26 Dec 2024 02:43:54 GMT</pubDate>
+            <title><![CDATA[김제형 - 동그라미도, 세모도, 네모도 아닌 '사다리꼴' MV 촬영 비하인드]]></title>
+            <link>https://music.bugs.co.kr/musicpost/BEYGUSJ4J8SVZMNT6D0S?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/BEYGUSJ4J8SVZMNT6D0S?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Tue, 31 Dec 2024 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/8TSMTQFFFZU8H0VS7KIW/title_mobile_306.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/BEYGUSJ4J8SVZMNT6D0S/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GHOST9(고스트나인) - 겨울 선물 같은 앨범 [서있을게] 라이브 클립 촬영 현장]]></title>
@@ -187,14 +195,6 @@
             <pubDate>Thu, 26 Sep 2024 09:14:42 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/FODZAOU7L5XF95TJ2Q2O/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jacquees x Paul Blanco - 프로듀서 Devine Channel이 전하는 앨범 [Risk] 작업기]]></title>
-            <link>https://music.bugs.co.kr/musicpost/JBXO1O5HOMDAIEAVVMVT?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/JBXO1O5HOMDAIEAVVMVT?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 26 Sep 2024 03:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JBXO1O5HOMDAIEAVVMVT/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
