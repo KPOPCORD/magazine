@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 23:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 01:05:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나만의 리듬으로 채워 가는 다이어리]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[[창작의 나침반] 기록이 모여 창작이 된다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/97de22764f2b4a9daf7ae6013cc149a8.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[셰프들의 영감을 자극하는 쿡북]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 1월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5cf0fff63bc144c9b140e616c70c2298.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 제너레이션 뮤지엄]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최초의 AI 아트 미술관 미리 보기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ef513bfd4bf847edb9898b1c053c4436.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
