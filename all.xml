@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jan 2025 23:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jan 2025 01:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,6 +378,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자연이 빚는 예술 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[자연을 모티브 삼아 작업하는 아티스트 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b89318ea08b8428cbabe491d7588b871.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나만의 리듬으로 채워 가는 다이어리 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -440,14 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[가족 여행을 완성해 줄 에어비앤비 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d5516f540ab04d7f94899cc6ede8e700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올드 스쿨로 돌아보는 힙합의 시작 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 1월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5cf0fff63bc144c9b140e616c70c2298.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
