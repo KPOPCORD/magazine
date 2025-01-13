@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 08:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 09:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대카드 Curated 96 문수진]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[R&amp;B의 새로운 시대를 정의하다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/79fb60dcc6df4d3e92092c39b2161467.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[자연이 빚는 예술]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[마틴 마르지엘라의 도전]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e00f93251d434a60b40bfebc32f4fb33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온 가족이 함께해]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[가족 여행을 완성해 줄 에어비앤비 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d5516f540ab04d7f94899cc6ede8e700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
