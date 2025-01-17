@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 07:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 08:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Favorite - COMING SOON! (1/22)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브브걸(BBGIRLS) - 두번째 싱글앨범 [LOVE 2] 포토 촬영 현장 비하인드]]></title>
             <link>https://music.bugs.co.kr/musicpost/6NYZ9PS7VW67RR6Y9UFV?&amp;wl_ref=list_sp_01_h</link>
@@ -30,14 +38,6 @@
             <pubDate>Mon, 06 Jan 2025 09:15:19 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/3U2UNI71R9G9NJFF9ACD/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Favorite - COMING SOON! (1/15)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Sat, 20 Jul 2024 11:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/JD0TRIN8SAYL13MJH2GK/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김제형 - 동그라미도, 세모도, 네모도 아닌 '사다리꼴' MV 촬영 비하인드]]></title>
