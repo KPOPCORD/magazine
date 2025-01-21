@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 23:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2025 01:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,6 +378,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴트럴 파도 속에서 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[영화 속에서 배우는 색감]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b8292b57082f4672aa63ad25daa7f097.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[눈을 봐야 겨울이지 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -440,14 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[R&amp;B의 새로운 시대를 정의하다]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/79fb60dcc6df4d3e92092c39b2161467.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[자연이 빚는 예술 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[자연을 모티브 삼아 작업하는 아티스트 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b89318ea08b8428cbabe491d7588b871.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
