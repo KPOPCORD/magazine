@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jan 2025 02:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 03:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베스트 교습가의 프리미엄 레슨]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 골프다이제스트 베스트 교습가 이시우]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cc1edbd6faa0423295fe119c42a2e72b.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[뉴트럴 파도 속에서]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[완벽한 휴식을 위한 웰니스 호텔 7]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/136349ddd8344252b1da1057fa36ae03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 96 문수진]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[R&amp;B의 새로운 시대를 정의하다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/79fb60dcc6df4d3e92092c39b2161467.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
