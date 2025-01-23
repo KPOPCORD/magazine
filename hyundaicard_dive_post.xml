@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 02:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 03:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[책 읽을 결심]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[술술 읽히는 책 9]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cbf06feee65e45848b749b9cbe5b884f.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[베스트 교습가의 프리미엄 레슨]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[CES 2025 주요 아이템 3]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/09565f1725e64ff08abf33014a0f4fe8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[건강한 쉼을 위하여]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[완벽한 휴식을 위한 웰니스 호텔 7]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/136349ddd8344252b1da1057fa36ae03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
