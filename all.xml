@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 01:03:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 02:43:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT'S NEW! 1월 issue (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/O6WFLNPS97URXT1TS9EO?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/O6WFLNPS97URXT1TS9EO?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 24 Jan 2025 02:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/O6WFLNPS97URXT1TS9EO/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (1/22) (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -187,14 +195,6 @@
             <pubDate>Mon, 30 Sep 2024 03:24:37 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/QRPCUHWMCBA6BLE6887K/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IT'S NEW! 9월 issue (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/PO3UXL9MQ26GOOBOC5HM?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/PO3UXL9MQ26GOOBOC5HM?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 30 Sep 2024 06:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/PO3UXL9MQ26GOOBOC5HM/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아픔 속에서도 벗어날 수 없는 사랑, 이바다의 감성 록 발라드 [지옥 (地獄)... (지니 ─ 매거진)]]></title>
