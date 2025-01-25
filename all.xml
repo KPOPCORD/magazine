@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 23:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jan 2025 01:00:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,6 +378,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보기보다 더 아름다운 맛 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[Red11 신규 칵테일 소개]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/83475f40669d48dc8f02321cd1e6aef5.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[네이버페이 포인트 쌓고 또 쌓고 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -440,14 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 11]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3cadb8ca88fa4efd9001704611003ec8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 날, 새로운 나 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[영감을 불어넣어 줄 에어비앤비 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/166ff09c1a71439ab4e0a9635531e14c.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
