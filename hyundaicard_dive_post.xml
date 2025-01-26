@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jan 2025 23:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jan 2025 01:05:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멀리까지 왜 가요?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[일본 부럽지 않은 국내 온천 명소 5]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7add818b6ed74a32905a65dd541a7925.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[보기보다 더 아름다운 맛]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[[이성동의 더 넥스트] 마케터 역할 변화 #1]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d23fcfafaed6449a9cef7cbe05c4b353.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세상에 맞선 예술가의 삶]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 11]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3cadb8ca88fa4efd9001704611003ec8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
