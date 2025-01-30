@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jan 2025 23:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 01:04:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[큐레이터의 맛집 큐레이션]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[믿고 먹는 서촌 수프 &amp; 샌드위치 숍 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5950e292a18b4cea93ca5bd499b41b6d.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[패션계 이직 이슈 정리ZIP]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[2025년 골프다이제스트 베스트 교습가 이시우]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cc1edbd6faa0423295fe119c42a2e72b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴트럴 파도 속에서]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[영화 속에서 배우는 색감]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b8292b57082f4672aa63ad25daa7f097.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
