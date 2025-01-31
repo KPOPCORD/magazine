@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Jan 2025 04:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 05:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추위는 옵션 러닝은 필수]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[겨울 러닝 추천 아이템과 팁]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/59c86e4b57a941389c1b5298d5046b85.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[큐레이터의 맛집 큐레이션]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[술술 읽히는 책 9]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cbf06feee65e45848b749b9cbe5b884f.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[베스트 교습가의 프리미엄 레슨]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[2025년 골프다이제스트 베스트 교습가 이시우]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cc1edbd6faa0423295fe119c42a2e72b.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
