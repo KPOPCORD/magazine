@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Feb 2025 23:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 01:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,6 +378,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[모두가 기다린 뉴스 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[뉴욕 프릭 컬렉션 재개관]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/56ab36df6dbe48c98726ae00c4e9c13d.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[다시 듣는 힙합 아이콘 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -392,6 +400,22 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 라이브러리 2월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4ca5ae3fef6b4aa89ffbe23eb5807e6d.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[샹송과 힙합 시대를 노래하다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[2월 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1782db6cb7604b25af712e622ab51858.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[백색 예찬 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[2월의 디자이너, 리처드 마이어]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/76ad4072eff7456abf538fc25f6b6b89.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[추위는 옵션 러닝은 필수 (현대카드 DIVE ─ POST)]]></title>
@@ -424,30 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[CES 2025 현장 인사이트]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d7ea04e31eea429892a56db8aed7d6a6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[운동은 장비발 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[3가지 운동별 추천 아이템]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/36b0721e7b4646c381adb6df05663e58.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[멀리까지 왜 가요? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[일본 부럽지 않은 국내 온천 명소 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7add818b6ed74a32905a65dd541a7925.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보기보다 더 아름다운 맛 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[Red11 신규 칵테일 소개]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/83475f40669d48dc8f02321cd1e6aef5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
