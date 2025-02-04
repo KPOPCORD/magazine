@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 23:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 01:03:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일과 쉼의 새로운 방식]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[바다부터 한옥까지, 워케이션 스폿 3]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/394280e9f0d243a789bac194268aade3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[모두가 기다린 뉴스]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[하이엔드 패션 브랜드의 지각 변동]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/031aa4462ff44e5d90d7fba409cd9704.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지상 최대의 IT 쇼]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[CES 2025 현장 인사이트]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d7ea04e31eea429892a56db8aed7d6a6.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
