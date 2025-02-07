@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 23:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 01:05:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커피 말고 딴것]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[논커피 음료 스폿 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/502faa79c9204d389b9cfdbcf873a5ed.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[같은 물건, 다른 공간]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[겨울 러닝 추천 아이템과 팁]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/59c86e4b57a941389c1b5298d5046b85.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[큐레이터의 맛집 큐레이션]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[믿고 먹는 서촌 수프 &amp; 샌드위치 숍 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5950e292a18b4cea93ca5bd499b41b6d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
