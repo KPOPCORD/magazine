@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Feb 2025 23:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2025 01:08:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샹송과 힙합 시대를 노래하다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[2월 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1782db6cb7604b25af712e622ab51858.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[초콜릿만으로는 부족해]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[뮤직 라이브러리 2월의 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cc491815b8b04b07a4b0bceacfab4a78.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오래된 새 책]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 라이브러리 2월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4ca5ae3fef6b4aa89ffbe23eb5807e6d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
