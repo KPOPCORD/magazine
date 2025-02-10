@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Feb 2025 23:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 01:06:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아침 예찬]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[일찍 문 여는 마포 카페 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1836ceb7b4d1440ba8bbf613faa1146d.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[샹송과 힙합 시대를 노래하다]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[뉴욕 프릭 컬렉션 재개관]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/56ab36df6dbe48c98726ae00c4e9c13d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 듣는 힙합 아이콘]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 2월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cc491815b8b04b07a4b0bceacfab4a78.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
