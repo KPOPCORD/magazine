@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 23:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 01:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리도 투명해질 수 있을까?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[투명 디자인 테크 기기 8]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cb3a51b09f244b04adcd9b754cd9c299.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아침 예찬]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[바다부터 한옥까지, 워케이션 스폿 3]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/394280e9f0d243a789bac194268aade3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[모두가 기다린 뉴스]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[뉴욕 프릭 컬렉션 재개관]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/56ab36df6dbe48c98726ae00c4e9c13d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
