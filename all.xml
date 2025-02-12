@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 04:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 05:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,6 +378,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[현대카드 Curated 97 조원선 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[절제된 선율로 일상을 노래하다]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab3c82a1382a43af9d9e6b9f94a39839.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[우리도 투명해질 수 있을까? (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -440,14 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 레어리스트 하이라이츠]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7fda17c30f714dd1a65028e9d851cb5b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일과 쉼의 새로운 방식 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[바다부터 한옥까지, 워케이션 스폿 3]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/394280e9f0d243a789bac194268aade3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
