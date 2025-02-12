@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 02:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 03:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“댄스 챌린지”에 도전장을 낸 슈퍼마켓(Super Market)의 [FAT C...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15012&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15012&amp;pg=1</guid>
+            <pubDate>Wed, 12 Feb 2025 03:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15012/Mgz_Main_List_20250212111836.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[OurR (아월) x wadfah 디지털 싱글 「YAYA」 협업 현장 비하인드]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15007&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15007&amp;pg=1</guid>
+            <pubDate>Wed, 12 Feb 2025 03:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15007/Mgz_Main_List_20250212113412.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[세상을 바꾼 수수께끼같은 청년 밥 딜런 (Bob Dylan), 그의 이름을 시...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15011&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 10 Feb 2025 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15004/Mgz_Main_List_20250210104927.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[조용하고 내성적인 사람들을 위한 맥줏집 <노비어노라이프>]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=15000&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=15000&amp;pg=1</guid>
-            <pubDate>Mon, 10 Feb 2025 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[핫플힙플]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15000/Mgz_Main_List_20250210105344.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[cosmosy (코스모시) debut single [zigy=zigy] 발매]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15001&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15001&amp;pg=1</guid>
-            <pubDate>Fri, 07 Feb 2025 09:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15001/Mgz_Main_List_20250207162453.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
