@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 06:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 07:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예술과 저항의 일대기]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 11]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fad26d02eca44fea8837889bf41ae697.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BONUS TRACK 17. dori]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[2월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/272b6a1e06394dd990cd27ec1bd31b01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커피 말고 딴것]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[논커피 음료 스폿 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/502faa79c9204d389b9cfdbcf873a5ed.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
