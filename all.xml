@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 04:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 05:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,6 +378,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BONUS TRACK 17. dori (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[쿨한 온도와 솔직한 감정]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c8056a270b234994bb56176e7d71e9a0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[백색 예찬 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -440,14 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[논커피 음료 스폿 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/502faa79c9204d389b9cfdbcf873a5ed.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[같은 물건, 다른 공간 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[디자인 라이브러리 스페셜 테마 존]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/277e817d96f7410a945e681395558134.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
