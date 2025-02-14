@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 08:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 09:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/6UT0C5DAEREMD9TGFATP/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메이딘(MADEIN) [MADEIN FOREVER] ‘사랑, 두려움’ 뮤직비디... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15013&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15013&amp;pg=1</guid>
+            <pubDate>Fri, 14 Feb 2025 09:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15013/Mgz_Main_List_20250213121557.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[힙합사의 결정적인 순간을 장식한 싱글들 86화 (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=15019&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=23&amp;mgz_seq=15019&amp;pg=1</guid>
@@ -251,14 +259,6 @@
             <pubDate>Wed, 12 Feb 2025 09:14:59 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15014/Mgz_Main_List_20250212115008.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[“댄스 챌린지”에 도전장을 낸 슈퍼마켓(Super Market)의 [FAT C... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15012&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15012&amp;pg=1</guid>
-            <pubDate>Wed, 12 Feb 2025 03:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15012/Mgz_Main_List_20250212111836.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #197: 
@@ -378,6 +378,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우리가 원하던 완벽한 타이밍 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[문수진 단독 공연 현장과 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/65895eaf71bd457abddbd0a266aab118.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[예술과 저항의 일대기 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -440,14 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[연인에게 사랑을 전하는 선물 추천]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe2a432a757643269f04b60badadc479.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[문화와 호흡하기 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[2월 현대카드 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/272b6a1e06394dd990cd27ec1bd31b01.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
