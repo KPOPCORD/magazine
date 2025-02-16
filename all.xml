@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Feb 2025 23:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 01:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,6 +378,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[꽃이야 작품이야 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 시작을 앞둔 너에게]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/873be8310509479d8ea82754261770d7.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[창조성을 위한 습관 - 운동 편 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -440,14 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[일찍 문 여는 마포 카페 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1836ceb7b4d1440ba8bbf613faa1146d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[샹송과 힙합 시대를 노래하다 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[2월 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1782db6cb7604b25af712e622ab51858.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
