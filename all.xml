@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Feb 2025 23:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 01:07:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,6 +378,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[예술의 흔적을 따라서 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[하노이·푸껫·괌·싱가포르·치앙마이 추천 코스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bc6c5d0d537b413f974dec393d098e38.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[꽃이야 작품이야 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -386,7 +394,7 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/873be8310509479d8ea82754261770d7.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[창조성을 위한 습관 - 운동 편 (현대카드 DIVE ─ POST)]]></title>
+            <title><![CDATA[창조성을 위한 습관 ― 운동 편 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
@@ -440,14 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[투명 디자인 테크 기기 8]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cb3a51b09f244b04adcd9b754cd9c299.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아침 예찬 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[일찍 문 여는 마포 카페 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1836ceb7b4d1440ba8bbf613faa1146d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
