@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 04:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 05:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -202,7 +202,7 @@
             <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=15025&amp;pg=1</guid>
             <pubDate>Tue, 18 Feb 2025 03:17:20 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/imageg/web/common/blank_200.gif" length="0" type="image/gif"/>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15025/Mgz_Main_List_20250217153536.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[수지 (Suzy)의 'Come back' MV 촬영 비하인드 (지니 ─ 매거진)]]></title>
@@ -378,6 +378,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[선과 면 다시 읽기 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리의 MoMA 테마 북 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1ca804e3bc104266bfb479f25ec02d2e.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[메탈의 세련미를 더해 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -440,14 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[2월의 디자이너, 리처드 마이어]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/76ad4072eff7456abf538fc25f6b6b89.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 97 조원선 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[절제된 선율로 일상을 노래하다]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ab3c82a1382a43af9d9e6b9f94a39839.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
