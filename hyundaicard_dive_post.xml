@@ -4,9 +4,33 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 23:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 01:05:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오직 나를 위해 준비했어]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[1인 가구가 참고하면 좋을 인테리어 팁]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/67eb004b9c344a66bbb8b1f702ddf1bc.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[지구와 우주를 연결하는 예술가]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[톰 삭스의 우주여행기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/10596dadbfe64937a04543b8fe4c30b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[광활한 우주 속으로]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[컬처프로젝트 29 톰 삭스 전]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0611c47f787247579f226fb763d5823e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선과 면 다시 읽기]]></title>
             <link>javascript:;</link>
@@ -54,30 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[문수진 단독 공연 현장과 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/65895eaf71bd457abddbd0a266aab118.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[예술과 저항의 일대기]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 11]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fad26d02eca44fea8837889bf41ae697.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BONUS TRACK 17. dori]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[쿨한 온도와 솔직한 감정]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c8056a270b234994bb56176e7d71e9a0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[백색 예찬]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[2월의 디자이너, 리처드 마이어]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/76ad4072eff7456abf538fc25f6b6b89.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
