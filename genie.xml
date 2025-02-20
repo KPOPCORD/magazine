@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 02:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 03:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어쩌면 바이올린의 모든 것 - 마리아 두에냐스가 연주하는 파가니니 <카프리스>]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=15026&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=15026&amp;pg=1</guid>
+            <pubDate>Thu, 20 Feb 2025 03:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15026/Mgz_Main_List_20250220120117.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울이 지나기 전에 들어야 할 클래식 모음, [힐링 감성 클래식, 쉼2]]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15024&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15024&amp;pg=1</guid>
+            <pubDate>Thu, 20 Feb 2025 03:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15024/Mgz_Main_List_20250218143509.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[LUN8 (루네이트) SINGLE ALBUM [나비] 자켓 촬영 현장 비하인드]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15029&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 18 Feb 2025 03:17:20 GMT</pubDate>
             <content:encoded><![CDATA[클래식 공감]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15025/Mgz_Main_List_20250217153536.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[수지 (Suzy)의 'Come back' MV 촬영 비하인드]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15018&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15018&amp;pg=1</guid>
-            <pubDate>Mon, 17 Feb 2025 09:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15018/Mgz_Main_List_20250217153417.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[망설임 1도 없는 시원시원한 파워 트리오 인터플레이! '황은정' 외]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=15021&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=6&amp;mgz_seq=15021&amp;pg=1</guid>
-            <pubDate>Mon, 17 Feb 2025 03:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15020/Mgz_Main_List_20250217112345.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
