@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 08:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 09:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슬픔의 여러 얼굴, 4BOUT이 그려낸 7개의 이야기. [Wilder Sadn...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15027&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15027&amp;pg=1</guid>
+            <pubDate>Fri, 21 Feb 2025 09:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15027/Mgz_Main_List_20250221105338.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[전세계가 주목하는 새로운 보이밴드의 등장! dearALICE 데뷔 싱글 [Ar...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15033&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Feb 2025 03:19:57 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15023/Mgz_Main_List_20250218142602.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[Are you nu kidz?! ARrC (아크) 두번째 미니앨범 [nu ki...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15022&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15022&amp;pg=1</guid>
-            <pubDate>Tue, 18 Feb 2025 09:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15022/Mgz_Main_List_20250217153758.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>

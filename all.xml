@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 08:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 09:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,6 +197,14 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/6UT0C5DAEREMD9TGFATP/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[슬픔의 여러 얼굴, 4BOUT이 그려낸 7개의 이야기. [Wilder Sadn... (지니 ─ 매거진)]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15027&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15027&amp;pg=1</guid>
+            <pubDate>Fri, 21 Feb 2025 09:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15027/Mgz_Main_List_20250221105338.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
+        <item>
             <title><![CDATA[전세계가 주목하는 새로운 보이밴드의 등장! dearALICE 데뷔 싱글 [Ar... (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15033&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15033&amp;pg=1</guid>
@@ -251,14 +259,6 @@
             <pubDate>Wed, 19 Feb 2025 03:19:57 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15023/Mgz_Main_List_20250218142602.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[Are you nu kidz?! ARrC (아크) 두번째 미니앨범 [nu ki... (지니 ─ 매거진)]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15022&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15022&amp;pg=1</guid>
-            <pubDate>Tue, 18 Feb 2025 09:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15022/Mgz_Main_List_20250217153758.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
         <item>
             <title><![CDATA[New Release #197: 
@@ -378,6 +378,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다시 만난 컬처프로젝트 세계 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 컬처프로젝트 히스토리]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/091367debc8843fc892a0be23206a789.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이런 집은 처음이야 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -440,14 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[새로운 시작을 앞둔 너에게]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/873be8310509479d8ea82754261770d7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[창조성을 위한 습관 ― 운동 편 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[[창작의 나침반] 예민한 신체와 정신 보살피기]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9ab0fd61aa984630a11343403b68a8a2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
