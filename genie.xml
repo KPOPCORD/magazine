@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 02:46:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 03:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전세계가 주목하는 새로운 보이밴드의 등장! dearALICE 데뷔 싱글 [Ar...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15033&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15033&amp;pg=1</guid>
+            <pubDate>Fri, 21 Feb 2025 03:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15032/Mgz_Main_List_20250220174403.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[개코 [조조비행] 개작실 프로젝트 스페셜 라이브 클립 촬영 현장 비하인드]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15030&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 18 Feb 2025 09:14:58 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15022/Mgz_Main_List_20250217153758.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[The Stranger? 너 누군데? 온앤오프 [ONF:MY IDENTITY]...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15020&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15020&amp;pg=1</guid>
-            <pubDate>Tue, 18 Feb 2025 09:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15020/Mgz_Main_List_20250217153630.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
