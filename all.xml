@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 23:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 01:03:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,6 +378,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[패션 마케터의 필승 전략 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[[이성동의 더 넥스트] 마케터 역할 변화 #2]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/07efba4110454799a4bd2ff429b23827.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[다시 만난 컬처프로젝트 세계 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -440,14 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[하노이·푸껫·괌·싱가포르·치앙마이 추천 코스]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/bc6c5d0d537b413f974dec393d098e38.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃이야 작품이야 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 시작을 앞둔 너에게]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/873be8310509479d8ea82754261770d7.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
