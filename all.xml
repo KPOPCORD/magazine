@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Feb 2025 23:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 01:07:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,6 +378,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[흐름 따라 떠나는 여정 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[로컬 팔로잉 #1 속초 &amp; 고성 추천 스폿]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3abb9628dcaa4987b3a8c12d71d4fffe.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[새로운 시작을 응원해 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -440,14 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리의 MoMA 테마 북 컬렉션]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1ca804e3bc104266bfb479f25ec02d2e.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[메탈의 세련미를 더해 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 MXZ, ZERO 메탈 플레이트 공개]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/018157546a6e48b48f33563f41387252.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
