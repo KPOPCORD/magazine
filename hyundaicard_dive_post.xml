@@ -4,9 +4,33 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 14:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 15:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태초의 리듬을 찾아서]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[3월 바이닐 레전더리 &amp; 먼슬리 스페셜]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0dfff6460db64b0fb3e067be06253b5f.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[랩하는 혁명가들]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직 라이브러리 3월의 컬렉션]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e539b88c6f5a421dac05eec48cc1633b.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[도심을 가로지르는 초록]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[3월의 디자이너, 제임스 코너]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4883410063d14235bece6ccb676ad470.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[영화로 그린 미래]]></title>
             <link>javascript:;</link>
@@ -54,30 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[성장을 도와 줄 디지털 아이템 10]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3bf0b6e1acb848218ce946abd872a5d6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 마케터의 필승 전략]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[[이성동의 더 넥스트] 마케터 역할 변화 #2]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/07efba4110454799a4bd2ff429b23827.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 만난 컬처프로젝트 세계]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 컬처프로젝트 히스토리]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/091367debc8843fc892a0be23206a789.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이런 집은 처음이야]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[이색적인 에어비앤비 숙소 8]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/89820be33c54449383e5001b0bdd4cb2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
