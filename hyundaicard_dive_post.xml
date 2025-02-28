@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 08:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 09:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화로 그린 미래]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[첨단 기술을 선보이는 SF 영화 3]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/88488398218f4f68b394d71c4588bd0b.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[봄바람은 향기를 싣고]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[이색적인 에어비앤비 숙소 8]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/89820be33c54449383e5001b0bdd4cb2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오직 나를 위해 준비했어]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[1인 가구가 참고하면 좋을 인테리어 팁]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/67eb004b9c344a66bbb8b1f702ddf1bc.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
