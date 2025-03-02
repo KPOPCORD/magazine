@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Mar 2025 23:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 01:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매일 보는 것을 아름답게]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[특별함을 찾아내는 브랜드 테클라와 프라마]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/85558be4c24249e1ac7a7f90a45683ab.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[일상에 스며든 예술]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[유니크한 해외 브랜드 3]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b2f773bf783f4b16b5c73b6bf1a41d44.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[흐름 따라 떠나는 여정]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[로컬 팔로잉 #1 속초 &amp; 고성 추천 스폿]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3abb9628dcaa4987b3a8c12d71d4fffe.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
