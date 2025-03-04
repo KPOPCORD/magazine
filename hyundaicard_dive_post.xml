@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Mar 2025 23:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 01:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NYC에서 바이닐 찾기]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[뉴욕 바이닐 레코드 숍 투어]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/adedd5db66004e659a164b3c62d77e77.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[음악이 다 해]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[싱그러운 뷰티 아이템 추천]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ed13c4d8df6645c0b875c51f98a68da5.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[진화하는 텍스트 팝업]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[팝업 형식 북 숍 ‘커리큘럼 삼청’]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/8c154c43baa14b469f5291d8efaf0867.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
