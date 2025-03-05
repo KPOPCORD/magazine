@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 06:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 07:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,6 +378,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[똑똑  선물 왔어요 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[센스 있는 집들이 선물 추천]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/950d08d9f6784894a49eae90bf061a72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NYC에서 바이닐 찾기 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -440,14 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[첨단 기술을 선보이는 SF 영화 3]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/88488398218f4f68b394d71c4588bd0b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[봄바람은 향기를 싣고 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[싱그러운 뷰티 아이템 추천]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ed13c4d8df6645c0b875c51f98a68da5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
