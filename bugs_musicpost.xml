@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 08:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 09:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LUCY - [언더커버 하이스쿨 OST Part.4] 녹음 현장 인터뷰]]></title>
+            <link>https://music.bugs.co.kr/musicpost/N6QT9LCDKRJ3NO9LIVBR?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/N6QT9LCDKRJ3NO9LIVBR?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 10 Mar 2025 09:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/N6QT9LCDKRJ3NO9LIVBR/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (3/12)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -187,14 +195,6 @@
             <guid>https://music.bugs.co.kr/musicpost/XF0G328WM5041MG45INK?&amp;wl_ref=list_sp_01_h</guid>
             <pubDate>Thu, 10 Oct 2024 02:46:14 GMT</pubDate>
             <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비비탄(BEE BEE TAN) - 첫 EP 앨범[Blue Moon Express] 발매 기념 인터뷰]]></title>
-            <link>https://music.bugs.co.kr/musicpost/5JN4OLO4XIQTDUDJ311A?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/5JN4OLO4XIQTDUDJ311A?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 24 Oct 2024 06:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/5JN4OLO4XIQTDUDJ311A/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
