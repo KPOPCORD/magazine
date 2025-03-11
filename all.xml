@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 23:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 01:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,6 +378,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나마스테, 제주 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[제주 요가 투어 코스]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b59412623d3e42a58fbc27f109e7f25d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[도심을 가로지르는 초록 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -440,14 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 MoMA Digital Wall]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/540fc8115de24d44880f986d895183f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[똑똑 선물 왔어요 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[센스 있는 집들이 선물 추천]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/950d08d9f6784894a49eae90bf061a72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
