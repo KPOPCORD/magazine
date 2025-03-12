@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 23:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 01:07:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄 소풍에 낭만 한 스푼]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[피크닉 로망을 완성해 줄 추천 아이템]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ae5ab989cbdd435c917209595616c71e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나마스테, 제주]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[3월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/393a76ba16024c5ba76139865a7885ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문화로 연결된 뉴욕과 서울]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 MoMA Digital Wall]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/540fc8115de24d44880f986d895183f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
