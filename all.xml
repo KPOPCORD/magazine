@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 23:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 01:08:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -378,6 +378,14 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴 그랜파 룩 인기인 거 알지? (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[스타일 아이콘들의 자연스러운 패션과 삶의 철학]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81ccc5095ac04cfca415374010d39440.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[봄 소풍에 낭만 한 스푼 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -440,14 +448,6 @@ NCT DREAM, 린킨 파크 (VIBE ─ 매거진)]]></title>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[목소리만 들어도 떠오르는 R&amp;B 소울]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1d7f50f298a94baabf1feedd48c41941.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 소식이 가득해 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[3월 현대카드 What's On]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/393a76ba16024c5ba76139865a7885ad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
