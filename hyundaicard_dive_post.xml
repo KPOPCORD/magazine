@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Mar 2025 23:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 01:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타코, 어디까지 먹어 봤니?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[파인다이닝부터 스탠딩 바까지]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9d58defc06054a96aa1d578ead3e5508.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[랩하는 혁명가들]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[3월의 디자이너, 제임스 코너]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/4883410063d14235bece6ccb676ad470.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[채소로 충분한 한 끼]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[나만 알고 싶은 봄맞이 제철 식당 4]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3e6f058873f24db9bd2af3bc1a5babd0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
