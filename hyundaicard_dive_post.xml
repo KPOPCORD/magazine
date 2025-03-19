@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 08:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 09:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기다려 온 그 시간]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[조원선 단독 공연 인터뷰]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7bb68b7af34d4fdeb2b12d3b33455fa0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대카드 회원을 위한 새로운 문화 혜택]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[스타일 아이콘들의 자연스러운 패션과 삶의 철학]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/81ccc5095ac04cfca415374010d39440.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[봄 소풍에 낭만 한 스푼]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[피크닉 로망을 완성해 줄 추천 아이템]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ae5ab989cbdd435c917209595616c71e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
