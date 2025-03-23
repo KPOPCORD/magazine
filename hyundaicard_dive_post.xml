@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Mar 2025 23:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Mar 2025 01:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭐든 다 해 줄게]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[강아지, 고양이 필수 아이템 11]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/670f6c9ac90b412fbd376c724bc8e297.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패션 브랜드 면접 필승 전략]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[파인다이닝부터 스탠딩 바까지]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9d58defc06054a96aa1d578ead3e5508.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[랩하는 혁명가들]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 3월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e539b88c6f5a421dac05eec48cc1633b.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
