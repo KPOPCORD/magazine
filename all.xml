@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Mar 2025 23:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 01:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,6 +270,14 @@
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[추억을 깨우는 감각 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[레트로 스타일 디지털 기기 11]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a49d9776b78a4f2690751561e30f40c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뭐든 다 해 줄게 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -332,14 +340,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[건축가들이 만든 국내 카페 3]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b059ee78ad7e49d3b12ea771523bef6d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타코, 어디까지 먹어 봤니? (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[파인다이닝부터 스탠딩 바까지]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9d58defc06054a96aa1d578ead3e5508.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
