@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 02:58:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 03:31:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대카드 x MoMA]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[20여 년의 파트너십 역사를 따라]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/a75bac4ace0e4aeb99ceecbc5a797461.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현실과 허구의 경계 허물기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[조원선 단독 공연 인터뷰]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/7bb68b7af34d4fdeb2b12d3b33455fa0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 회원을 위한 새로운 문화 혜택]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[Loved by Hyundai Card]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e3b551ffdfaf4a77bb22fda1f6710555.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
