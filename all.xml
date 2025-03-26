@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 23:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 01:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -270,6 +270,14 @@
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[섬 전체가 미술관이라고? (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[세토우치 트리엔날레 &amp; 나오시마 신미술관]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/05be9fd887884d7989e8f5cd77b92cfe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[DJ Soulscape Curated 25 몽니 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -332,14 +340,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[인도 델리로 떠나는 차 테마 여행]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5d5aba2ef94e4e20aeb044507c825166.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저 푸른 초원 위에 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[아시하우스 하태웅, 송현정 부부 인터뷰]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c599871268e74c84879d4d36e6e9a1d9.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
