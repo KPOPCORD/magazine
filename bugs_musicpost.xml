@@ -4,9 +4,17 @@
         <title>벅스 ─ 뮤직포스트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 08:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 09:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하현상 - essential; With Artist 다섯 번째 곡 'Lost' 라이브클립 촬영 현장]]></title>
+            <link>https://music.bugs.co.kr/musicpost/Z094BRR5Z082YQDOXMCG?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/Z094BRR5Z082YQDOXMCG?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Wed, 26 Mar 2025 09:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/Z094BRR5Z082YQDOXMCG/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (3/26)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -188,13 +196,6 @@
             <pubDate>Tue, 15 Oct 2024 09:15:19 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/I5TZZR8W3LMXO6LYFBNT/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝송으로 배우는 영어! 87. Maya Delilah - 'Look At The State Of Me Now']]></title>
-            <link>https://music.bugs.co.kr/musicpost/XF0G328WM5041MG45INK?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/XF0G328WM5041MG45INK?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Thu, 10 Oct 2024 02:46:14 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직&amp;]]></content:encoded>
         </item>
     </channel>
 </rss>
