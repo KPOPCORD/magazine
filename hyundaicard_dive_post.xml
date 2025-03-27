@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 23:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 01:08:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[든든한 한 줄]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[[맛집 모음zip] 지역별 특별한 김밥집 8]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/72a106bb3e9c4b1cbdae32bd823f275c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카드의 새로운 장르]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[[이성동의 더 넥스트] 실무 핵심 역량 3]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2911839eb33c4aa6893c78b5dd33684f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만 알고 싶은 그곳]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[이색 콘셉트 스피크이지 바 추천 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/9a00242851c34768b00bd32ff7dfa39f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
