@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 23:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 01:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -271,6 +271,14 @@
             <enclosure url="https://music-phinf.pstatic.net/20241217_28/1734399500482VP3YL_JPEG/%C4%BF%B9%F62.jpg?type=w840" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[시공간을 초월하는 예술 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 MoMA 디지털 월 아트 토크]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f57853d868634fd1b0a7c8678b1ca83f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[든든한 한 줄 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -303,7 +311,7 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/b76d7b808a64455fad41655970a34dfd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현대카드 x MoMA (현대카드 DIVE ─ POST)]]></title>
+            <title><![CDATA[현대카드 X MoMA (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
@@ -333,14 +341,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[강아지, 고양이 필수 아이템 11]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/670f6c9ac90b412fbd376c724bc8e297.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 브랜드 면접 필승 전략 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[[이성동의 더 넥스트] 실무 핵심 역량 3]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/2911839eb33c4aa6893c78b5dd33684f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
