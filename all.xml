@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 01:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 02:59:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT'S NEW! 3월 issue (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/19UB9LEBJXH98EQRJABN?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/19UB9LEBJXH98EQRJABN?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Fri, 28 Mar 2025 02:58:05 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/19UB9LEBJXH98EQRJABN/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하현상 - essential; With Artist 다섯 번째 곡 'Lost' 라이브클립 촬영 현장 (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/Z094BRR5Z082YQDOXMCG?&amp;wl_ref=list_sp_01_h</link>
@@ -188,14 +196,6 @@
             <pubDate>Mon, 21 Oct 2024 09:15:56 GMT</pubDate>
             <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/CPERAISZPN9PK8IEFTBM/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윈디시티 - 20주년 기념 신작 '파김치 깍두기 (Feel Irie)' 공개 & 단독 공연 오픈 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/I5TZZR8W3LMXO6LYFBNT?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/I5TZZR8W3LMXO6LYFBNT?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Tue, 15 Oct 2024 09:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/I5TZZR8W3LMXO6LYFBNT/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반시안 [Dumb] 프로필 및 앨범 커버 촬영 현장 비하인드 (지니 ─ 매거진)]]></title>
