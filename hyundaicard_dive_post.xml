@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Apr 2025 01:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 03:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트래비스 스캇 첫 단독 내한 공연]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 회원만을 위한 선예매 특권]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ae597e384925482daa97420500cb63f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이토록 달콤한 백화점]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 MoMA 디지털 월 아트 토크]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f57853d868634fd1b0a7c8678b1ca83f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[든든한 한 줄]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[[맛집 모음zip] 지역별 특별한 김밥집 8]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/72a106bb3e9c4b1cbdae32bd823f275c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Apr 2025 01:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 03:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마음을 움직이는 베테랑 재즈 보컬리스트 느네나 프릴론]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15122&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15122&amp;pg=1</guid>
+            <pubDate>Tue, 01 Apr 2025 03:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/imageg/web/common/blank_200.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[먼 길을 돌아 마주한 이야기, 마야 딜라일라의 〈The Long Way Rou...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=15118&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=15118&amp;pg=1</guid>
+            <pubDate>Tue, 01 Apr 2025 03:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/imageg/web/common/blank_200.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[혹시 우리가 빨간 실로 딱 이어진 걸까? NiziU(니쥬)의 두 번째 싱글 ‘...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15127&amp;pg=1</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 28 Mar 2025 09:16:11 GMT</pubDate>
             <content:encoded><![CDATA[스페셜]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15117/Mgz_Main_List_20250327175203.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[이혼에도 대비가 필요합니다, tvN 월화드라마 <이혼보험>]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=15120&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=15120&amp;pg=1</guid>
-            <pubDate>Fri, 28 Mar 2025 03:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[방송]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15120/Mgz_Main_List_20250327104516.png/dims/resize/Q_80,0" length="0" type="image/png/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[음악 너머의 ‘인간’ 베토벤을 마주하다, 최희연의 베토벤 소나타 전집]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=15105&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=8&amp;mgz_seq=15105&amp;pg=1</guid>
-            <pubDate>Fri, 28 Mar 2025 03:32:32 GMT</pubDate>
-            <content:encoded><![CDATA[클래식 공감]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15105/Mgz_Main_List_20250328100820.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
