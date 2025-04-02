@@ -4,9 +4,17 @@
         <title>지니 ─ 매거진</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 08:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 09:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CLOSE YOUR EYES(클로즈 유어 아이즈)의 첫 번째 페이지, [ETE...]]></title>
+            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15130&amp;pg=1</link>
+            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15130&amp;pg=1</guid>
+            <pubDate>Wed, 02 Apr 2025 09:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜]]></content:encoded>
+            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15129/Mgz_Main_List_20250401170822.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
+        </item>
         <item>
             <title><![CDATA[[Mnet 30주년] 3월을 꽉 채운 선물 같았던 M COUNTDOWN 스페셜...]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=12&amp;mgz_seq=15125&amp;pg=1</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 31 Mar 2025 03:03:55 GMT</pubDate>
             <content:encoded><![CDATA[MM JAZZ]]></content:encoded>
             <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15126/Mgz_Main_List_20250331104609.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
-        </item>
-        <item>
-            <title><![CDATA[설렘 가득한 ‘이병찬’의 Interview와 ‘데리러 갈게 2025’ 녹음 스...]]></title>
-            <link>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15121&amp;pg=1</link>
-            <guid>https://genie.co.kr/magazine/subMain?ctid=1&amp;mgz_seq=15121&amp;pg=1</guid>
-            <pubDate>Mon, 31 Mar 2025 03:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜]]></content:encoded>
-            <enclosure url="https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/15121/Mgz_Main_List_20250328122832.jpg/dims/resize/Q_80,0" length="0" type="image/jpg/dims/resize/Q_80,0"/>
         </item>
     </channel>
 </rss>
