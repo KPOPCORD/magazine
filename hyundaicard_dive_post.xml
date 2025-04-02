@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Apr 2025 23:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 01:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식도락? 아니 도시락!]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[단계별 필요 아이템 추천]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c8912f4ba8614a33a659c20c4482c6ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트래비스 스캇 첫 단독 내한 공연]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[개성 넘치는 식물 관련 숍 추천 4]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/95147d0ddd3a4739a7fb05081b51275a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시공간을 초월하는 예술]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 MoMA 디지털 월 아트 토크]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f57853d868634fd1b0a7c8678b1ca83f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
