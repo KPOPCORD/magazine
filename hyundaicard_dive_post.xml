@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 06:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 07:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가장 가까운 우주로의 초대]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 12]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/17bf6061816c4f12b79d192c6c827691.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대카드 Curated 98 ATARAYO]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[떠날 수 없는 SNS 피드를 만드는 곡 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/04060b5a207f41a3928291c3e4540cf6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[도시의 숨은 보석]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[로컬 팔로잉 #2 이태원 추천 스폿]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/955a63a5897a41729ad0fab7b4475786.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
