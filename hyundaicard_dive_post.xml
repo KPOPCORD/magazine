@@ -4,7 +4,7 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 23:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 01:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c66509199e8940dba73c597f18f25e53.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[봄바람 로맨스]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 라이브러리 4월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe13e1e8d04a472b9754d3ebcd2fd4ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[낭만과 열정 사이]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -78,6 +70,14 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[떠날 수 없는 SNS 피드를 만드는 곡 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/04060b5a207f41a3928291c3e4540cf6.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[도시의 숨은 보석]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[로컬 팔로잉 #2 이태원 추천 스폿]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/955a63a5897a41729ad0fab7b4475786.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
