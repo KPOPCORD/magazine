@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Apr 2025 23:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 01:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,6 +334,14 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e343feb376a04722b1dabd8f12aa6dab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[봄바람 로맨스 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 라이브러리 4월의 새 책]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe13e1e8d04a472b9754d3ebcd2fd4ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[누군가의 추억을 닮아 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -396,14 +404,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[백화점 프리미엄 디저트 매장 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c66509199e8940dba73c597f18f25e53.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[낭만과 열정 사이 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직 라이브러리 4월의 컬렉션]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e343feb376a04722b1dabd8f12aa6dab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
