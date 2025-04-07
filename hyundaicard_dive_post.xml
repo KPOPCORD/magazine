@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 03:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 04:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산, 아트가 되다]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 05 Apr 2025 18:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[2025 루프 랩 부산 아트 페어 미리 보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0dc4a24eba5840f78e08e5c88db20451.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영감으로 도약하기]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 05 Apr 2025 18:19:19 GMT</pubDate>
             <content:encoded><![CDATA[단계별 필요 아이템 추천]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c8912f4ba8614a33a659c20c4482c6ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트래비스 스캇 첫 단독 내한 공연]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 05 Apr 2025 18:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 회원만을 위한 선예매 특권]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ae597e384925482daa97420500cb63f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

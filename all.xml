@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 03:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 04:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신승태 - [2025 신승태 발라드] MV 촬영 비하인드 공개 (벅스 ─ 뮤직포스트)]]></title>
+            <link>https://music.bugs.co.kr/musicpost/TC6X7OIAIOHGLYBEYJ2B?&amp;wl_ref=list_sp_01_h</link>
+            <guid>https://music.bugs.co.kr/musicpost/TC6X7OIAIOHGLYBEYJ2B?&amp;wl_ref=list_sp_01_h</guid>
+            <pubDate>Mon, 07 Apr 2025 04:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
+            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/TC6X7OIAIOHGLYBEYJ2B/title_mobile_306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Favorite - COMING SOON! (4/9) (벅스 ─ 뮤직포스트)]]></title>
             <link>https://music.bugs.co.kr/musicpost/JD0TRIN8SAYL13MJH2GK?&amp;wl_ref=list_sp_01_h</link>
@@ -190,14 +198,6 @@
             <enclosure url="https://image.bugsm.co.kr/uniContent/banner/HG1Y3M8L6C62C6PHY52Y/title_mobile_306.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유다빈밴드 - EP [IGNITE] 레코딩 비하인드 공개 (벅스 ─ 뮤직포스트)]]></title>
-            <link>https://music.bugs.co.kr/musicpost/CPERAISZPN9PK8IEFTBM?&amp;wl_ref=list_sp_01_h</link>
-            <guid>https://music.bugs.co.kr/musicpost/CPERAISZPN9PK8IEFTBM?&amp;wl_ref=list_sp_01_h</guid>
-            <pubDate>Mon, 21 Oct 2024 09:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[주간 핫이슈]]></content:encoded>
-            <enclosure url="https://image.bugsm.co.kr/uniContent/banner/CPERAISZPN9PK8IEFTBM/title_mobile_306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[영감이 흐르는 작업실이자 휴식처 <브레이크 사일런스> (지니 ─ 매거진)]]></title>
             <link>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=15142&amp;pg=1</link>
             <guid>https://genie.co.kr/magazine/subMain?ctid=16&amp;mgz_seq=15142&amp;pg=1</guid>
@@ -334,6 +334,14 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e343feb376a04722b1dabd8f12aa6dab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[부산, 아트가 되다 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[2025 루프 랩 부산 아트 페어 미리 보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/0dc4a24eba5840f78e08e5c88db20451.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영감으로 도약하기 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -396,14 +404,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[단계별 필요 아이템 추천]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/c8912f4ba8614a33a659c20c4482c6ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트래비스 스캇 첫 단독 내한 공연 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 회원만을 위한 선예매 특권]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/ae597e384925482daa97420500cb63f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
