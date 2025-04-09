@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 06:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 07:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MoMA PS1 현대카드 후원 전시]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 05 Apr 2025 18:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[김아영 개인전 ＜Ayoung Kim＞]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/3a1774405209429985fc5216d9b9b1ed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낭만과 열정 사이]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 05 Apr 2025 18:19:19 GMT</pubDate>
             <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 12]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/17bf6061816c4f12b79d192c6c827691.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 Curated 98 ATARAYO]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 05 Apr 2025 18:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[계절을 노래하는 제이 팝 밴드]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/5e9a0ec69b034d26b179c7fed8cb4ce6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
