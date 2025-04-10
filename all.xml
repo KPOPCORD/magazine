@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 23:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 01:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,6 +334,14 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e343feb376a04722b1dabd8f12aa6dab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[시네필 취향 저격 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[베를린, 간 김에 들러야 할 곳 4]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/f7db6e78b1864a10a75287be2e8a29da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MoMA PS1 현대카드 후원 전시 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -396,14 +404,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[우리가 어른이 된 건 거짓말 같아]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cbdc80a718124c99be30d415eb4094df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 가까운 우주로의 초대 (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[아트 라이브러리 무빙 이미지 스크리닝 12]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/17bf6061816c4f12b79d192c6c827691.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
