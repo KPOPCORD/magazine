@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 03:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 04:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -334,6 +334,14 @@
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/e343feb376a04722b1dabd8f12aa6dab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정상에 선 당신의 ‘컴팩트’ 카드 (현대카드 DIVE ─ POST)]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[현대카드 Summit CE 들여다보기]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/efdb5504aac64ff08a07155f1c7923e7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시네필 취향 저격 (현대카드 DIVE ─ POST)]]></title>
             <link>javascript:;</link>
             <guid>javascript:;</guid>
@@ -396,14 +404,6 @@
             <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
             <content:encoded><![CDATA[레트로 감성의 독채 에어비앤비 5]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d77f9582878d435b9270edfddb0ac582.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BONUS TRACK 18. 이강승 & dress (현대카드 DIVE ─ POST)]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Thu, 12 Dec 2024 12:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 어른이 된 건 거짓말 같아]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/cbdc80a718124c99be30d415eb4094df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
