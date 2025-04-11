@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 23:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 01:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바닷속 세상]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 05 Apr 2025 18:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[국내 3대 스쿠버 다이빙 포인트]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/1e9438ff3e9543ed98393c393691e2b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정상에 선 당신의 ‘컴팩트’ 카드]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 05 Apr 2025 18:19:19 GMT</pubDate>
             <content:encoded><![CDATA[현대카드 라이브러리 4월의 새 책]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe13e1e8d04a472b9754d3ebcd2fd4ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가의 추억을 닮아]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 05 Apr 2025 18:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[레트로 감성의 독채 에어비앤비 5]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/d77f9582878d435b9270edfddb0ac582.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
