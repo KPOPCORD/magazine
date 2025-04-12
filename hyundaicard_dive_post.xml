@@ -4,9 +4,17 @@
         <title>현대카드 DIVE ─ POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 23:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Apr 2025 01:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그림의 길, 어떤 선생님에게 배워야 할까?]]></title>
+            <link>javascript:;</link>
+            <guid>javascript:;</guid>
+            <pubDate>Sat, 05 Apr 2025 18:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[[창작의 나침반] AI 시대 미술 교육 핵심]]></content:encoded>
+            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/912fb8a3cb6642e9a7c5a1ed570281ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바닷속 세상]]></title>
             <link>javascript:;</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 05 Apr 2025 18:19:19 GMT</pubDate>
             <content:encoded><![CDATA[4월 현대카드 What's On]]></content:encoded>
             <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/346f40d263d542459fd41efd0ee7d714.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄바람 로맨스]]></title>
-            <link>javascript:;</link>
-            <guid>javascript:;</guid>
-            <pubDate>Sat, 05 Apr 2025 18:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드 라이브러리 4월의 새 책]]></content:encoded>
-            <enclosure url="https://dive.hyundaicard.com/resources/images/upload/content/fe13e1e8d04a472b9754d3ebcd2fd4ca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
